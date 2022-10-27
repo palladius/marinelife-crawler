@@ -15,3 +15,8 @@ wget-crawl-holothuria:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Holothuria'
 wget-crawl-starfish:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Starfish'
+
+wget-crawl-triggerfish:
+	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/triggerfish'
+wget-crawl-Shark:
+	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Shark'
