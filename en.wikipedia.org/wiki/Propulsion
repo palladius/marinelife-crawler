@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Propulsion - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a1172330-9dcd-4f37-8e89-f62e8a8f567e","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Propulsion","wgTitle":"Propulsion","wgCurRevisionId":1113470537,"wgRevisionId":1113470537,"wgArticleId":49023,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Articles needing additional references from August 2017","All articles needing additional references","Commons category link is on Wikidata","Articles with GND identifiers","Articles with NKC identifiers","Propulsion",
+"Vehicle technology"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Propulsion","wgRelevantArticleId":49023,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q2583685","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks",
+"ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Armadillo_Aerospace_Pixel_Hover.jpg/1200px-Armadillo_Aerospace_Pixel_Hover.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="858"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Armadillo_Aerospace_Pixel_Hover.jpg/800px-Armadillo_Aerospace_Pixel_Hover.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="572"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Armadillo_Aerospace_Pixel_Hover.jpg/640px-Armadillo_Aerospace_Pixel_Hover.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="457"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Propulsion - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Propulsion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Propulsion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Propulsion"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Propulsion rootpage-Propulsion skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Propulsion</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Means of creating force leading to movement</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">"Powerplant" redirects here. For other uses, see <a href="/wiki/Power_plant_(disambiguation)" class="mw-disambig" title="Power plant (disambiguation)">Power plant (disambiguation)</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Propulsion&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Propulsion%22">"Propulsion"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Propulsion%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Propulsion%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Propulsion%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Propulsion%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Propulsion%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">August 2017</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Armadillo_Aerospace_Pixel_Hover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Armadillo_Aerospace_Pixel_Hover.jpg/220px-Armadillo_Aerospace_Pixel_Hover.jpg" decoding="async" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Armadillo_Aerospace_Pixel_Hover.jpg/330px-Armadillo_Aerospace_Pixel_Hover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Armadillo_Aerospace_Pixel_Hover.jpg/440px-Armadillo_Aerospace_Pixel_Hover.jpg 2x" data-file-width="1514" data-file-height="1082" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Armadillo_Aerospace_Pixel_Hover.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Armadillo_Aerospace" title="Armadillo Aerospace">Armadillo Aerospace</a>'s quad <a href="/wiki/Rocket" title="Rocket">rocket</a> vehicle showing <a href="/wiki/Shock_diamond" title="Shock diamond">shock diamonds</a> in the exhaust plume from its propulsion system</div></div></div>
+<p><b>Propulsion</b> is the generation of <a href="/wiki/Force" title="Force">force</a> by any combination of pushing or pulling to modify the translational <a href="/wiki/Motion" title="Motion">motion</a> of an object, which is typically a <a href="/wiki/Rigid_body" title="Rigid body">rigid body</a> (or an articulated rigid body) but may also concern a <a href="/wiki/Fluid" title="Fluid">fluid</a>. The term is derived from two Latin words: <i><a href="https://en.wiktionary.org/wiki/pro" class="extiw" title="wikt:pro">pro</a></i>, meaning<i> before</i> or <i>forward</i>; and <i><a href="https://en.wiktionary.org/wiki/pellere" class="extiw" title="wikt:pellere">pellere</a></i>, meaning <i>to drive</i>.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup> 
+A <b>propulsion system</b> consists of a source of mechanical power, and a <i>propulsor</i> (means of converting this power into propulsive force). 
+</p><p>Plucking a guitar string to induce a <a href="/wiki/Vibration" title="Vibration">vibratory</a> translation is technically a form of propulsion of the guitar string; this is not commonly depicted in this vocabulary, even though human muscles are considered to propel the fingertips. The motion of an object moving through a <a href="/wiki/Gravitational_field" title="Gravitational field">gravitational field</a> is affected by the field, and within some frames of reference physicists speak of the gravitational field generating a force upon the object, but for <a href="/wiki/General_relativity" title="General relativity">deep theoretic reasons</a>, physicists now consider the curved path of an object moving freely through space-time as shaped by gravity as a natural movement of the object, unaffected by a propulsive force (in this view, the falling apple is considered to be unpropelled, while the observer of the apple standing on the ground is considered to be propelled by the reactive force of the Earth's surface). 
+</p><p><a href="/wiki/Biology" title="Biology">Biological</a> propulsion systems use an animal's muscles as the power source, and limbs such as <a href="/wiki/Wing" title="Wing">wings</a>, <a href="/wiki/Fin" title="Fin">fins</a> or <a href="/wiki/Leg" title="Leg">legs</a> as the propulsors. A <a href="/wiki/Technology" title="Technology">technological</a> system uses an <a href="/wiki/Engine" title="Engine">engine or motor</a> as the power source (commonly called a <b>powerplant</b>), and <a href="/wiki/Wheel_and_axle" title="Wheel and axle">wheels and axles</a>, <a href="/wiki/Propeller" title="Propeller">propellers</a>, or a <a href="/wiki/Propulsive_nozzle" class="mw-redirect" title="Propulsive nozzle">propulsive nozzle</a> to generate the force. Components such as <a href="/wiki/Clutch" title="Clutch">clutches</a> or <a href="/wiki/Gearbox" class="mw-redirect" title="Gearbox">gearboxes</a> may be needed to connect the motor to axles, wheels, or propellers. A technological/biological system may use human, or trained animal, muscular work to power a mechanical device.
+</p><p>Small objects, such as <a href="/wiki/Bullet" title="Bullet">bullets</a>, propelled at high speed are known as <a href="/wiki/Projectile" title="Projectile">projectiles</a>; larger objects propelled at high speed, often into <a href="/wiki/Ballistic_flight" class="mw-redirect" title="Ballistic flight">ballistic flight</a>, are known as <a href="/wiki/Rocket" title="Rocket">rockets</a> or <a href="/wiki/Missile" title="Missile">missiles</a>. 
+</p><p>Influencing rotational motion is also technically a form of propulsion, but in speech, an automotive mechanic might prefer to describe the hot gasses in an engine cylinder as propelling the piston (translational motion), which <i>drives</i> the crankshaft (rotational motion), the crankshaft then <i>drives</i> the wheels (rotational motion), and the wheels propel the car forward (translational motion). In common speech, propulsion is associated with spacial displacement more strongly than locally contained forms of motion, such as rotation or vibration. As another example, internal stresses in a <a href="/wiki/Rotation" title="Rotation">rotating</a> <a href="/wiki/Baseball" title="Baseball">baseball</a> cause the surface of the baseball to travel along a sinusoidal or helical trajectory, which would not happen in the absence of these interior forces; these forces meet the technical definition of propulsion from <a href="/wiki/Newtonian_mechanics" class="mw-redirect" title="Newtonian mechanics">Newtonian mechanics</a>, but are not commonly spoken of in this language. 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Vehicular_propulsion"><span class="tocnumber">1</span> <span class="toctext">Vehicular propulsion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Air_propulsion"><span class="tocnumber">1.1</span> <span class="toctext">Air propulsion</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ground"><span class="tocnumber">1.2</span> <span class="toctext">Ground</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Maglev"><span class="tocnumber">1.3</span> <span class="toctext">Maglev</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Marine"><span class="tocnumber">1.4</span> <span class="toctext">Marine</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Space"><span class="tocnumber">1.5</span> <span class="toctext">Space</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Cable"><span class="tocnumber">1.6</span> <span class="toctext">Cable</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Animal"><span class="tocnumber">2</span> <span class="toctext">Animal</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Vehicular_propulsion">Vehicular propulsion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=1" title="Edit section: Vehicular propulsion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Air_propulsion">Air propulsion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=2" title="Edit section: Air propulsion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Powered_aircraft" title="Powered aircraft">Powered aircraft</a></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tupolev_Tu-95_in_flight.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tupolev_Tu-95_in_flight.jpg/220px-Tupolev_Tu-95_in_flight.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tupolev_Tu-95_in_flight.jpg/330px-Tupolev_Tu-95_in_flight.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tupolev_Tu-95_in_flight.jpg/440px-Tupolev_Tu-95_in_flight.jpg 2x" data-file-width="1199" data-file-height="803" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Tupolev_Tu-95_in_flight.jpg" class="internal" title="Enlarge"></a></div>A <a href="/wiki/Turboprop" title="Turboprop">turboprop</a>-engined <a href="/wiki/Tupolev_Tu-95" title="Tupolev Tu-95">Tupolev Tu-95</a></div></div></div>
+<p>An aircraft propulsion system generally consists of an <a href="/wiki/Aircraft_engine" title="Aircraft engine">aircraft engine</a> and some means to generate thrust, such as a <a href="/wiki/Propeller_(aircraft)" class="mw-redirect" title="Propeller (aircraft)">propeller</a> or a <a href="/wiki/Propulsive_nozzle" class="mw-redirect" title="Propulsive nozzle">propulsive nozzle</a>.
+</p><p>An aircraft propulsion system must achieve two things. First, the thrust from the propulsion system must balance the drag of the airplane when the airplane is cruising. And second, the thrust from the propulsion system must exceed the drag of the airplane for the airplane to accelerate. The greater the difference between the thrust and the drag, called the excess thrust, the faster the airplane will accelerate.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</p><p>Some <a href="/wiki/Aircraft" title="Aircraft">aircraft</a>, like airliners and <a href="/wiki/Cargo_planes" class="mw-redirect" title="Cargo planes">cargo planes</a>, spend most of their life in a cruise condition. For these airplanes, excess thrust is not as important as high engine efficiency and low fuel usage. Since thrust depends on both the amount of gas moved and the velocity, we can generate high thrust by accelerating a large mass of gas by a small amount, or by accelerating a small mass of gas by a large amount. Because of the aerodynamic efficiency of propellers and fans, it is more fuel efficient to accelerate a large mass by a small amount, which is why high-bypass turbofans and turboprops are commonly used on cargo planes and airliners.<sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</p><p>Some aircraft, like <a href="/wiki/Fighter_planes" class="mw-redirect" title="Fighter planes">fighter planes</a> or experimental high speed aircraft, require very high excess thrust to accelerate quickly and to overcome the high drag associated with high speeds. For these airplanes, engine efficiency is not as important as very high thrust. Modern <a href="/wiki/Combat_aircraft" class="mw-redirect" title="Combat aircraft">combat aircraft</a> usually have an afterburner added to a <a href="/wiki/Low_bypass_turbofan" class="mw-redirect" title="Low bypass turbofan">low bypass turbofan</a>. Future <a href="/wiki/Hypersonic_aircraft" class="mw-redirect" title="Hypersonic aircraft">hypersonic aircraft</a> may use some type of ramjet or rocket propulsion.<sup id="cite_ref-:0_1-3" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ground">Ground</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=3" title="Edit section: Ground">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Opel_Ampera_(front_quarter).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Opel_Ampera_%28front_quarter%29.jpg/220px-Opel_Ampera_%28front_quarter%29.jpg" decoding="async" width="220" height="148" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Opel_Ampera_%28front_quarter%29.jpg/330px-Opel_Ampera_%28front_quarter%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Opel_Ampera_%28front_quarter%29.jpg/440px-Opel_Ampera_%28front_quarter%29.jpg 2x" data-file-width="2536" data-file-height="1704" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Opel_Ampera_(front_quarter).jpg" class="internal" title="Enlarge"></a></div>Wheels are commonly used in ground propulsion</div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Ground_propulsion" title="Ground propulsion">Ground propulsion</a></div>
+<p>Ground propulsion is any mechanism for propelling solid bodies along the ground, usually for the purposes of <a href="/wiki/Transportation" class="mw-redirect" title="Transportation">transportation</a>. The propulsion system often consists of a combination of an <a href="/wiki/Engine" title="Engine">engine or motor</a>, a <a href="/wiki/Gearbox" class="mw-redirect" title="Gearbox">gearbox</a> and <a href="/wiki/Wheel_and_axle" title="Wheel and axle">wheel and axles</a> in standard applications.
+</p>
+<h3><span class="mw-headline" id="Maglev">Maglev</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=4" title="Edit section: Maglev">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Transrapid-emsland.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Transrapid-emsland.jpg/220px-Transrapid-emsland.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Transrapid-emsland.jpg/330px-Transrapid-emsland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Transrapid-emsland.jpg/440px-Transrapid-emsland.jpg 2x" data-file-width="1152" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Transrapid-emsland.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Transrapid" title="Transrapid">Transrapid</a> 09 at the <a href="/wiki/Emsland_test_facility" title="Emsland test facility">Emsland test facility</a> in <a href="/wiki/Germany" title="Germany">Germany</a></div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Maglev" title="Maglev">Maglev</a></div>
+<p>Maglev (derived from <b>mag</b>netic <b>lev</b>itation) is a system of transportation that uses <a href="/wiki/Magnetic_levitation" title="Magnetic levitation">magnetic levitation</a> to suspend, guide and propel vehicles with magnets rather than using mechanical methods, such as <a href="/wiki/Wheel_and_axle" title="Wheel and axle">wheels, axles and bearings</a>. With maglev a vehicle is levitated a short distance away from a guide way using magnets to create both lift and thrust. Maglev vehicles are claimed to move more smoothly and quietly and to require less maintenance than wheeled <a href="/wiki/Mass_transit" class="mw-redirect" title="Mass transit">mass transit</a> systems. It is claimed that non-reliance on friction also means that acceleration and deceleration can far surpass that of existing forms of transport. The power needed for levitation is not a particularly large percentage of the overall energy consumption; most of the power used is needed to overcome air resistance (<a href="/wiki/Drag_(physics)" title="Drag (physics)">drag</a>), as with any other high-speed form of transport.
+</p>
+<h3><span class="mw-headline" id="Marine">Marine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=5" title="Edit section: Marine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Two_Main_Engines,_V12.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Two_Main_Engines%2C_V12.jpg/250px-Two_Main_Engines%2C_V12.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Two_Main_Engines%2C_V12.jpg/375px-Two_Main_Engines%2C_V12.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Two_Main_Engines%2C_V12.jpg/500px-Two_Main_Engines%2C_V12.jpg 2x" data-file-width="1280" data-file-height="960" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Two_Main_Engines,_V12.jpg" class="internal" title="Enlarge"></a></div>A view of a ship's engine room</div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Marine_propulsion" title="Marine propulsion">Marine propulsion</a></div>
+<p>Marine propulsion is the mechanism or system used to generate <a href="/wiki/Thrust" title="Thrust">thrust</a> to move a <a href="/wiki/Ship" title="Ship">ship</a> or <a href="/wiki/Boat" title="Boat">boat</a> across water. While <a href="/wiki/Paddle" title="Paddle">paddles</a> and <a href="/wiki/Sail" title="Sail">sails</a> are still used on some smaller boats, most modern ships are propelled by mechanical systems consisting of a motor or engine turning a <a href="/wiki/Propeller" title="Propeller">propeller</a>, or less frequently, in jet drives, an <a href="/wiki/Impeller" title="Impeller">impeller</a>. Marine engineering is the discipline concerned with the design of marine <a href="/wiki/Propulsion_system" class="mw-redirect" title="Propulsion system">propulsion systems</a>.
+</p><p><a href="/wiki/Steam_engine" title="Steam engine">Steam engines</a> were the first mechanical engines used in marine propulsion, but have mostly been replaced by <a href="/wiki/Two-stroke_engine" title="Two-stroke engine">two-stroke</a> or <a href="/wiki/Four-stroke_engine" title="Four-stroke engine">four-stroke</a> diesel engines, outboard motors, and <a href="/wiki/Gas_turbine_engine" class="mw-redirect" title="Gas turbine engine">gas turbine engines</a> on faster ships. <a href="/wiki/Nuclear_marine_propulsion" title="Nuclear marine propulsion">Nuclear reactors</a> producing steam are used to propel <a href="/wiki/Warship" title="Warship">warships</a> and <a href="/wiki/Icebreaker" title="Icebreaker">icebreakers</a>, and there have been attempts to utilize them to power commercial vessels. <a href="/wiki/Electric_motor" title="Electric motor">Electric motors</a> have been used on <a href="/wiki/Submarine" title="Submarine">submarines</a> and <a href="/wiki/Electric_boat" title="Electric boat">electric boats</a> and have been proposed for energy-efficient propulsion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Recent development in liquified natural gas (LNG) fueled engines are gaining recognition for their low emissions and cost advantages.
+</p>
+<h3><span class="mw-headline" id="Space">Space</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=6" title="Edit section: Space">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Shuttle_Main_Engine_Test_Firing.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Shuttle_Main_Engine_Test_Firing.jpg/220px-Shuttle_Main_Engine_Test_Firing.jpg" decoding="async" width="220" height="275" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Shuttle_Main_Engine_Test_Firing.jpg/330px-Shuttle_Main_Engine_Test_Firing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Shuttle_Main_Engine_Test_Firing.jpg/440px-Shuttle_Main_Engine_Test_Firing.jpg 2x" data-file-width="2400" data-file-height="3000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Shuttle_Main_Engine_Test_Firing.jpg" class="internal" title="Enlarge"></a></div>A remote camera captures a close-up view of a <a href="/wiki/Space_Shuttle_main_engine" class="mw-redirect" title="Space Shuttle main engine">Space Shuttle main engine</a> during a test firing at the <a href="/wiki/John_C._Stennis_Space_Center" class="mw-redirect" title="John C. Stennis Space Center">John C. Stennis Space Center</a> in <a href="/wiki/Hancock_County,_Mississippi" title="Hancock County, Mississippi">Hancock County, Mississippi</a></div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Spacecraft_propulsion" title="Spacecraft propulsion">Spacecraft propulsion</a></div>
+<p>Spacecraft propulsion is any method used to accelerate <a href="/wiki/Spacecraft" title="Spacecraft">spacecraft</a> and artificial <a href="/wiki/Satellite" title="Satellite">satellites</a>. There are many different methods. Each method has drawbacks and advantages, and spacecraft propulsion is an active area of research. However, most spacecraft today are propelled by forcing a gas from the back/rear of the vehicle at very high speed through a <a href="/wiki/Rocket_engine_nozzle" title="Rocket engine nozzle">supersonic de Laval nozzle</a>. This sort of <a href="/wiki/Engine" title="Engine">engine</a> is called a <a href="/wiki/Rocket_engine" title="Rocket engine">rocket engine</a>.
+</p><p>All current spacecraft use chemical rockets (<a href="/wiki/Bipropellant_rocket" class="mw-redirect" title="Bipropellant rocket">bipropellant</a> or <a href="/wiki/Solid_rocket" class="mw-redirect" title="Solid rocket">solid-fuel</a>) for launch, though some (such as the <a href="/wiki/Pegasus_rocket" class="mw-redirect" title="Pegasus rocket">Pegasus rocket</a> and <a href="/wiki/SpaceShipOne" title="SpaceShipOne">SpaceShipOne</a>) have used <a href="/wiki/Air-breathing_engine" class="mw-redirect" title="Air-breathing engine">air-breathing engines</a> on their <a href="/wiki/Multistage_rocket" title="Multistage rocket">first stage</a>. Most satellites have simple reliable chemical thrusters (often <a href="/wiki/Monopropellant_rocket" title="Monopropellant rocket">monopropellant rockets</a>) or <a href="/wiki/Resistojet_rocket" title="Resistojet rocket">resistojet rockets</a> for <a href="/wiki/Orbital_station-keeping" title="Orbital station-keeping">orbital station-keeping</a> and some use <a href="/wiki/Momentum_wheel" class="mw-redirect" title="Momentum wheel">momentum wheels</a> for <a href="/wiki/Attitude_control" title="Attitude control">attitude control</a>. Soviet bloc satellites have used <a href="/wiki/Electrically_powered_spacecraft_propulsion" class="mw-redirect" title="Electrically powered spacecraft propulsion">electric propulsion</a> for decades, and newer Western geo-orbiting spacecraft are starting to use them for north–south stationkeeping and orbit raising. Interplanetary vehicles mostly use chemical rockets as well, although a few have used <a href="/wiki/Ion_thruster" title="Ion thruster">ion thrusters</a> and <a href="/wiki/Hall-effect_thruster" title="Hall-effect thruster">Hall-effect thrusters</a> (two different types of electric propulsion) to great success.
+</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Cable">Cable</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=7" title="Edit section: Cable">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Cable_car_(railway)" title="Cable car (railway)">Cable car (railway)</a></div>
+<p>A cable car is any of a variety of transportation systems relying on cables to pull vehicles along or lower them at a steady rate. The terminology also refers to the vehicles on these systems. The cable car vehicles are motor-less and engine-less and they are pulled by a cable that is rotated by a motor off-board.
+</p>
+<h2><span class="mw-headline" id="Animal">Animal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=8" title="Edit section: Animal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Animal_locomotion" title="Animal locomotion">Animal locomotion</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:292px;"><a href="/wiki/File:Beeinflightfromfront.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Beeinflightfromfront.jpg/290px-Beeinflightfromfront.jpg" decoding="async" width="290" height="218" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Beeinflightfromfront.jpg/435px-Beeinflightfromfront.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Beeinflightfromfront.jpg/580px-Beeinflightfromfront.jpg 2x" data-file-width="1024" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Beeinflightfromfront.jpg" class="internal" title="Enlarge"></a></div>A <a href="/wiki/Bee" title="Bee">bee</a> in flight</div></div></div>
+<p>Animal locomotion, which is the act of self-propulsion by an animal, has many manifestations, including <a href="/wiki/Running" title="Running">running</a>, <a href="/wiki/Aquatic_locomotion" title="Aquatic locomotion">swimming</a>, <a href="/wiki/Jumping" title="Jumping">jumping</a> and <a href="/wiki/Flying_and_gliding_animals" title="Flying and gliding animals">flying</a>. Animals move for a variety of reasons, such as to find food, a mate, or a suitable <a href="/wiki/Microhabitat" class="mw-redirect" title="Microhabitat">microhabitat</a>, and to escape predators. For many animals the ability to move is essential to survival and, as a result, selective pressures have shaped the locomotion methods and mechanisms employed by moving organisms. For example, migratory animals that travel vast distances (such as the <a href="/wiki/Arctic_tern" title="Arctic tern">Arctic tern</a>) typically have a locomotion mechanism that costs very little energy per unit distance, whereas non-migratory animals that must frequently move quickly to escape predators (such as <a href="/wiki/Frog" title="Frog">frogs</a>) are likely to have costly but very fast locomotion. The study of animal locomotion is typically considered to be a sub-field of <a href="/wiki/Biomechanics" title="Biomechanics">biomechanics</a>.
+</p><p>Locomotion requires <a href="/wiki/Energy" title="Energy">energy</a> to overcome <a href="/wiki/Friction" title="Friction">friction</a>, <a href="/wiki/Drag_(physics)" title="Drag (physics)">drag</a>, <a href="/wiki/Inertia" title="Inertia">inertia</a>, and <a href="/wiki/Gravity" title="Gravity">gravity</a>, though in many circumstances some of these factors are negligible. In <a href="/wiki/Terrestrial_planet" title="Terrestrial planet">terrestrial</a> environments gravity must be overcome, though the drag of air is much less of an issue. In aqueous environments however, friction (or drag) becomes the major challenge, with gravity being less of a concern. Although animals with natural <a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a> need not expend much energy maintaining vertical position, some will naturally sink and must expend energy to remain afloat. Drag may also present a problem in <a href="/wiki/Flight" title="Flight">flight</a>, and the <a href="/wiki/Aerodynamic" class="mw-redirect" title="Aerodynamic">aerodynamically</a> efficient body shapes of <a href="/wiki/Bird" title="Bird">birds</a> highlight this point. Flight presents a different problem from movement in water however, as there is no way for a living organism to have lower <a href="/wiki/Density" title="Density">density</a> than air. Limbless organisms moving on land must often contend with surface friction, but do not usually need to expend significant energy to counteract gravity.
+</p><p><a href="/wiki/Newton%27s_laws_of_motion" title="Newton&#39;s laws of motion">Newton's third law of motion</a> is widely used in the study of animal locomotion: if at rest, to move forward an animal must push something backward. Terrestrial animals must push the solid ground; swimming and flying animals must push against a <a href="/wiki/Fluid" title="Fluid">fluid</a> (either <a href="/wiki/Water" title="Water">water</a> or <a href="/wiki/Air" class="mw-redirect" title="Air">air</a>).<sup id="cite_ref-Bie_3-0" class="reference"><a href="#cite_note-Bie-3">&#91;3&#93;</a></sup> The effect of forces during locomotion on the design of the skeletal system is also important, as is the interaction between locomotion and muscle physiology, in determining how the structures and effectors of locomotion enable or limit animal movement.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Transport" title="Transport">Transport</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.grc.nasa.gov/WWW/k-12/airplane/bgp.html">"Beginner's Guide to Propulsion NASA"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Beginner%27s+Guide+to+Propulsion+NASA&amp;rft_id=http%3A%2F%2Fwww.grc.nasa.gov%2FWWW%2Fk-12%2Fairplane%2Fbgp.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropulsion" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090517060017/http://www.ivt.ntnu.no/imt/electricship/">"Energy Efficient - All Electric Ship"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ivt.ntnu.no/imt/electricship/">the original</a> on 2009-05-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Energy+Efficient+-+All+Electric+Ship&amp;rft_id=http%3A%2F%2Fwww.ivt.ntnu.no%2Fimt%2Felectricship%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropulsion" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bie-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bie_3-0">^</a></b></span> <span class="reference-text">Biewener, A. A. 2003. Animal Locomotion. Oxford University Press, USA. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0198500223" title="Special:BookSources/978-0198500223">978-0198500223</a>, <a rel="nofollow" class="external free" href="https://books.google.com/books?id=yMaN9pk8QJAC&amp;dq=biomechanics+biewener&amp;source=gbs_navlinks_s">https://books.google.com/books?id=yMaN9pk8QJAC&amp;dq=biomechanics+biewener&amp;source=gbs_navlinks_s</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propulsion&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Propulsion" class="extiw" title="commons:Category:Propulsion">Propulsion</a> at Wikimedia Commons</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r1097025294">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox">
+<div class="side-box-flex">
+<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></div>
+<div class="side-box-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/propulsion" class="extiw" title="wiktionary:propulsion">propulsion</a></b></i> in Wiktionary, the free dictionary.</div></div>
+</div>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPickering2009" class="citation web cs1">Pickering, Steve (2009). <a rel="nofollow" class="external text" href="http://www.sixtysymbols.com/videos/propulsion.htm">"Propulsion Efficiency"</a>. <i>Sixty Symbols</i>. <a href="/wiki/Brady_Haran" title="Brady Haran">Brady Haran</a> from the <a href="/wiki/University_of_Nottingham" title="University of Nottingham">University of Nottingham</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sixty+Symbols&amp;rft.atitle=Propulsion+Efficiency&amp;rft.date=2009&amp;rft.aulast=Pickering&amp;rft.aufirst=Steve&amp;rft_id=http%3A%2F%2Fwww.sixtysymbols.com%2Fvideos%2Fpropulsion.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropulsion" class="Z3988"></span></li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2583685#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2583685#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control: National libraries</a>  <a href="https://www.wikidata.org/wiki/Q2583685#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4002360-6">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph137028&amp;CON_LNG=ENG">Czech Republic</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20221026140230
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.328 seconds
+Real time usage: 0.460 seconds
+Preprocessor visited node count: 1117/1000000
+Post‐expand include size: 22879/2097152 bytes
+Template argument size: 1285/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18208/5000000 bytes
+Lua time usage: 0.187/10.000 seconds
+Lua memory usage: 4431405/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  388.407      1 -total
+ 30.13%  117.032      1 Template:Reflist
+ 19.73%   76.642      3 Template:Cite_web
+ 17.01%   66.066      1 Template:Short_description
+ 15.01%   58.299      1 Template:More_citations_needed
+ 13.82%   53.685      1 Template:Ambox
+ 12.93%   50.218      1 Template:Authority_control
+  9.84%   38.238      2 Template:Pagetype
+  7.76%   30.122      1 Template:Commons_category-inline
+  7.34%   28.500      1 Template:Sister-inline
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:49023-0!canonical and timestamp 20221026140229 and revision id 1113470537.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Propulsion&amp;oldid=1113470537">https://en.wikipedia.org/w/index.php?title=Propulsion&amp;oldid=1113470537</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Propulsion" title="Category:Propulsion">Propulsion</a></li><li><a href="/wiki/Category:Vehicle_technology" title="Category:Vehicle technology">Vehicle technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2017" title="Category:Articles needing additional references from August 2017">Articles needing additional references from August 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Propulsion" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Propulsion" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Propulsion" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Propulsion" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Propulsion"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Propulsion&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Propulsion&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Propulsion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Propulsion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Propulsion&amp;oldid=1113470537" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Propulsion&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Propulsion&amp;id=1113470537&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2583685" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Propulsion&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Propulsion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Propulsion" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D8%B3%D8%B1" title="دسر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C3%96t%C3%BCrm%C9%99_sisteml%C9%99ri" title="Ötürmə sistemləri – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B8%D1%82%D0%B5%D0%BB" title="Движител – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Propulsi%C3%B3" title="Propulsió – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Pohon" title="Pohon – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Fremdrift" title="Fremdrift – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Antrieb" title="Antrieb – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Ajam" title="Ajam – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Propulsi%C3%B3n" title="Propulsión – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Propulso" title="Propulso – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Propultsio" title="Propultsio – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B4%E2%80%8C%D8%B1%D8%A7%D9%86%D8%B4" title="پیش‌رانش – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Propulsion" title="Propulsion – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A5%8B%E0%A4%A6%E0%A4%A8" title="प्रणोदन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Propulsione" title="Propulsione – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Undriff_(Technik)" title="Undriff (Technik) – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Varytuvas" title="Varytuvas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Perejangan" title="Perejangan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-min mw-list-item"><a href="https://min.wikipedia.org/wiki/Propulsi" title="Propulsi – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target"><span>Minangkabau</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Aandrijving" title="Aandrijving – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Propuls%C3%A3o" title="Propulsão – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" title="Движитель – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Propulsion_tools" title="Propulsion tools – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Propulsio" title="Propulsio – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%88" title="உந்துகை – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Tahrik_sistemi" title="Tahrik sistemi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%88%D1%96%D0%B9" title="Рушій – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2583685#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 1 October 2022, at 16:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Propulsion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.460","ppvisitednodes":{"value":1117,"limit":1000000},"postexpandincludesize":{"value":22879,"limit":2097152},"templateargumentsize":{"value":1285,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18208,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  388.407      1 -total"," 30.13%  117.032      1 Template:Reflist"," 19.73%   76.642      3 Template:Cite_web"," 17.01%   66.066      1 Template:Short_description"," 15.01%   58.299      1 Template:More_citations_needed"," 13.82%   53.685      1 Template:Ambox"," 12.93%   50.218      1 Template:Authority_control","  9.84%   38.238      2 Template:Pagetype","  7.76%   30.122      1 Template:Commons_category-inline","  7.34%   28.500      1 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.187","limit":"10.000"},"limitreport-memusage":{"value":4431405,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20221026140230","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Propulsion","url":"https:\/\/en.wikipedia.org\/wiki\/Propulsion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2583685","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2583685","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-10-03T20:31:25Z","dateModified":"2022-10-01T16:53:04Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ec\/Armadillo_Aerospace_Pixel_Hover.jpg","headline":"means of creating force leading to movement"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Propulsion","url":"https:\/\/en.wikipedia.org\/wiki\/Propulsion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2583685","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2583685","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-10-03T20:31:25Z","dateModified":"2022-10-01T16:53:04Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ec\/Armadillo_Aerospace_Pixel_Hover.jpg","headline":"means of creating force leading to movement"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1384"});});</script>
+</body>
+</html>
