@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Exif - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2a2892c8-64c4-4904-8f60-70129edf090a","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exif","wgTitle":"Exif","wgCurRevisionId":1117538679,"wgRevisionId":1117538679,"wgArticleId":308774,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Japanese-language sources (ja)","CS1 German-language sources (de)","Articles with short description","Short description matches Wikidata","Articles to be expanded from August 2020","All articles to be expanded","Articles using small message boxes","Articles containing potentially dated statements from 2014",
+"All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from November 2014","Commons category link is on Wikidata","Digital photography","Graphics file formats","JPEG","Metadata"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Exif","wgRelevantArticleId":308774,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Exchangeable_image_file_format","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,
+"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Exif","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q196465","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head",
+"mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7e/Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="567"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7e/Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="378"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="302"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Exif - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Exif"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Exif&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Exif"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Exif rootpage-Exif skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Exif</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Exchangeable_image_file_format&amp;redirect=no" class="mw-redirect" title="Exchangeable image file format">Exchangeable image file format</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Metadata standard in digital images</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">This article is about a format for storing metadata in image and audio files. For information about filename and directory structures of digital cameras, see <a href="/wiki/Design_rule_for_Camera_File_system" title="Design rule for Camera File system">Design rule for Camera File system</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox"><caption class="infobox-title" style="padding-bottom:0.15em;">Exif</caption><tbody><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:Epepeotes_uncinatus_@_Kanjirappally_Exif_02.png" class="image"><img alt="Epepeotes uncinatus @ Kanjirappally Exif 02.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png/300px-Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png" decoding="async" width="300" height="142" srcset="//upload.wikimedia.org/wikipedia/commons/7/7e/Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png 1.5x" data-file-width="419" data-file-height="198" /></a><div class="infobox-caption">Exif of a file in <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> (compact form)</div></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a></th><td class="infobox-data" style="line-height:1.35em;"><style data-mw-deduplicate="TemplateStyles:r886049734">.mw-parser-output .monospaced{font-family:monospace,monospace}</style><div class="monospaced">
+<code>.JPG</code>, <code>.TIF</code>, <code>.WAV</code>, <code>.PNG<sup id="cite_ref-Extensions_to_the_PNG_1.2_Specification,_Version_1.5.0_1-0" class="reference"><a href="#cite_note-Extensions_to_the_PNG_1.2_Specification,_Version_1.5.0-1">&#91;1&#93;</a></sup></code> <code>.WEBP<sup id="cite_ref-The_Metadata_in_WEBP_(.webp)_files_2-0" class="reference"><a href="#cite_note-The_Metadata_in_WEBP_(.webp)_files-2">&#91;2&#93;</a></sup></code></div></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;">Developed&#160;by</th><td class="infobox-data" style="line-height:1.35em;"><a href="/wiki/Japan_Electronic_Industries_Development_Association" title="Japan Electronic Industries Development Association">JEIDA</a>, now <a href="/wiki/Japan_Electronics_and_Information_Technology_Industries_Association" title="Japan Electronics and Information Technology Industries Association">JEITA</a>, <a href="/wiki/Camera_%26_Imaging_Products_Association" title="Camera &amp; Imaging Products Association">CIPA</a></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;">Initial release</th><td class="infobox-data" style="line-height:1.35em;">1995<span class="noprint">&#59;&#32;27&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1995</span>)</span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Latest release</a></th><td class="infobox-data" style="line-height:1.35em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">2.32<br />26&#160;April 2010<span class="noprint">&#59;&#32;12 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2010-04-26</span>)</span>, revised May&#160;2019<span class="noprint">&#59;&#32;3&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2019-05</span>)</span> </div></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;">Extended&#160;from</th><td class="infobox-data" style="line-height:1.35em;"><a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format">TIFF</a>, <a href="/wiki/JPEG" title="JPEG">JPEG</a>, <a href="/wiki/WAV" title="WAV">WAV</a></td></tr><tr><th scope="row" class="infobox-label" style="line-height:1.2em; padding-right:0.65em;">Extended&#160;to</th><td class="infobox-data" style="line-height:1.35em;"><a href="/wiki/Design_rule_for_Camera_File_system" title="Design rule for Camera File system">DCF</a></td></tr></tbody></table>
+<p><b>Exchangeable image file format</b> (officially <b>Exif</b>, according to JEIDA/JEITA/CIPA specifications) is a standard that specifies <a href="/wiki/File_format" title="File format">formats</a> for <a href="/wiki/Image" title="Image">images</a>, <a href="/wiki/Sound" title="Sound">sound</a>, and ancillary tags used by <a href="/wiki/Digital_camera" title="Digital camera">digital cameras</a> (including <a href="/wiki/Smartphone" title="Smartphone">smartphones</a>), <a href="/wiki/Image_scanner" title="Image scanner">scanners</a> and other systems handling image and sound files recorded by digital cameras. The specification uses the following existing encoding formats with the addition of specific <a href="/wiki/Metadata_(computing)" class="mw-redirect" title="Metadata (computing)">metadata</a> tags: <a href="/wiki/JPEG" title="JPEG">JPEG</a> lossy coding for compressed image files, <a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format">TIFF</a> Rev. 6.0 (<a href="/wiki/RGB_color_model" title="RGB color model">RGB</a> or <a href="/wiki/YCbCr" title="YCbCr">YCbCr</a>) for uncompressed image files, and <a href="/wiki/Resource_Interchange_File_Format" title="Resource Interchange File Format">RIFF</a> <a href="/wiki/WAV" title="WAV">WAV</a> for audio files (linear <a href="/wiki/Pulse-code_modulation" title="Pulse-code modulation">PCM</a> or ITU-T <a href="/wiki/G.711" title="G.711">G.711</a> μ-law PCM for uncompressed audio data, and <a href="/wiki/Interactive_Multimedia_Association" title="Interactive Multimedia Association">IMA</a>-<a href="/wiki/ADPCM" class="mw-redirect" title="ADPCM">ADPCM</a> for compressed audio data).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  It does not support <a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a> or <a href="/wiki/GIF" title="GIF">GIF</a> encoded images.
+</p><p>This standard consists of the Exif image file specification and the Exif audio file specification.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Version_history"><span class="tocnumber">2</span> <span class="toctext">Version history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Technical"><span class="tocnumber">3</span> <span class="toctext">Technical</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Geolocation"><span class="tocnumber">4</span> <span class="toctext">Geolocation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Program_support"><span class="tocnumber">5</span> <span class="toctext">Program support</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Problems"><span class="tocnumber">6</span> <span class="toctext">Problems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Technical_2"><span class="tocnumber">6.1</span> <span class="toctext">Technical</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Privacy_and_security"><span class="tocnumber">6.2</span> <span class="toctext">Privacy and security</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Related_standards"><span class="tocnumber">7</span> <span class="toctext">Related standards</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Exif_Fields"><span class="tocnumber">8</span> <span class="toctext">Exif Fields</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Example"><span class="tocnumber">8.1</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Time_Tags"><span class="tocnumber">8.2</span> <span class="toctext">Time Tags</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#FlashPix_extensions"><span class="tocnumber">9</span> <span class="toctext">FlashPix extensions</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Exif_audio_files"><span class="tocnumber">10</span> <span class="toctext">Exif audio files</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#MakerNote_data"><span class="tocnumber">11</span> <span class="toctext">MakerNote data</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background"><span class="anchor" id="1.0"></span><span class="anchor" id="1.1"></span><span class="anchor" id="2.0"></span><span class="anchor" id="R98"></span><span class="anchor" id="2.1"></span><span class="anchor" id="2.2"></span><span class="anchor" id="2.21"></span><span class="anchor" id="2.3"></span>Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Exif is supported by almost all camera manufacturers.
+</p><p>The metadata tags defined in the Exif standard cover a broad spectrum:
+</p>
+<ul><li>Camera settings:  This includes static information such as the camera model and make, and information that varies with each image such as orientation (rotation), <a href="/wiki/Aperture" title="Aperture">aperture</a>, <a href="/wiki/Shutter_speed" title="Shutter speed">shutter speed</a>, <a href="/wiki/Focal_length" title="Focal length">focal length</a>, <a href="/wiki/Metering_mode" title="Metering mode">metering mode</a>, and <a href="/wiki/ISO_speed" class="mw-redirect" title="ISO speed">ISO speed</a> information.</li>
+<li>Image metrics: Pixel dimensions, resolution, colorspace, and filesize</li>
+<li>Date and time information.  Digital cameras will record the current date and time and save this in the metadata.</li>
+<li>Location information</li>
+<li>A <a href="/wiki/Thumbnail" title="Thumbnail">thumbnail</a> for previewing the picture on the camera's LCD screen, in file managers, or in photo manipulation software.</li>
+<li>Descriptions</li>
+<li>Copyright information.</li></ul>
+<h2><span class="mw-headline" id="Version_history">Version history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=2" title="Edit section: Version history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>&#32;with: changes. You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Exif&amp;action=edit&amp;section=">adding to it</a>.  <span class="date-container"><i>(<span class="date">August 2020</span>)</i></span></div></td></tr></tbody></table>
+<p>The <a href="/wiki/Japan_Electronic_Industries_Development_Association" title="Japan Electronic Industries Development Association">Japan Electronic Industries Development Association</a> (JEIDA) produced the initial definition of Exif. Version 2.1 of the specification is dated 12 June 1998. <a href="/wiki/Japan_Electronics_and_Information_Technology_Industries_Association" title="Japan Electronics and Information Technology Industries Association">JEITA</a> established Exif version 2.2 (a.k.a. "<b>Exif Print</b>"), dated 20 February 2002 and released in April 2002.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Version 2.21 (with <a href="/wiki/Adobe_RGB" class="mw-redirect" title="Adobe RGB">Adobe RGB</a> support) is dated 11 July 2003, but was released in September 2003 following the release of DCF 2.0. The latest version 2.3 was released on 26 April 2010, and revised to 2.31 in July 2013 and revised to 2.32 on 17 May 2019, was jointly formulated by <a href="/wiki/Japan_Electronics_and_Information_Technology_Industries_Association" title="Japan Electronics and Information Technology Industries Association">JEITA</a> and <a href="/wiki/Camera_%26_Imaging_Products_Association" title="Camera &amp; Imaging Products Association">CIPA</a>.  
+</p>
+<table class="wikitable">
+<caption>Versions
+</caption>
+<tbody><tr>
+<th>Version
+</th>
+<th>Release Date
+</th>
+<th>Changes
+</th></tr>
+<tr>
+<td>1.0
+</td>
+<td>October 1995
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1.1
+</td>
+<td>May 1997
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.0
+</td>
+<td>November 1997
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.1
+</td>
+<td>December 1998
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.2
+</td>
+<td>April 2002
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.21
+</td>
+<td>September 2003
+</td>
+<td>Addition of "Exif Print"
+</td></tr>
+<tr>
+<td>2.21 (unified version)
+</td>
+<td>September 2009
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.3
+</td>
+<td>April 2010
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.3 (revised)
+</td>
+<td>December 2012
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.31
+</td>
+<td>July 2016
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2.32
+</td>
+<td>May 2019
+</td>
+<td>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Technical">Technical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=3" title="Edit section: Technical">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Exif tag structure is borrowed from TIFF files. On several image specific properties, there is a large overlap between the tags defined in the <a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format">TIFF</a>, Exif, <a href="/wiki/Tag_Image_File_Format_/_Electronic_Photography" class="mw-redirect" title="Tag Image File Format / Electronic Photography">TIFF/EP</a>, and <a href="/wiki/Design_rule_for_Camera_File_system" title="Design rule for Camera File system">DCF</a> standards. For descriptive metadata, there is an overlap between Exif, <a href="/wiki/IPTC_Information_Interchange_Model" title="IPTC Information Interchange Model">IPTC Information Interchange Model</a> and <a href="/wiki/Extensible_Metadata_Platform" title="Extensible Metadata Platform">XMP</a> info, which also can be embedded in a JPEG file. The Metadata Working Group has guidelines on mapping tags between these standards.<sup id="cite_ref-mwg_guidance_6-0" class="reference"><a href="#cite_note-mwg_guidance-6">&#91;6&#93;</a></sup>
+</p><p>When Exif is employed for <a href="/wiki/JPEG" title="JPEG">JPEG</a> files, the Exif data are stored in one of JPEG's defined utility <i>Application Segments</i>, the APP1 (segment marker 0xFFE1), which in effect holds an entire TIFF file within. When Exif is employed in TIFF files (also when used as "an embedded TIFF file" mentioned earlier), the TIFF Private Tag 0x8769 defines a sub-Image File Directory (IFD) that holds the Exif specified TIFF Tags. In addition, Exif also defines a <a href="/wiki/Global_Positioning_System" title="Global Positioning System">Global Positioning System</a> sub-IFD using the TIFF Private Tag 0x8825, holding location information, and an "Interoperability IFD" specified within the Exif sub-IFD, using the Exif tag 0xA005.
+</p><p>Formats specified in Exif standard are defined as folder structures that are based on Exif-JPEG and recording formats for memory. When these formats are used as Exif/DCF files together with the DCF specification (for better interoperability among devices of different types), their scope shall cover devices, recording media, and application software that handle them.
+</p>
+<h2><span class="mw-headline" id="Geolocation">Geolocation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=4" title="Edit section: Geolocation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Geotagging" title="Geotagging">Geotagging</a></div>
+<p>The Exif format has standard tags for location information. As of 2014<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Exif&amp;action=edit">&#91;update&#93;</a></sup>, many cameras and mobile phones have a built-in GPS receiver that stores the location information in the Exif header when a picture is taken. Some other cameras have a separate GPS receiver that fits into the flash connector or <a href="/wiki/Hot_shoe" title="Hot shoe">hot shoe</a>. Recorded GPS data can also be added to any digital photograph on a computer, either by correlating the time stamps of the photographs with a <a href="/wiki/GPS_tracking" class="mw-redirect" title="GPS tracking">GPS record</a> from a hand-held GPS receiver or manually by using a map or mapping software. Some cameras can be paired with cellphones to provide the geolocation. The process of adding geographic information to a photograph is known as <a href="/wiki/Geotagged_photograph" title="Geotagged photograph">geotagging</a>. Photo-sharing communities like <a href="/wiki/Panoramio" title="Panoramio">Panoramio</a>, <a href="/w/index.php?title=Locr&amp;action=edit&amp;redlink=1" class="new" title="Locr (page does not exist)">locr</a> or <a href="/wiki/Flickr" title="Flickr">Flickr</a> equally allow their users to upload geocoded pictures or to add geolocation information online.
+</p>
+<h2><span class="mw-headline" id="Program_support">Program support</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=5" title="Edit section: Program support">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Exif data are embedded within the image file itself.  While many recent <a href="/wiki/Graphics_software" title="Graphics software">image manipulation programs</a> recognize and preserve Exif data when writing to a modified image, this is not the case for most older programs. Many image gallery programs also recognise Exif data and optionally display it alongside the images.
+</p><p>Software libraries, such as libexif<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> for <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> and Adobe XMP Toolkit<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> or Exiv2<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> for <a href="/wiki/C%2B%2B" title="C++">C++</a>, Metadata Extractor<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> for <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/Python_Imaging_Library" title="Python Imaging Library">PIL/Pillow</a> for <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/w/index.php?title=LEADTOOLS&amp;action=edit&amp;redlink=1" class="new" title="LEADTOOLS (page does not exist)">LEADTOOLS</a> or <a href="/wiki/ExifTool" title="ExifTool">ExifTool</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> for <a href="/wiki/Perl" title="Perl">Perl</a>, parse Exif data from files and read/write Exif tag values.
+</p>
+<h2><span class="mw-headline" id="Problems">Problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=6" title="Edit section: Problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Technical_2">Technical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=7" title="Edit section: Technical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Exif format has a number of drawbacks, mostly relating to its use of legacy file structures.
+</p>
+<ul><li>The derivation of Exif from the TIFF file structure using offset pointers in the files means that data can be spread anywhere within a file, which means that software is likely to corrupt any pointers or corresponding data that it doesn't decode/encode. For this reason most image editors damage or remove the Exif metadata to some extent upon saving.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li>The standard defines a MakerNote tag, which allows camera manufacturers to place any custom format metadata in the file. This is used increasingly by camera manufacturers to store camera settings not listed in the Exif standard, such as shooting modes, post-processing settings, serial number, focusing modes, etc.  As the tag contents are proprietary and manufacturer-specific, it can be difficult to retrieve this information from an image or to properly preserve it when rewriting an image. Manufacturers can encrypt portions of the information; for example, some Nikon cameras encrypt the detailed lens data in the MakerNote data.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>Exif is very often used in images created by scanners, but the standard makes no provisions for any scanner-specific information.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2014)">citation needed</span></a></i>&#93;</sup></li>
+<li>Photo manipulation software sometimes fails to update the embedded thumbnail after an editing operation, possibly causing the user to inadvertently publish compromising information.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> For example, someone might blank out a licence registration plate of a car (for privacy concerns), only to have the thumbnail not so updated, meaning the information is still visible.</li>
+<li>Exif metadata are restricted in size to 64 kB in JPEG images because according to the specification this information must be contained within a single JPEG APP1 segment. Although the <a href="#FlashPix_extensions">FlashPix extensions</a> allow information to span multiple JPEG APP2 segments, these extensions are not commonly used.  This has prompted some camera manufacturers to develop non-standard techniques for storing the large preview images used by some digital cameras for <a href="/wiki/Liquid_crystal_display" class="mw-redirect" title="Liquid crystal display">LCD</a> review. These non-standard extensions are commonly lost if a user re-saves the image using image editor software, possibly rendering the image incompatible with the original camera that created it.  (In 2009, CIPA released the <a href="/wiki/JPEG#JPEG_Multi-Picture_Format" title="JPEG">Multi Picture Object</a> specification which addresses this deficiency and provides a standard way to store large previews in JPEG images.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>)</li>
+<li>There is no way to record time-zone information along with the time, thus rendering the stored time ambiguous. However, time-zone information has been introduced recently by Exif version 2.31 (July 2016). Related tags are: "OffsetTime", "OffsetTimeOriginal" and "OffsetTimeDigitized".</li>
+<li>There is no standard field to record readouts of a camera's <a href="/wiki/Accelerometers" class="mw-redirect" title="Accelerometers">accelerometers</a> or <a href="/wiki/Inertial_navigation_system" title="Inertial navigation system">inertial navigation system</a>. Such data could help to establish the relationship between the image sensor's XYZ coordinate system and the gravity <a href="/wiki/Euclidean_vector" title="Euclidean vector">vector</a> (i.e., which way is down in this image). It could also establish relative camera positions or orientations in a sequence of photos.  Some software records this information using the GPSImgDirection tag along with custom GPSPitch and GPSRoll tags.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li>
+<li>The XResolution and YResolution tags provide the number of pixels per length unit for the width and height of the image, respectively. (The length unit itself is specified by the tag ResolutionUnit.) By default, these tags in combination are set to 72 <a href="/wiki/Pixel_density" title="Pixel density">pixels per inch</a> (ppi).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> These tags were inherited from the TIFF 6.0 standard and are required<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> even though for images produced by digital cameras, image resolution values such as ppi are meaningless.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Privacy_and_security">Privacy and security</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=8" title="Edit section: Privacy and security">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since the Exif tag contains metadata about the photo, it can pose a privacy problem. For example, a photo taken with a <a href="/wiki/GPS" class="mw-redirect" title="GPS">GPS</a>-enabled camera can reveal the exact location and time it was taken, and the unique ID number of the device - this is all done by default - often without the user's knowledge.  Many users may be unaware that their photos are tagged by default in this manner, or that specialist software may be required to remove the Exif tag before publishing.  For example, a <a href="/wiki/Whistleblower" title="Whistleblower">whistleblower</a>, journalist or <a href="/wiki/Political_dissident" class="mw-redirect" title="Political dissident">political dissident</a> relying on the protection of anonymity to allow them to report <a href="/wiki/Misfeasance" title="Misfeasance">malfeasance</a> by a corporate entity, criminal, or government may therefore find their safety compromised by this default data collection.
+</p><p>In December 2012, anti-virus businessman <a href="/wiki/John_McAfee" title="John McAfee">John McAfee</a> was arrested in <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a> while fleeing from alleged persecution<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> in neighboring <a href="/wiki/Belize" title="Belize">Belize</a>.  <i><a href="/wiki/Vice_(magazine)" title="Vice (magazine)">Vice</a></i> magazine had published an exclusive interview on their website with McAfee "on the run"<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> that included a photo of McAfee with a <i>Vice</i> reporter taken with a phone that had geotagged the image.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>  The photo's metadata included GPS coordinates locating McAfee in Guatemala, and he was captured two days later.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> McAfee later claimed to have edited the Exif data from his phone to provide a false location.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>According to documents leaked by <a href="/wiki/Edward_Snowden" title="Edward Snowden">Edward Snowden</a>, the <a href="/wiki/NSA" class="mw-redirect" title="NSA">NSA</a> is targeting Exif information under the <a href="/wiki/XKeyscore" title="XKeyscore">XKeyscore</a> program.<sup id="cite_ref-Guardian2_25-0" class="reference"><a href="#cite_note-Guardian2-25">&#91;25&#93;</a></sup>
+</p><p>The privacy problem of Exif data can be avoided by removing the Exif data using a <a href="/wiki/Metadata_removal_tool" title="Metadata removal tool">metadata removal tool</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Related_standards">Related standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=9" title="Edit section: Related standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Metadata_Working_Group" title="Metadata Working Group">Metadata Working Group</a> was formed by a consortium of companies in 2006 (according to their web page) or 2007 (as stated in their own press release). Version 2.0 of the specification was released in November 2010,<sup id="cite_ref-mwg_guidance_6-1" class="reference"><a href="#cite_note-mwg_guidance-6">&#91;6&#93;</a></sup> giving recommendations concerning the use of Exif, <a href="/wiki/IPTC_Information_Interchange_Model" title="IPTC Information Interchange Model">IPTC</a> and <a href="/wiki/Extensible_Metadata_Platform" title="Extensible Metadata Platform">XMP</a> metadata in images.
+</p><p><a href="/wiki/Extensible_Metadata_Platform" title="Extensible Metadata Platform">Extensible Metadata Platform</a> (XMP) is an <a href="/wiki/List_of_International_Organization_for_Standardization_standards" title="List of International Organization for Standardization standards">ISO standard</a>, originally created by <a href="/wiki/ADBE" class="mw-redirect" title="ADBE">Adobe Systems Inc.</a>, for the creation, processing and interchange of standardized and custom metadata for digital documents and data sets. <a href="/wiki/IPTC_Information_Interchange_Model" title="IPTC Information Interchange Model">IPTC</a> was developed in the early 1990s by the <a href="/wiki/International_Press_Telecommunications_Council" title="International Press Telecommunications Council">International Press Telecommunications Council</a> (IPTC) to expedite the international exchange of news among newspapers and news agencies.
+</p>
+<h2><span class="mw-headline" id="Exif_Fields">Exif Fields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=10" title="Edit section: Exif Fields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Not all devices use every available metadata field in the Exif standard.
+</p>
+<h3><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=11" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DigiKam_EXIF_information_screenshot.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/DigiKam_EXIF_information_screenshot.png/220px-DigiKam_EXIF_information_screenshot.png" decoding="async" width="220" height="241" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/DigiKam_EXIF_information_screenshot.png/330px-DigiKam_EXIF_information_screenshot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/DigiKam_EXIF_information_screenshot.png/440px-DigiKam_EXIF_information_screenshot.png 2x" data-file-width="448" data-file-height="491" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DigiKam_EXIF_information_screenshot.png" class="internal" title="Enlarge"></a></div><a href="/wiki/DigiKam" title="DigiKam">DigiKam</a> screenshot showing Exif data</div></div></div>
+<p>The following table shows Exif metadata for a photo made with a typical digital camera. Notice that authorship and copyright information is generally not provided in the camera's output, so it must be filled in during later stages of processing. Some programs, such as Canon's <a href="/wiki/Digital_Photo_Professional" title="Digital Photo Professional">Digital Photo Professional</a>, allow the name of the owner to be added to the camera itself.
+</p>
+<table class="wikitable" style="margin:auto;">
+
+<tbody><tr>
+<th>Tag
+</th>
+<th>Value
+</th></tr>
+<tr>
+<td>Manufacturer
+</td>
+<td>CASIO
+</td></tr>
+<tr>
+<td>Model
+</td>
+<td>QV-4000
+</td></tr>
+<tr>
+<td>Orientation (rotation)
+</td>
+<td>top-left [8 possible values<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>]
+</td></tr>
+<tr>
+<td>Software
+</td>
+<td>Ver1.01
+</td></tr>
+<tr>
+<td>Date and time
+</td>
+<td>2003:08:11 16:45:32
+</td></tr>
+<tr>
+<td>YCbCr positioning
+</td>
+<td>centered
+</td></tr>
+<tr>
+<td>Compression
+</td>
+<td>JPEG compression
+</td></tr>
+<tr>
+<td>X resolution
+</td>
+<td>72.00
+</td></tr>
+<tr>
+<td>Y resolution
+</td>
+<td>72.00
+</td></tr>
+<tr>
+<td>Resolution unit
+</td>
+<td>Inch
+</td></tr>
+<tr>
+<td>Exposure time
+</td>
+<td>1/659 s
+</td></tr>
+<tr>
+<td>F-number
+</td>
+<td>f/4.0
+</td></tr>
+<tr>
+<td>Exposure program
+</td>
+<td>Normal program
+</td></tr>
+<tr>
+<td>Exif version
+</td>
+<td>Exif version 2.1
+</td></tr>
+<tr>
+<td>Date and time (original)
+</td>
+<td>2003:08:11 16:45:32
+</td></tr>
+<tr>
+<td>Date and time (digitized)
+</td>
+<td>2003:08:11 16:45:32
+</td></tr>
+<tr>
+<td>Components configuration
+</td>
+<td>Y Cb Cr –
+</td></tr>
+<tr>
+<td>Compressed bits per pixel
+</td>
+<td>4.01
+</td></tr>
+<tr>
+<td>Exposure bias
+</td>
+<td>0.0
+</td></tr>
+<tr>
+<td>Max. aperture value
+</td>
+<td>2.00
+</td></tr>
+<tr>
+<td>Metering mode
+</td>
+<td>Pattern
+</td></tr>
+<tr>
+<td>Flash
+</td>
+<td>Flash did not fire
+</td></tr>
+<tr>
+<td>Focal length
+</td>
+<td>20.1&#160;mm
+</td></tr>
+<tr>
+<td>MakerNote
+</td>
+<td>432 bytes unknown data
+</td></tr>
+<tr>
+<td>FlashPix version
+</td>
+<td><a href="/wiki/FlashPix" title="FlashPix">FlashPix</a> version 1.0
+</td></tr>
+<tr>
+<td>Color space
+</td>
+<td>sRGB
+</td></tr>
+<tr>
+<td>Pixel X dimension
+</td>
+<td>2240
+</td></tr>
+<tr>
+<td>Pixel Y dimension
+</td>
+<td>1680
+</td></tr>
+<tr>
+<td>File source
+</td>
+<td>DSC
+</td></tr>
+<tr>
+<td>Interoperability index
+</td>
+<td>R98
+</td></tr>
+<tr>
+<td>Interoperability version
+</td>
+<td>(null)
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Time_Tags">Time Tags</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=12" title="Edit section: Time Tags">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In addition to the basic date and time tags (<code>DateTime</code>, <code>DateTimeOriginal</code>, and <code>DateTimeDigitized</code>), there are three corresponding "subsecond" tags: <code>SubsecTime</code>, <code>SubsecTimeOriginal</code>, and <code>SubsecTimeDigitized</code>. The <code>SubsecTime</code> tag is defined in version 2.3 as "a tag used to record fractions of seconds for the DateTime tag;"<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> the <code>SubsecTimeOriginal</code> and <code>SubsecTimeDigitized</code> fields are defined similarly. The subsecond tags are of variable length, meaning manufacturers may choose the number of ASCII-encoded decimal digits to place in these tags. For <code>DateTime = 2000:01:01 00:00:00</code>, the actual time with various subsecond values would be: 
+</p>
+<ul><li><code>SubsecTime = 2</code>: <code>2000:01:01 00:00:00.2</code></li>
+<li><code>SubsecTime = 23</code>: <code>2000:01:01 00:00:00.23</code></li>
+<li><code>SubsecTime = 234</code>: <code>2000:01:01 00:00:00.234</code></li>
+<li><code>SubsecTime = 2345</code>: <code>2000:01:01 00:00:00.2345</code></li></ul>
+<p>The standard does not specify which particular event during the "taking" of a picture the time tags should describe. The standard is, in fact, ambiguous. The <code>DateTimeOriginal</code> tag is defined as "The date and time when the original image data was generated." For an exposure—say, 30 seconds—longer than the granularity of the timestamp (one second for the <code>DateTimeOriginal</code> tag), the tag's time could correspond to the beginning of the exposure, the end of the exposure, or some other time. This confusion is exacerbated for the subsecond tags, where the granularity (down to 1/10000th of a second in the examples in the standard) is shorter than many common exposure durations. 
+</p><p>As noted above, tags to specify the previously-missing timezone information were added in Exif version 2.31. These are "OffsetTime", "OffsetTimeOriginal" and "OffsetTimeDigitized". They are formatted as seven ASCII characters (including the null terminator) denoting the hours and minutes of the offset, like <code>+01:00</code> or <code>-01:00</code>. The offset is "from UTC (the time difference from Universal Coordinated Time including daylight saving time) of the time of"<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> the matching tag.
+</p>
+<h2><span class="mw-headline" id="FlashPix_extensions">FlashPix extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=13" title="Edit section: FlashPix extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Exif specification also includes a description of FPXR (FlashPix-ready) information, which may be stored in APP2 of <a href="/wiki/JPEG" title="JPEG">JPEG</a> images using a structure similar to that of a <a href="/wiki/FlashPix" title="FlashPix">FlashPix</a> file.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>  These FlashPix extensions allow meta-information to be preserved when converting between FPXR JPEG images and FlashPix images.  FPXR information may be found in images from some models of digital cameras by <a href="/wiki/Kodak" title="Kodak">Kodak</a> and <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">Hewlett-Packard</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>  Below is an example of the FPXR information found in a JPEG image from a <a href="/wiki/Kodak_EasyShare_V570" title="Kodak EasyShare V570">Kodak EasyShare V570</a> digital camera:
+</p>
+<table class="wikitable" style="margin:auto;">
+
+<tbody><tr>
+<th>Tag
+</th>
+<th>Value
+</th></tr>
+<tr>
+<td>Code page
+</td>
+<td>1200
+</td></tr>
+<tr>
+<td>Used extension numbers
+</td>
+<td>1
+</td></tr>
+<tr>
+<td>Extension name
+</td>
+<td>Screen nail
+</td></tr>
+<tr>
+<td>Extension class ID
+</td>
+<td>10000230-6FC0-11D0-BD01-00609719A180
+</td></tr>
+<tr>
+<td>Extension persistence
+</td>
+<td>Invalidated by modification
+</td></tr>
+<tr>
+<td>Extension create date
+</td>
+<td>2003:03:29 17:47:50
+</td></tr>
+<tr>
+<td>Extension modify date
+</td>
+<td>2003:03:29 17:47:50
+</td></tr>
+<tr>
+<td>Creating application
+</td>
+<td>Picoss
+</td></tr>
+<tr>
+<td>Extension description
+</td>
+<td>Presized image for LCD
+</td></tr>
+<tr>
+<td>Storage-stream pathname
+</td>
+<td>/.Screen Nail_bd0100609719a180
+</td></tr>
+<tr>
+<td>Screen nail
+</td>
+<td>(124,498 bytes of data containing 640×480 JPEG preview image)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Exif_audio_files">Exif audio files</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=14" title="Edit section: Exif audio files">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Exif specification describes the <a href="/wiki/Resource_Interchange_File_Format" title="Resource Interchange File Format">RIFF</a> file format used for <a href="/wiki/WAV" title="WAV">WAV</a> audio files and defines a number of tags for storing meta-information such as artist, copyright, creation date, and more in these files.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>  The following table gives an example of Exif information found in a WAV file written by the <a href="/wiki/PENTAX_Optio_WP" class="mw-redirect" title="PENTAX Optio WP">Pentax Optio WP</a> digital camera:
+</p>
+<table class="wikitable" style="margin:auto;">
+
+<tbody><tr>
+<th>Tag
+</th>
+<th>Value
+</th></tr>
+<tr>
+<td>Encoding
+</td>
+<td>Microsoft PCM
+</td></tr>
+<tr>
+<td>Number of channels
+</td>
+<td>1
+</td></tr>
+<tr>
+<td>Sampling rate
+</td>
+<td>7872
+</td></tr>
+<tr>
+<td>Avg. bytes per second
+</td>
+<td>7872
+</td></tr>
+<tr>
+<td>Bits per sample
+</td>
+<td>8
+</td></tr>
+<tr>
+<td>Date created
+</td>
+<td>2005:08:08
+</td></tr>
+<tr>
+<td>Exif version
+</td>
+<td>0220
+</td></tr>
+<tr>
+<td>Related image file
+</td>
+<td>IMGP1149.JPG
+</td></tr>
+<tr>
+<td>Time created
+</td>
+<td>16:23:35
+</td></tr>
+<tr>
+<td>Make
+</td>
+<td>PENTAX Corporation
+</td></tr>
+<tr>
+<td>Model
+</td>
+<td>PENTAX Optio WP
+</td></tr>
+<tr>
+<td>MakerNote
+</td>
+<td>(2064 bytes of data)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="MakerNote_data">MakerNote data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=15" title="Edit section: MakerNote data">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "MakerNote" tag contains image information normally in a proprietary binary format. Some of these manufacturer-specific formats have been decoded:
+</p>
+<ul><li>OZHiker (not updated since 2008): Agfa, Canon, Casio, Epson, Fujifilm, Konica/Minolta, Kyocera/Contax, Nikon, Olympus, Panasonic, Pentax/Asahi, Ricoh, Sony<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup></li>
+<li>Kamisaka (not updated since 2007): Canon, Casio, FujiFilm, ISL, KDDI, Konica/Minolta, Mamiya, Nikon, Panasonic, Pentax, Ricoh, Sigma, Sony, WWL<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup></li>
+<li>X3F Info: Sigma/Foveon<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup></li>
+<li><a href="/wiki/ExifTool" title="ExifTool">ExifTool</a>: Canon, Casio, FujiFilm, GE, HP,  JVC/Victor, Kodak, Leaf, Minolta/Konica-Minolta, Nikon, Olympus/Epson, Panasonic/Leica, Pentax/Asahi, Reconyx, Ricoh, Samsung, Sanyo, Sigma/Foveon, Sony, etc.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup></li>
+<li>Olypedia: Olympus<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup></li></ul>
+<p>The proprietary formats used by many manufacturers break if the MakerNote tag data is moved (i.e. by inserting or editing a tag that precedes it). The reason to edit to the Exif data could be as simple as to add copyright information, an Exif comment, etc. There are two solutions for this problem:
+</p>
+<ul><li>When the Exif data is saved, the MakerNote data is stored at the same place as before.</li>
+<li>A special offset tag is added. This tag contains the information by how many bytes the MakerNote data was moved in comparison to the original index.</li></ul>
+<p>Microsoft has implemented the last solution in Windows 10: In the Windows explorer you can change the Exif data of an image file by the properties window. Here the tab sheet "Details" contains some Exif data like title, subject, comments etc. and these Exif data can also be changed and stored. When the image file is saved the tag  "OffsetSchema" (tag ID = 0xea1d) is added and this tag contains a signed 32 bit number. With this number the original index of "MakerNote" can be restored:
+</p><p>Original index of "MakerNote" = Current index of "MakerNote" - Value of tag "OffsetSchema"
+</p><p>But the tag  "OffsetSchema" was defined by Microsoft and it is not part of the official Exif standard.
+</p><p>In some cases, camera vendors also store important information only in proprietary makernote fields, instead of using available Exif standard tags. An example for this is Nikon's ISO speed settings tag.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Additive_System_of_Photographic_Exposure" class="mw-redirect" title="Additive System of Photographic Exposure">Additive System of Photographic Exposure</a> (APEX)</li>
+<li><a href="/wiki/Comparison_of_image_viewers" title="Comparison of image viewers">Comparison of image viewers</a> (Exif view/edit functions)</li>
+<li><a href="/wiki/Comparison_of_metadata_editors" class="mw-redirect" title="Comparison of metadata editors">Comparison of metadata editors</a></li>
+<li><a href="/wiki/Design_rule_for_Camera_File_system" title="Design rule for Camera File system">Design rule for Camera File system</a> (DCF)</li>
+<li><a href="/wiki/Digital_photography" title="Digital photography">Digital photography</a></li>
+<li><a href="/wiki/EXtensible_Metadata_Platform" class="mw-redirect" title="EXtensible Metadata Platform">eXtensible Metadata Platform</a> (XMP)</li>
+<li><a href="/wiki/Geocoded_photo" class="mw-redirect" title="Geocoded photo">Geocoded photo</a></li>
+<li><a href="/wiki/Image_file_formats" class="mw-redirect" title="Image file formats">Image file formats</a></li>
+<li><a href="/wiki/IPTC_Information_Interchange_Model" title="IPTC Information Interchange Model">IPTC Information Interchange Model</a></li>
+<li><a href="/wiki/JPEG_File_Interchange_Format" title="JPEG File Interchange Format">JPEG File Interchange Format</a></li>
+<li><a href="/wiki/Metadata_Working_Group" title="Metadata Working Group">Metadata Working Group</a></li>
+<li><a href="/wiki/Tag_Image_File_Format_/_Electronic_Photography" class="mw-redirect" title="Tag Image File Format / Electronic Photography">Tag Image File Format / Electronic Photography</a> (TIFF/EP)</li>
+<li><a href="/wiki/JEIDA_memory_card" title="JEIDA memory card">JEIDA memory card</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Extensions_to_the_PNG_1.2_Specification,_Version_1.5.0-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Extensions_to_the_PNG_1.2_Specification,_Version_1.5.0_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ftp-osl.osuosl.org/pub/libpng/documents/pngext-1.5.0.html#C.eXIf">"Extensions to the PNG 1.2 Specification, Version 1.5.0"</a>. <i>ftp-osl.osuosl.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 March</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ftp-osl.osuosl.org&amp;rft.atitle=Extensions+to+the+PNG+1.2+Specification%2C+Version+1.5.0&amp;rft_id=http%3A%2F%2Fftp-osl.osuosl.org%2Fpub%2Flibpng%2Fdocuments%2Fpngext-1.5.0.html%23C.eXIf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-The_Metadata_in_WEBP_(.webp)_files-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Metadata_in_WEBP_(.webp)_files_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://dev.exiv2.org/projects/exiv2/wiki/The_Metadata_in_WEBP_files">"The Metadata in WEBP (.webp) files"</a>. <i>dev.exiv2.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 Feb</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=dev.exiv2.org&amp;rft.atitle=The+Metadata+in+WEBP+%28.webp%29+files&amp;rft_id=https%3A%2F%2Fdev.exiv2.org%2Fprojects%2Fexiv2%2Fwiki%2FThe_Metadata_in_WEBP_files&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.loc.gov/preservation/digital/formats/fdd/fdd000146.shtml">"Exif Exchangeable Image File Format, Version 2.2,Sustainability of Digital Formats: Planning for Library of Congress Collections"</a>. <i><a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a></i>. 26 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-08-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Library+of+Congress&amp;rft.atitle=Exif+Exchangeable+Image+File+Format%2C+Version+2.2%2CSustainability+of+Digital+Formats%3A+Planning+for+Library+of+Congress+Collections&amp;rft.date=2014-02-26&amp;rft_id=https%3A%2F%2Fwww.loc.gov%2Fpreservation%2Fdigital%2Fformats%2Ffdd%2Ffdd000146.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf">"Standard of the Camera &amp; Imaging Products Association, CIPA DC-008-Translation-2012, Exchangeable image file format for digital still cameras: Exif Version 2.3"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Standard+of+the+Camera+%26+Imaging+Products+Association%2C+CIPA+DC-008-Translation-2012%2C+Exchangeable+image+file+format+for+digital+still+cameras%3A+Exif+Version+2.3&amp;rft_id=http%3A%2F%2Fwww.cipa.jp%2Fstd%2Fdocuments%2Fe%2FDC-008-2012_E.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFTechnical_Standardization_Committee_on_AV_&amp;_IT_Storage_Systems_and_Equipment2002" class="citation web cs1">Technical Standardization Committee on AV &amp; IT Storage Systems and Equipment (April 2002). <a rel="nofollow" class="external text" href="http://www.exif.org/Exif2-2.PDF">"Exchangeable Image File Format for Digital Still Cameras"</a> <span class="cs1-format">(PDF)</span>. Version 2.2. <a href="/wiki/Japan_Electronics_and_Information_Technology_Industries_Association" title="Japan Electronics and Information Technology Industries Association">Japan Electronics and Information Technology Industries Association</a>. JEITA CP-3451<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Exchangeable+Image+File+Format+for+Digital+Still+Cameras&amp;rft.series=Version+2.2&amp;rft.pub=Japan+Electronics+and+Information+Technology+Industries+Association&amp;rft.date=2002-04&amp;rft.au=Technical+Standardization+Committee+on+AV+%26+IT+Storage+Systems+and+Equipment&amp;rft_id=http%3A%2F%2Fwww.exif.org%2FExif2-2.PDF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-mwg_guidance-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-mwg_guidance_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mwg_guidance_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120131102845/http://www.metadataworkinggroup.org/pdf/mwg_guidance.pdf">"Guidelines for Handling Image Metadata"</a> <span class="cs1-format">(PDF)</span>. Metadata Working group. 2010-11-01. Archived from <a rel="nofollow" class="external text" href="http://www.metadataworkinggroup.org/pdf/mwg_guidance.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2012-01-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guidelines+for+Handling+Image+Metadata&amp;rft.pub=Metadata+Working+group&amp;rft.date=2010-11-01&amp;rft_id=http%3A%2F%2Fwww.metadataworkinggroup.org%2Fpdf%2Fmwg_guidance.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://libexif.github.io/">"The libexif C EXIF library"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-07-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+libexif+C+EXIF+library&amp;rft_id=https%3A%2F%2Flibexif.github.io%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.adobe.com/devnet/xmp.html">"Adobe XMP Toolkit SDK"</a>. Adobe Inc.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Adobe+XMP+Toolkit+SDK&amp;rft.pub=Adobe+Inc.&amp;rft_id=https%3A%2F%2Fwww.adobe.com%2Fdevnet%2Fxmp.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.exiv2.org/">"Exiv2 Image Metadata Library"</a>. Andreas Huggel<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Exiv2+Image+Metadata+Library&amp;rft.pub=Andreas+Huggel&amp;rft_id=http%3A%2F%2Fwww.exiv2.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.drewnoakes.com/code/exif/">"Metadata Extractor"</a>. Drew Noakes<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-02-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Metadata+Extractor&amp;rft.pub=Drew+Noakes&amp;rft_id=http%3A%2F%2Fwww.drewnoakes.com%2Fcode%2Fexif%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://owl.phy.queensu.ca/~phil/exiftool/">"Image::ExifTool Perl library"</a>. Phil Harvey<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Image%3A%3AExifTool+Perl+library&amp;rft.pub=Phil+Harvey&amp;rft_id=http%3A%2F%2Fowl.phy.queensu.ca%2F~phil%2Fexiftool%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120703095221/http://partners.adobe.com/public/developer/en/tiff/TIFF6.pdf">"TIFF Revision 6.0"</a> <span class="cs1-format">(PDF)</span>. Adobe. 1992-06-03. Archived from <a rel="nofollow" class="external text" href="http://partners.adobe.com/public/developer/en/tiff/TIFF6.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2012-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TIFF+Revision+6.0&amp;rft.pub=Adobe&amp;rft.date=1992-06-03&amp;rft_id=http%3A%2F%2Fpartners.adobe.com%2Fpublic%2Fdeveloper%2Fen%2Ftiff%2FTIFF6.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://owl.phy.queensu.ca/~phil/exiftool/TagNames/Nikon.html#LensData01">"Nikon Tags: Nikon LensData01 Tags"</a>. Phil Harvey. 2008-01-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nikon+Tags%3A+Nikon+LensData01+Tags&amp;rft.pub=Phil+Harvey&amp;rft.date=2008-01-25&amp;rft_id=http%3A%2F%2Fowl.phy.queensu.ca%2F~phil%2Fexiftool%2FTagNames%2FNikon.html%23LensData01&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMaximillian_Dornseif2004" class="citation web cs1">Maximillian Dornseif (2004-12-17). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928011541/http://blogs.23.nu/disLEXia/stories/5751/">"EXIF Thumbnail in JPEG images"</a>. disLEXia 3000 blog. Archived from <a rel="nofollow" class="external text" href="http://blogs.23.nu/disLEXia/stories/5751">the original</a> on September 28, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EXIF+Thumbnail+in+JPEG+images&amp;rft.pub=disLEXia+3000+blog&amp;rft.date=2004-12-17&amp;rft.au=Maximillian+Dornseif&amp;rft_id=http%3A%2F%2Fblogs.23.nu%2FdisLEXia%2Fstories%2F5751&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160405200235/http://cipa.jp/std/documents/e/DC-007_E.pdf">"Multi-Picture Format"</a> <span class="cs1-format">(PDF)</span>. CIPA. 2009-02-04. Archived from <a rel="nofollow" class="external text" href="http://www.cipa.jp/std/documents/e/DC-007_E.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2016-04-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Multi-Picture+Format&amp;rft.pub=CIPA&amp;rft.date=2009-02-04&amp;rft_id=http%3A%2F%2Fwww.cipa.jp%2Fstd%2Fdocuments%2Fe%2FDC-007_E.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sno.phy.queensu.ca/~phil/exiftool/geotag.html#Orient">"Geotagging with ExifTool"</a>. <i>www.sno.phy.queensu.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-10-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.sno.phy.queensu.ca&amp;rft.atitle=Geotagging+with+ExifTool&amp;rft_id=https%3A%2F%2Fwww.sno.phy.queensu.ca%2F~phil%2Fexiftool%2Fgeotag.html%23Orient&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cipa.jp/std/documents/e/DC-X008-Translation-2019-E.pdf">"CIPA DC-008-Translation-2019 Exchangeable image file format for digital still cameras: Exif Version 2.32"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CIPA+DC-008-Translation-2019+Exchangeable+image+file+format+for+digital+still+cameras%3A+Exif+Version+2.32&amp;rft_id=https%3A%2F%2Fwww.cipa.jp%2Fstd%2Fdocuments%2Fe%2FDC-X008-Translation-2019-E.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.loc.gov/preservation/digital/formats/content/tiff_tags.shtml">"TIFF Tags"</a>. <i><a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Library+of+Congress&amp;rft.atitle=TIFF+Tags&amp;rft_id=https%3A%2F%2Fwww.loc.gov%2Fpreservation%2Fdigital%2Fformats%2Fcontent%2Ftiff_tags.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFWeistra" class="citation web cs1">Weistra, Riny. <a rel="nofollow" class="external text" href="http://www.dpiphoto.eu/dpi.htm">"Dpi, misunderstandings and explanation, what is dpi"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dpi%2C+misunderstandings+and+explanation%2C+what+is+dpi&amp;rft.aulast=Weistra&amp;rft.aufirst=Riny&amp;rft_id=http%3A%2F%2Fwww.dpiphoto.eu%2Fdpi.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cnn.com/2012/12/07/world/americas/guatemala-mcafee-asylum-rejected/index.html">"McAfee wins stay of deportation from Guatemala"</a>. Cnn.com. 7 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=McAfee+wins+stay+of+deportation+from+Guatemala&amp;rft.pub=Cnn.com&amp;rft.date=2012-12-07&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2012%2F12%2F07%2Fworld%2Famericas%2Fguatemala-mcafee-asylum-rejected%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://www.vice.com/read/we-are-with-john-mcafee-right-now-suckers"><i>We Are with John McAfee Right Now, Suckers</i></a>, <a href="/wiki/Vice_(magazine)" title="Vice (magazine)">Vice</a>, December 3, 2012<span class="reference-accessdate">, retrieved <span class="nowrap">7 December</span> 2012</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=We+Are+with+John+McAfee+Right+Now%2C+Suckers&amp;rft.pub=Vice&amp;rft.date=2012-12-03&amp;rft_id=https%3A%2F%2Fwww.vice.com%2Fread%2Fwe-are-with-john-mcafee-right-now-suckers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFAlex_Wilhelm2012" class="citation cs2">Alex Wilhelm (December 3, 2012), <a rel="nofollow" class="external text" href="https://thenextweb.com/insider/2012/12/03/vice-leaves-metadata-in-photo-of-john-mcafee-pinpointing-him-to-a-location-in-guatemala/2012/"><i>Vice leaves metadata in photo of John McAfee, pinpointing him to a location in Guatemala</i></a>, The Next Web<span class="reference-accessdate">, retrieved <span class="nowrap">7 December</span> 2012</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Vice+leaves+metadata+in+photo+of+John+McAfee%2C+pinpointing+him+to+a+location+in+Guatemala&amp;rft.pub=The+Next+Web&amp;rft.date=2012-12-03&amp;rft.au=Alex+Wilhelm&amp;rft_id=https%3A%2F%2Fthenextweb.com%2Finsider%2F2012%2F12%2F03%2Fvice-leaves-metadata-in-photo-of-john-mcafee-pinpointing-him-to-a-location-in-guatemala%2F2012%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://www.cbsnews.com/8301-202_162-57557443/john-mcafee-arrested-in-guatemala-for-illegal-entry/">"John McAfee arrested in Guatemala for illegal entry"</a>, <i><a href="/wiki/CBS_News" title="CBS News">CBS News</a></i>, December 5, 2012<span class="reference-accessdate">, retrieved <span class="nowrap">7 December</span> 2012</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CBS+News&amp;rft.atitle=John+McAfee+arrested+in+Guatemala+for+illegal+entry&amp;rft.date=2012-12-05&amp;rft_id=http%3A%2F%2Fwww.cbsnews.com%2F8301-202_162-57557443%2Fjohn-mcafee-arrested-in-guatemala-for-illegal-entry%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFAlex_Wilhelm2012" class="citation web cs1">Alex Wilhelm (3 December 2012). <a rel="nofollow" class="external text" href="https://thenextweb.com/insider/2012/12/03/it-gets-stranger-now-mcafee-claims-that-he-falsely-edited-the-metadata-on-the-photo-that-placed-him-in-guatemala/">"In fresh twist, John McAfee now claims he falsified the metadata of the photo that placed him in Guatemala"</a>. The Next Web<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=In+fresh+twist%2C+John+McAfee+now+claims+he+falsified+the+metadata+of+the+photo+that+placed+him+in+Guatemala&amp;rft.pub=The+Next+Web&amp;rft.date=2012-12-03&amp;rft.au=Alex+Wilhelm&amp;rft_id=https%3A%2F%2Fthenextweb.com%2Finsider%2F2012%2F12%2F03%2Fit-gets-stranger-now-mcafee-claims-that-he-falsely-edited-the-metadata-on-the-photo-that-placed-him-in-guatemala%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Guardian2-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guardian2_25-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFStaff2013" class="citation news cs1">Staff (July 31, 2013). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation">"XKeyscore Presentation from 2008 – Read in Full – Training Materials for the XKeyscore Program Detail How Analysts Can Use It and Other Systems to Mine Enormous Agency Databases and Develop Intelligence from the Web – Revealed: NSA Program That Collects 'Nearly Everything a User Does on the Internet'<span class="cs1-kern-right"></span>"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 6,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=XKeyscore+Presentation+from+2008+%E2%80%93+Read+in+Full+%E2%80%93+Training+Materials+for+the+XKeyscore+Program+Detail+How+Analysts+Can+Use+It+and+Other+Systems+to+Mine+Enormous+Agency+Databases+and+Develop+Intelligence+from+the+Web+%E2%80%93+Revealed%3A+NSA+Program+That+Collects+%27Nearly+Everything+a+User+Does+on+the+Internet%27&amp;rft.date=2013-07-31&amp;rft.au=Staff&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Finteractive%2F2013%2Fjul%2F31%2Fnsa-xkeyscore-program-full-presentation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Hassan, Nihad, and Hijazi, Rami. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=U-AqDwAAQBAJ&amp;lpg=PA58&amp;ots=4B1eKQe1p3&amp;dq=exif%20romoval&amp;pg=PA57#v=onepage&amp;q&amp;f=false">Digital Privacy and Security Using Windows: A Practical Guide</a>. Apress, 2017, pp. 57-59.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.impulseadventure.com/photo/exif-orientation.html">"JPEG Rotation and EXIF Orientation / Digital Cameras with Orientation Sensors etc"</a>. Impulseadventure.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=JPEG+Rotation+and+EXIF+Orientation+%2F+Digital+Cameras+with+Orientation+Sensors+etc&amp;rft.pub=Impulseadventure.com&amp;rft_id=http%3A%2F%2Fwww.impulseadventure.com%2Fphoto%2Fexif-orientation.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf">"Standard of the Camera &amp; Imaging Products Association, CIPA DC-008-Translation-2012, Exchangeable image file format for digital still cameras: Exif Version 2.3"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Standard+of+the+Camera+%26+Imaging+Products+Association%2C+CIPA+DC-008-Translation-2012%2C+Exchangeable+image+file+format+for+digital+still+cameras%3A+Exif+Version+2.3&amp;rft_id=http%3A%2F%2Fwww.cipa.jp%2Fstd%2Fdocuments%2Fe%2FDC-008-2012_E.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf">"Standard of the Camera &amp; Imaging Products Association, CIPA DC-008-Translation-2012, Exchangeable image file format for digital still cameras: Exif Version 2.3"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Standard+of+the+Camera+%26+Imaging+Products+Association%2C+CIPA+DC-008-Translation-2012%2C+Exchangeable+image+file+format+for+digital+still+cameras%3A+Exif+Version+2.3&amp;rft_id=http%3A%2F%2Fwww.cipa.jp%2Fstd%2Fdocuments%2Fe%2FDC-008-2012_E.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">(JEITA CP-3451) Section 4.7.2: Interoperability Structure of APP2 in Compressed Data.</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPhil_Harvey2011" class="citation web cs1">Phil Harvey (18 March 2011). <a rel="nofollow" class="external text" href="http://owl.phy.queensu.ca/~phil/exiftool/TagNames/FlashPix.html">"FlashPix Tags"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FlashPix+Tags&amp;rft.date=2011-03-18&amp;rft.au=Phil+Harvey&amp;rft_id=http%3A%2F%2Fowl.phy.queensu.ca%2F~phil%2Fexiftool%2FTagNames%2FFlashPix.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">(JEITA CP-3451) Section 5: Exif Audio File Specification.</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEvan_Hunter" class="citation web cs1">Evan Hunter. <a rel="nofollow" class="external text" href="http://ozhiker.com/electronics/pjmt/jpeg_info/makernotes.html">"EXIF Makernotes - Reference Information"</a>. OZHiker<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EXIF+Makernotes+-+Reference+Information&amp;rft.pub=OZHiker&amp;rft.au=Evan+Hunter&amp;rft_id=http%3A%2F%2Fozhiker.com%2Felectronics%2Fpjmt%2Fjpeg_info%2Fmakernotes.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081206190200/http://homepage3.nifty.com/kamisaka/makernote/">"Exif MakerNote 解析カイセキ情報"</a> (in Japanese). Kamisaka. Archived from <a rel="nofollow" class="external text" href="http://homepage3.nifty.com/kamisaka/makernote">the original</a> on 2008-12-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Exif+MakerNote+%E8%A7%A3%E6%9E%90%E3%82%AB%E3%82%A4%E3%82%BB%E3%82%AD%E6%83%85%E5%A0%B1&amp;rft.pub=Kamisaka&amp;rft_id=http%3A%2F%2Fhomepage3.nifty.com%2Fkamisaka%2Fmakernote&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070805234644/http://www.x3f.info/technotes/FileDocs/MakerNoteDoc.html">"SIGMA and FOVEON EXIF MakerNote Documentation"</a>. x3f.info. Archived from <a rel="nofollow" class="external text" href="http://www.x3f.info/technotes/FileDocs/MakerNoteDoc.html">the original</a> on 2007-08-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SIGMA+and+FOVEON+EXIF+MakerNote+Documentation&amp;rft.pub=x3f.info&amp;rft_id=http%3A%2F%2Fwww.x3f.info%2Ftechnotes%2FFileDocs%2FMakerNoteDoc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://exiftool.org/makernote_types.html">"Makernote Types"</a>. <i>exiftool.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=exiftool.org&amp;rft.atitle=Makernote+Types&amp;rft_id=https%3A%2F%2Fexiftool.org%2Fmakernote_types.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080119130645/http://olypedia.de/Olympus_Makernotes">"Olympus Makernotes"</a> (in German). Olypedia. Archived from <a rel="nofollow" class="external text" href="http://olypedia.de/Olympus_Makernotes">the original</a> on 2008-01-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Olympus+Makernotes&amp;rft.pub=Olypedia&amp;rft_id=http%3A%2F%2Folypedia.de%2FOlympus_Makernotes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHuggel2012" class="citation web cs1">Huggel, Andreas (2012-04-25). <a rel="nofollow" class="external text" href="http://www.exiv2.org/makernote.html">"Makernote formats and specifications"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Makernote+formats+and+specifications&amp;rft.date=2012-04-25&amp;rft.aulast=Huggel&amp;rft.aufirst=Andreas&amp;rft_id=http%3A%2F%2Fwww.exiv2.org%2Fmakernote.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExif" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exif&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097025294">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox">
+<div class="side-box-flex">
+<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Exif" class="extiw" title="commons:Category:Exif">Exif</a></span>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://cipa.jp/e/std/std-sec.html">CIPA Standards - Camera &amp; Imaging Products Association</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.cipa.jp/std/documents/e/DC-X008-Translation-2019-E.pdf">Exif standard version 2.32 *New</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf">Exif standard version 2.3</a></li>
+<li>Exif standard version 2.2 as <a rel="nofollow" class="external text" href="http://www.digicamsoft.com/exif22/exif22/html/exif22_1.htm">HTML</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.loc.gov/preservation/digital/formats/fdd/fdd000146.shtml">Exif Exchangeable Image File Format, Version 2.2</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131111073619/http://www.exif.org/Exif2-1.PDF">Exif standard version 2.1</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.awaresystems.be/imaging/tiff/tifftags/privateifd/exif.html">Exif in the TIFF Tag Directory</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171124134612/http://www.metadataworkinggroup.org/">Metadata working group</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.exiv2.org/metadata.html">List of Exif tags including MakerNote tags</a></li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Graphics_file_formats" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Graphics_file_formats" title="Template:Graphics file formats"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Graphics_file_formats" title="Template talk:Graphics file formats"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Graphics_file_formats&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Graphics_file_formats" style="font-size:114%;margin:0 4em"><a href="/wiki/Image_file_format" title="Image file format">Graphics file formats</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Raster_graphics" title="Raster graphics">Raster</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/ANI_(file_format)" title="ANI (file format)"> ANI</a></li>
+<li><a href="/wiki/ANIM" title="ANIM">ANIM</a></li>
+<li><a href="/wiki/APNG" title="APNG">APNG</a></li>
+<li><a href="/wiki/ART_image_file_format" title="ART image file format"> ART</a></li>
+<li><a href="/wiki/AVIF" title="AVIF">AVIF</a></li>
+<li><a href="/wiki/BMP_file_format" title="BMP file format"> BMP</a></li>
+<li><a href="/wiki/Better_Portable_Graphics" title="Better Portable Graphics"> BPG</a></li>
+<li><a href="/wiki/BSAVE_(bitmap_format)" class="mw-redirect" title="BSAVE (bitmap format)"> BSAVE</a></li>
+<li><a href="/wiki/CALS_Raster_file_format" title="CALS Raster file format"> CAL</a></li>
+<li><a href="/wiki/Cineon" title="Cineon"> CIN</a></li>
+<li><a href="/wiki/Cartesian_Perceptual_Compression" title="Cartesian Perceptual Compression"> CPC</a></li>
+<li><a href="/wiki/CPT_(file_format)" title="CPT (file format)"> CPT</a></li>
+<li><a href="/wiki/DirectDraw_Surface" title="DirectDraw Surface"> DDS</a></li>
+<li><a href="/wiki/Digital_Picture_Exchange" title="Digital Picture Exchange"> DPX</a></li>
+<li><a href="/wiki/ECW_(file_format)" title="ECW (file format)"> ECW</a></li>
+<li><a href="/wiki/OpenEXR" title="OpenEXR"> EXR</a></li>
+<li><a href="/wiki/FITS" title="FITS">FITS</a></li>
+<li><a href="/wiki/FLIC_(file_format)" title="FLIC (file format)"> FLIC</a></li>
+<li><a href="/wiki/Free_Lossless_Image_Format" title="Free Lossless Image Format"> FLIF</a></li>
+<li><a href="/wiki/FlashPix" title="FlashPix"> FPX</a></li>
+<li><a href="/wiki/GIF" title="GIF">GIF</a></li>
+<li><a href="/wiki/HDRi_(data_format)" class="mw-redirect" title="HDRi (data format)"> HDRi</a></li>
+<li><a href="/wiki/High_Efficiency_Video_Coding#Main_Still_Picture" title="High Efficiency Video Coding"> HEVC</a></li>
+<li><a href="/wiki/ICER" title="ICER">ICER</a></li>
+<li><a href="/wiki/Apple_Icon_Image_format" title="Apple Icon Image format"> ICNS</a></li>
+<li><a href="/wiki/ICO_(file_format)" title="ICO (file format)"> ICO / CUR</a></li>
+<li><a href="/wiki/Image_Cytometry_Standard" title="Image Cytometry Standard"> ICS</a></li>
+<li><a href="/wiki/ILBM" title="ILBM">ILBM</a></li>
+<li><a href="/wiki/JBIG" title="JBIG">JBIG</a></li>
+<li><a href="/wiki/JBIG2" title="JBIG2">JBIG2</a></li>
+<li><a href="/wiki/JPEG_Network_Graphics" title="JPEG Network Graphics"> JNG</a></li>
+<li><a href="/wiki/JPEG" title="JPEG">JPEG</a></li>
+<li><a href="/wiki/Lossless_JPEG#JPEG-LS" title="Lossless JPEG"> JPEG-LS</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a></li>
+<li><a href="/wiki/JPEG_XL" title="JPEG XL">JPEG XL</a></li>
+<li><a href="/wiki/JPEG_XR" title="JPEG XR">JPEG XR</a></li>
+<li><a href="/wiki/JPEG_XS" title="JPEG XS">JPEG XS</a></li>
+<li><a href="/wiki/JPEG_XT" title="JPEG XT">JPEG XT</a>
+<ul><li><a href="/wiki/JPEG-HDR" class="mw-redirect" title="JPEG-HDR">JPEG-HDR</a></li></ul></li>
+<li><a href="/wiki/Krita" title="Krita"> KRA</a></li>
+<li><a href="/wiki/Multiple-image_Network_Graphics" title="Multiple-image Network Graphics"> MNG</a></li>
+<li><a href="/wiki/Magick_Image_File_Format" title="Magick Image File Format"> MIFF</a></li>
+<li><a href="/wiki/Nearly_raw_raster_data" class="mw-redirect" title="Nearly raw raster data"> NRRD</a></li>
+<li><a href="/wiki/Netpbm#PAM_graphics_format" title="Netpbm"> PAM</a></li>
+<li><a href="/wiki/Netpbm" title="Netpbm"> PBM / PGM / PPM / PNM</a></li>
+<li><a href="/wiki/PCX" title="PCX">PCX</a></li>
+<li><a href="/wiki/Progressive_Graphics_File" title="Progressive Graphics File"> PGF</a></li>
+<li><a href="/wiki/PICtor_PIC_image_format" title="PICtor PIC image format"> PICtor</a></li>
+<li><a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics"> PNG</a></li>
+<li><a href="/wiki/Adobe_Photoshop#PSD" title="Adobe Photoshop"> PSD / PSB</a></li>
+<li><a href="/wiki/PaintShop_Pro" title="PaintShop Pro"> PSP</a></li>
+<li><a href="/wiki/QOI_(image_format)" title="QOI (image format)"> QOI</a></li>
+<li><a href="/wiki/QuickTime_VR" title="QuickTime VR"> QTVR</a></li>
+<li><a href="/wiki/Sun_Raster" title="Sun Raster"> RAS</a></li>
+<li><a href="/wiki/RGBE_image_format" title="RGBE image format"> RGBE</a>
+<ul><li><a href="/wiki/Logluv_TIFF" title="Logluv TIFF">Logluv TIFF</a></li></ul></li>
+<li><a href="/wiki/Silicon_Graphics_Image" title="Silicon Graphics Image"> SGI</a></li>
+<li><a href="/wiki/Truevision_TGA" title="Truevision TGA"> TGA</a></li>
+<li><a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format"> TIFF</a>
+<ul><li><a href="/wiki/TIFF/EP" title="TIFF/EP">TIFF/EP</a></li>
+<li><a href="/wiki/Tagged_Image_File_Format#TIFF/IT" class="mw-redirect" title="Tagged Image File Format"> TIFF/IT</a></li></ul></li>
+<li><a href="/wiki/Ulead_PhotoImpact" title="Ulead PhotoImpact"> UFO / UFP</a></li>
+<li><a href="/wiki/Wireless_Application_Protocol_Bitmap_Format" title="Wireless Application Protocol Bitmap Format"> WBMP</a></li>
+<li><a href="/wiki/WebP" title="WebP">WebP</a></li>
+<li><a href="/wiki/X_BitMap" title="X BitMap"> XBM</a></li>
+<li><a href="/wiki/XCF_(file_format)" title="XCF (file format)"> XCF</a></li>
+<li><a href="/wiki/X_PixMap" title="X PixMap"> XPM</a></li>
+<li><a href="/wiki/Xwd" title="Xwd"> XWD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Raw_image_format" title="Raw image format">Raw</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Camera_Image_File_Format" title="Camera Image File Format"> CIFF</a></li>
+<li><a href="/wiki/Digital_Negative" title="Digital Negative"> DNG</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vector_graphics" title="Vector graphics">Vector</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adobe_Illustrator_Artwork" title="Adobe Illustrator Artwork"> AI</a></li>
+<li><a href="/wiki/CorelDRAW#CDR_file_format" title="CorelDRAW"> CDR</a></li>
+<li><a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile"> CGM</a></li>
+<li><a href="/wiki/AutoCAD_DXF" title="AutoCAD DXF"> DXF</a></li>
+<li><a href="/wiki/Extended_Vector_Animation" title="Extended Vector Animation"> EVA</a></li>
+<li><a href="/wiki/Enhanced_Metafile" class="mw-redirect" title="Enhanced Metafile"> EMF</a></li>
+<li><a href="/wiki/EMF%2B" class="mw-redirect" title="EMF+">EMF+</a></li>
+<li><a href="/wiki/Gerber_format" title="Gerber format"> Gerber</a></li>
+<li><a href="/wiki/Haiku_Vector_Icon_Format" title="Haiku Vector Icon Format"> HVIF</a></li>
+<li><a href="/wiki/IGES" title="IGES">IGES</a></li>
+<li><a href="/wiki/Precision_Graphics_Markup_Language" title="Precision Graphics Markup Language"> PGML</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics"> SVG</a></li>
+<li><a href="/wiki/Vector_Markup_Language" title="Vector Markup Language"> VML</a></li>
+<li><a href="/wiki/Windows_Metafile" title="Windows Metafile"> WMF</a></li>
+<li><a href="/wiki/Xar_(graphics)" title="Xar (graphics)"> Xar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Image_file_format#Compound_formats" title="Image file format">Compound</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Computable_Document_Format" title="Computable Document Format"> CDF</a></li>
+<li><a href="/wiki/DjVu" title="DjVu">DjVu</a></li>
+<li><a href="/wiki/Encapsulated_PostScript" title="Encapsulated PostScript"> EPS</a></li>
+<li><a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format"> PDF</a></li>
+<li><a href="/wiki/PICT" title="PICT">PICT</a></li>
+<li><a href="/wiki/PostScript" title="PostScript"> PS</a></li>
+<li><a href="/wiki/SWF" title="SWF">SWF</a></li>
+<li><a href="/wiki/Extensible_Application_Markup_Language" title="Extensible Application Markup Language"> XAML</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Metadata" title="Metadata">Metadata</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Exchangeable image file format (Exif)</a></li>
+<li><a href="/wiki/International_Press_Telecommunications_Council#Photo_metadata" title="International Press Telecommunications Council">International Press Telecommunications Council §&#160;Photo metadata</a></li>
+<li><a href="/wiki/Extensible_Metadata_Platform" title="Extensible Metadata Platform">Extensible Metadata Platform (XMP)</a></li>
+<li><a href="/wiki/GIF#Metadata" title="GIF">GIF §&#160;Metadata</a></li>
+<li><a href="/wiki/Steganography" title="Steganography">Steganography</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><b><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Graphics_file_formats" title="Category:Graphics file formats">Category</a></b></li>
+<li><b><a href="/wiki/File:Symbol_na_class.svg" class="image" title="Non-article page"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/16px-Symbol_na_class.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/23px-Symbol_na_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/31px-Symbol_na_class.svg.png 2x" data-file-width="180" data-file-height="185" /></a> <a href="/wiki/Comparison_of_graphics_file_formats" title="Comparison of graphics file formats">Comparison</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1387
+Cached time: 20221024064340
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.510 seconds
+Real time usage: 0.645 seconds
+Preprocessor visited node count: 3234/1000000
+Post‐expand include size: 99924/2097152 bytes
+Template argument size: 5264/2097152 bytes
+Highest expansion depth: 24/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 108870/5000000 bytes
+Lua time usage: 0.306/10.000 seconds
+Lua memory usage: 8347505/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  561.987      1 -total
+ 37.52%  210.842      1 Template:Reflist
+ 29.55%  166.095     31 Template:Cite_web
+ 17.04%   95.751      1 Template:Graphics_file_formats
+ 16.54%   92.974      1 Template:Navbox
+ 11.15%   62.639      1 Template:Infobox_file_format
+ 10.52%   59.138      1 Template:Infobox
+  8.37%   47.049      1 Template:Short_description
+  6.99%   39.283      1 Template:Expand_section
+  6.62%   37.181      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:308774-0!canonical and timestamp 20221024064340 and revision id 1117538679.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Exif&amp;oldid=1117538679">https://en.wikipedia.org/w/index.php?title=Exif&amp;oldid=1117538679</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Digital_photography" title="Category:Digital photography">Digital photography</a></li><li><a href="/wiki/Category:Graphics_file_formats" title="Category:Graphics file formats">Graphics file formats</a></li><li><a href="/wiki/Category:JPEG" title="Category:JPEG">JPEG</a></li><li><a href="/wiki/Category:Metadata" title="Category:Metadata">Metadata</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">CS1 Japanese-language sources (ja)</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_August_2020" title="Category:Articles to be expanded from August 2020">Articles to be expanded from August 2020</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2014" title="Category:Articles containing potentially dated statements from 2014">Articles containing potentially dated statements from 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">Articles with unsourced statements from November 2014</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Exif" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Exif" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Exif" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Exif" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Exif"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Exif&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Exif&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Exif" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Exif" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Exif&amp;oldid=1117538679" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Exif&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Exif&amp;id=1117538679&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q196465" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Exif&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Exif&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Exif" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%8A%D8%BA%D8%A9_%D9%85%D9%84%D9%81_%D8%B5%D9%88%D8%B1%D9%8A_%D9%82%D8%A7%D8%A8%D9%84_%D9%84%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84" title="صيغة ملف صوري قابل للتبادل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/Exif" title="Exif – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Exif" title="Exif – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Exif" title="Exif – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Exchangeable_Image_File_Format" title="Exchangeable Image File Format – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Exif" title="Exif – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%B3%DB%8C%D9%81" title="اکسیف – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B5%90%ED%99%98_%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%8C%8C%EC%9D%BC_%ED%98%95%EC%8B%9D" title="교환 이미지 파일 형식 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Exchangeable_Image_File" title="Exchangeable Image File – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/Exif" title="Exif – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Exif" title="Exif – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%8E%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B4%BF%E0%B4%AB%E0%B5%8D" title="എക്സിഫ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Exchangeable_Image_File_Format" title="Exchangeable Image File Format – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Exif" title="Exif – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/EXIF" title="EXIF – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Exif" title="Exif – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Exchangeable_image_file_format" title="Exchangeable image file format – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Exif" title="Exif – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Exif" title="Exif – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Exif" title="Exif – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Exif" title="Exif – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q196465#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 22 October 2022, at 07:42<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Exif&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.510","walltime":"0.645","ppvisitednodes":{"value":3234,"limit":1000000},"postexpandincludesize":{"value":99924,"limit":2097152},"templateargumentsize":{"value":5264,"limit":2097152},"expansiondepth":{"value":24,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":108870,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  561.987      1 -total"," 37.52%  210.842      1 Template:Reflist"," 29.55%  166.095     31 Template:Cite_web"," 17.04%   95.751      1 Template:Graphics_file_formats"," 16.54%   92.974      1 Template:Navbox"," 11.15%   62.639      1 Template:Infobox_file_format"," 10.52%   59.138      1 Template:Infobox","  8.37%   47.049      1 Template:Short_description","  6.99%   39.283      1 Template:Expand_section","  6.62%   37.181      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.306","limit":"10.000"},"limitreport-memusage":{"value":8347505,"limit":52428800}},"cachereport":{"origin":"mw1387","timestamp":"20221024064340","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Exif","url":"https:\/\/en.wikipedia.org\/wiki\/Exif","sameAs":"http:\/\/www.wikidata.org\/entity\/Q196465","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q196465","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-31T21:08:40Z","dateModified":"2022-10-22T07:42:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7e\/Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png","headline":"metadata standard in digital images"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Exif","url":"https:\/\/en.wikipedia.org\/wiki\/Exif","sameAs":"http:\/\/www.wikidata.org\/entity\/Q196465","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q196465","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-31T21:08:40Z","dateModified":"2022-10-22T07:42:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7e\/Epepeotes_uncinatus_%40_Kanjirappally_Exif_02.png","headline":"metadata standard in digital images"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1331"});});</script>
+</body>
+</html>

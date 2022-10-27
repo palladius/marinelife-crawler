@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Focal length - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c46cea38-9acf-438e-9063-3e757f84029d","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Focal_length","wgTitle":"Focal length","wgCurRevisionId":1107549244,"wgRevisionId":1107549244,"wgArticleId":82269,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Articles needing additional references from November 2021","All articles needing additional references","Commons category link is on Wikidata","Articles with GND identifiers","Geometrical optics","Length","Science of photography"
+],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Focal_length","wgRelevantArticleId":82269,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q193540","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.math.scripts","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Focal length - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Focal_length"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Focal_length&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Focal_length"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Focal_length rootpage-Focal_length skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Focal length</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Measure of how strongly an optical system converges or diverges light</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">"Rear focal distance" redirects here. For lens to film distance in a camera, see <a href="/wiki/Flange_focal_distance" title="Flange focal distance">Flange focal distance</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Focal_length&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Focal+length%22">"Focal length"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Focal+length%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Focal+length%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Focal+length%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Focal+length%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Focal+length%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">November 2021</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Focal-length.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Focal-length.svg/220px-Focal-length.svg.png" decoding="async" width="220" height="664" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Focal-length.svg/330px-Focal-length.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Focal-length.svg/440px-Focal-length.svg.png 2x" data-file-width="512" data-file-height="1545" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Focal-length.svg" class="internal" title="Enlarge"></a></div>The focal point <b>F</b> and focal length <i>f</i> of a positive (convex) lens, a negative (concave) lens, a concave mirror, and a convex mirror.</div></div></div>
+<p>The <b>focal length</b> of an <a href="/wiki/Optics" title="Optics">optical</a> system is a measure of how strongly the system converges or diverges <a href="/wiki/Light" title="Light">light</a>; it is the <a href="/wiki/Multiplicative_inverse" title="Multiplicative inverse">inverse</a> of the system's <a href="/wiki/Optical_power" title="Optical power">optical power</a>. A positive focal length indicates that a system <a href="/wiki/Convergence_(optics)" class="mw-redirect" title="Convergence (optics)">converges</a> light, while a negative focal length indicates that the system <a href="/wiki/Divergence_(optics)" class="mw-redirect" title="Divergence (optics)">diverges</a> light. A system with a shorter focal length bends the <a href="/wiki/Ray_(optics)" title="Ray (optics)">rays</a> more sharply, bringing them to a focus in a shorter distance or diverging them more quickly. For the special case of a <a href="/wiki/Thin_lens" title="Thin lens">thin lens</a> in air, a positive focal length is the distance over which initially <a href="/wiki/Collimated_beam" title="Collimated beam">collimated</a> (parallel) rays are brought to a <a href="/wiki/Focus_(optics)" title="Focus (optics)">focus</a>, or alternatively a negative focal length indicates how far in front of the lens a <a href="/wiki/Point_source" title="Point source">point source</a> must be located to form a collimated beam. For more general optical systems, the focal length has no intuitive meaning; it is simply the inverse of the system's optical power.
+</p><p>In most <a href="/wiki/Photography" title="Photography">photography</a> and all <a href="/wiki/Telescopy" class="mw-redirect" title="Telescopy">telescopy</a>, where the subject is essentially infinitely far away, longer focal length (lower optical power) leads to higher <a href="/wiki/Magnification" title="Magnification">magnification</a> and a narrower <a href="/wiki/Angle_of_view" title="Angle of view">angle of view</a>; conversely, shorter focal length or higher optical power is associated with lower magnification and a wider angle of view. On the other hand, in applications such as <a href="/wiki/Microscopy" title="Microscopy">microscopy</a> in which magnification is achieved by bringing the object close to the lens, a shorter focal length (higher optical power) leads to higher magnification because the subject can be brought closer to the center of projection.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Thin_lens_approximation"><span class="tocnumber">1</span> <span class="toctext">Thin lens approximation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_optical_systems"><span class="tocnumber">2</span> <span class="toctext">General optical systems</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#In_photography"><span class="tocnumber">3</span> <span class="toctext">In photography</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Thin_lens_approximation">Thin lens approximation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Focal_length&amp;action=edit&amp;section=1" title="Edit section: Thin lens approximation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For a thin lens in air, the focal length is the distance from the center of the <a href="/wiki/Lens_(optics)" class="mw-redirect" title="Lens (optics)">lens</a> to the principal foci (or <i>focal points</i>) of the lens. For a converging lens (for example a <a href="/wiki/Lens_(optics)#Types_of_simple_lenses" class="mw-redirect" title="Lens (optics)">convex lens</a>), the focal length is positive and is the distance at which a beam of <a href="/wiki/Collimated_light" class="mw-redirect" title="Collimated light">collimated light</a> will be focused to a single spot.  For a diverging lens (for example a <a href="/wiki/Lens_(optics)#Types_of_simple_lenses" class="mw-redirect" title="Lens (optics)">concave lens</a>), the focal length is negative and is the distance to the point from which a collimated beam appears to be diverging after passing through the lens.
+</p><p>When a lens is used to form an image of some object, the distance from the object to the lens <i>u</i>, the distance from the lens to the image <i>v</i>, and the focal length <i>f</i> are related by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {1}{f}}={\frac {1}{u}}+{\frac {1}{v}}\ .}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>f</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>u</mi>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>v</mi>
+          </mfrac>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{f}}={\frac {1}{u}}+{\frac {1}{v}}\ .}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3667a4f96bd5863e1a007aa89dcc0efc1abed2c7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:13.445ex; height:5.676ex;" alt="\frac{1}{f} =\frac{1}{u}+\frac{1}{v}\ ."/></span></dd></dl>
+<p>The focal length of a thin <i>convex</i> lens can be easily measured by using it to form an image of a distant light source on a screen. The lens is moved until a sharp image is formed on the screen. In this case <style data-mw-deduplicate="TemplateStyles:r1050945101">.mw-parser-output .sfrac{white-space:nowrap}.mw-parser-output .sfrac.tion,.mw-parser-output .sfrac .tion{display:inline-block;vertical-align:-0.5em;font-size:85%;text-align:center}.mw-parser-output .sfrac .num,.mw-parser-output .sfrac .den{display:block;line-height:1em;margin:0 0.1em}.mw-parser-output .sfrac .den{border-top:1px solid}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}</style><span role="math" class="sfrac tion"><span class="num">1</span><span class="sr-only">/</span><span class="den"><i>u</i></span></span> is negligible, and the focal length is then given by 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f\approx v\ .}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mi>v</mi>
+        <mtext>&#xA0;</mtext>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f\approx v\ .}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e944e4ed0cd41dcd8e97ca65a147b3bf0fadaf8e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.732ex; height:2.509ex;" alt="f \approx v\ ."/></span></dd></dl>
+<p>Determining the focal length of a <i>concave</i> lens is somewhat more difficult.  The focal length of such a lens is considered that point at which the spreading beams of light would meet before the lens if the lens were not there.  No image is formed during such a test, and the focal length must be determined by passing light (for example, the light of a laser beam) through the lens, examining how much that light becomes dispersed/ bent, and following the beam of light backwards to the lens's focal point.
+</p>
+<h2><span class="mw-headline" id="General_optical_systems">General optical systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Focal_length&amp;action=edit&amp;section=2" title="Edit section: General optical systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:332px;"><a href="/wiki/File:Thick_Lens_Diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thick_Lens_Diagram.svg/330px-Thick_Lens_Diagram.svg.png" decoding="async" width="330" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thick_Lens_Diagram.svg/495px-Thick_Lens_Diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thick_Lens_Diagram.svg/660px-Thick_Lens_Diagram.svg.png 2x" data-file-width="621" data-file-height="354" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Thick_Lens_Diagram.svg" class="internal" title="Enlarge"></a></div>Thick lens diagram</div></div></div>
+<p>For a <i>thick</i> lens (one which has a non-negligible thickness), or an imaging system consisting of several lenses or mirrors (e.g. a <a href="/wiki/Photographic_lens" class="mw-redirect" title="Photographic lens">photographic lens</a> or a <a href="/wiki/Telescope" title="Telescope">telescope</a>), the focal length is often called the <i>effective focal length</i> (EFL), to distinguish it from other commonly used parameters:
+</p>
+<ul><li><i>Front focal length</i> (FFL) or <i>front focal distance</i> (FFD) (<i>s</i><sub>F</sub>) is the distance from the front focal point of the system (F) to the <a href="/wiki/Surface_vertex" class="mw-redirect" title="Surface vertex">vertex</a> of the <i>first optical surface</i> (S<sub>1</sub>).<sup id="cite_ref-Greivenkamp_1-0" class="reference"><a href="#cite_note-Greivenkamp-1">&#91;1&#93;</a></sup><sup id="cite_ref-Hecht1_2-0" class="reference"><a href="#cite_note-Hecht1-2">&#91;2&#93;</a></sup></li>
+<li><i>Back focal length</i> (BFL) or <i>back focal distance</i> (BFD) (<i>s′</i><sub>F′</sub>) is the distance from the vertex of the <i>last optical surface</i> of the system (S<sub>2</sub>) to the rear focal point (F′).<sup id="cite_ref-Greivenkamp_1-1" class="reference"><a href="#cite_note-Greivenkamp-1">&#91;1&#93;</a></sup><sup id="cite_ref-Hecht1_2-1" class="reference"><a href="#cite_note-Hecht1-2">&#91;2&#93;</a></sup></li></ul>
+<p>For an optical system in air, the effective focal length (<i>f</i> and <i>f′</i>) gives the distance from the front and rear <a href="/wiki/Principal_plane" class="mw-redirect" title="Principal plane">principal planes</a> (H and H′) to the corresponding focal points (F and F′). If the surrounding medium is not air, then the distance is multiplied by the <a href="/wiki/Refractive_index" title="Refractive index">refractive index</a> of the medium (<i>n</i> is the refractive index of the substance from which the lens itself is made; <i>n</i><sub>1</sub> is the refractive index of any medium in front of the lens; <i>n</i><sub>2</sub> is that of any medium in back of it). Some authors call these distances the front/rear focal <i>lengths</i>, distinguishing them from the front/rear focal <i>distances</i>, defined above.<sup id="cite_ref-Greivenkamp_1-2" class="reference"><a href="#cite_note-Greivenkamp-1">&#91;1&#93;</a></sup>
+</p><p>In general, the focal length or EFL is the value that describes the ability of the optical system to focus light, and is the value used to calculate the <a href="/wiki/Magnification" title="Magnification">magnification</a> of the system. The other parameters are used in determining where an <a href="/wiki/Image" title="Image">image</a> will be formed for a given object position.
+</p><p>For the case of a lens of thickness <i>d</i> in air (<span class="nowrap"><i>n</i><sub>1</sub> = <i>n</i><sub>2</sub> = 1</span>), and surfaces with <a href="/wiki/Radius_of_curvature_(optics)" title="Radius of curvature (optics)">radii of curvature</a> <i>R</i><sub>1</sub> and <i>R</i><sub>2</sub>, the effective focal length <i>f</i> is given by the <a href="/wiki/Lensmaker%27s_equation" class="mw-redirect" title="Lensmaker&#39;s equation">Lensmaker's equation</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {1}{f}}=(n-1)\left({\frac {1}{R_{1}}}-{\frac {1}{R_{2}}}+{\frac {(n-1)d}{nR_{1}R_{2}}}\right),}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>f</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>n</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mn>1</mn>
+                <msub>
+                  <mi>R</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>1</mn>
+                  </mrow>
+                </msub>
+              </mfrac>
+            </mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mn>1</mn>
+                <msub>
+                  <mi>R</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mn>2</mn>
+                  </mrow>
+                </msub>
+              </mfrac>
+            </mrow>
+            <mo>+</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>n</mi>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mn>1</mn>
+                  <mo stretchy="false">)</mo>
+                  <mi>d</mi>
+                </mrow>
+                <mrow>
+                  <mi>n</mi>
+                  <msub>
+                    <mi>R</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>1</mn>
+                    </mrow>
+                  </msub>
+                  <msub>
+                    <mi>R</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{f}}=(n-1)\left({\frac {1}{R_{1}}}-{\frac {1}{R_{2}}}+{\frac {(n-1)d}{nR_{1}R_{2}}}\right),}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2e2010210e076991723978c5a99360eeed59472" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:39.511ex; height:6.343ex;" alt="{\displaystyle {\frac {1}{f}}=(n-1)\left({\frac {1}{R_{1}}}-{\frac {1}{R_{2}}}+{\frac {(n-1)d}{nR_{1}R_{2}}}\right),}"/></span></dd></dl>
+<p>where <i>n</i> is the <a href="/wiki/Refractive_index" title="Refractive index">refractive index</a> of the lens medium. The quantity <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1050945101"/><span role="math" class="sfrac tion"><span class="num">1</span><span class="sr-only">/</span><span class="den"><i>f</i></span></span> is also known as the optical power of the lens.
+</p><p>The corresponding front focal distance is:<sup id="cite_ref-Hecht2_3-0" class="reference"><a href="#cite_note-Hecht2-3">&#91;3&#93;</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mbox{FFD}}=f\left(1+{\frac {(n-1)d}{nR_{2}}}\right),}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext>FFD</mtext>
+          </mstyle>
+        </mrow>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>n</mi>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mn>1</mn>
+                  <mo stretchy="false">)</mo>
+                  <mi>d</mi>
+                </mrow>
+                <mrow>
+                  <mi>n</mi>
+                  <msub>
+                    <mi>R</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mbox{FFD}}=f\left(1+{\frac {(n-1)d}{nR_{2}}}\right),}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9471eb9177d72521a5943bfa14a7756f31289910" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:27.292ex; height:6.343ex;" alt="\mbox{FFD} = f \left( 1 + \frac{ (n-1) d}{n R_2} \right), "/></span></dd></dl>
+<p>and the back focal distance:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mbox{BFD}}=f\left(1-{\frac {(n-1)d}{nR_{1}}}\right).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext>BFD</mtext>
+          </mstyle>
+        </mrow>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>n</mi>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mn>1</mn>
+                  <mo stretchy="false">)</mo>
+                  <mi>d</mi>
+                </mrow>
+                <mrow>
+                  <mi>n</mi>
+                  <msub>
+                    <mi>R</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>1</mn>
+                    </mrow>
+                  </msub>
+                </mrow>
+              </mfrac>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mbox{BFD}}=f\left(1-{\frac {(n-1)d}{nR_{1}}}\right).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d960246575820798485bd311f6821f03f3fa973" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:27.42ex; height:6.343ex;" alt="\mbox{BFD} = f \left( 1 - \frac{ (n-1) d}{n R_1} \right). "/></span></dd></dl>
+<p>In the <a href="/wiki/Sign_convention" title="Sign convention">sign convention</a> used here, the value of <i>R</i><sub>1</sub> will be positive if the first lens surface is convex, and negative if it is concave. The value of <i>R</i><sub>2</sub> is negative if the second surface is convex, and positive if concave. Note that sign conventions vary between different authors, which results in different forms of these equations depending on the convention used.
+</p><p>For a <a href="/wiki/Sphere" title="Sphere">spherically</a> curved <a href="/wiki/Mirror" title="Mirror">mirror</a> in air, the magnitude of the focal length is equal to the <a href="/wiki/Radius_of_curvature_(optics)" title="Radius of curvature (optics)">radius of curvature</a> of the mirror divided by two. The focal length is positive for a <a href="/wiki/Concave_mirror" class="mw-redirect" title="Concave mirror">concave mirror</a>, and negative for a <a href="/wiki/Convex_mirror" class="mw-redirect" title="Convex mirror">convex mirror</a>. In the sign convention used in optical design, a concave mirror has negative radius of curvature, so
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f=-{R \over 2},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo>=</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>R</mi>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f=-{R \over 2},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5be974ce82b40e2c9b3c401cfe0df8aee8b17b7b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:9.432ex; height:5.176ex;" alt="{\displaystyle f=-{R \over 2},}"/></span></dd></dl>
+<p>where <i>R</i> is the radius of curvature of the mirror's surface.
+</p><p>See <a href="/wiki/Radius_of_curvature_(optics)" title="Radius of curvature (optics)">Radius of curvature (optics)</a> for more information on the sign convention for radius of curvature used here.
+</p>
+<h2><span class="mw-headline" id="In_photography">In photography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Focal_length&amp;action=edit&amp;section=3" title="Edit section: In photography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1096954695/mw-parser-output/.tmulti">.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tnone center"><div class="thumbinner multiimageinner" style="width:616px;max-width:616px"><div class="trow"><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Angleofview_28mm_f4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Angleofview_28mm_f4.jpg/150px-Angleofview_28mm_f4.jpg" decoding="async" width="150" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Angleofview_28mm_f4.jpg/225px-Angleofview_28mm_f4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/12/Angleofview_28mm_f4.jpg 2x" data-file-width="298" data-file-height="195" /></a></div><div class="thumbcaption">28 mm lens</div></div><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Angleofview_50mm_f4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Angleofview_50mm_f4.jpg/150px-Angleofview_50mm_f4.jpg" decoding="async" width="150" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Angleofview_50mm_f4.jpg/225px-Angleofview_50mm_f4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9c/Angleofview_50mm_f4.jpg 2x" data-file-width="300" data-file-height="192" /></a></div><div class="thumbcaption">50 mm lens</div></div><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Angleofview_70mm_f4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Angleofview_70mm_f4.jpg/150px-Angleofview_70mm_f4.jpg" decoding="async" width="150" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Angleofview_70mm_f4.jpg/225px-Angleofview_70mm_f4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/68/Angleofview_70mm_f4.jpg 2x" data-file-width="300" data-file-height="191" /></a></div><div class="thumbcaption">70 mm lens</div></div><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Angleofview_210mm_f4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Angleofview_210mm_f4.jpg/150px-Angleofview_210mm_f4.jpg" decoding="async" width="150" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Angleofview_210mm_f4.jpg/225px-Angleofview_210mm_f4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fd/Angleofview_210mm_f4.jpg 2x" data-file-width="300" data-file-height="195" /></a></div><div class="thumbcaption">210 mm lens</div></div></div><div class="trow" style="display:flow-root"><div class="thumbcaption" style="text-align:center">An example of how lens choice affects angle of view. The photos above were taken by a <a href="/wiki/135_film" title="135 film">35&#160;mm</a> camera at a fixed distance from the subject.</div></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:332px;"><a href="/wiki/File:Thin_lens_images.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Thin_lens_images.svg/330px-Thin_lens_images.svg.png" decoding="async" width="330" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Thin_lens_images.svg/495px-Thin_lens_images.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Thin_lens_images.svg/660px-Thin_lens_images.svg.png 2x" data-file-width="512" data-file-height="293" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Thin_lens_images.svg" class="internal" title="Enlarge"></a></div>Images of black letters in a thin convex lens of focal length <i>f</i> are shown in red. Selected rays are shown for letters <b>E</b>, <b>I</b> and <b>K</b> in blue, green and orange, respectively. Note that <b>E</b> (at 2<i>f</i>) has an equal-size, real and inverted image; <b>I</b> (at <i>f</i>) has its image at infinity; and <b>K</b> (at <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1050945101"/><span role="math" class="sfrac tion"><span class="num"><i>f</i></span><span class="sr-only">/</span><span class="den">2</span></span>) has a double-size, virtual and upright image.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:332px;"><a href="/wiki/File:Camera_focal_length_distance_house_animation.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Camera_focal_length_distance_house_animation.gif/330px-Camera_focal_length_distance_house_animation.gif" decoding="async" width="330" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Camera_focal_length_distance_house_animation.gif/495px-Camera_focal_length_distance_house_animation.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d3/Camera_focal_length_distance_house_animation.gif 2x" data-file-width="512" data-file-height="512" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Camera_focal_length_distance_house_animation.gif" class="internal" title="Enlarge"></a></div>In this computer simulation, adjusting the field of view (by changing the focal length) while keeping the subject in frame (by changing accordingly the position of the camera) results in vastly differing images. At focal lengths approaching infinity (0 degrees of field of view), the light rays are nearly parallel to each other, resulting in the subject looking "flattened". At small focal lengths (bigger field of view), the subject appears "foreshortened".</div></div></div>
+<p>Camera lens focal lengths are usually specified in millimetres (mm), but some older lenses are marked in centimetres (cm) or inches.
+</p><p>Focal length (<i>f</i>) and <a href="/wiki/Field_of_view" title="Field of view">field of view</a> (FOV) of a lens are inversely proportional. For a standard <a href="/wiki/Rectilinear_lens" title="Rectilinear lens">rectilinear lens</a>, FOV&#160;=&#160;2&#160;arctan&#160;<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1050945101"/><span role="math" class="sfrac tion"><span class="num"><i>x</i></span><span class="sr-only">/</span><span class="den">2<i>f</i></span></span>, where <i>x</i> is the diagonal of the film.
+</p><p>When a photographic lens is set to "infinity", its rear <a href="/wiki/Nodal_point" class="mw-redirect" title="Nodal point">nodal point</a> is separated from the sensor or film, at the <a href="/wiki/Focal_plane" class="mw-redirect" title="Focal plane">focal plane</a>, by the lens's focal length. Objects far away from the camera then produce sharp images on the sensor or film, which is also at the image plane.
+</p><p>To render closer objects in sharp focus, the lens must be adjusted to increase the distance between the rear nodal point and the film, to put the film at the image plane. The focal length (<i>f</i>), the distance from the front nodal point to the object to photograph (<i>s</i><sub>1</sub>), and the distance from the rear nodal point to the image plane (<i>s</i><sub>2</sub>) are then related by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {1}{s_{1}}}+{\frac {1}{s_{2}}}={\frac {1}{f}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msub>
+              <mi>s</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msub>
+              <mi>s</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>f</mi>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{s_{1}}}+{\frac {1}{s_{2}}}={\frac {1}{f}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1615a001e806cd9cc9f6b6c7b79545e39778718f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:14.662ex; height:5.676ex;" alt="{\displaystyle {\frac {1}{s_{1}}}+{\frac {1}{s_{2}}}={\frac {1}{f}}.}"/></span></dd></dl>
+<p>As <i>s</i><sub>1</sub> is decreased, <i>s</i><sub>2</sub> must be increased.  For example, consider a <a href="/wiki/Normal_lens" title="Normal lens">normal lens</a> for a <a href="/wiki/35mm_format" class="mw-redirect" title="35mm format">35&#160;mm</a> camera with a focal length of <i>f</i>&#160;=&#160;50&#160;mm. To focus a distant object (<i>s</i><sub>1</sub>&#160;≈&#160;∞), the rear nodal point of the lens must be located a distance <i>s</i><sub>2</sub>&#160;=&#160;50&#160;mm from the image plane. To focus an object 1&#160;m away (<i>s</i><sub>1</sub>&#160;=&#160;1,000&#160;mm), the lens must be moved 2.6&#160;mm farther away from the image plane, to <i>s</i><sub>2</sub>&#160;=&#160;52.6&#160;mm.
+</p><p>The focal length of a lens determines the magnification at which it images distant objects.  It is equal to the distance between the image plane and a <a href="/wiki/Pinhole_camera" title="Pinhole camera">pinhole that images</a> distant objects the same size as the lens in question.  For <a href="/wiki/Rectilinear_lens" title="Rectilinear lens">rectilinear lenses</a> (that is, with no <a href="/wiki/Image_distortion" class="mw-redirect" title="Image distortion">image distortion</a>), the imaging of distant objects is well modelled as a <a href="/wiki/Pinhole_camera_model" title="Pinhole camera model">pinhole camera model</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  
+This model leads to the simple geometric model that photographers use for computing the <a href="/wiki/Angle_of_view" title="Angle of view">angle of view</a> of a camera; in this case, the angle of view depends only on the ratio of focal length to <a href="/wiki/Film_format" title="Film format">film size</a>.  In general, the angle of view depends also on the distortion.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>A lens with a focal length about equal to the diagonal size of the film or sensor format is known as a <a href="/wiki/Normal_lens" title="Normal lens">normal lens</a>; its angle of view is similar to the angle subtended by a large-enough print viewed at a typical viewing distance of the print diagonal, which therefore yields a normal perspective when viewing the print;<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> 
+this angle of view is about 53 degrees diagonally. For full-frame 35&#160;mm-format cameras, the diagonal is 43&#160;mm and a typical "normal" lens has a 50&#160;mm focal length.  A lens with a focal length shorter than normal is often referred to as a <a href="/wiki/Wide-angle_lens" title="Wide-angle lens">wide-angle lens</a> (typically 35&#160;mm and less, for 35&#160;mm-format cameras), while a lens significantly longer than normal may be referred to as a <a href="/wiki/Telephoto_lens" title="Telephoto lens">telephoto lens</a> (typically 85&#160;mm and more, for 35&#160;mm-format cameras). Technically, long focal length lenses are only "telephoto" if the focal length is longer than the physical length of the lens, but the term is often used to describe any long focal length lens.
+</p><p>Due to the popularity of the <a href="/wiki/135_film" title="135 film">35&#160;mm standard</a>, camera–lens combinations are often described in terms of their <a href="/wiki/35_mm_equivalent_focal_length" title="35 mm equivalent focal length">35&#160;mm-equivalent focal length</a>, that is, the focal length of a lens that would have the same angle of view, or field of view, if used on a <a href="/wiki/Full-frame_digital_SLR" class="mw-redirect" title="Full-frame digital SLR">full-frame</a> 35&#160;mm camera.  Use of a 35&#160;mm-equivalent focal length is particularly common with <a href="/wiki/Digital_camera" title="Digital camera">digital cameras</a>, which often use sensors smaller than 35&#160;mm film, and so require correspondingly shorter focal lengths to achieve a given angle of view, by a factor known as the <a href="/wiki/Crop_factor" title="Crop factor">crop factor</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Focal_length&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Depth_of_field" title="Depth of field">Depth of field</a></li>
+<li><a href="/wiki/Dioptre" title="Dioptre">Dioptre</a></li>
+<li><a href="/wiki/F-number" title="F-number">f-number</a> or focal ratio</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Focal_length&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097025294">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox">
+<div class="side-box-flex">
+<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Focal_length" class="extiw" title="commons:Category:Focal length">Focal length</a></span>.</div></div>
+</div>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Greivenkamp-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Greivenkamp_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Greivenkamp_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Greivenkamp_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+<style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFJohn_E._Greivenkamp2004" class="citation book cs1">John E. Greivenkamp (2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1YfZNWZAwCAC&amp;q=%22focal+length%22+%22rear+principal%22+intitle%3AGeometrical&amp;pg=PA6"><i>Field Guide to Geometrical Optics</i></a>. <a href="/wiki/SPIE#SPIE_Press" title="SPIE">SPIE Press</a>. pp.&#160;6–9. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8194-5294-8" title="Special:BookSources/978-0-8194-5294-8"><bdi>978-0-8194-5294-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Field+Guide+to+Geometrical+Optics&amp;rft.pages=6-9&amp;rft.pub=SPIE+Press&amp;rft.date=2004&amp;rft.isbn=978-0-8194-5294-8&amp;rft.au=John+E.+Greivenkamp&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1YfZNWZAwCAC%26q%3D%2522focal%2Blength%2522%2B%2522rear%2Bprincipal%2522%2Bintitle%253AGeometrical%26pg%3DPA6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocal+length" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Hecht1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hecht1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hecht1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHecht2002" class="citation book cs1">Hecht, Eugene (2002). <i>Optics</i> (4th&#160;ed.). <a href="/wiki/Addison_Wesley" class="mw-redirect" title="Addison Wesley">Addison Wesley</a>. p.&#160;168. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0805385663" title="Special:BookSources/978-0805385663"><bdi>978-0805385663</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Optics&amp;rft.pages=168&amp;rft.edition=4th&amp;rft.pub=Addison+Wesley&amp;rft.date=2002&amp;rft.isbn=978-0805385663&amp;rft.aulast=Hecht&amp;rft.aufirst=Eugene&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocal+length" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Hecht2-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hecht2_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHecht2002" class="citation book cs1">Hecht, Eugene (2002). <i>Optics</i> (4th&#160;ed.). <a href="/wiki/Addison_Wesley" class="mw-redirect" title="Addison Wesley">Addison Wesley</a>. pp.&#160;244–245. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0805385663" title="Special:BookSources/978-0805385663"><bdi>978-0805385663</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Optics&amp;rft.pages=244-245&amp;rft.edition=4th&amp;rft.pub=Addison+Wesley&amp;rft.date=2002&amp;rft.isbn=978-0805385663&amp;rft.aulast=Hecht&amp;rft.aufirst=Eugene&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocal+length" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFCharles2000" class="citation book cs1">Charles, Jeffrey (2000). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/practicalastroph00char"><i>Practical astrophotography</i></a></span>. Springer. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/practicalastroph00char/page/63">63</a>–66. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85233-023-1" title="Special:BookSources/978-1-85233-023-1"><bdi>978-1-85233-023-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Practical+astrophotography&amp;rft.pages=63-66&amp;rft.pub=Springer&amp;rft.date=2000&amp;rft.isbn=978-1-85233-023-1&amp;rft.aulast=Charles&amp;rft.aufirst=Jeffrey&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fpracticalastroph00char&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocal+length" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFStroebelZakia1993" class="citation book cs1">Stroebel, Leslie; Zakia, Richard D. (1993). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/focalencyclopedi00lesl"><i>The Focal encyclopedia of photography</i></a></span> (3rd&#160;ed.). <a href="/wiki/Focal_Press" title="Focal Press">Focal Press</a>. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/focalencyclopedi00lesl/page/27">27</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-240-51417-8" title="Special:BookSources/978-0-240-51417-8"><bdi>978-0-240-51417-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Focal+encyclopedia+of+photography&amp;rft.pages=27&amp;rft.edition=3rd&amp;rft.pub=Focal+Press&amp;rft.date=1993&amp;rft.isbn=978-0-240-51417-8&amp;rft.aulast=Stroebel&amp;rft.aufirst=Leslie&amp;rft.au=Zakia%2C+Richard+D.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Ffocalencyclopedi00lesl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocal+length" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFStroebel1999" class="citation book cs1">Stroebel, Leslie D. (1999). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=71zxDuunAvMC&amp;q=appear-normal+focal-length-lens+print-size+diagonal+viewer+distance&amp;pg=PA136"><i>View Camera Technique</i></a>. <a href="/wiki/Focal_Press" title="Focal Press">Focal Press</a>. pp.&#160;135–138. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-240-80345-6" title="Special:BookSources/978-0-240-80345-6"><bdi>978-0-240-80345-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=View+Camera+Technique&amp;rft.pages=135-138&amp;rft.pub=Focal+Press&amp;rft.date=1999&amp;rft.isbn=978-0-240-80345-6&amp;rft.aulast=Stroebel&amp;rft.aufirst=Leslie+D.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D71zxDuunAvMC%26q%3Dappear-normal%2Bfocal-length-lens%2Bprint-size%2Bdiagonal%2Bviewer%2Bdistance%26pg%3DPA136&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFocal+length" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Photography" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Photography" title="Template:Photography"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Photography" title="Template talk:Photography"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Photography&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Photography" style="font-size:114%;margin:0 4em"><a href="/wiki/Photography" title="Photography">Photography</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Equipment</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Camera" title="Camera">Camera</a>
+<ul><li><a href="/wiki/Light_field_camera" title="Light field camera">light-field</a></li>
+<li><a href="/wiki/Digital_camera" title="Digital camera">digital</a></li>
+<li><a href="/wiki/Field_camera" title="Field camera">field</a></li>
+<li><a href="/wiki/Instant_camera" title="Instant camera">instant</a></li>
+<li><a href="/wiki/Pinhole_camera" title="Pinhole camera">pinhole</a></li>
+<li><a href="/wiki/Press_camera" title="Press camera">press</a></li>
+<li><a href="/wiki/Rangefinder_camera" title="Rangefinder camera">rangefinder</a></li>
+<li><a href="/wiki/Single-lens_reflex_camera" title="Single-lens reflex camera">SLR</a></li>
+<li><a href="/wiki/Still_camera" class="mw-redirect" title="Still camera">still</a></li>
+<li><a href="/wiki/Twin-lens_reflex_camera" title="Twin-lens reflex camera">TLR</a></li>
+<li><a href="/wiki/Toy_camera" title="Toy camera">toy</a></li>
+<li><a href="/wiki/View_camera" title="View camera">view</a></li></ul></li>
+<li><a href="/wiki/Darkroom" title="Darkroom">Darkroom</a>
+<ul><li><a href="/wiki/Enlarger" title="Enlarger">enlarger</a></li>
+<li><a href="/wiki/Safelight" title="Safelight">safelight</a></li></ul></li>
+<li><a href="/wiki/Photographic_film" title="Photographic film">Film</a>
+<ul><li><a href="/wiki/Film_base" title="Film base">base</a></li>
+<li><a href="/wiki/Film_format" title="Film format">format</a></li>
+<li><a href="/wiki/Film_holder" title="Film holder">holder</a></li>
+<li><a href="/wiki/Film_stock" title="Film stock">stock</a></li>
+<li><a href="/wiki/List_of_photographic_films" title="List of photographic films">available films</a></li>
+<li><a href="/wiki/List_of_discontinued_photographic_films" title="List of discontinued photographic films">discontinued films</a></li></ul></li>
+<li><a href="/wiki/Photographic_filter" title="Photographic filter">Filter</a></li>
+<li><a href="/wiki/Flash_(photography)" title="Flash (photography)">Flash</a>
+<ul><li><a href="/wiki/Beauty_dish" title="Beauty dish">beauty dish</a></li>
+<li><a href="/wiki/Cucoloris" title="Cucoloris">cucoloris</a></li>
+<li><a href="/wiki/Gobo_(lighting)" title="Gobo (lighting)">gobo</a></li>
+<li><a href="/wiki/Hot_shoe" title="Hot shoe">hot shoe</a></li>
+<li><a href="/wiki/Lens_hood" title="Lens hood">lens hood</a></li>
+<li><a href="/wiki/Monolight" title="Monolight">monolight</a></li>
+<li><a href="/wiki/Reflector_(photography)" title="Reflector (photography)">Reflector</a></li>
+<li><a href="/wiki/Snoot" title="Snoot">snoot</a></li>
+<li><a href="/wiki/Softbox" title="Softbox">Softbox</a></li></ul></li>
+<li><a href="/wiki/Camera_lens" title="Camera lens">Lens</a>
+<ul><li><a href="/wiki/Prime_lens" title="Prime lens">Prime lens</a></li>
+<li><a href="/wiki/Zoom_lens" title="Zoom lens">Zoom lens</a></li>
+<li><a href="/wiki/Wide-angle_lens" title="Wide-angle lens">Wide-angle lens</a></li>
+<li><a href="/wiki/Telephoto_lens" title="Telephoto lens">Telephoto lens</a></li></ul></li>
+<li><a href="/wiki/List_of_photographic_equipment_makers" title="List of photographic equipment makers">Manufacturers</a></li>
+<li><a href="/wiki/Monopod" title="Monopod">Monopod</a></li>
+<li><a href="/wiki/Movie_projector" title="Movie projector">Movie projector</a></li>
+<li><a href="/wiki/Slide_projector" title="Slide projector">Slide projector</a></li>
+<li><a href="/wiki/Tripod_(photography)" title="Tripod (photography)">Tripod</a>
+<ul><li><a href="/wiki/Tripod_head" title="Tripod head">head</a></li></ul></li>
+<li><a href="/wiki/Zone_plate" title="Zone plate">Zone plate</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Terminology</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/35_mm_equivalent_focal_length" title="35 mm equivalent focal length">35 mm equivalent focal length</a></li>
+<li><a href="/wiki/Angle_of_view" title="Angle of view">Angle of view</a></li>
+<li><a href="/wiki/Aperture" title="Aperture">Aperture</a></li>
+<li><a href="/wiki/Backscatter_(photography)" title="Backscatter (photography)">Backscatter</a></li>
+<li><a href="/wiki/Black_and_white" title="Black and white">Black and white</a></li>
+<li><a href="/wiki/Chromatic_aberration" title="Chromatic aberration">Chromatic aberration</a></li>
+<li><a href="/wiki/Circle_of_confusion" title="Circle of confusion">Circle of confusion</a></li>
+<li><a href="/wiki/Color_balance" title="Color balance">Color balance</a></li>
+<li><a href="/wiki/Color_temperature" title="Color temperature">Color temperature</a></li>
+<li><a href="/wiki/Depth_of_field" title="Depth of field">Depth of field</a></li>
+<li><a href="/wiki/Depth_of_focus" title="Depth of focus">Depth of focus</a></li>
+<li><a href="/wiki/Exposure_(photography)" title="Exposure (photography)">Exposure</a></li>
+<li><a href="/wiki/Exposure_compensation" title="Exposure compensation">Exposure compensation</a></li>
+<li><a href="/wiki/Exposure_value" title="Exposure value">Exposure value</a></li>
+<li><a href="/wiki/Zebra_patterning" title="Zebra patterning">Zebra patterning</a></li>
+<li><a href="/wiki/F-number" title="F-number">F-number</a></li>
+<li><a href="/wiki/Film_format" title="Film format">Film format</a>
+<ul><li><a href="/wiki/Large_format" title="Large format">Large</a></li>
+<li><a href="/wiki/Medium_format" title="Medium format">Medium</a></li></ul></li>
+<li><a href="/wiki/Film_speed" title="Film speed">Film speed</a></li>
+<li><a class="mw-selflink selflink">Focal length</a></li>
+<li><a href="/wiki/Guide_number" title="Guide number">Guide number</a></li>
+<li><a href="/wiki/Hyperfocal_distance" title="Hyperfocal distance">Hyperfocal distance</a></li>
+<li><a href="/wiki/Lens_flare" title="Lens flare">Lens flare</a></li>
+<li><a href="/wiki/Metering_mode" title="Metering mode">Metering mode</a></li>
+<li><a href="/wiki/Perspective_distortion_(photography)" title="Perspective distortion (photography)">Perspective distortion</a></li>
+<li><a href="/wiki/Photograph" title="Photograph">Photograph</a></li>
+<li><a href="/wiki/Photographic_printing" title="Photographic printing">Photographic printing</a></li>
+<li><a href="/wiki/List_of_photographic_processes" title="List of photographic processes">Photographic processes</a></li>
+<li><a href="/wiki/Reciprocity_(photography)" title="Reciprocity (photography)">Reciprocity</a></li>
+<li><a href="/wiki/Red-eye_effect" title="Red-eye effect">Red-eye effect</a></li>
+<li><a href="/wiki/Science_of_photography" title="Science of photography">Science of photography</a></li>
+<li><a href="/wiki/Shutter_speed" title="Shutter speed">Shutter speed</a></li>
+<li><a href="/wiki/Flash_synchronization" title="Flash synchronization">Sync</a></li>
+<li><a href="/wiki/Zone_System" title="Zone System">Zone System</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Genres</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Abstract_photography" title="Abstract photography">Abstract</a></li>
+<li><a href="/wiki/Aerial_photography" title="Aerial photography">Aerial</a></li>
+<li><a href="/wiki/Aircraft_spotting" title="Aircraft spotting">Aircraft</a></li>
+<li><a href="/wiki/Architectural_photography" title="Architectural photography">Architectural</a></li>
+<li><a href="/wiki/Astrophotography" title="Astrophotography">Astrophotography</a></li>
+<li><a href="/wiki/Banquet_photography" title="Banquet photography">Banquet</a></li>
+<li><a href="/wiki/Conceptual_photography" title="Conceptual photography">Conceptual</a></li>
+<li><a href="/wiki/Conservation_photography" title="Conservation photography">Conservation</a></li>
+<li><a href="/wiki/Cloudscape_photography" title="Cloudscape photography">Cloudscape</a></li>
+<li><a href="/wiki/Documentary_photography" title="Documentary photography">Documentary</a></li>
+<li><a href="/wiki/Visual_anthropology" title="Visual anthropology">Ethnographic</a></li>
+<li><a href="/wiki/Erotic_photography" title="Erotic photography">Erotic</a></li>
+<li><a href="/wiki/Fashion_photography" title="Fashion photography">Fashion</a></li>
+<li><a href="/wiki/Fine-art_photography" title="Fine-art photography">Fine-art</a></li>
+<li><a href="/wiki/Fire_photography" title="Fire photography">Fire</a></li>
+<li><a href="/wiki/Forensic_photography" title="Forensic photography">Forensic</a></li>
+<li><a href="/wiki/Glamour_photography" title="Glamour photography">Glamour</a></li>
+<li><a href="/wiki/High-speed_photography" title="High-speed photography">High-speed</a></li>
+<li><a href="/wiki/Landscape_photography" title="Landscape photography">Landscape</a></li>
+<li><a href="/wiki/Nature_photography" title="Nature photography">Nature</a></li>
+<li><a href="/wiki/Neues_Sehen" title="Neues Sehen">Neues Sehen</a></li>
+<li><a href="/wiki/Nude_photography" title="Nude photography">Nude</a></li>
+<li><a href="/wiki/Photojournalism" title="Photojournalism">Photojournalism</a></li>
+<li><a href="/wiki/Pictorialism" title="Pictorialism">Pictorialism</a></li>
+<li><a href="/wiki/Pornography" title="Pornography">Pornography</a></li>
+<li><a href="/wiki/Portrait_photography" title="Portrait photography">Portrait</a></li>
+<li><a href="/wiki/Post-mortem_photography" title="Post-mortem photography">Post-mortem</a></li>
+<li><a href="/wiki/Selfie" title="Selfie">Selfie</a></li>
+<li><a href="/wiki/Social_documentary_photography" title="Social documentary photography">Social documentary</a></li>
+<li><a href="/wiki/Sports_photography" title="Sports photography">Sports</a></li>
+<li><a href="/wiki/Still_life_photography" title="Still life photography">Still life</a></li>
+<li><a href="/wiki/Stock_photography" title="Stock photography">Stock</a></li>
+<li><a href="/wiki/Straight_photography" title="Straight photography">Straight photography</a></li>
+<li><a href="/wiki/Street_photography" title="Street photography">Street</a></li>
+<li><a href="/wiki/Toy_camera" title="Toy camera">Toy camera</a></li>
+<li><a href="/wiki/Underwater_photography" title="Underwater photography">Underwater</a></li>
+<li><a href="/wiki/Vernacular_photography" title="Vernacular photography">Vernacular</a></li>
+<li><a href="/wiki/Wedding_photography" title="Wedding photography">Wedding</a></li>
+<li><a href="/wiki/Wildlife_photography" title="Wildlife photography">Wildlife</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Techniques</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Afocal_photography" title="Afocal photography">Afocal</a></li>
+<li><a href="/wiki/Bokeh" title="Bokeh">Bokeh</a></li>
+<li><a href="/wiki/Brenizer_Method" title="Brenizer Method">Brenizer</a></li>
+<li><a href="/wiki/Burst_mode_(photography)" title="Burst mode (photography)">Burst mode</a></li>
+<li><a href="/wiki/Contre-jour" title="Contre-jour">Contre-jour</a></li>
+<li><a href="/wiki/Cyanotype" title="Cyanotype">Cyanotype</a></li>
+<li><a href="/wiki/Exposing_to_the_right" title="Exposing to the right">ETTR</a></li>
+<li><a href="/wiki/Fill_flash" title="Fill flash">Fill flash</a></li>
+<li><a href="/wiki/Fireworks_photography" title="Fireworks photography">Fireworks</a></li>
+<li><a href="/wiki/Harris_shutter" title="Harris shutter">Harris shutter</a></li>
+<li><a href="/wiki/High-speed_photography" title="High-speed photography">High-speed</a></li>
+<li><a href="/wiki/Holography" title="Holography">Holography</a></li>
+<li><a href="/wiki/Infrared_photography" title="Infrared photography">Infrared</a></li>
+<li><a href="/wiki/Intentional_camera_movement" title="Intentional camera movement">Intentional camera movement</a></li>
+<li><a href="/wiki/Kirlian_photography" title="Kirlian photography">Kirlian</a></li>
+<li><a href="/wiki/Kite_aerial_photography" title="Kite aerial photography">Kite aerial</a></li>
+<li><a href="/wiki/Long-exposure_photography" title="Long-exposure photography">Long-exposure</a></li>
+<li><a href="/wiki/Macro_photography" title="Macro photography">Macro</a></li>
+<li><a href="/wiki/Mordan%C3%A7age" title="Mordançage">Mordançage</a></li>
+<li><a href="/wiki/Multiple_exposure" title="Multiple exposure">Multiple exposure</a></li>
+<li><a href="/wiki/Multi-exposure_HDR_capture" title="Multi-exposure HDR capture">Multi-exposure HDR capture</a></li>
+<li><a href="/wiki/Night_photography" title="Night photography">Night</a></li>
+<li><a href="/wiki/Panning_(camera)" title="Panning (camera)">Panning</a></li>
+<li><a href="/wiki/Panoramic_photography" title="Panoramic photography">Panoramic</a></li>
+<li><a href="/wiki/Photogram" title="Photogram">Photogram</a></li>
+<li><a href="/wiki/Photographic_print_toning" title="Photographic print toning">Print toning</a></li>
+<li><a href="/wiki/Redscale" title="Redscale">Redscale</a></li>
+<li><a href="/wiki/Rephotography" title="Rephotography">Rephotography</a></li>
+<li><a href="/wiki/Rollout_photography" title="Rollout photography">Rollout</a></li>
+<li><a href="/wiki/Scanography" title="Scanography">Scanography</a></li>
+<li><a href="/wiki/Schlieren_photography" title="Schlieren photography">Schlieren photography</a></li>
+<li><a href="/wiki/Sabattier_effect" title="Sabattier effect">Sabattier effect</a></li>
+<li><a href="/wiki/Slow_motion" title="Slow motion">Slow motion</a></li>
+<li><a href="/wiki/Stereoscopy" title="Stereoscopy">Stereoscopy</a></li>
+<li><a href="/wiki/Stopping_down" title="Stopping down">Stopping down</a></li>
+<li><a href="/wiki/Strip_photography" title="Strip photography">Strip</a>
+<ul><li><a href="/wiki/Slit-scan_photography" title="Slit-scan photography">Slit-scan</a></li></ul></li>
+<li><a href="/wiki/Sun_printing" title="Sun printing">Sun printing</a></li>
+<li><a href="/wiki/Tilt%E2%80%93shift_photography" title="Tilt–shift photography">Tilt–shift</a>
+<ul><li><a href="/wiki/Miniature_faking" title="Miniature faking">Miniature faking</a></li></ul></li>
+<li><a href="/wiki/Time-lapse_photography" title="Time-lapse photography">Time-lapse</a></li>
+<li><a href="/wiki/Ultraviolet_photography" title="Ultraviolet photography">Ultraviolet</a></li>
+<li><a href="/wiki/Vignetting" title="Vignetting">Vignetting</a></li>
+<li><a href="/wiki/Xerox_art" title="Xerox art">Xerography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Composition_(visual_arts)" title="Composition (visual arts)">Composition</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Diagonal_method" title="Diagonal method">Diagonal method</a></li>
+<li><a href="/wiki/Framing_(visual_arts)" title="Framing (visual arts)">Framing</a></li>
+<li><a href="/wiki/Headroom_(photographic_framing)" title="Headroom (photographic framing)">Headroom</a></li>
+<li><a href="/wiki/Lead_room" title="Lead room">Lead room</a></li>
+<li><a href="/wiki/Rule_of_thirds" title="Rule of thirds">Rule of thirds</a></li>
+<li><a href="/wiki/Simplicity_(photography)" title="Simplicity (photography)">Simplicity</a></li>
+<li><a href="/wiki/Golden_triangle_(composition)" title="Golden triangle (composition)">Golden triangle (composition)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_photography" title="History of photography">History</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Timeline_of_photography_technology" title="Timeline of photography technology">Timeline of photography technology</a></li>
+<li><a href="/wiki/Analog_photography" title="Analog photography">Analog photography</a></li>
+<li><a href="/wiki/Autochrome_Lumi%C3%A8re" title="Autochrome Lumière">Autochrome Lumière</a></li>
+<li><a href="/wiki/Box_camera" title="Box camera">Box camera</a></li>
+<li><a href="/wiki/Calotype" title="Calotype">Calotype</a></li>
+<li><a href="/wiki/Camera_obscura" title="Camera obscura">Camera obscura</a></li>
+<li><a href="/wiki/Daguerreotype" title="Daguerreotype">Daguerreotype</a></li>
+<li><a href="/wiki/Dufaycolor" title="Dufaycolor">Dufaycolor</a></li>
+<li><a href="/wiki/Heliography" title="Heliography">Heliography</a></li>
+<li><a href="/wiki/Painted_photography_backdrops" title="Painted photography backdrops">Painted photography backdrops</a></li>
+<li><a href="/wiki/Photography_and_the_law" title="Photography and the law">Photography and the law</a></li>
+<li><a href="/wiki/Photographic_plate" title="Photographic plate">Glass plate</a></li>
+<li><a href="/wiki/Visual_arts" title="Visual arts">Visual arts</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Photography_in_Albania" title="Photography in Albania">Albania</a></li>
+<li><a href="/wiki/Photography_in_Bangladesh" title="Photography in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Photography_in_Canada" title="Photography in Canada">Canada</a></li>
+<li><a href="/wiki/Photography_in_China" title="Photography in China">China</a></li>
+<li><a href="/wiki/Photography_in_Denmark" title="Photography in Denmark">Denmark</a></li>
+<li><a href="/wiki/Photography_in_Greece" title="Photography in Greece">Greece</a></li>
+<li><a href="/wiki/Photography_in_India" title="Photography in India">India</a></li>
+<li><a href="/wiki/Photography_in_Japan" title="Photography in Japan">Japan</a></li>
+<li><a href="/wiki/Photography_in_Korea" title="Photography in Korea">Korea</a></li>
+<li><a href="/wiki/Photography_in_Luxembourg" title="Photography in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Photography_in_Norway" title="Photography in Norway">Norway</a></li>
+<li><a href="/wiki/Photography_in_the_Philippines" title="Photography in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Photography_in_Serbia" title="Photography in Serbia">Serbia</a></li>
+<li><a href="/wiki/Photography_in_Slovenia" class="mw-redirect" title="Photography in Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Photography_in_Sudan" title="Photography in Sudan">Sudan</a></li>
+<li><a href="/wiki/Photography_in_Taiwan" title="Photography in Taiwan">Taiwan</a></li>
+<li><a href="/wiki/Photography_in_Turkey" title="Photography in Turkey">Turkey</a></li>
+<li><a href="/wiki/Photography_in_Ukraine" title="Photography in Ukraine">Ukraine</a></li>
+<li><a href="/wiki/Photography_in_the_United_States" title="Photography in the United States">United States</a></li>
+<li><a href="/wiki/Photography_in_Uzbekistan" title="Photography in Uzbekistan">Uzbekistan</a></li>
+<li><a href="/wiki/Photography_in_Vietnam" title="Photography in Vietnam">Vietnam</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Digital_photography" title="Digital photography">Digital photography</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Digital_camera" title="Digital camera">Digital camera</a>
+<ul><li><a href="/wiki/Digital_single-lens_reflex_camera" title="Digital single-lens reflex camera">D-SLR</a>
+<ul><li><a href="/wiki/Comparison_of_digital_SLRs" title="Comparison of digital SLRs">comparison</a></li></ul></li>
+<li><a href="/wiki/Mirrorless_camera" title="Mirrorless camera">MILC</a></li>
+<li><a href="/wiki/Digital_camera_back" title="Digital camera back">camera back</a></li></ul></li>
+<li><a href="/wiki/Digiscoping" title="Digiscoping">Digiscoping</a></li>
+<li><a href="/wiki/Comparison_of_digital_and_film_photography" title="Comparison of digital and film photography">Comparison of digital and film photography</a></li>
+<li><a href="/wiki/Film_scanner" title="Film scanner">Film scanner</a></li>
+<li><a href="/wiki/Image_sensor" title="Image sensor">Image sensor</a>
+<ul><li><a href="/wiki/Active-pixel_sensor" title="Active-pixel sensor">CMOS APS</a></li>
+<li><a href="/wiki/Charge-coupled_device" title="Charge-coupled device">CCD</a></li>
+<li><a href="/wiki/Three-CCD_camera" title="Three-CCD camera">Three-CCD camera</a></li>
+<li><a href="/wiki/Foveon_X3_sensor" title="Foveon X3 sensor">Foveon X3 sensor</a></li></ul></li>
+<li><a href="/wiki/Image_sharing" title="Image sharing">Image sharing</a></li>
+<li><a href="/wiki/Pixel" title="Pixel">Pixel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_photography" title="Color photography">Color photography</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Color" title="Color">Color</a></li>
+<li><a href="/wiki/Color_print_film" title="Color print film">Print film</a>
+<ul><li><a href="/wiki/Chromogenic_print" title="Chromogenic print">Chromogenic print</a></li></ul></li>
+<li><a href="/wiki/Reversal_film" title="Reversal film">Reversal film</a></li>
+<li><a href="/wiki/Color_management" title="Color management">Color management</a>
+<ul><li><a href="/wiki/Color_space" title="Color space">color space</a></li>
+<li><a href="/wiki/Primary_color" title="Primary color">primary color</a></li>
+<li><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK color model</a></li>
+<li><a href="/wiki/RGB_color_model" title="RGB color model">RGB color model</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Photographic_processing" title="Photographic processing">Photographic<br />processing</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bleach_bypass" title="Bleach bypass">Bleach bypass</a></li>
+<li><a href="/wiki/C-41_process" title="C-41 process">C-41 process</a></li>
+<li><a href="/wiki/Cross_processing" title="Cross processing">Cross processing</a></li>
+<li><a href="/wiki/Photographic_developer" title="Photographic developer">Developer</a></li>
+<li><a href="/wiki/Digital_image_processing" title="Digital image processing">Digital image processing</a></li>
+<li><a href="/wiki/Dye_coupler" title="Dye coupler">Dye coupler</a></li>
+<li><a href="/wiki/E-6_process" title="E-6 process">E-6 process</a></li>
+<li><a href="/wiki/Photographic_fixer" title="Photographic fixer">Fixer</a></li>
+<li><a href="/wiki/Gelatin_silver_process" title="Gelatin silver process">Gelatin silver process</a></li>
+<li><a href="/wiki/Gum_printing" title="Gum printing">Gum printing</a></li>
+<li><a href="/wiki/Instant_film" title="Instant film">Instant film</a></li>
+<li><a href="/wiki/K-14_process" title="K-14 process">K-14 process</a></li>
+<li><a href="/wiki/Print_permanence" title="Print permanence">Print permanence</a></li>
+<li><a href="/wiki/Push_processing" title="Push processing">Push processing</a></li>
+<li><a href="/wiki/Stop_bath" title="Stop bath">Stop bath</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/List_of_most_expensive_photographs" title="List of most expensive photographs">Most expensive photographs</a></li>
+<li><a href="/wiki/List_of_photographs_considered_the_most_important" title="List of photographs considered the most important">Photographs considered the most important</a></li>
+<li><a href="/wiki/List_of_photographers" title="List of photographers">Photographers</a>
+<ul><li><a href="/wiki/List_of_Norwegian_photographers" title="List of Norwegian photographers">Norwegian</a></li>
+<li><a href="/wiki/List_of_Polish_photographers" title="List of Polish photographers">Polish</a></li>
+<li><a href="/wiki/List_of_street_photographers" title="List of street photographers">street</a></li>
+<li><a href="/wiki/List_of_women_photographers" title="List of women photographers">women</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Conservation_and_restoration_of_photographs" title="Conservation and restoration of photographs">Conservation and restoration of photographs</a>
+<ul><li><a href="/wiki/Conservation_and_restoration_of_film" title="Conservation and restoration of film">film</a></li>
+<li><a href="/wiki/Conservation_and_restoration_of_photographic_plates" title="Conservation and restoration of photographic plates">photographic plates</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" />&#160;<a href="/wiki/Category:Photography" title="Category:Photography">Category</a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/10px-Global_thinking.svg.png" decoding="async" title="Outline" width="10" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/15px-Global_thinking.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/21px-Global_thinking.svg.png 2x" data-file-width="130" data-file-height="200" />&#160;<a href="/wiki/Outline_of_photography" title="Outline of photography">Outline</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q193540#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q193540#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control: National libraries</a>  <a href="https://www.wikidata.org/wiki/Q193540#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4344267-5">Germany</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20221023044109
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.399 seconds
+Real time usage: 0.586 seconds
+Preprocessor visited node count: 1120/1000000
+Post‐expand include size: 64840/2097152 bytes
+Template argument size: 1074/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31031/5000000 bytes
+Lua time usage: 0.214/10.000 seconds
+Lua memory usage: 6725599/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  421.043      1 -total
+ 26.45%  111.354      1 Template:Reflist
+ 22.19%   93.443      6 Template:Cite_book
+ 15.05%   63.371      1 Template:More_citations
+ 14.80%   62.335      1 Template:Short_description
+ 14.31%   60.269      1 Template:Photography_subject
+ 13.46%   56.686      1 Template:Ambox
+ 13.11%   55.219      1 Template:Navbox
+  8.51%   35.819      2 Template:Pagetype
+  7.98%   33.587      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:82269-0!canonical and timestamp 20221023044108 and revision id 1107549244.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Focal_length&amp;oldid=1107549244">https://en.wikipedia.org/w/index.php?title=Focal_length&amp;oldid=1107549244</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geometrical_optics" title="Category:Geometrical optics">Geometrical optics</a></li><li><a href="/wiki/Category:Length" title="Category:Length">Length</a></li><li><a href="/wiki/Category:Science_of_photography" title="Category:Science of photography">Science of photography</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2021" title="Category:Articles needing additional references from November 2021">Articles needing additional references from November 2021</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Focal+length" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Focal+length" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Focal_length" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Focal_length" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Focal_length"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Focal_length&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Focal_length&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Focal_length" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Focal_length" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Focal_length&amp;oldid=1107549244" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Focal_length&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Focal_length&amp;id=1107549244&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q193540" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Focal_length&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Focal_length&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Focal_length" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Fokusafstand" title="Fokusafstand – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B9%D8%AF_%D8%A8%D8%A4%D8%B1%D9%8A" title="بعد بؤري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Distancia_focal" title="Distancia focal – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%B8_%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AC" title="ফোকাস দূরত্ব – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Brennweidn" title="Brennweidn – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Dist%C3%A0ncia_focal" title="Distància focal – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ohniskov%C3%A1_vzd%C3%A1lenost" title="Ohnisková vzdálenost – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Br%C3%A6ndvidde" title="Brændvidde – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Brennweite" title="Brennweite – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Fookuskaugus" title="Fookuskaugus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%95%CF%83%CF%84%CE%B9%CE%B1%CE%BA%CE%AE_%CE%B1%CF%80%CF%8C%CF%83%CF%84%CE%B1%CF%83%CE%B7" title="Εστιακή απόσταση – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Distancia_focal" title="Distancia focal – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/%C4%88efa_fokusa_distanco" title="Ĉefa fokusa distanco – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B5%D9%84%D9%87_%DA%A9%D8%A7%D9%86%D9%88%D9%86%DB%8C_%D8%B9%D8%AF%D8%B3%DB%8C" title="فاصله کانونی عدسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Focale" title="Focale – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%B4%88%EC%A0%90%EA%B1%B0%EB%A6%AC" title="초점거리 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8B%E0%A4%95%E0%A4%B8_%E0%A4%A6%E0%A5%82%E0%A4%B0%E0%A5%80" title="फोकस दूरी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/%C5%BDari%C5%A1na_duljina" title="Žarišna duljina – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Jarak_fokus" title="Jarak fokus – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Distantia_focal" title="Distantia focal – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Lunghezza_focale" title="Lunghezza focale – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Distans_fokal" title="Distans fokal – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Brennw%C3%A4it" title="Brennwäit – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/%C5%BDidinio_nuotolis" title="Židinio nuotolis – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/F%C3%B3kuszt%C3%A1vols%C3%A1g" title="Fókusztávolság – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B8%E0%B5%8D_%E0%B4%A6%E0%B5%82%E0%B4%B0%E0%B4%82" title="ഫോക്കസ് ദൂരം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Jarak_fokus" title="Jarak fokus – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Brandpuntsafstand" title="Brandpuntsafstand – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E7%84%A6%E7%82%B9%E8%B7%9D%E9%9B%A2" title="焦点距離 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Brennvidde" title="Brennvidde – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Brennvidd" title="Brennvidd – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Fokus_masofasi" title="Fokus masofasi – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Ogniskowa" title="Ogniskowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_focal" title="Distância focal – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Distan%C8%9B%C4%83_focal%C4%83" title="Distanță focală – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" title="Фокусное расстояние – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Focal_length" title="Focal length – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Ohniskov%C3%A1_vzdialenos%C5%A5" title="Ohnisková vzdialenosť – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Gori%C5%A1%C4%8Dna_razdalja" title="Goriščna razdalja – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%C5%BDi%C5%BEna_daljina" title="Žižna daljina – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/%C5%BDari%C5%A1na_duljina" title="Žarišna duljina – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Polttov%C3%A4li" title="Polttoväli – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Br%C3%A4nnvidd" title="Brännvidd – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AE%AE%E0%AF%8D" title="குவியத் தூரம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Odak" title="Odak – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%83%D1%81%D0%BD%D0%B0_%D0%B2%D1%96%D0%B4%D1%81%D1%82%D0%B0%D0%BD%D1%8C" title="Фокусна відстань – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B7%D9%88%D9%84_%D9%85%D8%A7%D8%B3%DA%A9%DB%81" title="طول ماسکہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Ti%C3%AAu_c%E1%BB%B1" title="Tiêu cự – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%84%A6%E8%B7%9D" title="焦距 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%84%A6%E8%B7%9D" title="焦距 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q193540#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 30 August 2022, at 15:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Focal_length&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.399","walltime":"0.586","ppvisitednodes":{"value":1120,"limit":1000000},"postexpandincludesize":{"value":64840,"limit":2097152},"templateargumentsize":{"value":1074,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31031,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  421.043      1 -total"," 26.45%  111.354      1 Template:Reflist"," 22.19%   93.443      6 Template:Cite_book"," 15.05%   63.371      1 Template:More_citations"," 14.80%   62.335      1 Template:Short_description"," 14.31%   60.269      1 Template:Photography_subject"," 13.46%   56.686      1 Template:Ambox"," 13.11%   55.219      1 Template:Navbox","  8.51%   35.819      2 Template:Pagetype","  7.98%   33.587      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.214","limit":"10.000"},"limitreport-memusage":{"value":6725599,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20221023044109","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Focal length","url":"https:\/\/en.wikipedia.org\/wiki\/Focal_length","sameAs":"http:\/\/www.wikidata.org\/entity\/Q193540","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q193540","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-08T12:03:31Z","dateModified":"2022-08-30T15:51:13Z","headline":"measure of how strongly an optical system converges or diverges light"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Focal length","url":"https:\/\/en.wikipedia.org\/wiki\/Focal_length","sameAs":"http:\/\/www.wikidata.org\/entity\/Q193540","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q193540","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-08T12:03:31Z","dateModified":"2022-08-30T15:51:13Z","headline":"measure of how strongly an optical system converges or diverges light"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1373"});});</script>
+</body>
+</html>
