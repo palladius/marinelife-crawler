@@ -6,6 +6,10 @@ Help:*
 Talk:*
 Template_talk:*
 
+# I downloaded them too many times:
+*.1
+*.2
+*.3
 
 # non fish things:
 *_(Company)

@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>IMSI-catcher - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"9e31360d-c51d-4c11-84b1-6be40d23e3c9","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"IMSI-catcher","wgTitle":"IMSI-catcher","wgCurRevisionId":1104290162,"wgRevisionId":1104290162,"wgArticleId":2089044,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles with short description","Short description is different from Wikidata","Use dmy dates from March 2016","Articles needing additional references from March 2017","All articles needing additional references","Surveillance","Mobile security",
+"Telephone tapping","Telephony equipment","Law enforcement equipment"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"IMSI-catcher","wgRelevantArticleId":2089044,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"IMSI_catcher","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/IMSI-catcher","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q1423310","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="IMSI-catcher - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/IMSI-catcher"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=IMSI-catcher&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/IMSI-catcher"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-IMSI-catcher rootpage-IMSI-catcher skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">IMSI-catcher</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=IMSI_catcher&amp;redirect=no" class="mw-redirect" title="IMSI catcher">IMSI catcher</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Telephone eavesdropping device</div>
+<p>
+An <b>international mobile subscriber identity-catcher</b>, or <b>IMSI-catcher</b>, is a <a href="/wiki/Telephone_tapping" title="Telephone tapping">telephone eavesdropping</a> device used for intercepting <a href="/wiki/Mobile_phone" title="Mobile phone">mobile phone</a> traffic and tracking location data of mobile phone users.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup> Essentially a "fake" <a href="/wiki/Cell_site" title="Cell site">mobile tower</a> acting between the target mobile phone and the service provider's real towers, it is considered a <a href="/wiki/Man-in-the-middle_attack" title="Man-in-the-middle attack">man-in-the-middle</a> (MITM) attack. The <a href="/wiki/3G" title="3G">3G wireless standard</a> offers some risk mitigation due to mutual authentication required from both the handset and the network.<sup id="cite_ref-:1_2-0" class="reference"><a href="#cite_note-:1-2">&#91;2&#93;</a></sup> However, sophisticated attacks may be able to downgrade 3G and <a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a> to non-LTE network services which do not require mutual authentication.<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3">&#91;3&#93;</a></sup>
+</p><p>IMSI-catchers are used in a number of countries by <a href="/wiki/Law_enforcement_agency" title="Law enforcement agency">law enforcement</a> and <a href="/wiki/Intelligence_agency" title="Intelligence agency">intelligence agencies</a>, but their use has raised significant civil liberty and privacy concerns and is strictly regulated in some countries such as under the German <i>Strafprozessordnung</i> (StPO / Code of Criminal Procedure).<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Some countries do not have encrypted phone data traffic (or very weak encryption), thus rendering an IMSI-catcher unnecessary.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Functionalities"><span class="tocnumber">2</span> <span class="toctext">Functionalities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Identifying_an_IMSI"><span class="tocnumber">2.1</span> <span class="toctext">Identifying an IMSI</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Tapping_a_mobile_phone"><span class="tocnumber">2.2</span> <span class="toctext">Tapping a mobile phone</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Passive_IMSI_Detection"><span class="tocnumber">2.3</span> <span class="toctext">Passive IMSI Detection</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Universal_Mobile_Telecommunications_System_(UMTS)"><span class="tocnumber">3</span> <span class="toctext">Universal Mobile Telecommunications System (UMTS)</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Tell-tales_and_difficulties"><span class="tocnumber">4</span> <span class="toctext">Tell-tales and difficulties</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Detection_and_counter-measures"><span class="tocnumber">5</span> <span class="toctext">Detection and counter-measures</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External  links</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Footnotes"><span class="tocnumber">8</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links_2"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A virtual <a href="/wiki/Base_transceiver_station" title="Base transceiver station">base transceiver station</a> (VBTS)<sup id="cite_ref-rspatent_5-0" class="reference"><a href="#cite_note-rspatent-5">&#91;5&#93;</a></sup> is a device for identifying the <a href="/wiki/Temporary_Mobile_Subscriber_Identity" class="mw-redirect" title="Temporary Mobile Subscriber Identity"> temporary mobile subscriber identity</a> (TMSI), <a href="/wiki/International_mobile_subscriber_identity" title="International mobile subscriber identity">international mobile subscriber identity</a> (IMSI) of a nearby <a href="/wiki/Global_System_for_Mobile_Communications" class="mw-redirect" title="Global System for Mobile Communications">GSM</a> <a href="/wiki/Mobile_phone" title="Mobile phone">mobile phone</a> and <a href="/wiki/Telephone_tapping#Location_data_and_mobile_phones" title="Telephone tapping">intercepting</a> its calls, some are even advanced enough to detect the <a href="/wiki/International_Mobile_Equipment_Identity" title="International Mobile Equipment Identity">international mobile equipment identity</a> (IMEI). It was patented<sup id="cite_ref-rspatent_5-1" class="reference"><a href="#cite_note-rspatent-5">&#91;5&#93;</a></sup> and first commercialized by <a href="/wiki/Rohde_%26_Schwarz" title="Rohde &amp; Schwarz">Rohde &amp; Schwarz</a> in 2003. The device can be viewed as simply a modified cell tower with a malicious operator, and on 4 January 2012, the <a href="/wiki/Court_of_Appeal_of_England_and_Wales" class="mw-redirect" title="Court of Appeal of England and Wales">Court of Appeal of England and Wales</a> held that the patent is <a href="/wiki/Inventive_step_and_non-obviousness" title="Inventive step and non-obviousness">invalid for obviousness</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>IMSI-catchers are often deployed by court order without a <a href="/wiki/Search_warrant" title="Search warrant">search warrant</a>, the lower judicial standard of a <a href="/wiki/Pen_register" title="Pen register">pen register</a> and trap-and-trace order being preferred by law enforcement.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> They can also be used in search and rescue operation for missing persons.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Police departments have been reluctant to reveal use of these programs and contracts with vendors such as <a href="/wiki/Harris_Corporation" title="Harris Corporation">Harris Corporation</a>, the maker of <a href="/wiki/Stingray_phone_tracker" title="Stingray phone tracker">Stingray</a> and Kingfish phone tracker devices.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In the UK, the first public body to admit using IMSI catchers was the <a href="/wiki/Scottish_Prison_Service" title="Scottish Prison Service">Scottish Prison Service</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> though it is likely that the <a href="/wiki/Metropolitan_Police_Service" class="mw-redirect" title="Metropolitan Police Service">Metropolitan Police Service</a> has been using IMSI catchers since 2011 or before.<sup id="cite_ref-thereg-20170227_11-0" class="reference"><a href="#cite_note-thereg-20170227-11">&#91;11&#93;</a></sup>
+</p><p>Body-worn IMSI-catchers that target nearby mobile phones are being advertised to law enforcement agencies in the US.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>The <a href="/wiki/GSM" title="GSM">GSM</a> specification requires the handset to authenticate to the network, but does <i>not</i> require the network to authenticate to the handset. This well-known security hole is exploited by an IMSI catcher.<sup id="cite_ref-ct_13-0" class="reference"><a href="#cite_note-ct-13">&#91;13&#93;</a></sup> The IMSI catcher masquerades as a <a href="/wiki/Base_station" title="Base station">base station</a> and logs the IMSI numbers of all the <a href="/wiki/Mobile_station" title="Mobile station">mobile stations</a> in the area, as they attempt to attach to the IMSI-catcher.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> It allows forcing the mobile phone connected to it to use no call encryption (A5/0 mode) or to use easily breakable encryption (A5/1 or A5/2 mode), making the call data easy to intercept and convert to audio. 
+</p><p>The <a href="/wiki/3G" title="3G">3G wireless standard</a> mitigates risk and enhanced security of the protocol due to mutual authentication required from both the handset and the network and removes the false base station attack in GSM.<sup id="cite_ref-:1_2-1" class="reference"><a href="#cite_note-:1-2">&#91;2&#93;</a></sup> Some sophisticated attacks against 3G and <a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a> may be able to downgrade to non-LTE network services which then does not require mutual authentication.<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Functionalities">Functionalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=2" title="Edit section: Functionalities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=IMSI-catcher&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22IMSI-catcher%22">"IMSI-catcher"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22IMSI-catcher%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22IMSI-catcher%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22IMSI-catcher%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22IMSI-catcher%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22IMSI-catcher%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">March 2017</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Identifying_an_IMSI">Identifying an IMSI</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=3" title="Edit section: Identifying an IMSI">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Every mobile phone has the requirement to optimize its reception. If there is more than one base station of the subscribed network operator accessible, it will always choose the one with the strongest signal. An IMSI-catcher masquerades as a base station and causes every mobile phone of the simulated network operator within a defined radius to log in. With the help of a special identity request, it is able to force the transmission of the IMSI.<sup id="cite_ref-IMSI-Catcher_15-0" class="reference"><a href="#cite_note-IMSI-Catcher-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Tapping_a_mobile_phone">Tapping a mobile phone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=4" title="Edit section: Tapping a mobile phone">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The IMSI-catcher subjects the phones in its vicinity to a <a href="/wiki/Man-in-the-middle_attack" title="Man-in-the-middle attack">man-in-the-middle attack</a>, appearing to them as a preferred base station in terms of signal strength. With the help of a <a href="/wiki/Subscriber_identity_module" class="mw-redirect" title="Subscriber identity module">SIM</a>, it simultaneously logs into the GSM network as a mobile station. Since the encryption mode is chosen by the base station, the IMSI-catcher can induce the mobile station to use no encryption at all. Hence it can encrypt the plain text traffic from the mobile station and pass it to the base station.
+</p><p>A targeted mobile phone is sent signals where the user will not be able to tell apart the device from authentic cell service provider infrastructure.<sup id="cite_ref-:3_16-0" class="reference"><a href="#cite_note-:3-16">&#91;16&#93;</a></sup> This means that the device will be able to retrieve data that a normal cell tower receives from mobile phones if registered.<sup id="cite_ref-:3_16-1" class="reference"><a href="#cite_note-:3-16">&#91;16&#93;</a></sup>
+</p><p>There is only an indirect connection from mobile station via IMSI-catcher to the GSM network. For this reason, incoming phone calls cannot generally be patched through to the mobile station by the <a href="/wiki/GSM_network" class="mw-redirect" title="GSM network">GSM network</a>, although more modern versions of these devices have their own mobile patch-through solutions in order to provide this functionality.
+</p>
+<h3><span class="mw-headline" id="Passive_IMSI_Detection">Passive IMSI Detection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=5" title="Edit section: Passive IMSI Detection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The difference between a passive IMSI-catcher and an active IMSI-catcher is that an active IMSI-catcher intercepts the data in transfer such as spoke, text, mail, and web traffic between the endpoint and cell tower.
+</p><p>Active IMSI-catchers generally also intercept all conversations and data traffic within a large range and are therefore also called rogue cell towers. It sends a signal with a plethora of commands to the endpoints, which respond by establishing a connection and routes all conversations and data traffic between the endpoints and the actual cell tower for as long as the attacker wishes.
+</p><p>A passive IMSI-catcher on the other hand only detects the <a href="/wiki/International_mobile_subscriber_identity" title="International mobile subscriber identity">IMSI</a>, <a href="/wiki/Temporary_Mobile_Subscriber_Identity" class="mw-redirect" title="Temporary Mobile Subscriber Identity">TMSI</a> or <a href="/wiki/International_Mobile_Equipment_Identity" title="International Mobile Equipment Identity">IMEI</a> of an endpoint. Once the IMSI, TMSI or IMEI address is detected, the endpoint is immediately released. The passive IMSI-catcher sends out a signal with only one specific command to the endpoints, which respond to it and share the identifiers of the endpoint with the passive IMSI-catcher. The vendors of passive IMSI-catchers take privacy more into account.
+</p><p><br />
+</p>
+<h2><span id="Universal_Mobile_Telecommunications_System_.28UMTS.29"></span><span class="mw-headline" id="Universal_Mobile_Telecommunications_System_(UMTS)">Universal Mobile Telecommunications System (UMTS)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=6" title="Edit section: Universal Mobile Telecommunications System (UMTS)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>False base station attacks are prevented by a combination of key freshness and integrity protection of signaling data, not by authenticating the serving network.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>To provide a high network coverage, the <a href="/wiki/UMTS" title="UMTS">UMTS</a> standard allows for inter-operation with GSM. Therefore, not only UMTS but also GSM base stations are connected to the UMTS service network. This fallback is a security disadvantage and allows a new possibility of a man-in-the-middle attack.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Tell-tales_and_difficulties">Tell-tales and difficulties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=7" title="Edit section: Tell-tales and difficulties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"/><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=IMSI-catcher&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22IMSI-catcher%22">"IMSI-catcher"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22IMSI-catcher%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22IMSI-catcher%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22IMSI-catcher%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22IMSI-catcher%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22IMSI-catcher%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">March 2017</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<p>The assignment of an IMSI catcher has a number of difficulties:
+</p>
+<ol><li>It must be ensured that the mobile phone of the observed person is in standby mode and the correct network operator is found out. Otherwise, for the mobile station, there is no need to log into the simulated base station.</li>
+<li>Depending on the signal strength of the IMSI-catcher, numerous IMSIs can be located. The problem is to find out the right one.</li>
+<li>All mobile phones in the area covered by the catcher have no access to the network. Incoming and outgoing calls cannot be patched through for these subscribers. Only the observed person has an indirect connection.</li>
+<li>There are some disclosing factors. In most cases, the operation cannot be recognized immediately by the subscriber. But there are a few mobile phones that show a small symbol on the display, e.g. an exclamation point, if encryption is not used. This "Ciphering Indication Feature" can be suppressed by the network provider, however, by setting the OFM bit in EF<sub>AD</sub> on the SIM card. Since the network access is handled with the SIM/USIM of the IMSI-catcher, the receiver cannot see the number of the calling party. Of course, this also implies that the tapped calls are not listed in the itemized bill.</li>
+<li>The assignment near the base station can be difficult, due to the high signal level of the original base station.</li>
+<li>As most mobile phones prefer the faster modes of communication such as 4G or 3G, downgrading to 2G can require blocking frequency ranges for 4G and 3G.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup></li></ol>
+<h2><span class="mw-headline" id="Detection_and_counter-measures">Detection and counter-measures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=8" title="Edit section: Detection and counter-measures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"/><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=IMSI-catcher&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22IMSI-catcher%22">"IMSI-catcher"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22IMSI-catcher%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22IMSI-catcher%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22IMSI-catcher%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22IMSI-catcher%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22IMSI-catcher%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">March 2017</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<p>Some preliminary research has been done in trying to detect and frustrate IMSI-catchers. One such project is through the <a href="/wiki/OsmocomBB" class="mw-redirect" title="OsmocomBB">Osmocom</a> open source mobile station software. This is a special type of mobile phone firmware that can be used to detect and fingerprint certain network characteristics of IMSI-catchers, and warn the user that there is such a device operating in their area. But this firmware/software-based detection is strongly limited to a select few, outdated GSM mobile phones (i.e. Motorola) that are no longer available on the open market. The main problem is the closed-source nature of the major mobile phone producers.
+</p><p>The application Android IMSI-Catcher Detector (AIMSICD) is being developed to detect and circumvent IMSI-catchers by StingRay and silent SMS.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Technology for a stationary network of IMSI-catcher detectors has also been developed.<sup id="cite_ref-ct_13-1" class="reference"><a href="#cite_note-ct-13">&#91;13&#93;</a></sup> Several apps listed on the <a href="/wiki/Google_Play" title="Google Play">Google Play Store</a> as IMSI catcher detector apps include SnoopSnitch, Cell Spy Catcher, and GSM Spy Finder and have between 100,000 and 500,000 app downloads each. However, these apps have limitations in that they do not have access to phone's underlying hardware and may offer only minimal protection.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Telephone_tapping" title="Telephone tapping">Telephone tapping</a></li>
+<li><a href="/wiki/Stingray_phone_tracker" title="Stingray phone tracker">Stingray phone tracker</a></li>
+<li><a href="/wiki/Mobile_phone_jammer" title="Mobile phone jammer">Mobile phone jammer</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External  links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Chris Paget's presentation <i><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=fQSu9cBaojc">Practical Cellphone Spying</a></i> at <a href="/wiki/DEF_CON" title="DEF CON"> DEF CON 18</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.verrimus.com/mobile-phone-interception/">Verrimus - Mobile Phone Intercept Detection</a></li></ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=11" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.startribune.com/police-s-new-arsenal-of-technology-to-watch-criminals-and-citizens/420760943/">"Police's growing arsenal of technology watches criminals and citizens"</a>. <i>Star Tribune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Star+Tribune&amp;rft.atitle=Police%27s+growing+arsenal+of+technology+watches+criminals+and+citizens&amp;rft_id=http%3A%2F%2Fwww.startribune.com%2Fpolice-s-new-arsenal-of-technology-to-watch-criminals-and-citizens%2F420760943%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ijritcc.org/download/1430372773.pdf">"Analysis of UMTS (3G) Authentication and Key Agreement Protocol (AKA) for LTE (4G) Network"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Analysis+of+UMTS+%283G%29+Authentication+and+Key+Agreement+Protocol+%28AKA%29+for+LTE+%284G%29+Network&amp;rft_id=http%3A%2F%2Fwww.ijritcc.org%2Fdownload%2F1430372773.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFShaikBorgaonkarAsokanNiemi2015" class="citation arxiv cs1">Shaik, Altaf; Borgaonkar, Ravishankar; Asokan, N.; Niemi, Valtteri; Seifert, Jean-Pierre (2015). "Practical attacks against privacy and availability in 4G/LTE mobile communication systems". <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1510.07563v1">1510.07563v1</a></span> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/cs.CR">cs.CR</a>].</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=Practical+attacks+against+privacy+and+availability+in+4G%2FLTE+mobile+communication+systems&amp;rft.date=2015&amp;rft_id=info%3Aarxiv%2F1510.07563v1&amp;rft.aulast=Shaik&amp;rft.aufirst=Altaf&amp;rft.au=Borgaonkar%2C+Ravishankar&amp;rft.au=Asokan%2C+N.&amp;rft.au=Niemi%2C+Valtteri&amp;rft.au=Seifert%2C+Jean-Pierre&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://www.gesetze-im-internet.de/englisch_stpo/englisch_stpo.pdf">"Section 100i - IMS I-Catcher"</a> <span class="cs1-format">(PDF)</span>, <i>The German Code Of Criminal Procedure</i>, 2014, pp.&#160;43–44</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Section+100i+-+IMS+I-Catcher&amp;rft.btitle=The+German+Code+Of+Criminal+Procedure&amp;rft.pages=43-44&amp;rft.date=2014&amp;rft_id=https%3A%2F%2Fwww.gesetze-im-internet.de%2Fenglisch_stpo%2Fenglisch_stpo.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-rspatent-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-rspatent_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rspatent_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1041539562">.mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}</style><span class="citation patent" id="CITEREFFrickBott2003"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=EP1051053">EP 1051053</a>,&#32;Frick, Joachim&#32;&amp;&#32;Bott, Rainer,&#32;"Verfahren zum Identifizieren des Benutzers eines Mobiltelefons oder zum Mithören der abgehenden Gespräche (Method for identifying a mobile phone user or for eavesdropping on outgoing calls)",&#32;issued 2003-07-09</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=1051053&amp;rft.cc=EP&amp;rft.title=Verfahren+zum+Identifizieren+des+Benutzers+eines+Mobiltelefons+oder+zum+Mith%C3%B6ren+der+abgehenden+Gespr%C3%A4che+%28Method+for+identifying+a+mobile+phone+user+or+for+eavesdropping+on+outgoing+calls%29&amp;rft.inventor=Frick&amp;rft.date=2003-07-09"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bailii.org/ew/cases/EWCA/Civ/2012/7.html">MMI Research Ltd v Cellxion Ltd &amp; Ors &#91;2012&#93; EWCA Civ 7 (24 January 2012)</a>, Court of Appeal judgment invalidating Rohde &amp; Schwarz patent.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFFarivar2015" class="citation web cs1">Farivar, Cyrus (13 April 2015). <a rel="nofollow" class="external text" href="https://arstechnica.com/tech-policy/2015/04/county-prosecutor-says-it-has-no-idea-when-stingrays-were-used-so-man-sues/">"County prosecutor says it has no idea when stingrays were used, so man sues"</a>. <i>Ars Technica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ars+Technica&amp;rft.atitle=County+prosecutor+says+it+has+no+idea+when+stingrays+were+used%2C+so+man+sues&amp;rft.date=2015-04-13&amp;rft.aulast=Farivar&amp;rft.aufirst=Cyrus&amp;rft_id=https%3A%2F%2Farstechnica.com%2Ftech-policy%2F2015%2F04%2Fcounty-prosecutor-says-it-has-no-idea-when-stingrays-were-used-so-man-sues%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://www.blick.ch/news/schweiz/zentralschweiz/am-gitschen-im-kanton-uri-wingsuit-flieger-stuerzt-in-den-tod-id3961344.html">"Wingsuit-Flieger stürzt in den Tod"</a>. <i><a href="/wiki/Blick" title="Blick">Blick</a></i> (in German). 10 July 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Blick&amp;rft.atitle=Wingsuit-Flieger+st%C3%BCrzt+in+den+Tod&amp;rft.date=2015-07-10&amp;rft_id=http%3A%2F%2Fwww.blick.ch%2Fnews%2Fschweiz%2Fzentralschweiz%2Fam-gitschen-im-kanton-uri-wingsuit-flieger-stuerzt-in-den-tod-id3961344.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.startribune.com/police-s-new-arsenal-of-technology-to-watch-criminals-and-citizens/420760943/">"Police's growing arsenal of technology watches criminals and citizens"</a>. <i>Star Tribune</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Star+Tribune&amp;rft.atitle=Police%27s+growing+arsenal+of+technology+watches+criminals+and+citizens&amp;rft_id=http%3A%2F%2Fwww.startribune.com%2Fpolice-s-new-arsenal-of-technology-to-watch-criminals-and-citizens%2F420760943%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://theferret.scot/imsi-catcher-trial-scottish-prison-service/">"Prisoners outwit £1.2m mobile phone blocking trial in Scots jails"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prisoners+outwit+%C2%A31.2m+mobile+phone+blocking+trial+in+Scots+jails&amp;rft_id=https%3A%2F%2Ftheferret.scot%2Fimsi-catcher-trial-scottish-prison-service%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-thereg-20170227-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-thereg-20170227_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFCorfield2017" class="citation news cs1">Corfield, Gareth (27 February 2017). <a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2017/02/27/prison_courts_bill_imsi_catcher_wireless_interference/">"New prison law will let mobile networks deploy IMSI catchers"</a>. <i>The Register</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Register&amp;rft.atitle=New+prison+law+will+let+mobile+networks+deploy+IMSI+catchers&amp;rft.date=2017-02-27&amp;rft.aulast=Corfield&amp;rft.aufirst=Gareth&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2017%2F02%2F27%2Fprison_courts_bill_imsi_catcher_wireless_interference%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://arstechnica.com/security/2013/09/the-body-worn-imsi-catcher-for-all-your-covert-phone-snooping-needs/">"The body-worn 'IMSI catcher' for all your covert phone snooping needs"</a>. <i><a href="/wiki/Ars_Technica" title="Ars Technica">Ars Technica</a></i>. 1 September 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ars+Technica&amp;rft.atitle=The+body-worn+%27IMSI+catcher%27+for+all+your+covert+phone+snooping+needs&amp;rft.date=2013-09-01&amp;rft_id=https%3A%2F%2Farstechnica.com%2Fsecurity%2F2013%2F09%2Fthe-body-worn-imsi-catcher-for-all-your-covert-phone-snooping-needs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ct-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-ct_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ct_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://www.heise.de/ct/artikel/Digitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html">"Digitale Selbstverteidigung mit dem IMSI-Catcher-Catcher"</a>. <i><a href="/wiki/C%27t" title="C&#39;t">c't</a></i> (in German). 27 August 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=c%27t&amp;rft.atitle=Digitale+Selbstverteidigung+mit+dem+IMSI-Catcher-Catcher&amp;rft.date=2014-08-27&amp;rft_id=http%3A%2F%2Fwww.heise.de%2Fct%2Fartikel%2FDigitale-Selbstverteidigung-mit-dem-IMSI-Catcher-Catcher-2303215.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.bloombergview.com/articles/2013-11-27/the-spyware-that-enables-mobile-phone-snooping">"The Spyware That Enables Mobile-Phone Snooping"</a>. <i><a href="/wiki/Bloomberg_View" class="mw-redirect" title="Bloomberg View">Bloomberg View</a></i>. 27 November 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bloomberg+View&amp;rft.atitle=The+Spyware+That+Enables+Mobile-Phone+Snooping&amp;rft.date=2013-11-27&amp;rft_id=http%3A%2F%2Fwww.bloombergview.com%2Farticles%2F2013-11-27%2Fthe-spyware-that-enables-mobile-phone-snooping&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-IMSI-Catcher-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-IMSI-Catcher_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRolón2017" class="citation journal cs1">Rolón, Darío Nicolás (22 December 2017). <a rel="nofollow" class="external text" href="https://rej.uchile.cl/index.php/RECEJ/article/view/47961">"Intercepción de metadatos de comunicaciones por teléfonos móviles. El IMSI-Catcher y su regulación en el ordenamiento procesal penal alemán"</a>. <i>Revista de Estudios de la Justicia</i> (27): 61–79<span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Revista+de+Estudios+de+la+Justicia&amp;rft.atitle=Intercepci%C3%B3n+de+metadatos+de+comunicaciones+por+tel%C3%A9fonos+m%C3%B3viles.+El+IMSI-Catcher+y+su+regulaci%C3%B3n+en+el+ordenamiento+procesal+penal+alem%C3%A1n&amp;rft.issue=27&amp;rft.pages=61-79&amp;rft.date=2017-12-22&amp;rft.aulast=Rol%C3%B3n&amp;rft.aufirst=Dar%C3%ADo+Nicol%C3%A1s&amp;rft_id=https%3A%2F%2Frej.uchile.cl%2Findex.php%2FRECEJ%2Farticle%2Fview%2F47961&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:3-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFJeong2019" class="citation journal cs1">Jeong, Ha-Myoung (28 February 2019). <a rel="nofollow" class="external text" href="https://dx.doi.org/10.37877/itnlaw.2019.02.18.4">"The U.S. Supreme Court's Recent Decision About historical Cell Site Location Information: Carpenter v. U.S."</a> <i>IT &amp; Law Review</i>. <b>18</b>: 95–120. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.37877%2Fitnlaw.2019.02.18.4">10.37877/itnlaw.2019.02.18.4</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1975-8766">1975-8766</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:230381898">230381898</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IT+%26+Law+Review&amp;rft.atitle=The+U.S.+Supreme+Court%27s+Recent+Decision+About+historical+Cell+Site+Location+Information%3A+Carpenter+v.+U.S.&amp;rft.volume=18&amp;rft.pages=95-120&amp;rft.date=2019-02-28&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A230381898%23id-name%3DS2CID&amp;rft.issn=1975-8766&amp;rft_id=info%3Adoi%2F10.37877%2Fitnlaw.2019.02.18.4&amp;rft.aulast=Jeong&amp;rft.aufirst=Ha-Myoung&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.37877%2Fitnlaw.2019.02.18.4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Chris Mitchell, Paulo Pagliusi: Is Entity Authentication Necessary?, in Security Protocols, Springer LNCS 2845,pages 20-29, 2004</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMeyerWetzel2004" class="citation web cs1">Meyer, Ulrike; <a href="/wiki/Susanne_Wetzel" title="Susanne Wetzel">Wetzel, Susanne</a> (1 October 2004). <a rel="nofollow" class="external text" href="http://www.cs.stevens.edu/~swetzel/publications/mim.pdf">"A Man-in-the-Middle Attack on UMTS. ACM workshop on Wireless security, 2004"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Man-in-the-Middle+Attack+on+UMTS.+ACM+workshop+on+Wireless+security%2C+2004&amp;rft.date=2004-10-01&amp;rft.aulast=Meyer&amp;rft.aufirst=Ulrike&amp;rft.au=Wetzel%2C+Susanne&amp;rft_id=http%3A%2F%2Fwww.cs.stevens.edu%2F~swetzel%2Fpublications%2Fmim.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="http://www.delaat.net/rp/2015-2016/p86/report.pdf">"The effectiveness of a homemade IMSI catcher build with YateBTS and a BladeRF"</a> <span class="cs1-format">(PDF)</span>. <i>Kenneth van Rijsbergen</i>: 8–9<span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Kenneth+van+Rijsbergen&amp;rft.atitle=The+effectiveness+of+a+homemade+IMSI+catcher+build+with+YateBTS+and+a+BladeRF&amp;rft.pages=8-9&amp;rft_id=http%3A%2F%2Fwww.delaat.net%2Frp%2F2015-2016%2Fp86%2Freport.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Development-Status">"Android IMSI-Catcher Detector (AIMSICD) Wiki, Development status"</a>. <i><a href="/wiki/GitHub" title="GitHub">GitHub</a></i>. 9 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=Android+IMSI-Catcher+Detector+%28AIMSICD%29+Wiki%2C+Development+status&amp;rft.date=2015-12-09&amp;rft_id=https%3A%2F%2Fgithub.com%2FCellularPrivacy%2FAndroid-IMSI-Catcher-Detector%2Fwiki%2FDevelopment-Status&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span> In alpha stage in October 2016.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://motherboard.vice.com/en_us/article/neeb5g/stingray-detection-apps-might-not-be-all-that-good-research-suggests">"IMSI Catcher Detection Apps Might Not Be All That Good, Research Suggests"</a>. <i>Motherboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Motherboard&amp;rft.atitle=IMSI+Catcher+Detection+Apps+Might+Not+Be+All+That+Good%2C+Research+Suggests&amp;rft_id=https%3A%2F%2Fmotherboard.vice.com%2Fen_us%2Farticle%2Fneeb5g%2Fstingray-detection-apps-might-not-be-all-that-good-research-suggests&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></span>
+</li>
+</ol></div>
+<p><br />
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"/><div class="reflist">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSoltaniTimberg2014" class="citation news cs1">Soltani, Ashkan; Timberg, Craig (17 September 2014). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/world/national-security/researchers-try-to-pull-back-curtain-on-surveillance-efforts-in-washington/2014/09/17/f8c1f590-3e81-11e4-b03f-de718edeb92f_story.html">"Tech Firm Tries to Pull Back Curtain on Surveillance Efforts in Washington"</a>. <i>Washington Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Washington+Post&amp;rft.atitle=Tech+Firm+Tries+to+Pull+Back+Curtain+on+Surveillance+Efforts+in+Washington&amp;rft.date=2014-09-17&amp;rft.aulast=Soltani&amp;rft.aufirst=Ashkan&amp;rft.au=Timberg%2C+Craig&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fworld%2Fnational-security%2Fresearchers-try-to-pull-back-curtain-on-surveillance-efforts-in-washington%2F2014%2F09%2F17%2Ff8c1f590-3e81-11e4-b03f-de718edeb92f_story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBarrett2014" class="citation news cs1">Barrett, Devlin (13 November 2014). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/americans-cellphones-targeted-in-secret-u-s-spy-program-1415917533">"Americans' Cellphones Targeted in Secret U.S. Spy Program"</a>. <i>The Wall Street Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Americans%27+Cellphones+Targeted+in+Secret+U.S.+Spy+Program&amp;rft.date=2014-11-13&amp;rft.aulast=Barrett&amp;rft.aufirst=Devlin&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Famericans-cellphones-targeted-in-secret-u-s-spy-program-1415917533&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSoltaniTimberg2014" class="citation news cs1">Soltani, Ashkan; Timberg, Craig (17 September 2014). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/world/national-security/researchers-try-to-pull-back-curtain-on-surveillance-efforts-in-washington/2014/09/17/f8c1f590-3e81-11e4-b03f-de718edeb92f_story.html">"Tech Firm Tries to Pull Back Curtain on Surveillance Efforts in Washington"</a>. <i>Washington Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Washington+Post&amp;rft.atitle=Tech+Firm+Tries+to+Pull+Back+Curtain+on+Surveillance+Efforts+in+Washington&amp;rft.date=2014-09-17&amp;rft.aulast=Soltani&amp;rft.aufirst=Ashkan&amp;rft.au=Timberg%2C+Craig&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fworld%2Fnational-security%2Fresearchers-try-to-pull-back-curtain-on-surveillance-efforts-in-washington%2F2014%2F09%2F17%2Ff8c1f590-3e81-11e4-b03f-de718edeb92f_story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFYomna_N2019" class="citation web cs1">Yomna N (28 June 2019). <a rel="nofollow" class="external text" href="https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks">"Gotta Catch 'Em All: Understanding How IMSI-Catchers Exploit Cell Networks"</a>. <i>Electronic Frontier Foundation</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Electronic+Frontier+Foundation&amp;rft.atitle=Gotta+Catch+%27Em+All%3A+Understanding+How+IMSI-Catchers+Exploit+Cell+Networks&amp;rft.date=2019-06-28&amp;rft.au=Yomna+N&amp;rft_id=https%3A%2F%2Fwww.eff.org%2Fwp%2Fgotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIMSI-catcher" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="External_links_2">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IMSI-catcher&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.slideshare.net/iazza/dcm-final-23052013fullycensored">Mobile Phone Networks: a tale of tracking, spoofing and owning mobile phones</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.emsec.rub.de/teaching/seminars/seminar_ss07">IMSI-catcher Seminar paper and presentation</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130913032451/http://www.septier.com/368.html">Mini IMSI and IMEI catcher</a></li>
+<li><a rel="nofollow" class="external text" href="http://bb.osmocom.org/">The OsmocomBB project</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131212173955/http://www.proximus.com.ua/MicroNet_GSM_daul_band_catcher.html">MicroNet: Proximus LLC GSM IMSI and IMEI dual band catcher</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131212173858/http://www.proximus.com.ua/Micronet-U_UMTS_catcher.html">MicroNet-U: Proximus LLC UMTS catcher</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.slideshare.net/mobile/iazza/mobile-cell-networksintrusiondetectionsystemiparanoidlucabongiorni">iParanoid: IMSI Catcher Intrusion Detection System presentation</a></li>
+<li><a rel="nofollow" class="external text" href="http://folk.uio.no/josang/papers/JMD2015-JIW.htm">Vulnerability by Design in Mobile Network Security</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20221023044822
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.325 seconds
+Real time usage: 0.402 seconds
+Preprocessor visited node count: 1945/1000000
+Post‐expand include size: 70467/2097152 bytes
+Template argument size: 2072/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 70269/5000000 bytes
+Lua time usage: 0.189/10.000 seconds
+Lua memory usage: 7137111/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  356.626      1 -total
+ 51.98%  185.362      2 Template:Reflist
+ 24.98%   89.096      7 Template:Cite_news
+ 19.35%   68.993      3 Template:Citations_needed
+ 17.63%   62.870      3 Template:Ambox
+ 15.80%   56.350      1 Template:Short_description
+ 11.05%   39.398     10 Template:Cite_web
+  8.94%   31.900      2 Template:Pagetype
+  4.66%   16.609      3 Template:Cite_journal
+  4.45%   15.882      3 Template:Find_sources_mainspace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2089044-0!canonical and timestamp 20221023044821 and revision id 1104290162.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=IMSI-catcher&amp;oldid=1104290162">https://en.wikipedia.org/w/index.php?title=IMSI-catcher&amp;oldid=1104290162</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surveillance" title="Category:Surveillance">Surveillance</a></li><li><a href="/wiki/Category:Mobile_security" title="Category:Mobile security">Mobile security</a></li><li><a href="/wiki/Category:Telephone_tapping" title="Category:Telephone tapping">Telephone tapping</a></li><li><a href="/wiki/Category:Telephony_equipment" title="Category:Telephony equipment">Telephony equipment</a></li><li><a href="/wiki/Category:Law_enforcement_equipment" title="Category:Law enforcement equipment">Law enforcement equipment</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2016" title="Category:Use dmy dates from March 2016">Use dmy dates from March 2016</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2017" title="Category:Articles needing additional references from March 2017">Articles needing additional references from March 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=IMSI-catcher" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IMSI-catcher" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/IMSI-catcher" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:IMSI-catcher" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/IMSI-catcher"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=IMSI-catcher&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=IMSI-catcher&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/IMSI-catcher" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/IMSI-catcher" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=IMSI-catcher&amp;oldid=1104290162" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=IMSI-catcher&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=IMSI-catcher&amp;id=1104290162&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1423310" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=IMSI-catcher&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=IMSI-catcher&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%8A_%D8%A5%D9%85_%D8%A5%D8%B3_%D8%A2%D9%8A_%D9%83%D8%A7%D8%AA%D8%B4%D8%B1" title="آي إم إس آي كاتشر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ag%C3%A1ta_(za%C5%99%C3%ADzen%C3%AD)" title="Agáta (zařízení) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/IMSI-Catcher" title="IMSI-Catcher – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/IMSI-catcher" title="IMSI-catcher – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/IMSI-fanger" title="IMSI-fanger – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Interceptor_IMSI" title="Interceptor IMSI – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B2%D0%B5%D1%86_IMSI" title="Ловец IMSI – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Lovilec_IMSI" title="Lovilec IMSI – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/IMSI-sieppari" title="IMSI-sieppari – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%81%BD%E5%9F%BA%E7%AB%99" title="偽基站 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%BC%AA%E5%9F%BA%E7%AB%99" title="伪基站 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1423310#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 14 August 2022, at 01:05<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=IMSI-catcher&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.325","walltime":"0.402","ppvisitednodes":{"value":1945,"limit":1000000},"postexpandincludesize":{"value":70467,"limit":2097152},"templateargumentsize":{"value":2072,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":70269,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  356.626      1 -total"," 51.98%  185.362      2 Template:Reflist"," 24.98%   89.096      7 Template:Cite_news"," 19.35%   68.993      3 Template:Citations_needed"," 17.63%   62.870      3 Template:Ambox"," 15.80%   56.350      1 Template:Short_description"," 11.05%   39.398     10 Template:Cite_web","  8.94%   31.900      2 Template:Pagetype","  4.66%   16.609      3 Template:Cite_journal","  4.45%   15.882      3 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.189","limit":"10.000"},"limitreport-memusage":{"value":7137111,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20221023044822","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"IMSI-catcher","url":"https:\/\/en.wikipedia.org\/wiki\/IMSI-catcher","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1423310","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1423310","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-21T23:15:24Z","dateModified":"2022-08-14T01:05:57Z","headline":"telephony eavesdropping device"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"IMSI-catcher","url":"https:\/\/en.wikipedia.org\/wiki\/IMSI-catcher","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1423310","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1423310","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-21T23:15:24Z","dateModified":"2022-08-14T01:05:57Z","headline":"telephony eavesdropping device"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1430"});});</script>
+</body>
+</html>

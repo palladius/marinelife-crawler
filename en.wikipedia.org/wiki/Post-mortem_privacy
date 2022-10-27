@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Post-mortem privacy - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e0a6c614-44c0-46e2-9b07-acfd0344774b","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Post-mortem_privacy","wgTitle":"Post-mortem privacy","wgCurRevisionId":1108792672,"wgRevisionId":1108792672,"wgArticleId":55251911,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with limited geographic scope from September 2018","United States-centric","Use American English from September 2018","All Wikipedia articles written in American English",
+"All articles with vague or ambiguous time","Vague or ambiguous time from January 2018","Death","Legal aspects of death","Medical privacy","Privacy controversies and disputes","Privacy law","Privacy law in the United States"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Post-mortem_privacy","wgRelevantArticleId":55251911,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":
+true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q48782440","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Post-mortem privacy - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Post-mortem_privacy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Post-mortem_privacy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Post-mortem_privacy"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Post-mortem_privacy rootpage-Post-mortem_privacy skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Post-mortem privacy</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Ability to control the dissemination of personal information after death</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-Globalize plainlinks metadata ambox ambox-content ambox-globalize" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" decoding="async" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">The examples and perspective in this article <b>deal primarily with the United States and do not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>.<span class="hide-when-compact"> You may <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Post-mortem_privacy&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Post-mortem_privacy" title="Talk:Post-mortem privacy">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span>  <span class="date-container"><i>(<span class="date">September 2018</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p><p><b>Post-mortem privacy</b> is a person's ability to control the dissemination of personal information after <a href="/wiki/Death" title="Death">death</a>.  An individual's reputation and dignity after death is also subject to post-mortem privacy protections. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> In the US, no <a href="/wiki/Federal_law" title="Federal law">federal laws</a> specifically extend <a href="/wiki/Post-mortem" class="mw-redirect" title="Post-mortem">post-mortem</a> <a href="/wiki/Privacy_protection" class="mw-redirect" title="Privacy protection">privacy protection</a>. At the state level, <a href="/wiki/Privacy_law" title="Privacy law">privacy laws</a> pertaining to the deceased vary significantly, but in general do not extend any clear rights of privacy beyond property rights. The relative lack of acknowledgment of post-mortem privacy rights has sparked controversy, as rapid technological advancements have resulted in increased amounts of personal information stored and shared online.<sup id="cite_ref-Banta2016_2-0" class="reference"><a href="#cite_note-Banta2016-2">&#91;2&#93;</a></sup><sup id="cite_ref-Berg2001_3-0" class="reference"><a href="#cite_note-Berg2001-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Law"><span class="tocnumber">1</span> <span class="toctext">Law</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#United_States"><span class="tocnumber">1.1</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Relevant_court_cases"><span class="tocnumber">1.2</span> <span class="toctext">Relevant court cases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Medical_confidentiality"><span class="tocnumber">2</span> <span class="toctext">Medical confidentiality</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Case_of_Henrietta_Lacks"><span class="tocnumber">2.1</span> <span class="toctext">Case of Henrietta Lacks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Autopsy_and_death_scene_photographs"><span class="tocnumber">3</span> <span class="toctext">Autopsy and death scene photographs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Case_of_Emmett_Till"><span class="tocnumber">3.1</span> <span class="toctext">Case of Emmett Till</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Relevant_court_cases_2"><span class="tocnumber">3.2</span> <span class="toctext">Relevant court cases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Digital_assets"><span class="tocnumber">4</span> <span class="toctext">Digital assets</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Celebrity_images_and_persona"><span class="tocnumber">5</span> <span class="toctext">Celebrity images and persona</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Post-mortem_publicity_rights"><span class="tocnumber">5.1</span> <span class="toctext">Post-mortem publicity rights</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Relevant_court_cases_3"><span class="tocnumber">5.2</span> <span class="toctext">Relevant court cases</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Controversy"><span class="tocnumber">5.3</span> <span class="toctext">Controversy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Law">Law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=1" title="Edit section: Law">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=2" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Privacy_laws_of_the_United_States" title="Privacy laws of the United States">Privacy laws of the United States</a></div>
+<p>Under <a href="/wiki/Common_law" title="Common law">common law</a>, the <a href="/wiki/Right_to_privacy" title="Right to privacy">right to privacy</a> is considered a <a href="/wiki/Personal_rights" title="Personal rights">personal right</a>, meaning it applies only to the living and, consequently, does not recognize the privacy interests of the deceased. Because of this, defamation and privacy <a href="/wiki/Tort" title="Tort">torts</a> that are used to prevent unjust damage to individuals' reputations cannot be extended post-mortem.<sup id="cite_ref-Banta2016_2-1" class="reference"><a href="#cite_note-Banta2016-2">&#91;2&#93;</a></sup> For example, a family cannot file suit for invasion of privacy on behalf of a deceased relative as a personal right; it can only be exerted by the person whose rights are being infringed upon. In addition, the deceased do not qualify for privacy protections held in <a href="/wiki/Constitutional_right" title="Constitutional right">constitutional</a> and <a href="/wiki/Statutory_right" class="mw-redirect" title="Statutory right">statutory rights</a>, such as those noted in the <a href="/wiki/Fourth_Amendment_to_the_United_States_Constitution" title="Fourth Amendment to the United States Constitution">Fourth</a> and <a href="/wiki/Fourteenth_Amendment_to_the_United_States_Constitution" title="Fourteenth Amendment to the United States Constitution">Fourteenth Amendments</a>.<sup id="cite_ref-Banta2016_2-2" class="reference"><a href="#cite_note-Banta2016-2">&#91;2&#93;</a></sup> Judicial justification for the termination of privacy rights at death is centered on two main points: firstly, the deceased can no longer be active agents, and secondly, the deceased are incapable of being harmed by invasion of privacy or defamation.<sup id="cite_ref-Banta2016_2-3" class="reference"><a href="#cite_note-Banta2016-2">&#91;2&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The only clear extension of postmortem privacy rights under federal law are those pertaining to property. Via Will, private property and some personal information can be passed on to heirs in accordance with the decedent's wishes.
+</p><p>Most post-mortem privacy protection occurs on the state level. Thus, legislation and the degree of protection varies widely from state to state.
+</p>
+<h3><span class="mw-headline" id="Relevant_court_cases">Relevant court cases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=3" title="Edit section: Relevant court cases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i><a rel="nofollow" class="external text" href="https://caselaw.findlaw.com/ca-court-of-appeal/1811063.html">Jesse James, Jr. v. Screen Gems</a> Inc.</i> established that rights of privacy do not survive death. The widow of <a href="/wiki/Jesse_James,_Jr." class="mw-redirect" title="Jesse James, Jr.">Jesse James, Jr.</a> filed suit against <a href="/wiki/Screen_Gems" title="Screen Gems">Screen Gems</a> on behalf of her late husband, claiming the use of his name in a documentary was an invasion of his privacy. The court decided her claim was insufficient because it only applied to her husband.<sup id="cite_ref-Fennimore2012_5-0" class="reference"><a href="#cite_note-Fennimore2012-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Medical_confidentiality">Medical confidentiality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=4" title="Edit section: Medical confidentiality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Confidentiality#Medical_confidentiality" title="Confidentiality">Confidentiality §&#160;Medical confidentiality</a>, and <a href="/wiki/Physician%E2%80%93patient_privilege" title="Physician–patient privilege">Physician–patient privilege</a></div>
+<p>Medical confidentiality is upheld through both state and federal law. Because state legislation varies considerably, Congress passed explicit <a href="/wiki/Medical_privacy" title="Medical privacy">medical privacy</a> regulations in 2000 under the <a href="/wiki/Health_Insurance_Portability_and_Accountability_Act" title="Health Insurance Portability and Accountability Act">Health Insurance Portability and Accountability Act</a> (HIPAA).<sup id="cite_ref-Berg2001_3-1" class="reference"><a href="#cite_note-Berg2001-3">&#91;3&#93;</a></sup> However, the act only briefly mentions postmortem privacy rights, stating that all protection ceases two years after death.<sup id="cite_ref-Berg2001_3-2" class="reference"><a href="#cite_note-Berg2001-3">&#91;3&#93;</a></sup> Moreover, no legal mandate exists regarding patients' wishes after death. During life, informed consent is the basis for managing patient medical history. However, since informed consent is no longer possible post-mortem, confidential medical information is at risk of being exploited in a number of ways. First, highly sensitive information, such as genetic information, potential health factors, or diseases, can be easily disseminated in a way the patient may not have wanted. In addition, legal consent for research on a patient's biological material no longer applies to deceased individuals, allowing such research to be conducted on deceased patients without requiring permission.<sup id="cite_ref-Moore2016_6-0" class="reference"><a href="#cite_note-Moore2016-6">&#91;6&#93;</a></sup>
+</p><p>The dissemination of <a href="/wiki/Autopsy" title="Autopsy">autopsy</a> records has become a significant issue in recent years. State legislation dictating the dissemination of autopsy records can be characterized into three groups: those prioritizing confidentiality, those prioritizing complete transparency, and a middle ground that limits some aspects of disclosure for privacy protection.<sup id="cite_ref-Moore2016_6-1" class="reference"><a href="#cite_note-Moore2016-6">&#91;6&#93;</a></sup> The inconsistencies surrounding this legislation also have the potential to expose very personal medical information that can also affect the living relatives of a patient. For example, certain genetic diseases that the patient's family does not want known to the public could be exposed, which can lead to raising health insurance premiums and employment difficulties.
+</p><p>In England and Wales, and under the European Convention of Human Rights, medical confidentiality survives the death of the patient.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Case_of_Henrietta_Lacks">Case of Henrietta Lacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=5" title="Edit section: Case of Henrietta Lacks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Henrietta_Lacks" title="Henrietta Lacks">Henrietta Lacks</a> was an African American woman whose cells were removed without consent while receiving cancer treatment. Her cells became the source of the foundational <a href="/wiki/HeLa" title="HeLa">HeLa cell line</a> in the scientific world today.<sup id="cite_ref-:10_8-0" class="reference"><a href="#cite_note-:10-8">&#91;8&#93;</a></sup> Lacks and her family were neither informed nor asked for consent to the use of her cells for this research. It was not until the 1980s when Lacks's medical records were made public, exposing the rest of her family's medical information as well as the fact that her family was never informed of this.<sup id="cite_ref-:10_8-1" class="reference"><a href="#cite_note-:10-8">&#91;8&#93;</a></sup> The major issue surrounding the Lacks case is twofold. Firstly, at no point was consent sought for the extraction and research on Lacks's cells. Secondly, her family never received compensation for the commercial use of the HeLa cell line.
+</p>
+<h2><span class="mw-headline" id="Autopsy_and_death_scene_photographs">Autopsy and death scene photographs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=6" title="Edit section: Autopsy and death scene photographs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Under the <a href="/wiki/Due_Process_Clause" title="Due Process Clause">Due Process Clause</a>, family members generally maintain the right to control dissemination of photos of deceased relatives. Privacy rights in this context  only extend to the privacy of the living relatives of the decedent, not the actual deceased.<sup id="cite_ref-Siddiqui2014_9-0" class="reference"><a href="#cite_note-Siddiqui2014-9">&#91;9&#93;</a></sup> Most court rulings regarding autopsy and death scene photos have looked to the precedent set by the federal <a href="/wiki/Freedom_of_Information_Act_(United_States)" title="Freedom of Information Act (United States)">Freedom of Information Act</a> (FOIA), which determines under which circumstances the release of such images is appropriate and not invasive of any living person's privacy.<sup id="cite_ref-Siddiqui2014_9-1" class="reference"><a href="#cite_note-Siddiqui2014-9">&#91;9&#93;</a></sup><sup id="cite_ref-Terilli2005_10-0" class="reference"><a href="#cite_note-Terilli2005-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Case_of_Emmett_Till">Case of Emmett Till</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=7" title="Edit section: Case of Emmett Till">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While most families wish to conceal the images of their deceased loved ones, <a href="/wiki/Mamie_Till" title="Mamie Till">Mamie Till Bradley</a>, mother of <a href="/wiki/Emmett_Till" title="Emmett Till">Emmett Till</a>, decided to make the photos of her brutally murdered son public in spite of officials' attempts to ignore the event.<sup id="cite_ref-:9_11-0" class="reference"><a href="#cite_note-:9-11">&#91;11&#93;</a></sup> The photos exposed the horrendous realities of racial injustice in America and became a rallying call for many influential civil rights figures, including <a href="/wiki/Martin_Luther_King_Jr." title="Martin Luther King Jr.">Martin Luther King Jr.</a> and <a href="/wiki/Muhammad_Ali" title="Muhammad Ali">Muhammad Ali</a>. Moreover, the images forced all Americans to confront the deep-rooted racism in America despite many white Americans’ attempts to remain ignorant to the despicable happenings, especially in the South.<sup id="cite_ref-:9_11-1" class="reference"><a href="#cite_note-:9-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Relevant_court_cases_2">Relevant court cases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=8" title="Edit section: Relevant court cases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i><a href="/wiki/New_York_Times_Company" class="mw-redirect" title="New York Times Company">New York Times Company</a> v. <a href="/wiki/NASA" title="NASA">NASA</a></i>, the <a href="/wiki/United_States_District_Court_for_the_District_of_Columbia" title="United States District Court for the District of Columbia">D.C. District Court</a> denied the <i><a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a></i><span class="nowrap" style="padding-left:0.1em;">&#39;</span> request under the <a href="/wiki/Freedom_of_Information_Act_(United_States)" title="Freedom of Information Act (United States)">Freedom of Information Act (FOIA)</a> for access to audio recordings of the astronauts involved in the <a href="/wiki/Space_Shuttle_Challenger_disaster" title="Space Shuttle Challenger disaster"><i>Challenger</i> explosion</a> moments before the event. The major argument of the case came down to weighing public interest and the decedents' families, and the court ruled in favor of protecting the decedents' families, claiming that exposing the tapes could cause relatives of the astronauts trauma.<sup id="cite_ref-Terilli2005_10-1" class="reference"><a href="#cite_note-Terilli2005-10">&#91;10&#93;</a></sup>
+</p><p><i><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">National Archives and Records Administration</a> v. Favish</i> similarly found that under FOIA, the privacy rights of a decedents' relatives are both acknowledged and prioritized when disseminating autopsy/death scene photos of the deceased. This decision was made in regards to the death scene photos of <a href="/wiki/Vince_Foster" title="Vince Foster">Vincent Foster</a>, a deputy counsel to <a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a>.<sup id="cite_ref-Terilli2005_10-2" class="reference"><a href="#cite_note-Terilli2005-10">&#91;10&#93;</a></sup>
+</p><p><i>Marsh v. County of San Diego</i> determined that a prosecutor who photocopied and then released an autopsy photo of a deceased child after his retirement could not be sued under the Doctrine of Qualified Immunity. A major point in the case was whether or not Brenda Marsh had the legal right to control the dissemination of her son's autopsy photos, and though the court determined that she did, it ruled on a technicality that at the time of the events, the law had not yet been "clearly established."<sup id="cite_ref-Siddiqui2014_9-2" class="reference"><a href="#cite_note-Siddiqui2014-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Digital_assets">Digital assets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=9" title="Edit section: Digital assets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Digital_inheritance" title="Digital inheritance">Digital inheritance</a></div>
+<p>The past decade has seen an unprecedented amount of data being stored in online accounts. Because of the relative newness of this phenomenon, no legal mandate exists for how a person's digital assets are to be handled after death. Terms of Service Agreements between the user and the service provider remain the closest variant to this available.<sup id="cite_ref-Banta2016_2-4" class="reference"><a href="#cite_note-Banta2016-2">&#91;2&#93;</a></sup> In order to maintain their users' privacy protection, many of these agreements make it very difficult for third parties to access such online accounts once the user has died. <a href="/wiki/Yahoo!_Mail" title="Yahoo! Mail">Yahoo!</a>, for example, states in its terms of service agreement that the account will be permanently deleted upon the user's death.<sup id="cite_ref-Lopez2016_12-0" class="reference"><a href="#cite_note-Lopez2016-12">&#91;12&#93;</a></sup> <a href="/wiki/Google" title="Google">Google</a> requires a lengthy process that involves getting a court order to obtain content from a deceased user's account. There is also an option to allow someone to manage the account, make it inactive, or delete it altogether once the user has died.<sup id="cite_ref-:11_13-0" class="reference"><a href="#cite_note-:11-13">&#91;13&#93;</a></sup> <a href="/wiki/Facebook" title="Facebook">Facebook</a> has allowed for the memorialization of deceased users' accounts, which aims to maintain the privacy of the user while allowing friends and family to still interact with the account. Requesting information from the account is a long and difficult process.  Recently<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (January 2018)">when?</span></a></i>&#93;</sup>, the company updated its policy to allow for "legacy contact," wherein the user can appoint someone to take over their account once they die. The new policy also offers the option for the account to be permanently deleted upon death.<sup id="cite_ref-:11_13-1" class="reference"><a href="#cite_note-:11-13">&#91;13&#93;</a></sup>
+</p><p>The rigid policies of service providers have become increasingly problematic as online transactions and data storage have become more popular, and personal representatives have consequently found an increasing need to access online accounts in order to carry out estate transfers and Will orders. States began proposing legislation to address this problem in the early 2000s, and legislation favoring access to decedents' accounts became overwhelmingly supported.  Delaware's Access to Digital Assets Act is an example of such legislation already passed at the state level, which grants family members of deceased individuals full access to online accounts and profiles.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> However, stringent terms of service agreements by service providers still make access to accounts very difficult in most cases. Thus, two major contemporary legislative proposals have come forth to address the issue. In July 2014, the <a href="/wiki/Uniform_Law_Commission" title="Uniform Law Commission">Uniform Law Commission</a> (ULC) proposed the Uniform Fiduciary Access to Digital Assets Act (UFADAA) to provide fiduciaries easy access to the digital accounts of their deceased clients. Twenty-six states proposed legislation based on the UFADAA; however, such legislation failed in all but one state.<sup id="cite_ref-Lopez2016_12-1" class="reference"><a href="#cite_note-Lopez2016-12">&#91;12&#93;</a></sup> In response to this, NetChoice, a major rival to ULC, proposed the Privacy Expectation Afterlife Choices Act (PEAC), which included much more stringent guidelines for giving fiduciaries access to digital accounts and was overall considered to be much more privacy-centric. Only four states had proposed PEAC legislation in 2014, and only Virginia actually implemented it in 2015.<sup id="cite_ref-Lopez2016_12-2" class="reference"><a href="#cite_note-Lopez2016-12">&#91;12&#93;</a></sup> Shortly after passing the UFADAA, the ULC passed a revised version (RUFADAA). This new legislative proposal incorporated more privacy centered aspects that aligned more with those of PEAC, which even gained it the support of NetChoice. Moreover, thirty-one states proposed legislation in accordance with the RUFADAA. However, critics of the new legislation contest that its transformation still not does give much consideration to a decedent's post-mortem privacy of the information kept in their account.<sup id="cite_ref-Lopez2016_12-3" class="reference"><a href="#cite_note-Lopez2016-12">&#91;12&#93;</a></sup>
+Google announced in 2020 that they will delete photos and cloud files after two years of inactivity.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Celebrity_images_and_persona">Celebrity images and persona</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=10" title="Edit section: Celebrity images and persona">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Post-mortem_publicity_rights">Post-mortem publicity rights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=11" title="Edit section: Post-mortem publicity rights">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Right_of_publicity" class="mw-redirect" title="Right of publicity">right of publicity</a> was created as an extension of the right of privacy. It was developed with the intent to provided unique privacy rights to celebrities or anyone whose persona or name had commercial value.<sup id="cite_ref-Decker2009_16-0" class="reference"><a href="#cite_note-Decker2009-16">&#91;16&#93;</a></sup> Because these people are constantly in the public eye, general rights of privacy are oftentimes not applicable, thus publicity rights accommodate this situation. The right of publicity essentially grants a person the right to control the portrayal of themselves in the public eye, specifically in regard to commercial use.<sup id="cite_ref-Decker2009_16-1" class="reference"><a href="#cite_note-Decker2009-16">&#91;16&#93;</a></sup> <a href="/wiki/Copyright_laws" class="mw-redirect" title="Copyright laws">Copyright laws</a>, aimed at protecting the ownership rights of original works, contain a significant amount of overlap with publicity rights. Much like post-mortem privacy rights, no blatant federal rights of publicity have been established, leaving recognition up to individual states. Whether states have laws regarding post-mortem publicity is dependent upon whether the state classifies the right as a privacy right or a property right. If classified as a personal right, states will not recognize post-mortem rights of publicity due to the stipulation that personal rights only apply to the living. If classified as a property right, then the upkeep and transfer of publicity rights follow a similar tract as that of property.<sup id="cite_ref-Fennimore2012_5-1" class="reference"><a href="#cite_note-Fennimore2012-5">&#91;5&#93;</a></sup><sup id="cite_ref-Hicks2012_17-0" class="reference"><a href="#cite_note-Hicks2012-17">&#91;17&#93;</a></sup> Most states acknowledge a specific duration for post-mortem publicity rights, which generally range between forty and one hundred years.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Because post-mortem publicity rights vary from state to state, court precedent has determined that when establishing a person's post-mortem publicity rights, the legislation of the state in which the decedent lived must be adhered to.<sup id="cite_ref-Decker2009_16-2" class="reference"><a href="#cite_note-Decker2009-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Relevant_court_cases_3">Relevant court cases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=12" title="Edit section: Relevant court cases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Haelan Laboratories, Inc. v. Topps Chewing Gum, Inc.</i> established the right of publicity, granting individuals control of the commercial use of their identity.<sup id="cite_ref-Fennimore2012_5-2" class="reference"><a href="#cite_note-Fennimore2012-5">&#91;5&#93;</a></sup>
+</p><p><i>Shaw Family Archives Ltd. v. CMG Worldwide, Inc.</i> determined that Marilyn Monroe's estate did not own her post-mortem right of publicity because neither state of  her residency, New York nor California, recognized post-mortem rights of publicity.<sup id="cite_ref-Decker2009_16-3" class="reference"><a href="#cite_note-Decker2009-16">&#91;16&#93;</a></sup>
+</p><p>In <i>Experience Hendrix v. HendrixLicensing.com,</i> Al Hendrix, despite being his son's sole heir, was denied the acquisition of Jimi Hendrix's publicity rights due to the fact that New York, at the time, did not acknowledge post-mortem publicity rights<i>. </i><sup id="cite_ref-Hicks2012_17-1" class="reference"><a href="#cite_note-Hicks2012-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=13" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The use of deceased celebrities' likenesses has sparked controversy, mainly regarding the potential for their image to be used in a way that is inconsistent with that celebrity's desire. This can occur through the use of a celebrity's image for advertising a product, service, or any other recreation of celebrity likeness for commercial, or noncommercial, use in a way that the celebrity would otherwise not agree to during their lifetime.<sup id="cite_ref-Smith2013_19-0" class="reference"><a href="#cite_note-Smith2013-19">&#91;19&#93;</a></sup> This then raises questions about a potential violation of that celebrity's privacy because of the use of an individual's image without their consent. This can be seen in the 2012 <a href="/wiki/Coachella_Valley_Music_and_Arts_Festival" class="mw-redirect" title="Coachella Valley Music and Arts Festival">Coachella</a> concert, which featured a digital recreation of <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>. The virtual clone performed on stage, rapping a song never recorded by Tupac during his life.<sup id="cite_ref-Smith2013_19-1" class="reference"><a href="#cite_note-Smith2013-19">&#91;19&#93;</a></sup> The use of such <a href="/wiki/Digital_cloning" title="Digital cloning">digital cloning</a> and other similar recreations of celebrities could become a serious privacy concern in that those being reproduced have no control over how they are being represented. Discretion regarding the use of such digital personas is entirely up to whomever owns the right to that celebrity's image, which inevitably opens up the possibility that the decedent's interest is not being prioritized.<sup id="cite_ref-Smith2013_19-2" class="reference"><a href="#cite_note-Smith2013-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFBuitelaar2017" class="citation journal cs1">Buitelaar, J. C. (2017-06-01). <a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10676-017-9421-9">"Post-mortem privacy and informational self-determination"</a>. <i>Ethics and Information Technology</i>. <b>19</b> (2): 129–142. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10676-017-9421-9">10.1007/s10676-017-9421-9</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1388-1957">1388-1957</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethics+and+Information+Technology&amp;rft.atitle=Post-mortem+privacy+and+informational+self-determination&amp;rft.volume=19&amp;rft.issue=2&amp;rft.pages=129-142&amp;rft.date=2017-06-01&amp;rft_id=info%3Adoi%2F10.1007%2Fs10676-017-9421-9&amp;rft.issn=1388-1957&amp;rft.aulast=Buitelaar&amp;rft.aufirst=J.+C.&amp;rft_id=%2F%2Fdoi.org%2F10.1007%252Fs10676-017-9421-9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APost-mortem+privacy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Banta2016-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Banta2016_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Banta2016_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Banta2016_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Banta2016_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Banta2016_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Banta, Natalie M. 2016. "Death and privacy in the digital age." <i>North Carolina Law Review</i>, 3: 958. Retrieved October 12, 2017 (InfoTrac LegalTrac, EBSCOhost).</span>
+</li>
+<li id="cite_note-Berg2001-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Berg2001_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Berg2001_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Berg2001_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Berg, Jessica W. 2001. "Grave secrets: legal and ethical analysis of postmortem confidentiality.” <i>Connecticut Law Review,</i> (1):81.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Buitelaar, J. 2017. [null “Post-mortem privacy and informational self-determination.”] <i>Ethics &amp; Information</i> <i>Technology</i>, 19(2):129.</span>
+</li>
+<li id="cite_note-Fennimore2012-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fennimore2012_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fennimore2012_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fennimore2012_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Fennimore, Keenan C. 2012. "Reconciling California's Pre, Post, and Per Mortem Rights of Publicity." <i>Indiana International &amp; Comparative Law Review</i> 22(2): 377-409.</span>
+</li>
+<li id="cite_note-Moore2016-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Moore2016_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Moore2016_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Moore, Quianta L., Mary A. Majumder, Lindsey K.Rutherford, et al. 2016. [null "Ethical and Legal Challenges] Associated with Public Molecular Autopsies." <i>Journal of Law, Medicine &amp; Ethics,</i> 44(2): 309-318.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Kohl, U.(2022) What post-mortem privacy may teach us about privacy, Computer Law &amp; Security Review, Vol 47, 105737, <a rel="nofollow" class="external free" href="https://doi.org/10.1016/j.clsr.2022.105737">https://doi.org/10.1016/j.clsr.2022.105737</a>.</span>
+</li>
+<li id="cite_note-:10-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:10_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:10_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Jones, D. Gareth. "[null Genetic privacy and the use of archival human material in genetic studies - current] perspectives." <i>Medicolegal &amp; Bioethics,</i> 5:43-52.</span>
+</li>
+<li id="cite_note-Siddiqui2014-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Siddiqui2014_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Siddiqui2014_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Siddiqui2014_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Siddiqui, Mahira. 2014. [null “Narrowly Restricting “clearly Established” Civil Liberties: The ConstitutionalRamifications of a Family Member’s [under]protected Federal Privacy Rights in the Dissemination of Postmortem Images in <i>Marsh v. County of San Diego</i>.”] <i>Golden Gate University Law Review</i>, 44(1): 81-99.</span>
+</li>
+<li id="cite_note-Terilli2005-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Terilli2005_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Terilli2005_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Terilli2005_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Terilli, Samuel A., and Sigman L. Splichal. 2005. "[null Public Access to Autopsy and Death-scene Photographs: Relational Privacy, Public Records and Avoidable Collisions."] <i>Communication Law &amp; Policy,</i> 10(3): 313-348.</span>
+</li>
+<li id="cite_note-:9-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:9_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:9_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Harold, Christine, and Kevin Michael DeLuca. [null "Behold the Corpse: Violent Images and the Case of] Emmett Till." Rhetoric and Public Affairs, 8(2): 263-86.</span>
+</li>
+<li id="cite_note-Lopez2016-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lopez2016_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lopez2016_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lopez2016_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Lopez2016_12-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Lopez, Alberto B. 2016. "Posthumous Privacy, Decedent Intent, and Post-Mortem Access to Digital Assets." <i>George Mason Law Review,</i> 24(1): 183.</span>
+</li>
+<li id="cite_note-:11-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:11_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:11_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Barwick, Elizabeth D. "All Blogs go to Heaven: Preserving Valuable Digital Assets Without the Uniform Fiduciary Access to Digital Assets Act's Removal of Third Party Privacy Protections." <i>Georgia Law Review</i> 50, (2): 593-624.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Gaied, Melissa. 2016. [null "Data after death: an examination into heirs' access to a decedent's private online] account." <i>Suffolk University Law Review</i>, 2: 281. Retrieved  October 12, 2017 (InfoTrac LegalTrac, EBSCOhost).</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMorse2020" class="citation web cs1">Morse, Jack (November 12, 2020). <a rel="nofollow" class="external text" href="https://mashable.com/article/google-delete-drive-contents-due-to-inactivity">"Google says it 'may' delete your files if you don't log in enough"</a>. <i>Mashable</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Mashable&amp;rft.atitle=Google+says+it+%27may%27+delete+your+files+if+you+don%27t+log+in+enough&amp;rft.date=2020-11-12&amp;rft.aulast=Morse&amp;rft.aufirst=Jack&amp;rft_id=https%3A%2F%2Fmashable.com%2Farticle%2Fgoogle-delete-drive-contents-due-to-inactivity&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APost-mortem+privacy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Decker2009-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Decker2009_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Decker2009_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Decker2009_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Decker2009_16-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Decker, Michael. 2009. [null "Goodbye, Norma Jean: Marilyn Monroe and the Right of Publicity's] Transformation at Death." <i>Cardozo Arts &amp; Entertainment Law Journal,</i> 27(1): 243.</span>
+</li>
+<li id="cite_note-Hicks2012-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hicks2012_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hicks2012_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hicks, Aubrie. 2012[null "The right to publicity after death: post mortem personality rights in Washington in] the wake [null of Experience Hendrix v. HendrixLicensing.com]." <i>Seattle University Law Review</i>, (1): 275.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Smolensky, Kirsten Rabe. 2009. "Rights of the Dead." <i>Hofstra Law Review,</i> 37(3): 763-804.</span>
+</li>
+<li id="cite_note-Smith2013-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Smith2013_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Smith2013_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Smith2013_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Smith, Shannon Flynn1. 2013. "If it Looks Like Tupac, Walks Like Tupac, and Raps Like Tupac, it's Probably Tupac: Virtual Cloning and Postmortem Right-of-Publicity Implications." <i><a href="/wiki/Michigan_State_Law_Review" title="Michigan State Law Review">Michigan State Law Review</a></i>, (5): 1719-1761.</span>
+</li>
+</ol></div></div>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Privacy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Privacy" title="Template:Privacy"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Privacy" title="Template talk:Privacy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Privacy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Privacy" style="font-size:114%;margin:0 4em"><a href="/wiki/Privacy" title="Privacy">Privacy</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Principles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Expectation_of_privacy" class="mw-redirect" title="Expectation of privacy">Expectation of privacy</a></li>
+<li><a href="/wiki/Right_to_privacy" title="Right to privacy">Right to privacy</a></li>
+<li><a href="/wiki/Right_to_be_forgotten" title="Right to be forgotten">Right to be forgotten</a></li>
+<li><a class="mw-selflink selflink">Post-mortem privacy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Privacy_law" title="Privacy law">Privacy laws</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Privacy_in_Australian_law" title="Privacy in Australian law">Australia</a></li>
+<li><a href="/wiki/Canadian_privacy_law" title="Canadian privacy law">Canada</a></li>
+<li><a href="/wiki/Personal_Information_Protection_Law_of_the_People%27s_Republic_of_China" title="Personal Information Protection Law of the People&#39;s Republic of China">China</a></li>
+<li><a href="/wiki/Privacy_law_in_Denmark" title="Privacy law in Denmark">Denmark</a></li>
+<li><a href="/wiki/Privacy_in_English_law" title="Privacy in English law">England</a></li>
+<li><a href="/wiki/General_Data_Protection_Regulation" title="General Data Protection Regulation">European Union</a></li>
+<li><a href="/wiki/Bundesdatenschutzgesetz" title="Bundesdatenschutzgesetz">Germany</a></li>
+<li><a href="/wiki/Data_Protection_Act,_2012" title="Data Protection Act, 2012">Ghana</a></li>
+<li><a href="/wiki/Right_to_privacy_in_New_Zealand" title="Right to privacy in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Data_protection_(privacy)_laws_in_Russia" title="Data protection (privacy) laws in Russia">Russia</a></li>
+<li><a href="/wiki/Personal_Data_Protection_Act_2012_(Singapore)" class="mw-redirect" title="Personal Data Protection Act 2012 (Singapore)">Singapore</a></li>
+<li><a href="/wiki/Federal_Data_Protection_and_Information_Commissioner" title="Federal Data Protection and Information Commissioner">Switzerland</a></li>
+<li><a href="/wiki/Privacy_laws_of_the_United_States" title="Privacy laws of the United States">United States</a>
+<ul><li><a href="/wiki/California_Consumer_Privacy_Act" title="California Consumer Privacy Act">California</a>, <a href="/wiki/California_Privacy_Rights_Act" title="California Privacy Rights Act">amended in 2020</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/National_data_protection_authority" title="National data protection authority">Data protection authorities</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Office_of_the_Australian_Information_Commissioner" title="Office of the Australian Information Commissioner">Australia</a></li>
+<li><a href="/wiki/Danish_Data_Protection_Agency" title="Danish Data Protection Agency">Denmark</a></li>
+<li><a href="/wiki/European_Data_Protection_Supervisor" title="European Data Protection Supervisor">European Union</a></li>
+<li><a href="/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s" title="Commission nationale de l&#39;informatique et des libertés">France</a></li>
+<li><a href="/wiki/Federal_Commissioner_for_Data_Protection_and_Freedom_of_Information" title="Federal Commissioner for Data Protection and Freedom of Information">Germany</a></li>
+<li><a href="/wiki/Data_Protection_Commissioner" title="Data Protection Commissioner">Ireland</a></li>
+<li><a href="/wiki/Office_of_the_Data_Protection_Supervisor" title="Office of the Data Protection Supervisor">Isle of Man</a></li>
+<li><a href="/wiki/Norwegian_Data_Protection_Authority" title="Norwegian Data Protection Authority">Norway</a></li>
+<li><a href="/wiki/National_Privacy_Commission_(Philippines)" title="National Privacy Commission (Philippines)">Philippines</a></li>
+<li><a href="/wiki/Polish_Data_Protection_Commissioner" title="Polish Data Protection Commissioner">Poland</a></li>
+<li><a href="/wiki/Personal_Information_Protection_Commission_(South_Korea)" title="Personal Information Protection Commission (South Korea)">South Korea</a></li>
+<li><a href="/wiki/Spanish_Data_Protection_Agency" title="Spanish Data Protection Agency">Spain</a></li>
+<li><a href="/wiki/Swedish_Data_Protection_Authority" class="mw-redirect" title="Swedish Data Protection Authority">Sweden</a></li>
+<li><a href="/wiki/Federal_Data_Protection_and_Information_Commissioner" title="Federal Data Protection and Information Commissioner">Switzerland</a></li>
+<li><a href="/wiki/Turkish_Data_Protection_Authority" title="Turkish Data Protection Authority">Turkey</a></li>
+<li><a href="/wiki/Office_of_the_Personal_Data_Protection_Committee" class="mw-redirect" title="Office of the Personal Data Protection Committee">Thailand</a></li>
+<li><a href="/wiki/Information_Commissioner%27s_Office" title="Information Commissioner&#39;s Office">United Kingdom</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Areas</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Consumer_privacy" title="Consumer privacy">Consumer</a></li>
+<li><a href="/wiki/Medical_privacy" title="Medical privacy">Medical</a></li>
+<li><a href="/wiki/Workplace_privacy" title="Workplace privacy">Workplace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_privacy" title="Information privacy">Information privacy</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Information_privacy_law" title="Information privacy law">Law</a></li>
+<li><a href="/wiki/Bank_secrecy" title="Bank secrecy">Financial</a></li>
+<li><a href="/wiki/Internet_privacy" title="Internet privacy">Internet</a></li>
+<li><a href="/wiki/Personal_data" title="Personal data">Personal data</a></li>
+<li><a href="/wiki/Personal_identifier" title="Personal identifier">Personal identifier</a></li>
+<li><a href="/wiki/Privacy-enhancing_technologies" title="Privacy-enhancing technologies">Privacy-enhancing technologies</a></li>
+<li><a href="/wiki/Privacy_concerns_with_social_networking_services" title="Privacy concerns with social networking services">Social networking services</a></li>
+<li><a href="/wiki/Privacy_engineering" title="Privacy engineering">Privacy engineering</a></li>
+<li><a href="/wiki/Secret_ballot" title="Secret ballot">Secret ballot</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Advocacy organizations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/American_Civil_Liberties_Union" title="American Civil Liberties Union">American Civil Liberties Union</a></li>
+<li><a href="/wiki/Center_for_Democracy_and_Technology" title="Center for Democracy and Technology">Center for Democracy and Technology</a></li>
+<li><a href="/wiki/Computer_Professionals_for_Social_Responsibility" title="Computer Professionals for Social Responsibility">Computer Professionals for Social Responsibility</a></li>
+<li><a href="/wiki/Future_of_Privacy_Forum" title="Future of Privacy Forum">Future of Privacy Forum</a></li>
+<li><a href="/wiki/Electronic_Privacy_Information_Center" title="Electronic Privacy Information Center">Electronic Privacy Information Center</a></li>
+<li><a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a></li>
+<li><a href="/wiki/European_Digital_Rights" title="European Digital Rights">European Digital Rights</a></li>
+<li><a href="/wiki/Global_Network_Initiative" title="Global Network Initiative">Global Network Initiative</a></li>
+<li><a href="/wiki/International_Association_of_Privacy_Professionals" title="International Association of Privacy Professionals">International Association of Privacy Professionals</a></li>
+<li><a href="/wiki/NOYB" title="NOYB">NOYB</a></li>
+<li><a href="/wiki/Privacy_International" title="Privacy International">Privacy International</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Carding_(fraud)" title="Carding (fraud)">Carding</a></li>
+<li><a href="/wiki/Cellphone_surveillance" title="Cellphone surveillance">Cellphone surveillance</a></li>
+<li><a href="/wiki/Cyberstalking" title="Cyberstalking">Cyberstalking</a></li>
+<li><a href="/wiki/Data_security" title="Data security">Data security</a></li>
+<li><a href="/wiki/Eavesdropping" title="Eavesdropping">Eavesdropping</a></li>
+<li><a href="/wiki/Global_surveillance" title="Global surveillance">Global surveillance</a></li>
+<li><a href="/wiki/Electronic_harassment" title="Electronic harassment">Electronic harassment</a></li>
+<li><a href="/wiki/Mass_surveillance" title="Mass surveillance">Mass surveillance</a></li>
+<li><a href="/wiki/Privacy_engineering" title="Privacy engineering">Privacy engineering</a></li>
+<li><a href="/wiki/Telephone_tapping" title="Telephone tapping">Telephone tapping</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Identity_theft" title="Identity theft">Identity theft</a></li>
+<li><a href="/wiki/Panopticon" title="Panopticon">Panopticon</a></li>
+<li><a href="/wiki/Personality_rights" title="Personality rights">Personality rights</a></li>
+<li><a href="/wiki/Search_warrant" title="Search warrant">Search warrant</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Privacy" title="Category:Privacy">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r1110984671">.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-related{font-size:100%;justify-content:flex-start}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;flex:0 0 auto;min-height:24px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;flex:0 1 auto;padding:0.15em 0;column-gap:1em;align-items:baseline}.mw-parser-output .portal-bar-content-related{}.mw-parser-output .portal-bar-item{display:inline-block;margin:0.15em 0.2em;min-height:24px;line-height:24px}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap;align-items:baseline}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-related{font-size:100%;align-items:flex-start}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:center;flex:0;column-gap:1em;border-top:1px solid #a2a9b1;margin:0 auto}.mw-parser-output .portal-bar-content-related{border-top:none;margin:0}}.mw-parser-output .navbox+link+.portal-bar,.mw-parser-output .navbox+style+.portal-bar,.mw-parser-output .navbox+link+.portal-bar-bordered,.mw-parser-output .navbox+style+.portal-bar-bordered,.mw-parser-output .sister-bar+link+.portal-bar,.mw-parser-output .sister-bar+style+.portal-bar,.mw-parser-output .portal-bar+.navbox-styles+.navbox,.mw-parser-output .portal-bar+.navbox-styles+.sister-bar{margin-top:-1px}</style><div class="portal-bar noprint metadata noviewer portal-bar-bordered" role="navigation" aria-label="Portals"><span class="portal-bar-header"><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portals</a>:</span><div class="portal-bar-content"><span class="portal-bar-item"><a href="/wiki/File:Balance,_by_David.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance%2C_by_David.svg/21px-Balance%2C_by_David.svg.png" decoding="async" width="21" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance%2C_by_David.svg/32px-Balance%2C_by_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance%2C_by_David.svg/41px-Balance%2C_by_David.svg.png 2x" data-file-width="606" data-file-height="558" /></a>&#160;<a href="/wiki/Portal:Law" title="Portal:Law">Law</a></span><span class="portal-bar-item"><img alt="flag" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/21px-Flag_of_the_United_States.svg.png" decoding="async" width="21" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/42px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;<a href="/wiki/Portal:United_States" title="Portal:United States">United States</a></span></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1442
+Cached time: 20221023074757
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.269 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 1176/1000000
+Post‐expand include size: 32960/2097152 bytes
+Template argument size: 1561/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26674/5000000 bytes
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 4592007/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  321.564      1 -total
+ 26.78%   86.107      1 Template:Reflist
+ 19.51%   62.735      1 Template:Cite_journal
+ 15.52%   49.901      1 Template:Short_description
+ 14.74%   47.403      1 Template:Privacy
+ 14.17%   45.568      1 Template:Navbox
+ 13.90%   44.684      1 Template:Globalize
+ 12.47%   40.102      1 Template:Ambox
+  9.02%   28.993      1 Template:Portal_bar
+  8.20%   26.372      2 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:55251911-0!canonical and timestamp 20221023074756 and revision id 1108792672.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Post-mortem_privacy&amp;oldid=1108792672">https://en.wikipedia.org/w/index.php?title=Post-mortem_privacy&amp;oldid=1108792672</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Death" title="Category:Death">Death</a></li><li><a href="/wiki/Category:Legal_aspects_of_death" title="Category:Legal aspects of death">Legal aspects of death</a></li><li><a href="/wiki/Category:Medical_privacy" title="Category:Medical privacy">Medical privacy</a></li><li><a href="/wiki/Category:Privacy_controversies_and_disputes" title="Category:Privacy controversies and disputes">Privacy controversies and disputes</a></li><li><a href="/wiki/Category:Privacy_law" title="Category:Privacy law">Privacy law</a></li><li><a href="/wiki/Category:Privacy_law_in_the_United_States" title="Category:Privacy law in the United States">Privacy law in the United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_September_2018" title="Category:Articles with limited geographic scope from September 2018">Articles with limited geographic scope from September 2018</a></li><li><a href="/wiki/Category:United_States-centric" title="Category:United States-centric">United States-centric</a></li><li><a href="/wiki/Category:Use_American_English_from_September_2018" title="Category:Use American English from September 2018">Use American English from September 2018</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_January_2018" title="Category:Vague or ambiguous time from January 2018">Vague or ambiguous time from January 2018</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Post-mortem+privacy" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Post-mortem+privacy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Post-mortem_privacy" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Post-mortem_privacy" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Post-mortem_privacy"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Post-mortem_privacy&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Post-mortem_privacy&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Post-mortem_privacy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Post-mortem_privacy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Post-mortem_privacy&amp;oldid=1108792672" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Post-mortem_privacy&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Post-mortem_privacy&amp;id=1108792672&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q48782440" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Post-mortem_privacy&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Post-mortem_privacy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D9%85%D8%A7_%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A9" title="خصوصية ما بعد الوفاة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q48782440#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 6 September 2022, at 08:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Post-mortem_privacy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.269","walltime":"0.374","ppvisitednodes":{"value":1176,"limit":1000000},"postexpandincludesize":{"value":32960,"limit":2097152},"templateargumentsize":{"value":1561,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26674,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  321.564      1 -total"," 26.78%   86.107      1 Template:Reflist"," 19.51%   62.735      1 Template:Cite_journal"," 15.52%   49.901      1 Template:Short_description"," 14.74%   47.403      1 Template:Privacy"," 14.17%   45.568      1 Template:Navbox"," 13.90%   44.684      1 Template:Globalize"," 12.47%   40.102      1 Template:Ambox","  9.02%   28.993      1 Template:Portal_bar","  8.20%   26.372      2 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":4592007,"limit":52428800}},"cachereport":{"origin":"mw1442","timestamp":"20221023074757","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Post-mortem privacy","url":"https:\/\/en.wikipedia.org\/wiki\/Post-mortem_privacy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q48782440","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q48782440","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-09-15T23:22:33Z","dateModified":"2022-09-06T08:34:01Z","headline":"the ability to control the dissemination of personal information after death"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Post-mortem privacy","url":"https:\/\/en.wikipedia.org\/wiki\/Post-mortem_privacy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q48782440","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q48782440","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-09-15T23:22:33Z","dateModified":"2022-09-06T08:34:01Z","headline":"the ability to control the dissemination of personal information after death"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1331"});});</script>
+</body>
+</html>

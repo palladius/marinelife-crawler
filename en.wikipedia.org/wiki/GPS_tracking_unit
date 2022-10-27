@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>GPS tracking unit - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8f52cbc8-561a-46d3-8b72-3799795eb6e6","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"GPS_tracking_unit","wgTitle":"GPS tracking unit","wgCurRevisionId":1111997254,"wgRevisionId":1111997254,"wgArticleId":4105326,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from February 2022","Articles with permanently dead external links","Articles with short description","Short description is different from Wikidata","Use British English from January 2019",
+"Use dmy dates from January 2019","Articles needing additional references from January 2019","All articles needing additional references","Articles to be split from August 2020","All articles to be split","All articles that may contain original research","Articles that may contain original research from May 2009","Global Positioning System","Surveillance","Geopositioning","Navigational equipment"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"GPS_tracking_unit","wgRelevantArticleId":4105326,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia",
+"wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q253677","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
+"skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="GPS tracking unit - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/GPS_tracking_unit"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=GPS_tracking_unit&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/GPS_tracking_unit"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-GPS_tracking_unit rootpage-GPS_tracking_unit skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">GPS tracking unit</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Device using satellite navigation to decide geolocations</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=GPS_tracking_unit&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22GPS+tracking+unit%22">"GPS tracking unit"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22GPS+tracking+unit%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22GPS+tracking+unit%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22GPS+tracking+unit%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22GPS+tracking+unit%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22GPS+tracking+unit%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">January 2019</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>   
+<p>A <b>GPS tracking unit</b>, <b>geotracking unit</b>, <b>satellite tracking unit</b>, or simply <b>tracker</b> is a <a href="/wiki/GPS_device" class="mw-redirect" title="GPS device">navigation device</a> normally on a vehicle, <a href="/wiki/Asset_management" title="Asset management">asset</a>, person or <a href="/wiki/GPS_animal_tracking" title="GPS animal tracking">animal</a> that uses <a href="/wiki/Satellite_navigation" title="Satellite navigation">satellite navigation</a> to determine its movement and determine its WGS84  UTM  <a href="/wiki/Geographic_position" class="mw-redirect" title="Geographic position">geographic position</a> (<a href="/wiki/Geopositioning" title="Geopositioning">geotracking</a>) to determine its location.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Satellite tracking devices send special satellite signals that are processed by a receiver.
+</p><p>Locations are stored in the tracking unit or transmitted to an <a href="/wiki/Internet" title="Internet">Internet</a>-connected device using the <a href="/wiki/Cellular_network" title="Cellular network">cellular network</a> (<a href="/wiki/GSM" title="GSM">GSM</a>/<a href="/wiki/GPRS" class="mw-redirect" title="GPRS">GPRS</a>/<a href="/wiki/CDMA" class="mw-redirect" title="CDMA">CDMA</a>/<a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a>  or <a href="/wiki/SMS" title="SMS">SMS</a>), <a href="/wiki/Radio" title="Radio">radio</a>, or <a href="/wiki/Satellite_modem" title="Satellite modem">satellite modem</a> embedded in the unit or WiFi work worldwide.
+</p><p>GPS antenna size limits tracker size, often smaller than a half-dollar (diameter 30.61 mm). In 2020 tracking is a $2 billion business plus military-in the gulf war 10% or more targets used trackers. Virtually every cellphone tracks its movements.
+Tracks can be map displayed in real time, using GPS tracking software and devices with GPS capability.<sup id="cite_ref-gcc_2-0" class="reference"><a href="#cite_note-gcc-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Architecture"><span class="tocnumber">1</span> <span class="toctext">Architecture</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Data_loggers"><span class="tocnumber">2.1</span> <span class="toctext">Data loggers</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Data_pushers"><span class="tocnumber">2.2</span> <span class="toctext">Data pushers</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Data_pullers"><span class="tocnumber">2.3</span> <span class="toctext">Data pullers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Covert_GPS_trackers"><span class="tocnumber">2.4</span> <span class="toctext">Covert GPS trackers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Personal_tracking"><span class="tocnumber">3.1</span> <span class="toctext">Personal tracking</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Asset_tracking"><span class="tocnumber">3.2</span> <span class="toctext">Asset tracking</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Aircraft_tracking"><span class="tocnumber">3.3</span> <span class="toctext">Aircraft tracking</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Animal_tracking"><span class="tocnumber">3.4</span> <span class="toctext">Animal tracking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Legislation"><span class="tocnumber">4</span> <span class="toctext">Legislation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Australian_law"><span class="tocnumber">4.1</span> <span class="toctext">Australian law</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#United_States_law"><span class="tocnumber">4.2</span> <span class="toctext">United States law</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#United_Kingdom_law"><span class="tocnumber">4.3</span> <span class="toctext">United Kingdom law</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Uses_in_marketing"><span class="tocnumber">5</span> <span class="toctext">Uses in marketing</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Architecture">Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=1" title="Edit section: Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A GPS "track me" essentially contains a GPS module that receives the <a href="/wiki/GPS_signal" class="mw-redirect" title="GPS signal">GPS signal</a> and calculates the coordinates. For data loggers, it contains large memory to store the coordinates. Data pushers additionally contain a <a href="/wiki/GSM" title="GSM">GSM</a>/<a href="/wiki/GPRS" class="mw-redirect" title="GPRS">GPRS</a>/<a href="/wiki/CDMA" class="mw-redirect" title="CDMA">CDMA</a>/<a href="/wiki/LTE_(telecommunication)" title="LTE (telecommunication)">LTE</a> modem to transmit this information to a central computer either via <a href="/wiki/SMS" title="SMS">SMS</a> or <a href="/wiki/GPRS" class="mw-redirect" title="GPRS">GPRS</a> in form of <a href="/wiki/Internet_Protocol" title="Internet Protocol">IP</a> packets. Satellite-based GPS tracking units will operate anywhere on the globe using satellite technology such as <a href="/wiki/GlobalStar" class="mw-redirect" title="GlobalStar">GlobalStar</a> or <a href="/wiki/Iridium_satellite_constellation" title="Iridium satellite constellation">Iridium</a>. They do not require a cellular connection.
+</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are three types of GPS trackers, though most <a href="/wiki/GPS_Phone" class="mw-redirect" title="GPS Phone">GPS-equipped phones</a> can work in any of these modes depending on the <a href="/wiki/Mobile_application" class="mw-redirect" title="Mobile application">mobile applications</a> installed:
+</p>
+<h3><span class="mw-headline" id="Data_loggers">Data loggers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=3" title="Edit section: Data loggers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>GPS loggers <a href="/wiki/Data_logging" class="mw-redirect" title="Data logging">log</a> the position of the device at regular intervals in its internal memory. GPS loggers may have either a <a href="/wiki/Memory_card" title="Memory card">memory card</a> slot, or internal flash memory card and a <a href="/wiki/Universal_Serial_Bus" class="mw-redirect" title="Universal Serial Bus">USB</a> port. Some act as a <a href="/wiki/USB_flash_drive" title="USB flash drive">USB flash drive</a>, which allows <a href="/wiki/Download" title="Download">downloading</a> the track log data for further computer analysis. The track list or <a href="/wiki/Point_of_interest" title="Point of interest">point of interest</a> list may be in <a href="/wiki/GPS_eXchange_Format" class="mw-redirect" title="GPS eXchange Format">GPX</a>, <a href="/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language">KML</a>, <a href="/wiki/National_Marine_Electronics_Association" title="National Marine Electronics Association">NMEA</a> or other format.
+</p><p>Most <a href="/wiki/Digital_camera" title="Digital camera">digital cameras</a> save the time a photo was taken. Provided the camera clock is reasonably accurate or used GPS as its time source, this time can be correlated with GPS log data, to provide an accurate location. This can be added to the <a href="/wiki/Exif" title="Exif">Exif</a> metadata in the picture file. <a href="/wiki/List_of_cameras_which_provide_geotagging" title="List of cameras which provide geotagging">Cameras with a GPS receiver built in</a> can directly produce such a <a href="/wiki/Geotagged_photograph" title="Geotagged photograph">geotagged photograph</a>.
+</p><p>In some <a href="/wiki/Private_investigator" title="Private investigator">private investigation</a> cases, <a href="/wiki/Data_loggers" class="mw-redirect" title="Data loggers">data loggers</a> are used to keep track of a target vehicle. The private investigator need not follow the target too closely, and always has a backup source of data.
+</p>
+<h3><span class="mw-headline" id="Data_pushers">Data pushers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=4" title="Edit section: Data pushers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A data pusher is the most common type of GPS tracking unit, used for <a href="/wiki/Asset_tracking" title="Asset tracking">asset tracking</a>, <a href="/w/index.php?title=Personal_tracking&amp;action=edit&amp;redlink=1" class="new" title="Personal tracking (page does not exist)">personal tracking</a> and <a href="/wiki/Vehicle_tracking" class="mw-redirect" title="Vehicle tracking">vehicle tracking</a> systems. Virtually every cell phone is in this mode per user agreement, even if shut off or disabled storing the data for future transmission.
+</p><p>Also known as a "GPS beacon", this kind of device <a href="/wiki/Push_technology" title="Push technology">push</a> (i.e. "sends"), at regular intervals, the position of the device as well as other information like <a href="/wiki/Speed" title="Speed">speed</a> or <a href="/wiki/Altitude" title="Altitude">altitude</a> to a determined <a href="/wiki/Server_(computing)" title="Server (computing)">server</a>, that can store and analyze the data instantly.
+</p><p>A <a href="/wiki/GPS_navigation_device" class="mw-redirect" title="GPS navigation device">GPS navigation device</a> and a mobile phone sit side-by-side in the same box, powered by the same battery. At regular intervals, the phone sends a text message via SMS or GPRS, containing the data from the GPS receiver. Newer GPS-integrated <a href="/wiki/Smartphone" title="Smartphone">smartphones</a> running GPS tracking software can turn the phone into a data pusher (or logger) device. As of 2009, <a href="/wiki/Open_source" title="Open source">open source</a> and <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a> applications are available for common <a href="/wiki/Java_ME" class="mw-redirect" title="Java ME">Java ME</a> enabled phones, <a href="/wiki/IPhone" title="IPhone">iPhone</a>, <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>, Windows Mobile, and Symbian.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Most 21st-century GPS trackers provide data "push" technology, enabling sophisticated GPS tracking in business environments, specifically organizations that employ a mobile workforce, such as a commercial fleet. Typical GPS <a href="/wiki/Tracking_system" title="Tracking system">tracking systems</a> used in commercial <a href="/wiki/Fleet_management" title="Fleet management">fleet management</a> have two core parts: location hardware (or tracking device) and tracking software. This combination is often referred to as an <a href="/wiki/Automatic_Vehicle_Location" class="mw-redirect" title="Automatic Vehicle Location">Automatic Vehicle Location</a> system. The tracking device is most often hardwired installed in the vehicle, connected to the <a href="/wiki/CAN-bus" class="mw-redirect" title="CAN-bus">CAN-bus</a>, <a href="/wiki/Ignition_system" title="Ignition system">ignition system</a> switch, battery. It allows collection of extra data, which is later transferred to the <a href="/wiki/GPS_tracking_server" class="mw-redirect" title="GPS tracking server">GPS tracking server</a>. There it is available for viewing, in most cases via a website accessed over the Internet, where fleet activity can be viewed live or historically using digital maps and reports.
+</p><p>GPS tracking systems used in commercial fleets are often configured to transmit location and telemetry input data at a set update rate or when an event (door open/close, auxiliary equipment on/off, <a href="/wiki/Geofence" class="mw-redirect" title="Geofence">geofence</a> border cross) triggers the unit to transmit data. Live GPS tracking used in commercial fleets generally refers to systems that update regularly at one-minute, two-minute or five-minute intervals while the ignition status is on. Some tracking systems combine timed updates with heading change triggered updates.
+</p><p>GPS tracking solutions such as <a href="/wiki/Telematics_2.0" title="Telematics 2.0">Telematics 2.0</a>, an <a href="/wiki/Internet_of_Things" class="mw-redirect" title="Internet of Things">IoT</a> based <a href="/wiki/Telematics" title="Telematics">telematics</a> technology for the automotive industry, are being used by mainstream commercial auto insurance companies.
+</p>
+<h3><span class="mw-headline" id="Data_pullers">Data pullers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=5" title="Edit section: Data pullers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>GPS data pullers are also known as "GPS transponders". Unlike data pushers that send the position of the devices at regular intervals (<a href="/wiki/Push_technology" title="Push technology">push technology</a>), these devices are always on, and can be queried as often as required (<a href="/wiki/Pull_technology" title="Pull technology">pull technology</a>). This technology is not in widespread use, but an example of this kind of device is a computer connected to the Internet and running <a href="/wiki/Gpsd" title="Gpsd">gpsd</a>.
+</p><p>These can often be used in the case where the location of the tracker will only need to be known occasionally (e.g. placed in property that may be stolen, or that does not have a constant source of energy to send data on a regular basis, like freight or containers.)
+</p><p>Data Pullers are coming into more common usage in the form of devices containing a GPS receiver and a cell phone which, when sent a special <a href="/wiki/SMS" title="SMS">SMS</a> message reply to the message with their location.
+</p>
+<h3><span class="mw-headline" id="Covert_GPS_trackers">Covert GPS trackers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=6" title="Edit section: Covert GPS trackers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Covert GPS trackers contain the same electronics as regular GPS trackers but are constructed in such a way as to appear to be an everyday object. One use for covert GPS trackers is for power tool protection; these devices can be concealed within power tool boxes and traced if theft occurs.
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=7" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The applications of GPS trackers include:
+</p>
+<h3><span class="mw-headline" id="Personal_tracking">Personal tracking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=8" title="Edit section: Personal tracking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Race control: in some sports, such as <a href="/wiki/Gliding" title="Gliding">gliding</a>, participants are required to carry a tracker. In particular, this allows race officials to know if the participants are cheating, taking unexpected shortcuts, and how far apart they are. This use was illustrated in the movie <i><a href="/wiki/Rat_Race_(film)" title="Rat Race (film)">Rat Race</a></i>.</li>
+<li><a href="/wiki/Law_enforcement" title="Law enforcement">Law enforcement</a>: an arrested suspect out on bail may have to wear a GPS tracker, usually an <a href="/wiki/Ankle_monitor" class="mw-redirect" title="Ankle monitor">ankle monitor</a>, as a bail condition. GPS tracking may also be ordered for persons subject to a <a href="/wiki/Domestic_Abuse_Restraining_Order" title="Domestic Abuse Restraining Order">restraining order</a>.<sup id="cite_ref-wsj27_6-0" class="reference"><a href="#cite_note-wsj27-6">&#91;6&#93;</a></sup><sup id="cite_ref-wislegis27_7-0" class="reference"><a href="#cite_note-wislegis27-7">&#91;7&#93;</a></sup></li>
+<li><a href="/wiki/Espionage" title="Espionage">Espionage</a>/<a href="/wiki/Surveillance" title="Surveillance">surveillance</a>: a tracker on a person or vehicle allows movements to be tracked.</li>
+<li>Vehicle tracking: some people use GPS Trackers to monitor activity of their own vehicle, especially in the event of a vehicle being used by a friend or family member.</li>
+<li>GPS personal tracking devices are used in the care of the elderly and vulnerable, and can be used to track small children who may get into danger.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Some devices can send text alerts to carers if the wearer moves into an unexpected place. Some devices allow users to call for assistance, and optionally allow designated carers to locate the user's position, typically within five to ten meters. Their use helps promote independent living and social inclusion for the elderly. Devices often incorporate either one-way otwo-way voice communication. Some devices also allow the user to call several phone numbers using pre-programmed speed dial buttons. Trials using GPS personal tracking devices for people living with dementia are underway in several countries. Text and voice communication is usually provided by a connection to <a href="/wiki/Mobile_telephony" title="Mobile telephony">mobile telephony</a>, but GPS devices are available that use <a href="/wiki/Satellite_communications" class="mw-redirect" title="Satellite communications">satellite communications</a>, always available even if out of mobile telephone range.<sup id="cite_ref-LiveViewGPS_Tracking_10-0" class="reference"><a href="#cite_note-LiveViewGPS_Tracking-10">&#91;10&#93;</a></sup></li>
+<li>Some <a href="/wiki/Internet" title="Internet">Internet</a> <a href="/wiki/Web_2.0" title="Web 2.0">Web 2.0</a> pioneers have created their own personal web pages that show their position constantly, and in real time, on a map within their website. These usually use data push from a GPS enabled cell phone or a personal GPS tracker.</li>
+<li>Sports: the movements of a ramblers, cyclists, and so on, can be tracked. Statistics such as instantaneous and average speed, and distance travelled, are logged.<sup id="cite_ref-gcc_2-1" class="reference"><a href="#cite_note-gcc-2">&#91;2&#93;</a></sup> In the rugby union <a href="/wiki/Six_Nations_Championship" title="Six Nations Championship">Six Nations Championship</a>, all players wear trackers, sewn into their shirts.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Some rugby clubs also use GPS units on their players.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> The England Rugby Union team uses GPS.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>Adventure sports: GPS tracking devices such as the <a href="/wiki/SPOT_Satellite_Messenger" title="SPOT Satellite Messenger">SPOT Satellite Messenger</a> are available to allow the position of a person to be tracked. In particular, this allows rescue personnel to locate the carrier. These devices also allow the carrier to send messages and emergency alerts, even when out of cellular telephone range.<sup id="cite_ref-LiveViewGPS_Tracking_10-1" class="reference"><a href="#cite_note-LiveViewGPS_Tracking-10">&#91;10&#93;</a></sup></li>
+<li>Monitoring employees: GPS-handled tracking devices with a built-in cellphone are used to monitor employees by various companies, especially those engaged in fieldwork.</li>
+<li>Lone Workers&#160;: It is ideal for improving the safety of your employees working in distant, isolated work sites. Maintenance workers, forestry, mining, and employees in similar fields may be required to work in remote areas without any contact nearby, in such scenarios the risk of their well-being increases</li></ul>
+<h3><span class="mw-headline" id="Asset_tracking">Asset tracking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=9" title="Edit section: Asset tracking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Asset_tracking#GPS" title="Asset tracking">Asset tracking §&#160;GPS</a></div>
+<p>Solar Powered: the advantage of some solar powered units is that they have much more power over their lifetime than battery-powered units. This gives them the advantage of reporting their position and status much more often than battery units which need to conserve  energy to extend their life. Some wireless solar-powered units, such as the <a href="/wiki/RailRider" title="RailRider">RailRider</a> can report more than 20,000 times per year and work indefinitely on solar power, eliminating the need to change batteries.
+</p>
+<h3><span class="mw-headline" id="Aircraft_tracking">Aircraft tracking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=10" title="Edit section: Aircraft tracking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/GPS_aircraft_tracking" title="GPS aircraft tracking">GPS aircraft tracking</a></div>
+<p>Aircraft can be tracked either by <a href="/wiki/ADS-B" class="mw-redirect" title="ADS-B">ADS-B</a> (primarily airliners and General Aviation aircraft with ADS-B-out enabled <a href="/wiki/Transponder_(aviation)" class="mw-redirect" title="Transponder (aviation)">transponder</a>), or by <a href="/wiki/FLARM" title="FLARM">FLARM</a> data packets picked up by a network of ground stations (primarily used by General Aviation aircraft, gliders and UAVs), both of which are data pushers. ADS-B is to be superseded by ADS-C, a data puller.
+</p>
+<h3><span class="mw-headline" id="Animal_tracking">Animal tracking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=11" title="Edit section: Animal tracking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/GPS_animal_tracking" title="GPS animal tracking">GPS animal tracking</a></div>
+<p>Animal monitoring (<a href="/wiki/GPS_wildlife_tracking" class="mw-redirect" title="GPS wildlife tracking">GPS wildlife tracking</a>): when put on a wild animal (e.g. in a <a href="/wiki/GPS_collar" class="mw-redirect" title="GPS collar">GPS collar</a>), it allows scientists to study the animal's activities and migration patterns. Vaginal implant transmitters mark the location where pregnant females give birth.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> <a href="/wiki/GPS_Wildlife_Tracking" class="mw-redirect" title="GPS Wildlife Tracking">Animal tracking collars</a> may also be put on domestic animals, to locate them in case they get lost.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legislation">Legislation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=12" title="Edit section: Legislation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"/><table class="plainlinks metadata ambox ambox-move" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/50px-Split-arrows.svg.png" decoding="async" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/75px-Split-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Split-arrows.svg/100px-Split-arrows.svg.png 2x" data-file-width="60" data-file-height="20" /></div></td><td class="mbox-text"><div class="mbox-text-span">It has been suggested that this section be <a href="/wiki/Wikipedia:Splitting" title="Wikipedia:Splitting">split</a> out  into another article&#32;titled <i><a href="/wiki/Geotracking_legislation" class="mw-redirect" title="Geotracking legislation">Geotracking legislation</a></i>. (<a href="/wiki/Talk:GPS_tracking_unit" title="Talk:GPS tracking unit">Discuss</a>) <small><i>(August 2020)</i></small></div></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Geo-fence_warrant" title="Geo-fence warrant">Geo-fence warrant</a> and <a href="/wiki/Location-based_service#Privacy_issues" title="Location-based service">Location-based service §&#160;Privacy issues</a></div>
+<h3><span class="mw-headline" id="Australian_law">Australian law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=13" title="Edit section: Australian law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are no Australian Federal Laws for surveillance and GPS tracker legality.
+However, most states have statutes covering the use and restrictions of tracking devices used for surveillance.
+</p><p>The below states have formal statutes. At present, only Queensland and Tasmania do not have legislation.
+</p>
+<div class="plainlist">
+<ul><li>Workplace Surveillance Act 2005 (NSW) <sup id="cite_ref-nsw-surveillance-act_16-0" class="reference"><a href="#cite_note-nsw-surveillance-act-16">&#91;16&#93;</a></sup></li>
+<li>Surveillance Devices Act 1998 (WA)</li>
+<li>Surveillance Devices Act 1999 (VIC)</li>
+<li>Workplace Privacy Act 2011 (ACT)</li>
+<li>Surveillance Devices Act 2007 (NT)</li></ul>
+</div>
+<h3><span class="mw-headline" id="United_States_law">United States law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=14" title="Edit section: United States law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the United States, the use of GPS trackers by government authorities is limited by the <a href="/wiki/4th_Amendment_to_the_United_States_Constitution" class="mw-redirect" title="4th Amendment to the United States Constitution">4th Amendment to the United States Constitution</a>. So police, for example, usually require a <a href="/wiki/Search_warrant" title="Search warrant">search warrant</a>. While police have placed GPS trackers in vehicles without a warrant, this usage was questioned in court in early 2009.<sup id="cite_ref-warrantless-gps_17-0" class="reference"><a href="#cite_note-warrantless-gps-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Use by private citizens is regulated in some states, such as California, where California Penal Code Section 637.7 states: <br />
+(a) No person or entity in this state shall use an electronic tracking device to determine the location or movement of a person. <br />
+(b) This section shall not apply when the registered owner, lesser, or lessee of a vehicle has consented to the use of the electronic tracking device with respect to that vehicle.<br />
+(c) This section shall not apply to the lawful use of an electronic tracking device by a law enforcement agency.<br />
+(d) As used in this section, "electronic tracking device" means any device attached to a vehicle or other movable thing that reveals its location or movement by transmission of electronic signals.<br />
+(g) A violation of this section is a misdemeanor.<br />
+(f) A violation of this section by a person, business, firm, company, association, partnership, or corporation licensed under Division 3 (commencing with Section 5000) of the Business and Professions Code shall constitute grounds for revocation of the license issued to that person, business, firm, company, association, partnership, or corporation, pursuant to the provisions that provide for the revocation of the license as set forth in Division 3 (commencing with Section 5000) of the Business and Professions Code.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>Note that 637.7 pertains to all electronic tracking devices, and does not differentiate between those that rely on GPS technology or not. As the laws catch up with the times, it is plausible that all 50 states will eventually enact laws similar to those of California.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (May 2009)">original research?</span></a></i>&#93;</sup>
+</p><p>Other laws, like the <a href="/wiki/Common_law" title="Common law">common law</a> <a href="/wiki/Invasion_of_privacy" class="mw-redirect" title="Invasion of privacy">invasion of privacy</a> <a href="/wiki/Tort" title="Tort">tort</a> as well as state criminal <a href="/wiki/Wiretapping" class="mw-redirect" title="Wiretapping">wiretapping</a> statutes (for example, the wiretapping statute of the <a href="/wiki/Commonwealth_of_Massachusetts" class="mw-redirect" title="Commonwealth of Massachusetts">Commonwealth of Massachusetts</a>, which is extremely restrictive) potentially cover the use of GPS tracking devices by private citizens without consent of the individual being so tracked. Privacy can also be a problem when people use the devices to track the activities of a loved one.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> GPS tracking devices have also been put on religious statues to track the whereabouts of the statue if stolen.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>In 2009, debate ensued over a Georgia proposal to outlaw hidden GPS tracking, with an exception for <a href="/wiki/Law_enforcement_officer" title="Law enforcement officer">law enforcement officers</a> but not for <a href="/wiki/Private_investigator" title="Private investigator">private investigators</a>. See Georgia HB 16 - Electronic tracking device; location of person without consent (2009).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Geolocation_Privacy_and_Surveillance_Act" title="Geolocation Privacy and Surveillance Act">Geolocation Privacy and Surveillance Act</a></div>
+<h3><span class="mw-headline" id="United_Kingdom_law">United Kingdom law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=15" title="Edit section: United Kingdom law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The law in the UK has not specifically addressed the use of GPS trackers, but several laws may affect the use of this technology as a surveillance tool.
+</p><p><b>Data Protection Act 1998</b>
+</p><p>It is quite clear that if client instructions (written or digitally transmitted) that identify a person and a vehicle are combined with a tracker, the information gathered by the tracker becomes personal data as defined by the <a href="/wiki/Data_Protection_Act_1998" title="Data Protection Act 1998">Data Protection Act 1998</a>. The document “What is personal data? – A quick reference guide”<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> published by the <a href="/wiki/Information_Commissioner%27s_Office" title="Information Commissioner&#39;s Office">Information Commissioner's Office</a> (ICO) makes clear that data identifying a living individual is personal data. If a living individual can be identified from the data, with or without additional information that may become available, is personal data.
+</p><p><b>Identifiability</b>
+</p><p>An individual is 'identified' if distinguished from other members of a group. In most cases, an individual's name, together with some other information, will be sufficient to identify them, but a person can be identified even if their name is not known. Start by looking at the means available to identify an individual and the extent to which such means are readily available to you.
+</p><p><b>Does the data 'relate to' the identifiable living individual, whether in personal or family life, business or profession?</b>
+</p><p>Relates to means: Data which identifies an individual, even without an associated name, may be personal data which is processed to learn or record something about that individual, or the processing of information that affects the individual. Therefore, data may 'relate to' an individual in several different ways.
+</p><p><b>Is the data 'obviously about a particular individual? </b>
+</p><p>Data 'obviously about' an individual will include their medical history, criminal record, record of work, or their achievements in a sporting activity. Data that is not 'obviously about' a particular individual may include information about their activities. Data such as personal bank statements or itemised telephone bills will be personal data about the individual operating the account or contracting for telephone services. Where data is not 'obviously about' an identifiable individual it may be helpful to consider whether the data is being processed, or could easily be processed, to learn, record or decide something about an identifiable individual. Information may be personal data where the aim, or an incidental consequence, of the processing, is that one learns or records something about an identifiable individual, or the processing could affect an identifiable individual. Data from a Tracker would be to identify the individual or their activities. It is therefore personal data within the meaning of the Data Protection Act 1998.
+</p><p>Any individual who wishes to gather personal data must be registered with the <a href="/wiki/Information_Commissioner%27s_Office" title="Information Commissioner&#39;s Office">Information Commissioner's Office</a> (ICO) and have a DPA number. It is a criminal offense to process data and not have a DPA number.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p><p><b>Trespass</b>
+</p><p>It may be a civil trespass for an individual to deploy a tracker on another's car. But in the OSC's annual inspection, the OSC's Chief Surveillance Commissioner <a href="/wiki/Sir_Christopher_Rose" class="mw-redirect" title="Sir Christopher Rose">Sir Christopher Rose</a> stated "putting an arm into a wheel arch or under the frame of a vehicle is straining the concept of trespass".<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>However, entering a person's private land to deploy a tracker is clearly a trespass which is a civil tort.
+</p><p><b>Prevention of Harassment Act 1997</b>
+</p><p>At times, the public misinterprets surveillance, in all its forms, as stalking. Whilst there is no specific legislation to address this kind of harassment, a long-term pattern of persistent and repeated efforts at contact with a particular victim is generally considered stalking.
+</p><p>The <a href="/wiki/Protection_of_Freedoms_Act_2012" title="Protection of Freedoms Act 2012">Protection of Freedoms Act 2012</a> created two new offenses of stalking by inserting new sections 2A and 4A into the PHA 1997.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> The new offences which came into force on 25 November 2012, are not retrospective. Section 2A (3) of the PHA 1997 sets out examples of acts or omissions which, in particular circumstances, are ones associated with stalking. Examples are: following a person, watching or spying on them, or forcing contact with the victim through any means, including social media.
+</p><p>Such behavior curtails a victim's freedom, leaving them feeling that they constantly have to be careful. In many cases, the conduct might appear innocent (if considered in isolation), but when carried out repeatedly, so as to amount to a course of conduct, it may then cause significant alarm, harassment or distress to the victim.
+</p><p>The examples given in section 2A (3) are not an exhaustive list but an indication of the types of behavior that may be displayed in a stalking offense.
+</p><p>Stalking and harassment of another or others can include a range of offenses such as those under the Protection from Harassment Act 1997; the <a href="/wiki/Offences_Against_the_Person_Act_1861" title="Offences Against the Person Act 1861">Offences Against the Person Act 1861</a>; the <a href="/wiki/Sexual_Offences_Act_2003" title="Sexual Offences Act 2003">Sexual Offences Act 2003</a>; and the <a href="/wiki/Malicious_Communications_Act_1988" title="Malicious Communications Act 1988">Malicious Communications Act 1988</a>.
+</p><p>Examples of the types of conduct often associated with stalking include direct communication; physical following; indirect contact through friends, colleagues, family or technology; or, other intrusions into the victim's privacy. The behavior curtails a victim's freedom, leaving them feeling that they constantly have to be careful.
+</p><p>If the subject of inquiry is aware of the tracking, then this may amount to harassment under the Prevention of Harassment Act 1997. There is a case at the Royal Courts of Justice where a private investigator is being sued under this act for the use of trackers. In December 2011, a Claim was brought against Richmond Day &amp; Wilson Limited (First Defendant) and Bernard Matthews Limited (Second Defendant), Britain's leading Turkey Provider.
+</p><p>The case relates to the discovery of a tracking device found in August 2011 on a vehicle supposedly connected to Hillside Animal Sanctuary.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p><p><b>Regulation of Investigatory Powers Act 2000</b>
+</p><p>Property Interference: The Home Office published a document entitled "Covert Surveillance and Property Interference, Revised Code of Practice, Pursuant to section 71 of the Regulation of Investigatory Powers Act 2000" <sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> where it suggests in Chapter 7, page 61 that;
+</p><p><b>General basis for lawful activity</b>
+</p><p>7. 1 Authorizations under section 5 of the 1994 Act or Part III of the 1997 Act should be sought wherever members of the intelligence services, the police, the services police, Serious and Organised Crime Agency (SOCA), Scottish Crime and Drug Enforcement Agency (SCDEA), HM Revenue and Customs (HMRC) or Office of Fair Trading (OFT), or persons acting on their behalf, conduct entry on, or interference with, property or with wireless telegraphy that would be otherwise unlawful.
+</p><p>7. 2 For the purposes of this chapter, "property interference" shall be taken to include entry on, or interference with, property or with wireless telegraphy.
+</p><p>Example: The use of a surveillance device for providing information about the location of a vehicle may involve some physical interference with that vehicle as well as subsequent directed surveillance activity. Such an operation could be authorized by a combined authorization for property interference (under Part III of the 1997 Act) and, where appropriate, directed surveillance (under the 2000 Act). In this case, the necessity and proportionality of the property interference element of the authorization would need to be considered by the appropriate authorizing officer separately to the necessity and proportionality of obtaining private information by means of the directed surveillance.
+</p><p>This can be interpreted to mean that placing a tracker on a vehicle without the consent of the owner is illegal unless you obtain authorization from the Surveillance Commissionaire under the RIPA 2000 laws. Since a member of the public cannot obtain such authorizations, it is therefore illegal property interference.
+</p><p>Another interpretation is that it is illegal to do so if you are acting under the instruction of a public authority and you do not obtain authorization. The legislation makes no mention of property interference for anyone else.
+</p><p>Currently, there is no legislation in place that deals with the deployment of trackers in a criminal sense except RIPA 2000 and that RIPA 2000 only applies to those agencies and persons mentioned in it.
+</p>
+<h2><span class="mw-headline" id="Uses_in_marketing">Uses in marketing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=16" title="Edit section: Uses in marketing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In August 2010, Brazilian company <a href="/wiki/Unilever" title="Unilever">Unilever</a> ran an unusual promotion where GPS trackers were placed in boxes of <a href="/wiki/Omo_(detergent)" class="mw-redirect" title="Omo (detergent)">Omo</a> laundry detergent. Teams would then track consumers who purchased the boxes of detergent to their homes where they would be awarded a prize for their purchase. The company also launched a website (in Portuguese) to show the approximate location of the winners' homes.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 27em;">
+<ul><li><a href="/wiki/Automatic_Packet_Reporting_System" title="Automatic Packet Reporting System">Automatic Packet Reporting System</a></li>
+<li><a href="/wiki/Data_privacy" class="mw-redirect" title="Data privacy">Data privacy</a></li>
+<li><a href="/wiki/Electronic_tagging" title="Electronic tagging">Electronic tagging</a></li>
+<li><a href="/wiki/GPS_aircraft_tracking" title="GPS aircraft tracking">GPS aircraft tracking</a></li>
+<li><a href="/wiki/GPS_navigation_device" class="mw-redirect" title="GPS navigation device">GPS navigation device</a></li>
+<li><a href="/wiki/GPS_tracking_server" class="mw-redirect" title="GPS tracking server">GPS tracking server</a></li>
+<li><a href="/wiki/GPS_watch" title="GPS watch">GPS watch</a></li>
+<li><a href="/wiki/GPS_wildlife_tracking" class="mw-redirect" title="GPS wildlife tracking">GPS wildlife tracking</a></li>
+<li><a href="/wiki/Intelligent_transportation_system" title="Intelligent transportation system">Intelligent transportation system</a> (ITS)</li>
+<li><a href="/wiki/IVMS" title="IVMS">IVMS</a></li>
+<li><a href="/wiki/Mobile_phone" title="Mobile phone">Mobile phone</a></li>
+<li><a href="/wiki/Radio_clock#GPS_clocks" title="Radio clock">Radio clock#GPS clocks</a></li>
+<li><a href="/wiki/Real-time_locating" class="mw-redirect" title="Real-time locating">Real-time locating</a></li>
+<li><a href="/wiki/Telematics" title="Telematics">Telematics</a></li>
+<li><a href="/wiki/Telematics_2.0" title="Telematics 2.0">Telematics 2.0</a></li>
+<li><a href="/wiki/Vehicle_infrastructure_integration" title="Vehicle infrastructure integration">Vehicle infrastructure integration</a></li>
+<li><a href="/wiki/Vehicle_tracking_system" title="Vehicle tracking system">Vehicle tracking system</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://wiki.gis.com/wiki/index.php/WGS84">"WGS84"</a>. <i>wiki-georef</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wiki-georef&amp;rft.atitle=WGS84&amp;rft_id=http%3A%2F%2Fwiki.gis.com%2Fwiki%2Findex.php%2FWGS84&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-gcc-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-gcc_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gcc_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://forum.xda-developers.com/showthread.php?t=424423">"GPS Cycle Computer v3"</a>. Axivo Inc. 7 November 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GPS+Cycle+Computer+v3&amp;rft.pub=Axivo+Inc&amp;rft.date=2008-11-07&amp;rft_id=http%3A%2F%2Fforum.xda-developers.com%2Fshowthread.php%3Ft%3D424423&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100109042536/http://www.eriadne.org/">"Free Eriadne.org tracking system"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.eriadne.org/">the original</a> on 9 January 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">3 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Free+Eriadne.org+tracking+system&amp;rft_id=http%3A%2F%2Fwww.eriadne.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://code.google.com/p/open-gpstracker/">"open-gpstracker A GPS tracking Android App: Build to be extensible and Free"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=open-gpstracker+A+GPS+tracking+Android+App%3A+Build+to+be+extensible+and+Free&amp;rft_id=http%3A%2F%2Fcode.google.com%2Fp%2Fopen-gpstracker%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.traccar.client">"Traccar Client - free open source Android tracker"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Traccar+Client+-+free+open+source+Android+tracker&amp;rft_id=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dorg.traccar.client&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-wsj27-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-wsj27_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://host.madison.com/news/local/govt-and-politics/state-budget-committee-rejects-gps-monitoring-expansion/article_17f6213e-5584-5d90-9e57-81b4f147a89b.html">"State budget committee rejects GPS monitoring expansion"</a>. <i><a href="/wiki/Wisconsin_State_Journal" title="Wisconsin State Journal">Wisconsin State Journal</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wisconsin+State+Journal&amp;rft.atitle=State+budget+committee+rejects+GPS+monitoring+expansion&amp;rft_id=http%3A%2F%2Fhost.madison.com%2Fnews%2Flocal%2Fgovt-and-politics%2Fstate-budget-committee-rejects-gps-monitoring-expansion%2Farticle_17f6213e-5584-5d90-9e57-81b4f147a89b.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-wislegis27-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-wislegis27_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://docs.legis.wisconsin.gov/statutes/statutes/165/94">"Wisconsin Legislature 165.94"</a>. Wisconsin Legislature<span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wisconsin+Legislature+165.94&amp;rft.pub=Wisconsin+Legislature&amp;rft_id=http%3A%2F%2Fdocs.legis.wisconsin.gov%2Fstatutes%2Fstatutes%2F165%2F94&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFTovia_Smith2006" class="citation web cs1">Tovia Smith (29 August 2006). <a rel="nofollow" class="external text" href="https://www.npr.org/templates/story/story.php?storyId=5725196">"Technology Lets Parents Track Kids' Every Move"</a>. <a href="/wiki/NPR" title="NPR">NPR</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Technology+Lets+Parents+Track+Kids%27+Every+Move&amp;rft.pub=NPR&amp;rft.date=2006-08-29&amp;rft.au=Tovia+Smith&amp;rft_id=https%3A%2F%2Fwww.npr.org%2Ftemplates%2Fstory%2Fstory.php%3FstoryId%3D5725196&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMark2017" class="citation web cs1">Mark (5 September 2017). <a rel="nofollow" class="external text" href="https://www.ossaward.org/best-gps-tracking-device-for-kids/">"GPS Tracking Device for Kids"</a>. ossaward<span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GPS+Tracking+Device+for+Kids&amp;rft.pub=ossaward&amp;rft.date=2017-09-05&amp;rft.au=Mark&amp;rft_id=https%3A%2F%2Fwww.ossaward.org%2Fbest-gps-tracking-device-for-kids%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-LiveViewGPS_Tracking-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-LiveViewGPS_Tracking_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LiveViewGPS_Tracking_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFKaronis2016" class="citation web cs1">Karonis, George (24 September 2016). <a rel="nofollow" class="external text" href="https://www.liveviewgps.com/how+it+works.html">"How All Satellite Based GPS Trackers Work"</a>. <i>liveviewgps.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=liveviewgps.com&amp;rft.atitle=How+All+Satellite+Based+GPS+Trackers+Work&amp;rft.date=2016-09-24&amp;rft.aulast=Karonis&amp;rft.aufirst=George&amp;rft_id=https%3A%2F%2Fwww.liveviewgps.com%2Fhow%2Bit%2Bworks.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.irishtimes.com/sport/rugby/how-gps-helped-paul-o-connell-win-six-nations-player-of-the-tournament-at-35-1.4306357">"How GPS helped Paul O'Connell win Six Nations player of the tournament at 35"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+GPS+helped+Paul+O%27Connell+win+Six+Nations+player+of+the+tournament+at+35&amp;rft_id=https%3A%2F%2Fwww.irishtimes.com%2Fsport%2Frugby%2Fhow-gps-helped-paul-o-connell-win-six-nations-player-of-the-tournament-at-35-1.4306357&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.rugbypass.com/news/the-gps-tweak-which-sale-hope-can-get-manu-tuilagi-back-with-england/">"The GPS tweak which Sale hope can get Tuilagi back with England"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+GPS+tweak+which+Sale+hope+can+get+Tuilagi+back+with+England&amp;rft_id=https%3A%2F%2Fwww.rugbypass.com%2Fnews%2Fthe-gps-tweak-which-sale-hope-can-get-manu-tuilagi-back-with-england%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=uvpfLiPPYU0">"Rugby technology: How do England use GPS?"</a>. <i><a href="/wiki/YouTube" title="YouTube">YouTube</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft.atitle=Rugby+technology%3A+How+do+England+use+GPS%3F&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuvpfLiPPYU0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRice2016" class="citation journal cs1">Rice, Clifford G. (2016). <a rel="nofollow" class="external text" href="https://doi.org/10.2981%2Fwlb.00177">"Development of a system for remotely monitoring vaginal implant transmitters and fawn survival"</a>. <i>Wildlife Biology</i>. <b>22</b>: 22–28. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2981%2Fwlb.00177">10.2981/wlb.00177</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wildlife+Biology&amp;rft.atitle=Development+of+a+system+for+remotely+monitoring+vaginal+implant+transmitters+and+fawn+survival&amp;rft.volume=22&amp;rft.pages=22-28&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.2981%2Fwlb.00177&amp;rft.aulast=Rice&amp;rft.aufirst=Clifford+G.&amp;rft_id=%2F%2Fdoi.org%2F10.2981%252Fwlb.00177&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFStabach2020" class="citation web cs1">Stabach, Jared (1 April 2020). <a rel="nofollow" class="external text" href="https://nationalzoo.si.edu/conservation-ecology-center/news/fantastic-beasts-great-plains">"Fantastic Beasts of the Great Plains"</a>. <i>Smithsonian's National Zoo and Conservation Biology Institute</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Smithsonian%27s+National+Zoo+and+Conservation+Biology+Institute&amp;rft.atitle=Fantastic+Beasts+of+the+Great+Plains&amp;rft.date=2020-04-01&amp;rft.aulast=Stabach&amp;rft.aufirst=Jared&amp;rft_id=https%3A%2F%2Fnationalzoo.si.edu%2Fconservation-ecology-center%2Fnews%2Ffantastic-beasts-great-plains&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-nsw-surveillance-act-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-nsw-surveillance-act_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBrownings2020" class="citation web cs1">Brownings, Jeff (11 December 2020). <a rel="nofollow" class="external text" href="https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2007-064">"NSW GPS Legality Act 2007"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NSW+GPS+Legality+Act+2007&amp;rft.date=2020-12-11&amp;rft.aulast=Brownings&amp;rft.aufirst=Jeff&amp;rft_id=https%3A%2F%2Flegislation.nsw.gov.au%2Fview%2Fwhole%2Fhtml%2Finforce%2Fcurrent%2Fact-2007-064&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-warrantless-gps-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-warrantless-gps_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFClaburn2009" class="citation web cs1">Claburn, Thomas (4 March 2009). <a rel="nofollow" class="external text" href="http://www.informationweek.com/news/government/federal/showArticle.jhtml?articleID=215800542">"Court Asked To Disallow Warrantless GPS Tracking"</a>. <i><a href="/wiki/InformationWeek" title="InformationWeek">InformationWeek</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=InformationWeek&amp;rft.atitle=Court+Asked+To+Disallow+Warrantless+GPS+Tracking&amp;rft.date=2009-03-04&amp;rft.aulast=Claburn&amp;rft.aufirst=Thomas&amp;rft_id=http%3A%2F%2Fwww.informationweek.com%2Fnews%2Fgovernment%2Ffederal%2FshowArticle.jhtml%3FarticleID%3D215800542&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged February 2022">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fas.org/sgp/crs/misc/R41663.pdf">"State of Tennessee PUBLIC CHAPTER NO. 169 HOUSE BILL NO. 457"</a> <span class="cs1-format">(PDF)</span>. <i>fas.org</i>. State of Tennessee<span class="reference-accessdate">. Retrieved <span class="nowrap">1 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=fas.org&amp;rft.atitle=State+of+Tennessee+PUBLIC+CHAPTER+NO.+169+HOUSE+BILL+NO.+457&amp;rft_id=http%3A%2F%2Fwww.fas.org%2Fsgp%2Fcrs%2Fmisc%2FR41663.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://law.onecle.com/california/penal/637.7.html">"California Penal Code Section 637.7 - California Attorney Resources - California Laws"</a>. <i>law.onecle.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=law.onecle.com&amp;rft.atitle=California+Penal+Code+Section+637.7+-+California+Attorney+Resources+-+California+Laws&amp;rft_id=http%3A%2F%2Flaw.onecle.com%2Fcalifornia%2Fpenal%2F637.7.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFKoch2009" class="citation news cs1">Koch, Wendy (12 February 2009). <a rel="nofollow" class="external text" href="https://www.usatoday.com/tech/news/surveillance/2009-02-11-Valentinecheating_N.htm?loc=interstitialskip">"Cheatin' hearts pump up economy on Valentine's Day"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=Cheatin%27+hearts+pump+up+economy+on+Valentine%27s+Day&amp;rft.date=2009-02-12&amp;rft.aulast=Koch&amp;rft.aufirst=Wendy&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Ftech%2Fnews%2Fsurveillance%2F2009-02-11-Valentinecheating_N.htm%3Floc%3Dinterstitialskip&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBello2008" class="citation news cs1">Bello, Marisol (12 December 2008). <a rel="nofollow" class="external text" href="https://www.usatoday.com/tech/news/2008-12-10-gps-nativity_N.htm">"GPS, hidden cameras watching over Baby Jesus"</a>. <i>USA Today</i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=GPS%2C+hidden+cameras+watching+over+Baby+Jesus&amp;rft.date=2008-12-12&amp;rft.aulast=Bello&amp;rft.aufirst=Marisol&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Ftech%2Fnews%2F2008-12-10-gps-nativity_N.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090215124148/http://www.legis.ga.gov/legis/2009_10/search/hb16.htm">"Legis.ga.gov"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.legis.ga.gov/legis/2009_10/search/hb16.htm">the original</a> on 15 February 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Legis.ga.gov&amp;rft_id=http%3A%2F%2Fwww.legis.ga.gov%2Flegis%2F2009_10%2Fsearch%2Fhb16.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110515024004/http://www.wsbtv.com/news/18588494/detail.html">"Georgia Bill Would Ban Hidden GPS Tracking Devices"</a>. <a href="/wiki/WSB-TV" title="WSB-TV">WSB-TV</a>. 29 January 2009. Archived from <a rel="nofollow" class="external text" href="http://www.wsbtv.com/news/18588494/detail.html">the original</a> on 15 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">8 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Georgia+Bill+Would+Ban+Hidden+GPS+Tracking+Devices&amp;rft.pub=WSB-TV&amp;rft.date=2009-01-29&amp;rft_id=http%3A%2F%2Fwww.wsbtv.com%2Fnews%2F18588494%2Fdetail.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ico.org.uk/~/media/documents/library/Data_Protection/Detailed_specialist_guides/determining_what_is_personal_data_quick_reference_guide.ashx">"What is personal data? – A quick reference guide"</a>. <i>ICO.ORG.UK</i>. <a href="/wiki/Information_Commissioner%27s_Office" title="Information Commissioner&#39;s Office">Information Commissioner's Office</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ICO.ORG.UK&amp;rft.atitle=What+is+personal+data%3F+%E2%80%93+A+quick+reference+guide&amp;rft_id=http%3A%2F%2Fico.org.uk%2F~%2Fmedia%2Fdocuments%2Flibrary%2FData_Protection%2FDetailed_specialist_guides%2Fdetermining_what_is_personal_data_quick_reference_guide.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ico.org.uk/for_organisations/guidance_index/~/media/documents/library/Data_Protection/Practical_application/a_brief_guide_to_notification.ashx">"A brief guide to notification"</a>. <i>ICO.GOV.UK</i>. The Information Commissioner's Office<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ICO.GOV.UK&amp;rft.atitle=A+brief+guide+to+notification&amp;rft_id=http%3A%2F%2Fico.org.uk%2Ffor_organisations%2Fguidance_index%2F~%2Fmedia%2Fdocuments%2Flibrary%2FData_Protection%2FPractical_application%2Fa_brief_guide_to_notification.ashx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/politics/6194581/Government-officials-track-cars-and-trespass-on-private-property-report-shows.html">"Government officials track cars and trespass on private property, report shows"</a>. <a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Telegraph</a>. 21 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">14 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Government+officials+track+cars+and+trespass+on+private+property%2C+report+shows&amp;rft.date=2009-09-21&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fpolitics%2F6194581%2FGovernment-officials-track-cars-and-trespass-on-private-property-report-shows.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cps.gov.uk/legal/s_to_u/stalking_and_harassment/">"Stalking and Harassment"</a>. <i>Crown Prosecution Service</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Crown+Prosecution+Service&amp;rft.atitle=Stalking+and+Harassment&amp;rft_id=http%3A%2F%2Fwww.cps.gov.uk%2Flegal%2Fs_to_u%2Fstalking_and_harassment%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.mirror.co.uk/news/uk-news/animal-campaigner-claims-car-was-bugged-98522">"Animal campaigner claims car was bugged by Bernard Matthews"</a>. <a href="/wiki/Daily_Mirror" title="Daily Mirror">The Mirror Newspaper</a>. 22 December 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">14 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Animal+campaigner+claims+car+was+bugged+by+Bernard+Matthews&amp;rft.date=2011-12-22&amp;rft_id=https%3A%2F%2Fwww.mirror.co.uk%2Fnews%2Fuk-news%2Fanimal-campaigner-claims-car-was-bugged-98522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/publications/code-of-practice-for-covert-surveillance-and-property-interference">"Code of practice for covert surveillance and property interference"</a>. <i>GOV.UK</i>. GOV.UK.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GOV.UK&amp;rft.atitle=Code+of+practice+for+covert+surveillance+and+property+interference&amp;rft_id=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fcode-of-practice-for-covert-surveillance-and-property-interference&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFWentz2010" class="citation news cs1">Wentz, Laurel (29 July 2010). <a rel="nofollow" class="external text" href="http://adage.com/globalnews/article?article_id=145183">"Is Your Detergent Stalking You?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Is+Your+Detergent+Stalking+You%3F&amp;rft.date=2010-07-29&amp;rft.aulast=Wentz&amp;rft.aufirst=Laurel&amp;rft_id=http%3A%2F%2Fadage.com%2Fglobalnews%2Farticle%3Farticle_id%3D145183&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGPS+tracking+unit" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Privacy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Privacy" title="Template:Privacy"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Privacy" title="Template talk:Privacy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Privacy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Privacy" style="font-size:114%;margin:0 4em"><a href="/wiki/Privacy" title="Privacy">Privacy</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Principles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Expectation_of_privacy" class="mw-redirect" title="Expectation of privacy">Expectation of privacy</a></li>
+<li><a href="/wiki/Right_to_privacy" title="Right to privacy">Right to privacy</a></li>
+<li><a href="/wiki/Right_to_be_forgotten" title="Right to be forgotten">Right to be forgotten</a></li>
+<li><a href="/wiki/Post-mortem_privacy" title="Post-mortem privacy">Post-mortem privacy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Privacy_law" title="Privacy law">Privacy laws</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Privacy_in_Australian_law" title="Privacy in Australian law">Australia</a></li>
+<li><a href="/wiki/Canadian_privacy_law" title="Canadian privacy law">Canada</a></li>
+<li><a href="/wiki/Personal_Information_Protection_Law_of_the_People%27s_Republic_of_China" title="Personal Information Protection Law of the People&#39;s Republic of China">China</a></li>
+<li><a href="/wiki/Privacy_law_in_Denmark" title="Privacy law in Denmark">Denmark</a></li>
+<li><a href="/wiki/Privacy_in_English_law" title="Privacy in English law">England</a></li>
+<li><a href="/wiki/General_Data_Protection_Regulation" title="General Data Protection Regulation">European Union</a></li>
+<li><a href="/wiki/Bundesdatenschutzgesetz" title="Bundesdatenschutzgesetz">Germany</a></li>
+<li><a href="/wiki/Data_Protection_Act,_2012" title="Data Protection Act, 2012">Ghana</a></li>
+<li><a href="/wiki/Right_to_privacy_in_New_Zealand" title="Right to privacy in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Data_protection_(privacy)_laws_in_Russia" title="Data protection (privacy) laws in Russia">Russia</a></li>
+<li><a href="/wiki/Personal_Data_Protection_Act_2012_(Singapore)" class="mw-redirect" title="Personal Data Protection Act 2012 (Singapore)">Singapore</a></li>
+<li><a href="/wiki/Federal_Data_Protection_and_Information_Commissioner" title="Federal Data Protection and Information Commissioner">Switzerland</a></li>
+<li><a href="/wiki/Privacy_laws_of_the_United_States" title="Privacy laws of the United States">United States</a>
+<ul><li><a href="/wiki/California_Consumer_Privacy_Act" title="California Consumer Privacy Act">California</a>, <a href="/wiki/California_Privacy_Rights_Act" title="California Privacy Rights Act">amended in 2020</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/National_data_protection_authority" title="National data protection authority">Data protection authorities</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Office_of_the_Australian_Information_Commissioner" title="Office of the Australian Information Commissioner">Australia</a></li>
+<li><a href="/wiki/Danish_Data_Protection_Agency" title="Danish Data Protection Agency">Denmark</a></li>
+<li><a href="/wiki/European_Data_Protection_Supervisor" title="European Data Protection Supervisor">European Union</a></li>
+<li><a href="/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s" title="Commission nationale de l&#39;informatique et des libertés">France</a></li>
+<li><a href="/wiki/Federal_Commissioner_for_Data_Protection_and_Freedom_of_Information" title="Federal Commissioner for Data Protection and Freedom of Information">Germany</a></li>
+<li><a href="/wiki/Data_Protection_Commissioner" title="Data Protection Commissioner">Ireland</a></li>
+<li><a href="/wiki/Office_of_the_Data_Protection_Supervisor" title="Office of the Data Protection Supervisor">Isle of Man</a></li>
+<li><a href="/wiki/Norwegian_Data_Protection_Authority" title="Norwegian Data Protection Authority">Norway</a></li>
+<li><a href="/wiki/National_Privacy_Commission_(Philippines)" title="National Privacy Commission (Philippines)">Philippines</a></li>
+<li><a href="/wiki/Polish_Data_Protection_Commissioner" title="Polish Data Protection Commissioner">Poland</a></li>
+<li><a href="/wiki/Personal_Information_Protection_Commission_(South_Korea)" title="Personal Information Protection Commission (South Korea)">South Korea</a></li>
+<li><a href="/wiki/Spanish_Data_Protection_Agency" title="Spanish Data Protection Agency">Spain</a></li>
+<li><a href="/wiki/Swedish_Data_Protection_Authority" class="mw-redirect" title="Swedish Data Protection Authority">Sweden</a></li>
+<li><a href="/wiki/Federal_Data_Protection_and_Information_Commissioner" title="Federal Data Protection and Information Commissioner">Switzerland</a></li>
+<li><a href="/wiki/Turkish_Data_Protection_Authority" title="Turkish Data Protection Authority">Turkey</a></li>
+<li><a href="/wiki/Office_of_the_Personal_Data_Protection_Committee" class="mw-redirect" title="Office of the Personal Data Protection Committee">Thailand</a></li>
+<li><a href="/wiki/Information_Commissioner%27s_Office" title="Information Commissioner&#39;s Office">United Kingdom</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Areas</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Consumer_privacy" title="Consumer privacy">Consumer</a></li>
+<li><a href="/wiki/Medical_privacy" title="Medical privacy">Medical</a></li>
+<li><a href="/wiki/Workplace_privacy" title="Workplace privacy">Workplace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_privacy" title="Information privacy">Information privacy</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Information_privacy_law" title="Information privacy law">Law</a></li>
+<li><a href="/wiki/Bank_secrecy" title="Bank secrecy">Financial</a></li>
+<li><a href="/wiki/Internet_privacy" title="Internet privacy">Internet</a></li>
+<li><a href="/wiki/Personal_data" title="Personal data">Personal data</a></li>
+<li><a href="/wiki/Personal_identifier" title="Personal identifier">Personal identifier</a></li>
+<li><a href="/wiki/Privacy-enhancing_technologies" title="Privacy-enhancing technologies">Privacy-enhancing technologies</a></li>
+<li><a href="/wiki/Privacy_concerns_with_social_networking_services" title="Privacy concerns with social networking services">Social networking services</a></li>
+<li><a href="/wiki/Privacy_engineering" title="Privacy engineering">Privacy engineering</a></li>
+<li><a href="/wiki/Secret_ballot" title="Secret ballot">Secret ballot</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Advocacy organizations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/American_Civil_Liberties_Union" title="American Civil Liberties Union">American Civil Liberties Union</a></li>
+<li><a href="/wiki/Center_for_Democracy_and_Technology" title="Center for Democracy and Technology">Center for Democracy and Technology</a></li>
+<li><a href="/wiki/Computer_Professionals_for_Social_Responsibility" title="Computer Professionals for Social Responsibility">Computer Professionals for Social Responsibility</a></li>
+<li><a href="/wiki/Future_of_Privacy_Forum" title="Future of Privacy Forum">Future of Privacy Forum</a></li>
+<li><a href="/wiki/Electronic_Privacy_Information_Center" title="Electronic Privacy Information Center">Electronic Privacy Information Center</a></li>
+<li><a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a></li>
+<li><a href="/wiki/European_Digital_Rights" title="European Digital Rights">European Digital Rights</a></li>
+<li><a href="/wiki/Global_Network_Initiative" title="Global Network Initiative">Global Network Initiative</a></li>
+<li><a href="/wiki/International_Association_of_Privacy_Professionals" title="International Association of Privacy Professionals">International Association of Privacy Professionals</a></li>
+<li><a href="/wiki/NOYB" title="NOYB">NOYB</a></li>
+<li><a href="/wiki/Privacy_International" title="Privacy International">Privacy International</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Carding_(fraud)" title="Carding (fraud)">Carding</a></li>
+<li><a href="/wiki/Cellphone_surveillance" title="Cellphone surveillance">Cellphone surveillance</a></li>
+<li><a href="/wiki/Cyberstalking" title="Cyberstalking">Cyberstalking</a></li>
+<li><a href="/wiki/Data_security" title="Data security">Data security</a></li>
+<li><a href="/wiki/Eavesdropping" title="Eavesdropping">Eavesdropping</a></li>
+<li><a href="/wiki/Global_surveillance" title="Global surveillance">Global surveillance</a></li>
+<li><a href="/wiki/Electronic_harassment" title="Electronic harassment">Electronic harassment</a></li>
+<li><a href="/wiki/Mass_surveillance" title="Mass surveillance">Mass surveillance</a></li>
+<li><a href="/wiki/Privacy_engineering" title="Privacy engineering">Privacy engineering</a></li>
+<li><a href="/wiki/Telephone_tapping" title="Telephone tapping">Telephone tapping</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Identity_theft" title="Identity theft">Identity theft</a></li>
+<li><a href="/wiki/Panopticon" title="Panopticon">Panopticon</a></li>
+<li><a href="/wiki/Personality_rights" title="Personality rights">Personality rights</a></li>
+<li><a href="/wiki/Search_warrant" title="Search warrant">Search warrant</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Privacy" title="Category:Privacy">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1414
+Cached time: 20221023045433
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.409 seconds
+Real time usage: 0.514 seconds
+Preprocessor visited node count: 2437/1000000
+Post‐expand include size: 84696/2097152 bytes
+Template argument size: 3291/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 94638/5000000 bytes
+Lua time usage: 0.242/10.000 seconds
+Lua memory usage: 7581735/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  439.884      1 -total
+ 44.95%  197.733      1 Template:Reflist
+ 31.95%  140.556     24 Template:Cite_web
+ 12.45%   54.751      2 Template:Ambox
+ 11.62%   51.100      1 Template:More_citations_needed
+ 11.31%   49.734      1 Template:Short_description
+ 11.04%   48.561      1 Template:Privacy
+ 10.66%   46.871      1 Template:Navbox
+  6.47%   28.454      2 Template:Pagetype
+  4.36%   19.169      5 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4105326-0!canonical and timestamp 20221023045433 and revision id 1111997254.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=GPS_tracking_unit&amp;oldid=1111997254">https://en.wikipedia.org/w/index.php?title=GPS_tracking_unit&amp;oldid=1111997254</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Global_Positioning_System" title="Category:Global Positioning System">Global Positioning System</a></li><li><a href="/wiki/Category:Surveillance" title="Category:Surveillance">Surveillance</a></li><li><a href="/wiki/Category:Geopositioning" title="Category:Geopositioning">Geopositioning</a></li><li><a href="/wiki/Category:Navigational_equipment" title="Category:Navigational equipment">Navigational equipment</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_February_2022" title="Category:Articles with dead external links from February 2022">Articles with dead external links from February 2022</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_British_English_from_January_2019" title="Category:Use British English from January 2019">Use British English from January 2019</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2019" title="Category:Use dmy dates from January 2019">Use dmy dates from January 2019</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2019" title="Category:Articles needing additional references from January 2019">Articles needing additional references from January 2019</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_to_be_split_from_August_2020" title="Category:Articles to be split from August 2020">Articles to be split from August 2020</a></li><li><a href="/wiki/Category:All_articles_to_be_split" title="Category:All articles to be split">All articles to be split</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_May_2009" title="Category:Articles that may contain original research from May 2009">Articles that may contain original research from May 2009</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=GPS+tracking+unit" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=GPS+tracking+unit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/GPS_tracking_unit" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:GPS_tracking_unit" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/GPS_tracking_unit"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=GPS_tracking_unit&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=GPS_tracking_unit&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/GPS_tracking_unit" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/GPS_tracking_unit" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=GPS_tracking_unit&amp;oldid=1111997254" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=GPS_tracking_unit&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=GPS_tracking_unit&amp;id=1111997254&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q253677" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=GPS_tracking_unit&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=GPS_tracking_unit&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:GPS_Trackers" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%88%D8%AD%D8%AF%D8%A9_%D8%AA%D8%AA%D8%A8%D8%B9_%D9%86%D8%B8%D8%A7%D9%85_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9" title="وحدة تتبع نظام تحديد المواقع – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Unitat_de_seguiment_GPS" title="Unitat de seguiment GPS – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Track_Log" title="Track Log – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Unidad_de_seguimiento_GPS" title="Unidad de seguimiento GPS – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/G%C3%A9olocalisation" title="Géolocalisation – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Unit_pelacak_GPS" title="Unit pelacak GPS – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/GPS-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80" title="GPS-трекер – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/GPS-sporing" title="GPS-sporing – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Localizare_GPS" title="Localizare GPS – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/GPS-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80" title="GPS-трекер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/GPS_izleme_birimi" title="GPS izleme birimi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/GPS-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80" title="GPS-трекер – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q253677#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 24 September 2022, at 03:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=GPS_tracking_unit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.409","walltime":"0.514","ppvisitednodes":{"value":2437,"limit":1000000},"postexpandincludesize":{"value":84696,"limit":2097152},"templateargumentsize":{"value":3291,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":94638,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  439.884      1 -total"," 44.95%  197.733      1 Template:Reflist"," 31.95%  140.556     24 Template:Cite_web"," 12.45%   54.751      2 Template:Ambox"," 11.62%   51.100      1 Template:More_citations_needed"," 11.31%   49.734      1 Template:Short_description"," 11.04%   48.561      1 Template:Privacy"," 10.66%   46.871      1 Template:Navbox","  6.47%   28.454      2 Template:Pagetype","  4.36%   19.169      5 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.242","limit":"10.000"},"limitreport-memusage":{"value":7581735,"limit":52428800}},"cachereport":{"origin":"mw1414","timestamp":"20221023045433","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"GPS tracking unit","url":"https:\/\/en.wikipedia.org\/wiki\/GPS_tracking_unit","sameAs":"http:\/\/www.wikidata.org\/entity\/Q253677","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q253677","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-17T14:44:30Z","dateModified":"2022-09-24T03:51:21Z","headline":"navigation device that uses the Global Positioning System to track the device's movements and determine its geographic position"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"GPS tracking unit","url":"https:\/\/en.wikipedia.org\/wiki\/GPS_tracking_unit","sameAs":"http:\/\/www.wikidata.org\/entity\/Q253677","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q253677","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-17T14:44:30Z","dateModified":"2022-09-24T03:51:21Z","headline":"navigation device that uses the Global Positioning System to track the device's movements and determine its geographic position"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1401"});});</script>
+</body>
+</html>

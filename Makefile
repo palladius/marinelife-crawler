@@ -1,6 +1,8 @@
 
+# downloads under en.wikipedia.org/wiki/
 WGET_COMMAND = wget  -r -e robots=off --no-parent --continue --wait=2 --limit-rate=100K
 
+SIMPLE_WGET_COMMAND_THERE = cd  en.wikipedia.org/wiki && wget
 
 install:
 	bundle install
@@ -18,5 +20,11 @@ wget-crawl-starfish:
 
 wget-crawl-triggerfish:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Triggerfish'
-wget-crawl-Shark:
+wget-crawl-shark:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Shark'
+
+single-wgets:
+	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Whale
+	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Dolphin
+	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Manta_Ray
+

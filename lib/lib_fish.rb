@@ -38,8 +38,25 @@ module LibFish
     puts "Totals fishes: #{n_fishes} (vs #{n_nay} non fishes)"
   end
 
+=begin
+  Example taxonomy parsing:
+   + taxo: {"Kingdom"=>"Animalia", "Phylum"=>"Chordata", "Class"=>"Actinopterygii", "Order"=>"Tetraodontiformes", "Family"=>"Balistidae", "Genus"=>"Balistoides", "Species"=>"B. conspicillum", "RICCFIXED_Species"=>"Fixing WIP.. Bsomet
+hing_else_then conspicillum"}
+ + wiki: https://en.wikipedia.org/wiki/Clown_triggerfish
+ + taxo_byindex_4: [4, "Kingdom", "Animalia", "<tr><td>Kingdom:</td><td><a href=\"/wiki/Animal\" title=\"Animal\">Animalia</a></td></tr>"]
+ + taxo_byindex_5: [5, "Phylum", "Chordata", "<tr><td>Phylum:</td><td><a href=\"/wiki/Chordate\" title=\"Chordate\">Chordata</a></td></tr>"]
+ + taxo_byindex_6: [6, "Class", "Actinopterygii", "<tr><td>Class:</td><td><a href=\"/wiki/Actinopterygii\" title=\"Actinopterygii\">Actinopterygii</a></td></tr>"]
+ + taxo_byindex_7: [7, "Order", "Tetraodontiformes", "<tr><td>Order:</td><td><a href=\"/wiki/Tetraodontiformes\" title=\"Tetraodontiformes\">Tetraodontiformes</a></td></tr>"]
+ + taxo_byindex_8: [8, "Family", "Balistidae", "<tr><td>Family:</td><td><a href=\"/wiki/Triggerfish\" title=\"Triggerfish\">Balistidae</a></td></tr>"]
+ + taxo_byindex_9: [9, "Genus", "Balistoides", "<tr><td>Genus:</td><td><a href=\"/wiki/Balistoides\" title=\"Balistoides\"><i>Balistoides</i></a></td></tr>"]
+ + taxo_byindex_10: [10, "Species", "B. conspicillum", "<tr><td>Species:</td><td><div style=\"display:inline\" class=\"species\"><i><b>B. conspicillum</b></i></div></td></tr>"]
 
-  def smart_wiki_parse_fish(fish_url_name)
+=end
+
+  def smart_wiki_parse_fish(fish_url_name, opts={})
+    opts_debug = opts.fetch :debug, true
+    opts_verbose = opts.fetch :verbose, true
+
     fish_info={}
     fish_info['taxo'] = {}
     html = nokogiri_parse_offline_or_online(fish_url_name)
@@ -68,12 +85,17 @@ module LibFish
       #  + taxo_byindex_6: [6, "Class", "ActinopterygiiKlein, 1885", "<tr><td>Class:</td><td><a class=\"mw-selflink selflink\">Actinopterygii</a><br><small><a href=\"/w/index.php?title=Adolf_von_Kl
       #   ein&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Adolf von Klein (page does not exist)\">Klein</a>, 1885</small></td></tr>"]
       linked_taxo_value = taxorow.css('td:nth-child(2)').text.trim()
-      fish_info["taxo_byindex_#{ix}"] = [ix, taxo_key, linked_taxo_value, taxorow.to_s.gsub(/\n/, "") ]
+      fish_info["taxo_byindex_verbose_#{ix}"] = [ix, taxo_key, linked_taxo_value, taxorow.to_s.gsub(/\n/, "") ] if opts_verbose
+      fish_info["taxo_byindex_#{ix}"] = [taxo_key, linked_taxo_value]
       fish_info['taxo'][taxo_key] = linked_taxo_value # taxo_value
       if taxo_key == 'Species' and taxo_value.match?(/\./)
-        puts "I gotta feeling that i can infer the abbreviation for #{taxo_value}.."
+        puts "😉 I gotta feeling that i can infer the abbreviation for #{taxo_value.colorize(:yellow)}.."
         puts "Taking it from Species-1 which i assume to be Genus: '#{fish_info['Genus']}'"
-        fish_info['taxo']["RICCFIXED_#{taxo_key}"] = "Fixing.. #{taxo_value}"
+        # if genus, happy days. if not, i need to find the previous _7 -> _6
+        substitute_dot_with_previous = fish_info['Genus'].nil? ? 'something_else_then' : fish_info['Genus']
+        new_taxo_value = "Fixing WIP.. " + taxo_value.gsub( '.', substitute_dot_with_previous )
+        fish_info['taxo']["RICCFIXED_#{taxo_key}"] = new_taxo_value
+        puts "Semi-fixed (still WIP). New value is #{new_taxo_value.colorize(:green)}"
       end
 
       raise('BUG for Starfish penso che devi fermarti al primo tbody cosi non fa gli altri...') if taxo_value == 'AsteroideaBlainville'

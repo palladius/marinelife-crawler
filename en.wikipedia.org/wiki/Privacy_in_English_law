@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Privacy in English law - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0644e443-3a9b-4c9a-9006-0b0a3240e923","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Privacy_in_English_law","wgTitle":"Privacy in English law","wgCurRevisionId":1084461367,"wgRevisionId":1084461367,"wgArticleId":23378399,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Use dmy dates from April 2022","Webarchive template wayback links","English law","English tort law","English privacy law"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Privacy_in_English_law",
+"wgRelevantArticleId":23378399,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q7246024","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface",
+"ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Privacy in English law - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Privacy_in_English_law"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Privacy_in_English_law&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Privacy_in_English_law"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Privacy_in_English_law rootpage-Privacy_in_English_law skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Privacy in English law</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1045330069">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><table class="sidebar nomobile nowraplinks plainlist"><tbody><tr><td class="sidebar-pretitle">Part of a series on <a href="/wiki/Common_law" title="Common law">common law</a></td></tr><tr><th class="sidebar-title-with-pretitle"><a href="/wiki/English_tort_law" title="English tort law">English tort law</a></th></tr><tr><td class="sidebar-image"><a href="/wiki/File:Scale_of_justice_2.svg" class="image"><img alt="Scale of justice 2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/100px-Scale_of_justice_2.svg.png" decoding="async" width="100" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/150px-Scale_of_justice_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/200px-Scale_of_justice_2.svg.png 2x" data-file-width="204" data-file-height="208" /></a></td></tr><tr><th class="sidebar-heading" style="background:#aaddff; color:#000;">
+<a href="/wiki/Negligence" title="Negligence">Negligence</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Duty_of_care_in_English_law" title="Duty of care in English law">Duty of care</a></li>
+<li><a href="/wiki/Bolam_v_Friern_Hospital_Management_Committee" title="Bolam v Friern Hospital Management Committee">Bolam test</a></li>
+<li><a href="/wiki/Breach_of_duty_in_English_law" title="Breach of duty in English law">Breach of duty</a></li>
+<li><a href="/wiki/Causation_in_English_law" title="Causation in English law">Causation</a></li>
+<li><a href="/wiki/Breaking_the_chain" title="Breaking the chain">Breaking the chain</a></li>
+<li><a href="/wiki/Acts_of_the_claimant" title="Acts of the claimant">Acts of the claimant</a></li>
+<li><a href="/wiki/Remoteness_in_English_law" title="Remoteness in English law">Remoteness</a></li>
+<li><a href="/wiki/Professional_negligence_in_English_law" title="Professional negligence in English law">Professional negligence</a></li>
+<li><a href="/wiki/Nervous_shock" title="Nervous shock">Psychiatric harm</a></li>
+<li><a href="/wiki/Loss_of_chance_in_English_law" title="Loss of chance in English law">Loss of chance</a></li>
+<li><a href="/wiki/Loss_of_right_in_English_law" title="Loss of right in English law">Loss of right</a></li>
+<li><i><a href="/wiki/Res_ipsa_loquitur" title="Res ipsa loquitur">Res ipsa loquitur</a> </i></li>
+<li><a href="/wiki/Eggshell_skull" title="Eggshell skull">Eggshell skull</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#aaddff; color:#000;">
+<a href="/wiki/Trespass_in_English_law" title="Trespass in English law">Trespass</a></th></tr><tr><th class="sidebar-heading" style="background:#aaddff; color:#000;">
+<a href="/wiki/Occupiers%27_liability_in_English_law" title="Occupiers&#39; liability in English law">Occupiers' liability</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Occupiers%27_Liability_Act_1957" title="Occupiers&#39; Liability Act 1957">Occupiers' Liability Act 1957</a></li>
+<li><a href="/wiki/Occupiers%27_Liability_Act_1984" title="Occupiers&#39; Liability Act 1984">Occupiers' Liability Act 1984</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#aaddff; color:#000;">
+<a href="/wiki/English_defamation_law" title="English defamation law">Defamation</a></th></tr><tr><th class="sidebar-heading" style="background:#aaddff; color:#000;">
+<a href="/wiki/Strict_liability" title="Strict liability">Strict liability</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Vicarious_liability_in_English_law" title="Vicarious liability in English law">Vicarious liability</a></li>
+<li><i><a href="/wiki/Rylands_v_Fletcher" title="Rylands v Fletcher">Rylands v Fletcher</a></i></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#aaddff; color:#000;">
+<a href="/wiki/Nuisance_in_English_law" title="Nuisance in English law">Nuisance</a></th></tr><tr><td class="sidebar-navbar"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:English_tort_law" title="Template:English tort law"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:English_tort_law" title="Template talk:English tort law"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:English_tort_law&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Privacy in English law</b> is a rapidly developing area of <a href="/wiki/English_law" title="English law">English law</a> that considers situations where individuals have a <a href="/wiki/Legal_right" class="mw-redirect" title="Legal right">legal right</a> to <a href="/wiki/Informational_privacy" class="mw-redirect" title="Informational privacy">informational privacy</a> - the protection of personal or private information from misuse or unauthorised disclosure.<sup id="cite_ref-11sb.com_1-0" class="reference"><a href="#cite_note-11sb.com-1">&#91;1&#93;</a></sup> Privacy law is distinct from those laws such as <a href="/wiki/Trespass" title="Trespass">trespass</a> or <a href="/wiki/Assault" title="Assault">assault</a> that are designed to protect physical privacy. Such laws are generally considered as part of <a href="/wiki/Criminal_law" title="Criminal law">criminal law</a> or the <a href="/wiki/Law_of_tort" class="mw-redirect" title="Law of tort">law of tort</a>. Historically, English <a href="/wiki/Common_law" title="Common law">common law</a> has recognised no general right or <a href="/wiki/Tort" title="Tort">tort</a> of privacy, and was offered only limited protection through the doctrine of <a href="/wiki/Breach_of_confidence" title="Breach of confidence">breach of confidence</a> and a "piecemeal" collection of related legislation on topics like <a href="/wiki/Harassment" title="Harassment">harassment</a> and <a href="/wiki/Data_protection" class="mw-redirect" title="Data protection">data protection</a>.
+The introduction of the <a href="/wiki/Human_Rights_Act_1998" title="Human Rights Act 1998">Human Rights Act 1998</a> incorporated into English law the <a href="/wiki/European_Convention_on_Human_Rights" title="European Convention on Human Rights">European Convention on Human Rights</a>. Article 8.1 of the ECHR provided an explicit right to respect for a private life. The Convention also requires the judiciary to "have regard" to the Convention in developing the common law.<sup id="cite_ref-publications1_2-0" class="reference"><a href="#cite_note-publications1-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Common_law"><span class="tocnumber">2</span> <span class="toctext">Common law</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Expansion_of_privacy_laws"><span class="tocnumber">3</span> <span class="toctext">Expansion of privacy laws</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#ECHR_challenge"><span class="tocnumber">4</span> <span class="toctext">ECHR challenge</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Debate"><span class="tocnumber">5</span> <span class="toctext">Debate</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Key_cases"><span class="tocnumber">6</span> <span class="toctext">Key cases</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#European_rulings"><span class="tocnumber">6.1</span> <span class="toctext">European rulings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes_and_references"><span class="tocnumber">9</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The earliest definition of privacy in English law was given by <a href="/wiki/Thomas_M._Cooley" title="Thomas M. Cooley">Thomas M. Cooley</a> who defined privacy as "the right to be left alone".<sup id="cite_ref-princess1_3-0" class="reference"><a href="#cite_note-princess1-3">&#91;3&#93;</a></sup> In 1972 the Younger Committee, an inquiry into privacy stated that the term could not be defined satisfactorily. Again in 1990 the <a href="/wiki/David_Calcutt" title="David Calcutt">Calcutt Committee</a> concluded that: "nowhere have we found a wholly satisfactory statutory definition of privacy".<sup id="cite_ref-princess1_3-1" class="reference"><a href="#cite_note-princess1-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Common_law">Common law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=2" title="Edit section: Common law">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Kaye_v_Robertson" title="Kaye v Robertson">Kaye v Robertson</a> and <a href="/wiki/Wainwright_v_Home_Office" title="Wainwright v Home Office">Wainwright v Home Office</a></div>
+<p>There is currently a freestanding <a href="/wiki/Right_to_privacy" title="Right to privacy">right to privacy</a> in <a href="/wiki/Common_law" title="Common law">common law</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> This point was reaffirmed when the House of Lords ruled in Home Office v Wainwright (a case involving a strip search undertaken on the plaintiff Alan Wainwright while visiting Armley prison).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It has also been stated that the European Convention on Human Rights does not require the development of an independent tort of privacy.<sup id="cite_ref-publications1_2-1" class="reference"><a href="#cite_note-publications1-2">&#91;2&#93;</a></sup> In the absence of a common law right to privacy in English law torts such as the equitable doctrine breach of confidence,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> torts linked to the intentional infliction of harm to the person<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> and public law torts relating to the use of police powers<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> have been used to fill a gap in the law. The judiciary has developed the law in an incremental fashion and have resisted the opportunity to create a new tort.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Expansion_of_privacy_laws">Expansion of privacy laws</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=3" title="Edit section: Expansion of privacy laws">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Breach_of_confidence_in_English_law" title="Breach of confidence in English law">Breach of confidence in English law</a></div>
+<p>British Radio Jockey <a href="/wiki/Sara_Cox" title="Sara Cox">Sara Cox</a>'s case against <i><a href="/wiki/The_People" class="mw-redirect" title="The People">The People</a></i> newspaper was one of the first celebrity privacy cases. The media referred to the case as a "watershed". The disc jockey sued after the newspaper printed nude photographs of her taken while on her honeymoon. However the case was settled out of court and so did not establish a precedent.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The decision was seen as discrediting the <a href="/wiki/Press_Complaints_Commission" title="Press Complaints Commission">Press Complaints Commission</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>The expansion of the doctrine of breach of confidence under the <a href="/wiki/Human_Rights_Act_1998" title="Human Rights Act 1998">Human Rights Act</a> began with the <a href="/wiki/Douglas_v_Hello!" class="mw-redirect" title="Douglas v Hello!">Douglas v Hello!</a> decision. Section 6 of the Human Rights Act requires English courts to give effect to the rights in the Convention when developing the common law. There is no need to show a pre-existing relationship of confidence where private information is involved and the courts have recognised that the publication of private material represents a detriment in itself.<sup id="cite_ref-publications1_2-2" class="reference"><a href="#cite_note-publications1-2">&#91;2&#93;</a></sup> The Human Rights act has <a href="/wiki/Horizontal_effect" title="Horizontal effect">horizontal effect</a> in disputes between private individuals meaning that the Human Rights Act is just as applicable as if one party had been a public body.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Breach of confidence now extends to private information (regardless of whether it is confidential) so as to give effect to Article 8 of the European Convention on Human Rights. Before this breach of confidence afforded "umbrella protection" to both personal and non-personal information.<sup id="cite_ref-11sb.com_1-1" class="reference"><a href="#cite_note-11sb.com-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="ECHR_challenge">ECHR challenge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=4" title="Edit section: ECHR challenge">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Mosley_v_News_Group_Newspapers_Limited" class="mw-redirect" title="Mosley v News Group Newspapers Limited">Mosley v News Group Newspapers Limited</a>, <a href="/wiki/Max_Mosley_v_United_Kingdom" class="mw-redirect" title="Max Mosley v United Kingdom">Max Mosley v United Kingdom</a>, and <a href="/wiki/Article_8_of_the_European_Convention_on_Human_Rights" title="Article 8 of the European Convention on Human Rights">Article 8 of the European Convention on Human Rights</a></div>
+<p>Following <a href="/wiki/Max_Mosley" title="Max Mosley">Max Mosley</a>'s successful action against the <i><a href="/wiki/News_of_the_World" title="News of the World">News of the World</a></i> newspaper for publishing details of his private life, he announced that he would challenge English law's implementation of the Article 8 right to privacy guaranteed when the Human Rights Act implemented the European Convention on Human Rights into English law.<sup id="cite_ref-programmes1_13-0" class="reference"><a href="#cite_note-programmes1-13">&#91;13&#93;</a></sup> The European Court of Human Rights (ECHR) was asked to rule on the issue of "prior notification". This would require journalists to approach the subject of any investigation and inform them of the details of any allegations made about them, therefore allowing an injunction to be claimed.<sup id="cite_ref-programmes1_13-1" class="reference"><a href="#cite_note-programmes1-13">&#91;13&#93;</a></sup> The ECHR ruled that domestic law was not in conflict with the convention.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Debate">Debate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=5" title="Edit section: Debate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The increasing protections afforded to the private lives of individuals has sparked debate as to whether <a href="/wiki/English_law" title="English law">English law</a> gives enough weight to freedom of the press and whether intervention by <a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament</a> would be beneficial. The editor of the satirical magazine <i>Private Eye</i> <a href="/wiki/Ian_Hislop" title="Ian Hislop">Ian Hislop</a> has argued against the development of English privacy law. He told BBC's <i>Panorama</i>: "You don't have to prove it [an allegation] isn't true, you just have to prove that it's private by your definition. And in some of the cases the definition of privacy is pretty weak."<sup id="cite_ref-http1_15-0" class="reference"><a href="#cite_note-http1-15">&#91;15&#93;</a></sup> However, <a href="/wiki/Liberal_Democrats_(UK)" title="Liberal Democrats (UK)">Liberal Democrat</a> politician <a href="/wiki/Mark_Oaten" title="Mark Oaten">Mark Oaten</a> has stated that the press were right to expose details of his private life:
+</p>
+<dl><dd>"I concluded that however awful it may be, it's better to have a press which can expose MPs' private lives because it means we have a free press… it means we can expose corruption."<sup id="cite_ref-http1_15-1" class="reference"><a href="#cite_note-http1-15">&#91;15&#93;</a></sup> <a href="/wiki/Max_Mosley" title="Max Mosley">Max Mosley</a> has argued for the further advancement of the law<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> whereas the editor of the <i><a href="/wiki/Daily_Mail" title="Daily Mail">Daily Mail</a></i> newspaper <a href="/wiki/Paul_Dacre" title="Paul Dacre">Paul Dacre</a> has accused <a href="/wiki/Mr_Justice_Eady" class="mw-redirect" title="Mr Justice Eady">Mr Justice Eady</a>, the judge in the Mosley case, of bringing in a privacy law by the back door.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></dd></dl>
+<h2><span class="mw-headline" id="Key_cases">Key cases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=6" title="Edit section: Key cases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a href="/wiki/Prince_Albert_v_Strange" title="Prince Albert v Strange">Prince Albert v Strange</a></i></li>
+<li><i><a href="/wiki/AMP_v._Persons_Unknown" class="mw-redirect" title="AMP v. Persons Unknown">AMP v. Persons Unknown</a></i></li>
+<li><i><a href="/wiki/A_v._B_plc" class="mw-redirect" title="A v. B plc">A v. B plc</a></i></li>
+<li><i><a href="/wiki/Bernstein_of_Leigh_v._Skyviews_%26_General_Ltd" class="mw-redirect" title="Bernstein of Leigh v. Skyviews &amp; General Ltd">Bernstein of Leigh v. Skyviews &amp; General Ltd</a></i></li>
+<li><i><a href="/wiki/Campbell_v_Mirror_Group_Newspapers_Ltd" class="mw-redirect" title="Campbell v Mirror Group Newspapers Ltd">Campbell v Mirror Group Newspapers Ltd</a></i></li>
+<li><i><a href="/wiki/Douglas_v_Hello!" class="mw-redirect" title="Douglas v Hello!">Douglas v Hello!</a></i></li>
+<li><i><a href="/w/index.php?title=Google_Inc_v_Vidal-Hall_%26_Ors&amp;action=edit&amp;redlink=1" class="new" title="Google Inc v Vidal-Hall &amp; Ors (page does not exist)">Google Inc v Vidal-Hall &amp; Ors</a></i></li>
+<li><i><a href="/w/index.php?title=Gulati_%26_Ors_v_MGN_Limited&amp;action=edit&amp;redlink=1" class="new" title="Gulati &amp; Ors v MGN Limited (page does not exist)">Gulati &amp; Ors v MGN Limited</a></i></li>
+<li><i><a href="/w/index.php?title=Halliday_v_Creation_Consumer_Finance_Ltd_(CCF)&amp;action=edit&amp;redlink=1" class="new" title="Halliday v Creation Consumer Finance Ltd (CCF) (page does not exist)">Halliday v Creation Consumer Finance Ltd (CCF)</a></i></li>
+<li><i><a href="/wiki/His_Royal_Highness_the_Prince_of_Wales_v._Associated_Newspapers_Ltd" class="mw-redirect" title="His Royal Highness the Prince of Wales v. Associated Newspapers Ltd">His Royal Highness the Prince of Wales v. Associated Newspapers Ltd</a></i></li>
+<li><i><a href="/wiki/Kaye_v._Robertson" class="mw-redirect" title="Kaye v. Robertson">Kaye v. Robertson</a></i></li>
+<li><i><a href="/wiki/Mosley_v_News_Group_Newspapers_Limited" class="mw-redirect" title="Mosley v News Group Newspapers Limited">Mosley v News Group Newspapers Limited</a></i></li>
+<li><i><a href="/w/index.php?title=Murray_v_Big_Pictures_(UK)_Ltd&amp;action=edit&amp;redlink=1" class="new" title="Murray v Big Pictures (UK) Ltd (page does not exist)">Murray v Big Pictures (UK) Ltd</a></i></li>
+<li><i><a href="/wiki/McKennitt_v_Ash" title="McKennitt v Ash">McKennitt v Ash</a></i></li>
+<li><i><a href="/wiki/Theakston_v_Mirror_Group_Newspapers_Ltd" class="mw-redirect" title="Theakston v Mirror Group Newspapers Ltd">Theakston v Mirror Group Newspapers Ltd</a></i></li>
+<li><i><a href="/wiki/Wainwright_v_Home_Office" title="Wainwright v Home Office">Wainwright v Home Office</a></i></li>
+<li><i><a href="/w/index.php?title=Wood_v_Commissioner_of_Police_for_the_Metropolis&amp;action=edit&amp;redlink=1" class="new" title="Wood v Commissioner of Police for the Metropolis (page does not exist)">Wood v Commissioner of Police for the Metropolis</a></i></li></ul>
+<h3><span class="mw-headline" id="European_rulings">European rulings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=7" title="Edit section: European rulings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/Von_Hannover_v._Germany" class="mw-redirect" title="Von Hannover v. Germany">Von Hannover v. Germany</a></i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/2011_British_privacy_injunctions_controversy" title="2011 British privacy injunctions controversy">2011 British privacy injunctions controversy</a></li>
+<li><a href="/wiki/Breach_of_confidence" title="Breach of confidence">Breach of confidence</a></li>
+<li><a href="/wiki/European_Convention_on_Human_Rights" title="European Convention on Human Rights">European Convention on Human Rights</a></li>
+<li><a href="/wiki/Press_Complaints_Commission" title="Press Complaints Commission">Press Complaints Commission</a></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>J. Morgan, “Privacy, Confidence and Horizontal Effect: “Hello” Trouble” (2003) 62 (2) <i>Cambridge Law Journal</i> 444</li>
+<li>H. Fenwick and G. Phillipson, “Confidence and Privacy: A Re-Examination” [1996] <i>Cambridge Law Journal</i> 447.</li>
+<li>H. Fenwick and G. Phillipson, “Breach of Confidence as a Privacy Remedy in the Human Rights Act Era” (2000) 63 <i>Modern Law Review</i> 660.</li>
+<li>R. Singh and J. Strachan, “Privacy Postponed” [2003] <i>European Human Rights Law Review</i> Special Issue: Privacy 12-25.</li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=10" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-11sb.com-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-11sb.com_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-11sb.com_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110707054742/http://www.11sb.com/pdf/privacyaftermaxmosley.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.11sb.com/pdf/privacyaftermaxmosley.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 7 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.11sb.com%2Fpdf%2Fprivacyaftermaxmosley.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span>
+</li>
+<li id="cite_note-publications1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-publications1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-publications1_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-publications1_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110804095157/http://www.ucl.ac.uk/laws/global_law/publications/institute/docs/privacy_100804.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.ucl.ac.uk/laws/global_law/publications/institute/docs/privacy_100804.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 4 August 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.ucl.ac.uk%2Flaws%2Fglobal_law%2Fpublications%2Finstitute%2Fdocs%2Fprivacy_100804.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span>
+</li>
+<li id="cite_note-princess1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-princess1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-princess1_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.leeds.ac.uk/law/hamlyn/princess.htm">"Princess Diana, Privacy Laws And Press Freedom In The United Kingdom"</a>. Leeds.ac.uk. 30 October 1997<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Princess+Diana%2C+Privacy+Laws+And+Press+Freedom+In+The+United+Kingdom&amp;rft.pub=Leeds.ac.uk&amp;rft.date=1997-10-30&amp;rft_id=http%3A%2F%2Fwww.leeds.ac.uk%2Flaw%2Fhamlyn%2Fprincess.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Home_Office_v_Wainwright" class="mw-redirect" title="Home Office v Wainwright">Home Office v Wainwright</a> [2001] EWCA Civ. 2081, <a href="/wiki/Gordon_Kaye_v._Andrew_Robertson_and_Sport_Newspapers_Ltd" class="mw-redirect" title="Gordon Kaye v. Andrew Robertson and Sport Newspapers Ltd">Gordon Kaye v. Andrew Robertson and Sport Newspapers Ltd</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFDyer2003" class="citation news cs1">Dyer, Clare (17 October 2003). <a rel="nofollow" class="external text" href="https://www.theguardian.com/uk/2003/oct/17/lords.prisonsandprobation">"Law lords rule there is no right to privacy &#124; UK news"</a>. <i>The Guardian</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Law+lords+rule+there+is+no+right+to+privacy+%26%23124%3B+UK+news&amp;rft.date=2003-10-17&amp;rft.aulast=Dyer&amp;rft.aufirst=Clare&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fuk%2F2003%2Foct%2F17%2Flords.prisonsandprobation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">A v. B plc [2003] Q.B. 195.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Home Office v Wainwright [2001] EWCA Civ. 2081.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Ellis v Chief Constable Essex Police [2003] EWHC 1321.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">[2001] EWCA Civ. 2081, at para. 42.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/2971330.stm">"Cox privacy case 'a watershed'<span class="cs1-kern-right"></span>"</a>. <i>BBC News</i>. 7 June 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Cox+privacy+case+%27a+watershed%27&amp;rft.date=2003-06-07&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F2971330.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/2975718.stm">"Privacy law remains confused"</a>. <i>BBC News</i>. 9 June 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Privacy+law+remains+confused&amp;rft.date=2003-06-09&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F2975718.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">See Lord Nicholls [17] - [18] and Lord Hoffman [50] in Campbell v MGN [2004]</span>
+</li>
+<li id="cite_note-programmes1-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-programmes1_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-programmes1_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/programmes/law_in_action/7908046.stm">"Programmes &#124; Law in Action &#124; Mosley v UK"</a>. BBC News. 24 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Programmes+%26%23124%3B+Law+in+Action+%26%23124%3B+Mosley+v+UK&amp;rft.date=2009-02-24&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fprogrammes%2Flaw_in_action%2F7908046.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFClive_Coleman2011" class="citation news cs1">Clive Coleman (10 May 2011). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-13341058">"BBC News - Max Mosley loses European court privacy law bid"</a>. Bbc.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=BBC+News+-+Max+Mosley+loses+European+court+privacy+law+bid&amp;rft.date=2011-05-10&amp;rft.au=Clive+Coleman&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-13341058&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-http1-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-http1_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-http1_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/8095366.stm">"UK &#124; Is it farewell for Kiss and Tell?"</a>. BBC News. 15 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=UK+%26%23124%3B+Is+it+farewell+for+Kiss+and+Tell%3F&amp;rft.date=2009-06-15&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F8095366.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/panorama/hi/front_page/newsid_8098000/8098173.stm">"BBC - Panorama - Max Mosley on his right to privacy"</a>. BBC News. 12 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=BBC+-+Panorama+-+Max+Mosley+on+his+right+to+privacy&amp;rft.date=2009-06-12&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fpanorama%2Fhi%2Ffront_page%2Fnewsid_8098000%2F8098173.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/7718961.stm">"UK &#124; Mail editor accuses Mosley judge"</a>. BBC News. 10 November 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=UK+%26%23124%3B+Mail+editor+accuses+Mosley+judge&amp;rft.date=2008-11-10&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F7718961.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrivacy+in+English+law" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ucl.ac.uk/laws/global_law/publications/institute/docs/privacy_100804.pdf">Concerns and Ideas about the Developing English Law of Privacy(and how knowledge of foreign law might be of help) A research project undertaken by the Institute of Global Law</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110804095157/http://www.ucl.ac.uk/laws/global_law/publications/institute/docs/privacy_100804.pdf">Archived</a> 2011-08-04 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nswscl.org.au/journal/2006/issue2/page3.pdf">Can I Sue Google If It Says I’m Gay? The Tales of Internet Defamation in the UK</a></li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Privacy_injunctions_in_English_law" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Privacy_injunctions_in_English_law" title="Template:Privacy injunctions in English law"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Privacy_injunctions_in_English_law&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Privacy injunctions in English law (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Privacy_injunctions_in_English_law&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Privacy_injunctions_in_English_law" style="font-size:114%;margin:0 4em">Privacy injunctions in English law</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Terminology</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Injunctions_in_English_law" title="Injunctions in English law">Injunctions</a></li>
+<li><a href="/wiki/Anonymised_injunctions_in_English_law" title="Anonymised injunctions in English law">Anonymised injunctions</a></li>
+<li><a href="/wiki/Super-injunctions_in_English_law" title="Super-injunctions in English law">Super-injunctions</a></li>
+<li><a href="/wiki/Contra_mundum_injunction" title="Contra mundum injunction">Contra mundum injunction</a></li>
+<li>See also <a href="/wiki/Interdicts_in_Scots_law" title="Interdicts in Scots law">Interdicts in Scots law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Super-injunction cases</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Ntuli_v_Donald" title="Ntuli v Donald">Ntuli v Donald</a></i></li>
+<li><i><a href="/wiki/DFT_v_TFD" title="DFT v TFD">DFT v TFD</a></i></li>
+<li><i><a href="/wiki/Terry_v_Persons_Unknown" class="mw-redirect" title="Terry v Persons Unknown">Terry v Persons Unknown</a></i></li>
+<li><i><a href="/wiki/RJW_v_Guardian_News_and_Media_Ltd" title="RJW v Guardian News and Media Ltd">RJW v Guardian News and Media Ltd</a></i></li>
+<li><i><a href="/wiki/Andrew_Marr_and_anonymous" class="mw-redirect" title="Andrew Marr and anonymous">Andrew Marr and anonymous</a></i></li>
+<li><i><a href="/wiki/NMC_v_Persons_Unknown" title="NMC v Persons Unknown">NMC v Persons Unknown</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Anonymised injunctions</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/List_of_privacy_injunction_cases_in_English_law" title="List of privacy injunction cases in English law">List of privacy injunction cases in English law</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Neuberger_Committee" title="Neuberger Committee">Neuberger Committee</a></li>
+<li><a href="/wiki/2011_British_privacy_injunctions_controversy" title="2011 British privacy injunctions controversy">2011 British privacy injunctions controversy</a></li>
+<li><a class="mw-selflink selflink">Privacy in English law</a></li>
+<li><a href="/wiki/Breach_of_confidence_in_English_law" title="Breach of confidence in English law">Breach of confidence</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="Privacy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Privacy" title="Template:Privacy"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Privacy" title="Template talk:Privacy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Privacy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Privacy" style="font-size:114%;margin:0 4em"><a href="/wiki/Privacy" title="Privacy">Privacy</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Principles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Expectation_of_privacy" class="mw-redirect" title="Expectation of privacy">Expectation of privacy</a></li>
+<li><a href="/wiki/Right_to_privacy" title="Right to privacy">Right to privacy</a></li>
+<li><a href="/wiki/Right_to_be_forgotten" title="Right to be forgotten">Right to be forgotten</a></li>
+<li><a href="/wiki/Post-mortem_privacy" title="Post-mortem privacy">Post-mortem privacy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Privacy_law" title="Privacy law">Privacy laws</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Privacy_in_Australian_law" title="Privacy in Australian law">Australia</a></li>
+<li><a href="/wiki/Canadian_privacy_law" title="Canadian privacy law">Canada</a></li>
+<li><a href="/wiki/Personal_Information_Protection_Law_of_the_People%27s_Republic_of_China" title="Personal Information Protection Law of the People&#39;s Republic of China">China</a></li>
+<li><a href="/wiki/Privacy_law_in_Denmark" title="Privacy law in Denmark">Denmark</a></li>
+<li><a class="mw-selflink selflink">England</a></li>
+<li><a href="/wiki/General_Data_Protection_Regulation" title="General Data Protection Regulation">European Union</a></li>
+<li><a href="/wiki/Bundesdatenschutzgesetz" title="Bundesdatenschutzgesetz">Germany</a></li>
+<li><a href="/wiki/Data_Protection_Act,_2012" title="Data Protection Act, 2012">Ghana</a></li>
+<li><a href="/wiki/Right_to_privacy_in_New_Zealand" title="Right to privacy in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Data_protection_(privacy)_laws_in_Russia" title="Data protection (privacy) laws in Russia">Russia</a></li>
+<li><a href="/wiki/Personal_Data_Protection_Act_2012_(Singapore)" class="mw-redirect" title="Personal Data Protection Act 2012 (Singapore)">Singapore</a></li>
+<li><a href="/wiki/Federal_Data_Protection_and_Information_Commissioner" title="Federal Data Protection and Information Commissioner">Switzerland</a></li>
+<li><a href="/wiki/Privacy_laws_of_the_United_States" title="Privacy laws of the United States">United States</a>
+<ul><li><a href="/wiki/California_Consumer_Privacy_Act" title="California Consumer Privacy Act">California</a>, <a href="/wiki/California_Privacy_Rights_Act" title="California Privacy Rights Act">amended in 2020</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/National_data_protection_authority" title="National data protection authority">Data protection authorities</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Office_of_the_Australian_Information_Commissioner" title="Office of the Australian Information Commissioner">Australia</a></li>
+<li><a href="/wiki/Danish_Data_Protection_Agency" title="Danish Data Protection Agency">Denmark</a></li>
+<li><a href="/wiki/European_Data_Protection_Supervisor" title="European Data Protection Supervisor">European Union</a></li>
+<li><a href="/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s" title="Commission nationale de l&#39;informatique et des libertés">France</a></li>
+<li><a href="/wiki/Federal_Commissioner_for_Data_Protection_and_Freedom_of_Information" title="Federal Commissioner for Data Protection and Freedom of Information">Germany</a></li>
+<li><a href="/wiki/Data_Protection_Commissioner" title="Data Protection Commissioner">Ireland</a></li>
+<li><a href="/wiki/Office_of_the_Data_Protection_Supervisor" title="Office of the Data Protection Supervisor">Isle of Man</a></li>
+<li><a href="/wiki/Norwegian_Data_Protection_Authority" title="Norwegian Data Protection Authority">Norway</a></li>
+<li><a href="/wiki/National_Privacy_Commission_(Philippines)" title="National Privacy Commission (Philippines)">Philippines</a></li>
+<li><a href="/wiki/Polish_Data_Protection_Commissioner" title="Polish Data Protection Commissioner">Poland</a></li>
+<li><a href="/wiki/Personal_Information_Protection_Commission_(South_Korea)" title="Personal Information Protection Commission (South Korea)">South Korea</a></li>
+<li><a href="/wiki/Spanish_Data_Protection_Agency" title="Spanish Data Protection Agency">Spain</a></li>
+<li><a href="/wiki/Swedish_Data_Protection_Authority" class="mw-redirect" title="Swedish Data Protection Authority">Sweden</a></li>
+<li><a href="/wiki/Federal_Data_Protection_and_Information_Commissioner" title="Federal Data Protection and Information Commissioner">Switzerland</a></li>
+<li><a href="/wiki/Turkish_Data_Protection_Authority" title="Turkish Data Protection Authority">Turkey</a></li>
+<li><a href="/wiki/Office_of_the_Personal_Data_Protection_Committee" class="mw-redirect" title="Office of the Personal Data Protection Committee">Thailand</a></li>
+<li><a href="/wiki/Information_Commissioner%27s_Office" title="Information Commissioner&#39;s Office">United Kingdom</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Areas</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Consumer_privacy" title="Consumer privacy">Consumer</a></li>
+<li><a href="/wiki/Medical_privacy" title="Medical privacy">Medical</a></li>
+<li><a href="/wiki/Workplace_privacy" title="Workplace privacy">Workplace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Information_privacy" title="Information privacy">Information privacy</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Information_privacy_law" title="Information privacy law">Law</a></li>
+<li><a href="/wiki/Bank_secrecy" title="Bank secrecy">Financial</a></li>
+<li><a href="/wiki/Internet_privacy" title="Internet privacy">Internet</a></li>
+<li><a href="/wiki/Personal_data" title="Personal data">Personal data</a></li>
+<li><a href="/wiki/Personal_identifier" title="Personal identifier">Personal identifier</a></li>
+<li><a href="/wiki/Privacy-enhancing_technologies" title="Privacy-enhancing technologies">Privacy-enhancing technologies</a></li>
+<li><a href="/wiki/Privacy_concerns_with_social_networking_services" title="Privacy concerns with social networking services">Social networking services</a></li>
+<li><a href="/wiki/Privacy_engineering" title="Privacy engineering">Privacy engineering</a></li>
+<li><a href="/wiki/Secret_ballot" title="Secret ballot">Secret ballot</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Advocacy organizations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/American_Civil_Liberties_Union" title="American Civil Liberties Union">American Civil Liberties Union</a></li>
+<li><a href="/wiki/Center_for_Democracy_and_Technology" title="Center for Democracy and Technology">Center for Democracy and Technology</a></li>
+<li><a href="/wiki/Computer_Professionals_for_Social_Responsibility" title="Computer Professionals for Social Responsibility">Computer Professionals for Social Responsibility</a></li>
+<li><a href="/wiki/Future_of_Privacy_Forum" title="Future of Privacy Forum">Future of Privacy Forum</a></li>
+<li><a href="/wiki/Electronic_Privacy_Information_Center" title="Electronic Privacy Information Center">Electronic Privacy Information Center</a></li>
+<li><a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a></li>
+<li><a href="/wiki/European_Digital_Rights" title="European Digital Rights">European Digital Rights</a></li>
+<li><a href="/wiki/Global_Network_Initiative" title="Global Network Initiative">Global Network Initiative</a></li>
+<li><a href="/wiki/International_Association_of_Privacy_Professionals" title="International Association of Privacy Professionals">International Association of Privacy Professionals</a></li>
+<li><a href="/wiki/NOYB" title="NOYB">NOYB</a></li>
+<li><a href="/wiki/Privacy_International" title="Privacy International">Privacy International</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Carding_(fraud)" title="Carding (fraud)">Carding</a></li>
+<li><a href="/wiki/Cellphone_surveillance" title="Cellphone surveillance">Cellphone surveillance</a></li>
+<li><a href="/wiki/Cyberstalking" title="Cyberstalking">Cyberstalking</a></li>
+<li><a href="/wiki/Data_security" title="Data security">Data security</a></li>
+<li><a href="/wiki/Eavesdropping" title="Eavesdropping">Eavesdropping</a></li>
+<li><a href="/wiki/Global_surveillance" title="Global surveillance">Global surveillance</a></li>
+<li><a href="/wiki/Electronic_harassment" title="Electronic harassment">Electronic harassment</a></li>
+<li><a href="/wiki/Mass_surveillance" title="Mass surveillance">Mass surveillance</a></li>
+<li><a href="/wiki/Privacy_engineering" title="Privacy engineering">Privacy engineering</a></li>
+<li><a href="/wiki/Telephone_tapping" title="Telephone tapping">Telephone tapping</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Identity_theft" title="Identity theft">Identity theft</a></li>
+<li><a href="/wiki/Panopticon" title="Panopticon">Panopticon</a></li>
+<li><a href="/wiki/Personality_rights" title="Personality rights">Personality rights</a></li>
+<li><a href="/wiki/Search_warrant" title="Search warrant">Search warrant</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Privacy" title="Category:Privacy">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="English_law" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:English_law" title="Template:English law"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:English_law" title="Template talk:English law"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:English_law&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="English_law" style="font-size:114%;margin:0 4em"><a href="/wiki/English_law" title="English law">English law</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Core subjects</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Constitution_of_the_United_Kingdom" title="Constitution of the United Kingdom">UK Constitution</a></li>
+<li><a href="/wiki/United_Kingdom_administrative_law" title="United Kingdom administrative law">Administrative law</a></li>
+<li><a href="/wiki/English_criminal_law" title="English criminal law">Criminal law</a></li>
+<li><a href="/wiki/English_contract_law" title="English contract law">Contract law</a></li>
+<li><a href="/wiki/English_tort_law" title="English tort law">Tort law</a></li>
+<li><a class="mw-selflink selflink">Privacy</a></li>
+<li><a href="/wiki/English_property_law" title="English property law">Property law</a></li>
+<li><a href="/wiki/English_trust_law" title="English trust law">Trust law</a></li>
+<li><a href="/wiki/European_Union_law" title="European Union law">EU law</a></li>
+<li><a href="/wiki/Category:English_case_law" title="Category:English case law">Case law</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Scale_of_justice_2.svg" class="image"><img alt="Scale of justice 2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/50px-Scale_of_justice_2.svg.png" decoding="async" width="50" height="51" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/75px-Scale_of_justice_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/100px-Scale_of_justice_2.svg.png 2x" data-file-width="204" data-file-height="208" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Further subjects</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/United_Kingdom_company_law" title="United Kingdom company law">Company law</a></li>
+<li><a href="/wiki/United_Kingdom_competition_law" title="United Kingdom competition law">Competition law</a></li>
+<li><a href="/wiki/United_Kingdom_labour_law" title="United Kingdom labour law">Labour law</a></li>
+<li><a href="/wiki/United_Kingdom_commercial_law" title="United Kingdom commercial law">Commercial law</a></li>
+<li><a href="/wiki/Civil_procedure_in_England_and_Wales" title="Civil procedure in England and Wales">Civil procedure</a></li>
+<li><a href="/wiki/English_family_law" title="English family law">Family law</a></li>
+<li><a href="/wiki/Courts_of_England_and_Wales" title="Courts of England and Wales">Courts of England and Wales</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related systems</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Law_of_the_United_Kingdom" title="Law of the United Kingdom">UK-wide</a></li>
+<li><a href="/wiki/Law_of_Northern_Ireland" title="Law of Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scots_law" title="Scots law">Scotland</a></li>
+<li><a href="/wiki/Welsh_law" title="Welsh law">Wales</a></li>
+<li><a href="/wiki/Law_of_Australia" class="mw-redirect" title="Law of Australia">Australia</a></li>
+<li><a href="/wiki/Law_of_the_British_Virgin_Islands" title="Law of the British Virgin Islands">British Virgin Islands</a></li>
+<li><a href="/wiki/Law_of_Canada" title="Law of Canada">Canada</a></li>
+<li><a href="/wiki/Law_of_Hong_Kong" title="Law of Hong Kong">Hong Kong</a></li>
+<li><a href="/wiki/Law_of_India" title="Law of India">India</a></li>
+<li><a href="/wiki/Law_of_New_Zealand" title="Law of New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Law_of_Singapore" title="Law of Singapore">Singapore</a></li>
+<li><a href="/wiki/Law_of_the_United_States" title="Law of the United States">United States</a></li>
+<li><a href="/wiki/Anglo-Saxon_law" title="Anglo-Saxon law">Anglo-Saxon law</a></li>
+<li><a href="/wiki/Common_law" title="Common law">Common law</a></li>
+<li><a href="/wiki/Equity_(law)" title="Equity (law)">Equity</a></li>
+<li><a href="/wiki/Bloody_Code" title="Bloody Code">Bloody Code</a></li>
+<li><a href="/wiki/Hue_and_cry" title="Hue and cry">Hue and cry</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3"><div>
+<ul><li><b><a href="/wiki/Category:English_law" title="Category:English law">Category</a></b></li>
+<li><b> <a href="/wiki/Portal:Law" title="Portal:Law">Portal</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r1110984671">.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-related{font-size:100%;justify-content:flex-start}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;flex:0 0 auto;min-height:24px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;flex:0 1 auto;padding:0.15em 0;column-gap:1em;align-items:baseline}.mw-parser-output .portal-bar-content-related{}.mw-parser-output .portal-bar-item{display:inline-block;margin:0.15em 0.2em;min-height:24px;line-height:24px}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap;align-items:baseline}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-related{font-size:100%;align-items:flex-start}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:center;flex:0;column-gap:1em;border-top:1px solid #a2a9b1;margin:0 auto}.mw-parser-output .portal-bar-content-related{border-top:none;margin:0}}.mw-parser-output .navbox+link+.portal-bar,.mw-parser-output .navbox+style+.portal-bar,.mw-parser-output .navbox+link+.portal-bar-bordered,.mw-parser-output .navbox+style+.portal-bar-bordered,.mw-parser-output .sister-bar+link+.portal-bar,.mw-parser-output .sister-bar+style+.portal-bar,.mw-parser-output .portal-bar+.navbox-styles+.navbox,.mw-parser-output .portal-bar+.navbox-styles+.sister-bar{margin-top:-1px}</style><div class="portal-bar noprint metadata noviewer portal-bar-bordered" role="navigation" aria-label="Portals"><span class="portal-bar-header"><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portals</a>:</span><div class="portal-bar-content"><span class="portal-bar-item"><img alt="flag" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/21px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="21" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/32px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/42px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;<a href="/wiki/Portal:United_Kingdom" title="Portal:United Kingdom">United Kingdom</a></span><span class="portal-bar-item"><a href="/wiki/File:Balance,_by_David.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance%2C_by_David.svg/21px-Balance%2C_by_David.svg.png" decoding="async" width="21" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance%2C_by_David.svg/32px-Balance%2C_by_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance%2C_by_David.svg/41px-Balance%2C_by_David.svg.png 2x" data-file-width="606" data-file-height="558" /></a>&#160;<a href="/wiki/Portal:Law" title="Portal:Law">Law</a></span></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20221023061837
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.284 seconds
+Real time usage: 0.385 seconds
+Preprocessor visited node count: 1156/1000000
+Post‐expand include size: 63686/2097152 bytes
+Template argument size: 341/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49738/5000000 bytes
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 5708072/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  312.557      1 -total
+ 37.27%  116.505      1 Template:Reflist
+ 22.27%   69.597      3 Template:Cite_web
+ 19.03%   59.474      1 Template:EngTort
+ 18.14%   56.710      1 Template:Sidebar
+ 12.87%   40.228      3 Template:Navbox
+  9.06%   28.331      1 Template:Privacy_injunctions_in_English_law
+  8.93%   27.915      8 Template:Cite_news
+  8.74%   27.332      1 Template:Portal_bar
+  7.17%   22.408      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23378399-0!canonical and timestamp 20221023061837 and revision id 1084461367.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Privacy_in_English_law&amp;oldid=1084461367">https://en.wikipedia.org/w/index.php?title=Privacy_in_English_law&amp;oldid=1084461367</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:English_law" title="Category:English law">English law</a></li><li><a href="/wiki/Category:English_tort_law" title="Category:English tort law">English tort law</a></li><li><a href="/wiki/Category:English_privacy_law" title="Category:English privacy law">English privacy law</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2022" title="Category:Use dmy dates from April 2022">Use dmy dates from April 2022</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Privacy+in+English+law" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Privacy+in+English+law" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Privacy_in_English_law" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Privacy_in_English_law" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Privacy_in_English_law"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Privacy_in_English_law&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Privacy_in_English_law&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Privacy_in_English_law" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Privacy_in_English_law" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Privacy_in_English_law&amp;oldid=1084461367" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Privacy_in_English_law&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Privacy_in_English_law&amp;id=1084461367&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7246024" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Privacy_in_English_law&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Privacy_in_English_law&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7246024#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 24 April 2022, at 16:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Privacy_in_English_law&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.385","ppvisitednodes":{"value":1156,"limit":1000000},"postexpandincludesize":{"value":63686,"limit":2097152},"templateargumentsize":{"value":341,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49738,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  312.557      1 -total"," 37.27%  116.505      1 Template:Reflist"," 22.27%   69.597      3 Template:Cite_web"," 19.03%   59.474      1 Template:EngTort"," 18.14%   56.710      1 Template:Sidebar"," 12.87%   40.228      3 Template:Navbox","  9.06%   28.331      1 Template:Privacy_injunctions_in_English_law","  8.93%   27.915      8 Template:Cite_news","  8.74%   27.332      1 Template:Portal_bar","  7.17%   22.408      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":5708072,"limit":52428800}},"cachereport":{"origin":"mw1395","timestamp":"20221023061837","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Privacy in English law","url":"https:\/\/en.wikipedia.org\/wiki\/Privacy_in_English_law","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7246024","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7246024","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-06-24T21:40:31Z","dateModified":"2022-04-24T16:57:01Z","headline":"overview about privacy in the English law"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Privacy in English law","url":"https:\/\/en.wikipedia.org\/wiki\/Privacy_in_English_law","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7246024","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7246024","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-06-24T21:40:31Z","dateModified":"2022-04-24T16:57:01Z","headline":"overview about privacy in the English law"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1321"});});</script>
+</body>
+</html>
