@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo TDOO autoinfer directory thans to git root function.
+pwd
+
+ls  ../en.wikipedia.org/wiki/ |egrep -i 'fish$' | while read F ; do
+    ln -s ../en.wikipedia.org/wiki/$F .
+done
