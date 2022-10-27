@@ -76,7 +76,7 @@ module LibFish
         fish_info['taxo']["RICCFIXED_#{taxo_key}"] = "Fixing.. #{taxo_value}"
       end
 
-      raise('BUG delle Stelle Marine penso che devi fermarti al primo tbody cosi non fa gli altri...') if taxo_value == 'AsteroideaBlainville'
+      raise('BUG for Starfish penso che devi fermarti al primo tbody cosi non fa gli altri...') if taxo_value == 'AsteroideaBlainville'
     end
 
 
