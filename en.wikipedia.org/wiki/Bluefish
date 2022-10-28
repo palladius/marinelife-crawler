@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bluefish - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b4e9a2dd-6e20-40bf-bbf8-b34b2e6d2799","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bluefish","wgTitle":"Bluefish","wgCurRevisionId":1111780069,"wgRevisionId":1111780069,"wgArticleId":47333,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from September 2021","Taxonbars with multiple manual Wikidata items","IUCN Red List vulnerable species",
+"Pomatomidae","Fish of Africa","Fish of Asia","Fish of Europe","Fish of North America","Marine fish of Australia","Fish of the United States","Fish of the Atlantic Ocean","Fish described in 1766"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bluefish","wgRelevantArticleId":47333,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,
+"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q461432","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/de/Pomatomus_saltatrix.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="801"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/de/Pomatomus_saltatrix.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="534"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="427"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Bluefish - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Bluefish"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bluefish&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bluefish"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bluefish rootpage-Bluefish skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Bluefish</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Species of marine pelagic fish (<i>Pomatomus saltatrix</i>)</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">This article is about the species of fish. For other uses, see <a href="/wiki/Bluefish_(disambiguation)" class="mw-disambig" title="Bluefish (disambiguation)">Bluefish (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Bluefish
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Pomatomus_saltatrix.png" class="image"><img alt="Pomatomus saltatrix.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pomatomus_saltatrix.png/220px-Pomatomus_saltatrix.png" decoding="async" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pomatomus_saltatrix.png/330px-Pomatomus_saltatrix.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pomatomus_saltatrix.png/440px-Pomatomus_saltatrix.png 2x" data-file-width="640" data-file-height="427" /></a>
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
+<tr>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/220px-Status_iucn3.1_VU.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/330px-Status_iucn3.1_VU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/440px-Status_iucn3.1_VU.svg.png 2x" data-file-width="512" data-file-height="137" /><br /><a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Pomatomus" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Perciformes" title="Perciformes">Perciformes</a>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><a class="mw-selflink selflink">Pomatomidae</a><br /><small><a href="/wiki/Theodore_Gill" title="Theodore Gill">Gill</a>, 1863 <sup id="cite_ref-VDLEF_3-0" class="reference"><a href="#cite_note-VDLEF-3">&#91;3&#93;</a></sup></small>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><a class="mw-selflink selflink"><i>Pomatomus</i></a><br /><small><a href="/wiki/Bernard_Germain_%C3%89tienne_de_la_Ville,_Comte_de_Lac%C3%A9p%C3%A8de" class="mw-redirect" title="Bernard Germain Étienne de la Ville, Comte de Lacépède">Lacépède</a>, 1802<sup id="cite_ref-CofF_2-0" class="reference"><a href="#cite_note-CofF-2">&#91;2&#93;</a></sup></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>P.&#160;saltatrix</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Pomatomus saltatrix</i></span></b><br /><div style="font-size: 85%;">(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, 1766)</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a><sup id="cite_ref-Fishbase_4-0" class="reference"><a href="#cite_note-Fishbase-4">&#91;4&#93;</a></sup>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul><li><i>Gasterosteus saltatrix</i> <small>Linnaeus, 1766</small></li>
+<li><i>Cheilodipterus saltatrix</i> <small>(Linnaeus, 1766)</small></li>
+<li><i>Perca lophar</i> <small><a href="/wiki/Peter_Forssk%C3%A5l" title="Peter Forsskål">Forsskål</a>, 1775</small></li>
+<li><i>Cheilodipterus heptacanthus</i> <small><a href="/wiki/Bernard_Germain_de_Lac%C3%A9p%C3%A8de" title="Bernard Germain de Lacépède">Lacepède</a>, 1801</small></li>
+<li><i>Pomatomus skib</i> <small>Lacepède, 1802</small></li>
+<li><i>Gonenion serra</i> <small><a href="/wiki/Constantine_Samuel_Rafinesque" title="Constantine Samuel Rafinesque">Rafinesque</a>, 1810</small></li>
+<li><i>Lopharis mediterraneus</i> <small>Rafinesque, 1810</small></li>
+<li><i>Scomber sypterus</i> <small><a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1814</small></li>
+<li><i>Sypterus pallasii</i> <small><a href="/wiki/Karl_Eichwald" title="Karl Eichwald">Eichwald</a>, 1831</small></li>
+<li><i>Chromis epicurorum</i> <small><a href="/wiki/Laurens_Theodorus_Gronovius" title="Laurens Theodorus Gronovius">Gronow</a>, 1854</small></li>
+<li><i>Temnodon conidens</i> <small><a href="/wiki/Francis_de_Laporte_de_Castelnau" class="mw-redirect" title="Francis de Laporte de Castelnau">Castelnau</a>, 1861</small></li>
+<li><i>Sparactodon nalnal</i> <small><a href="/wiki/Alphonse_Tr%C3%A9meau_de_Rochebrune" title="Alphonse Trémeau de Rochebrune">Rochebrune</a>, 1880</small></li>
+<li><i>Temnodon tubulus</i> <small><a href="/wiki/William_Saville-Kent" title="William Saville-Kent">Saville-Kent</a>, 1893</small></li>
+<li><i>Pomatomus pedica</i> <small><a href="/wiki/Gilbert_Percy_Whitley" title="Gilbert Percy Whitley">Whitley</a>, 1931</small></li></ul>
+</td></tr>
+
+</tbody></table>
+<p>The <b>bluefish</b> (<i>Pomatomus saltatrix</i>) is the only extant species of the family Pomatomidae. It is a marine <a href="/wiki/Pelagic_fish" title="Pelagic fish">pelagic fish</a> found around the world in temperate and subtropical waters, except for the northern Pacific Ocean.  Bluefish are known as <b>tailor</b> in <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> <b>elf</b> and <b>shad</b> in <a href="/wiki/South_Africa" title="South Africa">South Africa</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  It is a popular <a href="/wiki/Gamefish" class="mw-redirect" title="Gamefish">gamefish</a> and <a href="/wiki/Fish_as_food" title="Fish as food">food fish</a>.
+</p><p>The bluefish is a moderately proportioned fish, with a broad, forked tail. The spiny first <a href="/wiki/Dorsal_fin" title="Dorsal fin">dorsal fin</a> is normally folded back in a groove, as are its <a href="/wiki/Pectoral_fin" class="mw-redirect" title="Pectoral fin">pectoral fins</a>. Coloration is a grayish blue-green dorsally, fading to white on the lower sides and belly. Its single row of teeth in each jaw is uniform in size, knife-edged, and sharp. Bluefish commonly range in size from seven-inch (18-cm) "snappers" to much larger, sometimes weighing as much as 40&#160;lb (18&#160;kg), though fish heavier than 20&#160;lb (9&#160;kg) are exceptional.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Systematics"><span class="tocnumber">1</span> <span class="toctext">Systematics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Life_history"><span class="tocnumber">3</span> <span class="toctext">Life history</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Feeding_habits"><span class="tocnumber">4</span> <span class="toctext">Feeding habits</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Parasites"><span class="tocnumber">5</span> <span class="toctext">Parasites</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Recreational_fisheries"><span class="tocnumber">6</span> <span class="toctext">Recreational fisheries</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Commercial_fisheries"><span class="tocnumber">7</span> <span class="toctext">Commercial fisheries</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Management"><span class="tocnumber">8</span> <span class="toctext">Management</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#As_food"><span class="tocnumber">9</span> <span class="toctext">As food</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Systematics">Systematics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=1" title="Edit section: Systematics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The bluefish is the only extant species now included in the family Pomatomidae. At one time, <a href="/wiki/Gnomefish" title="Gnomefish">gnomefishes</a> were included, but these are now grouped in a separate family, <a href="/wiki/Scombropidae" class="mw-redirect" title="Scombropidae">Scombropidae</a>.  One extinct relative of the bluefish is <i><a href="/wiki/Lophar_miocaenus" class="mw-redirect" title="Lophar miocaenus">Lophar miocaenus</a></i>, from the Late <a href="/wiki/Miocene" title="Miocene">Miocene</a> of Southern California.
+</p>
+<h2><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Trolling_for_bluefish2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trolling_for_bluefish2.jpg/220px-Trolling_for_bluefish2.jpg" decoding="async" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trolling_for_bluefish2.jpg/330px-Trolling_for_bluefish2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trolling_for_bluefish2.jpg/440px-Trolling_for_bluefish2.jpg 2x" data-file-width="8539" data-file-height="6118" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Trolling_for_bluefish2.jpg" class="internal" title="Enlarge"></a></div><i>Trolling for blue fish</i> <a href="/wiki/Lithograph" class="mw-redirect" title="Lithograph">lithograph</a> by <a href="/wiki/Currier_%26_Ives" class="mw-redirect" title="Currier &amp; Ives">Currier &amp; Ives</a>, 1866</div></div></div>
+<p>Bluefish are widely distributed around the world in tropical and subtropical waters. They are found in <a href="/wiki/Pelagic" class="mw-redirect" title="Pelagic">pelagic</a> waters on much of the continental shelves along eastern America (though not between south Florida and northern South America), Africa, the Mediterranean and Black Seas (and during migration in between), Southeast Asia, and Australia. They are found in a variety of coastal habitats: above the continental shelf, in energetic waters near surf beaches, or by rock headlands.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> They also enter <a href="/wiki/Estuaries" class="mw-redirect" title="Estuaries">estuaries</a> and inhabit <a href="/wiki/Brackish" class="mw-redirect" title="Brackish">brackish</a> waters.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Periodically, they leave the coasts and migrate in schools through open waters.<sup id="cite_ref-Fishbase_4-1" class="reference"><a href="#cite_note-Fishbase-4">&#91;4&#93;</a></sup><sup id="cite_ref-FAO_12-0" class="reference"><a href="#cite_note-FAO-12">&#91;12&#93;</a></sup>
+</p><p>Along the U.S. East Coast, bluefish are found off <a href="/wiki/Florida" title="Florida">Florida</a> in the winter. By April, they have disappeared, heading north. By June, they may be found off <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>; in years of high abundance, stragglers may be found as far north as <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a>. By October, they leave the waters north of New York City, heading south (whereas some bluefish, perhaps less migratory,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> are present in the Gulf of Mexico throughout the year). In a similar pattern overall, the economically significant population that spawns in Europe's Black Sea migrates south through Istanbul (Bosphorus, Sea of Marmara, Dardanelles, Aegean Sea) and on toward Turkey's Mediterranean coast in the autumn for the cold season.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>  Along the South African coast and environs, movement patterns are roughly in parallel.<sup id="cite_ref-mosselbaai_16-0" class="reference"><a href="#cite_note-mosselbaai-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Life_history">Life history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=3" title="Edit section: Life history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Adult bluefish are typically between 20 and 60&#160;cm (<span class="nowrap">8&#160;in. to 2&#160;ft.)</span> long, with a maximum reported size of 120&#160;cm (4&#160;ft.) and 14&#160;kg (31&#160;lb). They reproduce during spring and summer, and can live up to 9 years.<sup id="cite_ref-Fishbase_4-2" class="reference"><a href="#cite_note-Fishbase-4">&#91;4&#93;</a></sup><sup id="cite_ref-FAO_12-1" class="reference"><a href="#cite_note-FAO-12">&#91;12&#93;</a></sup> Bluefish <a href="/wiki/Spawn_(biology)" title="Spawn (biology)">fry</a> are <a href="/wiki/Zooplankton" title="Zooplankton">zooplankton</a>, and are largely at the mercy of currents.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Spent bluefish have been found off east-central Florida, migrating north. As with most marine fish, their spawning habits are not well known. In the western side of the North Atlantic, at least two populations occur, separated by <a href="/wiki/Cape_Hatteras" title="Cape Hatteras">Cape Hatteras</a> in <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>. The <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> can carry fry spawned to the south of Cape Hatteras to the north, and eddies can spin off, carrying them into populations found off the coast of the mid-Atlantic, and the <a href="/wiki/New_England" title="New England">New England</a> states.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Feeding_habits">Feeding habits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=4" title="Edit section: Feeding habits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Very_Large_Bluefish.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Very_Large_Bluefish.JPG/220px-Very_Large_Bluefish.JPG" decoding="async" width="220" height="111" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Very_Large_Bluefish.JPG/330px-Very_Large_Bluefish.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Very_Large_Bluefish.JPG/440px-Very_Large_Bluefish.JPG 2x" data-file-width="515" data-file-height="259" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Very_Large_Bluefish.JPG" class="internal" title="Enlarge"></a></div>A large bluefish.</div></div></div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox" style="width: 240px; float: right; clear: right; margin:0 0 1.5em 1.5em"><tbody><tr><th colspan="2" class="infobox-above" style="font-size:115%">External video</th></tr><tr><td colspan="2" class="infobox-full-data" style="text-align: left"><img alt="video icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png" decoding="async" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/24px-Nuvola_apps_kaboodle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/32px-Nuvola_apps_kaboodle.svg.png 2x" data-file-width="128" data-file-height="128" /> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=hSfX8jg7mK0">Bluefish blitz</a> – YouTube</td></tr><tr><td colspan="2" class="infobox-full-data" style="text-align: left"><img alt="video icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png" decoding="async" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/24px-Nuvola_apps_kaboodle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/32px-Nuvola_apps_kaboodle.svg.png 2x" data-file-width="128" data-file-height="128" /> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=LPEIUyRdv5s">Bluefish Feeding Frenzy</a> – YouTube</td></tr></tbody></table>
+<p>Adult bluefish are strong and aggressive, and live in loose groups. They are fast swimmers that prey on <a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">schools</a> of <a href="/wiki/Forage_fish" title="Forage fish">forage fish</a>, and continue attacking them in <a href="/wiki/Feeding_frenzy" title="Feeding frenzy">feeding frenzies</a> even after they appear to have eaten their fill.<sup id="cite_ref-Fishbase_4-3" class="reference"><a href="#cite_note-Fishbase-4">&#91;4&#93;</a></sup><sup id="cite_ref-FAO_12-2" class="reference"><a href="#cite_note-FAO-12">&#91;12&#93;</a></sup> Depending on area and season, they favor <a href="/wiki/Menhaden" title="Menhaden">menhaden</a> and other <a href="/wiki/Sardine" title="Sardine">sardine</a>-like fish (<a href="/wiki/Clupeidae" title="Clupeidae">Clupeidae</a>), jacks (<a href="/wiki/Scombridae" title="Scombridae">Scombridae</a>), <a href="/wiki/Weakfish" title="Weakfish">weakfish</a> (<a href="/wiki/Sciaenidae" title="Sciaenidae">Sciaenidae</a>), grunts (<a href="/wiki/Haemulidae" title="Haemulidae">Haemulidae</a>), striped anchovies (<a href="/wiki/Engraulidae" class="mw-redirect" title="Engraulidae">Engraulidae</a>), <a href="/wiki/Shrimp" title="Shrimp">shrimp</a>, and <a href="/wiki/Squid" title="Squid">squid</a>. They are <a href="/wiki/Cannibalism_(zoology)" class="mw-redirect" title="Cannibalism (zoology)">cannibalistic</a> and can destroy their own young.<sup id="cite_ref-Schultz_20-0" class="reference"><a href="#cite_note-Schultz-20">&#91;20&#93;</a></sup> Bluefish sometimes chase bait through the <a href="/wiki/Surf_zone" title="Surf zone">surf zone</a>, attacking schools in very shallow water, churning the water like a washing machine. This behavior is sometimes referred to as a "bluefish blitz”.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>In turn, bluefish are preyed upon by larger predators at all stages of their lifecycle.  As juveniles, they fall victim to a wide variety of oceanic predators, including striped bass, larger bluefish, fluke (summer flounder), weakfish, tuna, sharks, rays, and dolphins.  As adults, bluefish are taken by tuna, sharks, billfish, seals, sea lions, dolphins, porpoises, and many other species.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>Bluefish are aggressive and have been known to inflict severe bites on fishermen. Wading or swimming among feeding bluefish schools can be dangerous.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> In July 2006, a seven-year-old girl was attacked on a beach, near the Spanish town of <a href="/wiki/Alicante" title="Alicante">Alicante</a>, allegedly by a bluefish.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> In New Jersey, the large beachfeeder schools are very common and lifeguards report never having seen bluefish bite bathers in their entire careers.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2021)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Parasites">Parasites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=5" title="Edit section: Parasites">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png/220px-Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png" decoding="async" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png/330px-Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png/440px-Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png 2x" data-file-width="2008" data-file-height="2005" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Parasite170008-fig1_-_Ovary_of_fish_with_visible_Philometra_females.png" class="internal" title="Enlarge"></a></div>Ovary of fish with visible <i>Philometra</i> females - lower row: bluefish</div></div></div>
+<p>As other fish, bluefish host a number of <a href="/wiki/Fish_diseases_and_parasites" class="mw-redirect" title="Fish diseases and parasites">parasites</a>. One spectacular parasite is <i>Philometra saltatrix</i>, a <a href="/wiki/Philometra" title="Philometra">philometrid</a> <a href="/wiki/Nematode" title="Nematode">nematode</a> in the ovaries. The females are brownish red and may be as long as 80&#160;mm; the males are very small.<sup id="cite_ref-MoravecChaabane2017_25-0" class="reference"><a href="#cite_note-MoravecChaabane2017-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Recreational_fisheries">Recreational fisheries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=6" title="Edit section: Recreational fisheries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Australia, bluefish, called "tailor", are caught on the west coast from Exmouth to Albany, with the most productive fishing areas being in the west coast bioregion.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>The IGFA All Tackle World Record for bluefish stands at 31&#160;lb 12oz (14.4&#160;kg) landed by James Hussey near Hatteras, North Carolina.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Commercial_fisheries">Commercial fisheries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=7" title="Edit section: Commercial fisheries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1096954695/mw-parser-output/.tmulti">.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tleft"><div class="thumbinner multiimageinner" style="width:458px;max-width:458px"><div class="trow"><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Pomatomus_saltatrix_wild_capture_2010.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pomatomus_saltatrix_wild_capture_2010.png/150px-Pomatomus_saltatrix_wild_capture_2010.png" decoding="async" width="150" height="192" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pomatomus_saltatrix_wild_capture_2010.png/225px-Pomatomus_saltatrix_wild_capture_2010.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pomatomus_saltatrix_wild_capture_2010.png/300px-Pomatomus_saltatrix_wild_capture_2010.png 2x" data-file-width="514" data-file-height="658" /></a></div></div><div class="tsingle" style="width:302px;max-width:302px"><div class="thumbimage"><a href="/wiki/File:Pomatomus_saltatrix_wild_capture.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pomatomus_saltatrix_wild_capture.png/300px-Pomatomus_saltatrix_wild_capture.png" decoding="async" width="300" height="191" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pomatomus_saltatrix_wild_capture.png/450px-Pomatomus_saltatrix_wild_capture.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pomatomus_saltatrix_wild_capture.png/600px-Pomatomus_saltatrix_wild_capture.png 2x" data-file-width="1350" data-file-height="859" /></a></div></div></div><div class="trow" style="display:flow-root"><div class="thumbcaption" style="text-align:center;background-color:">Wild capture of bluefish by countries in thousand tonnes, 1950–2010, as reported by the FAO<sup id="cite_ref-faostat_28-0" class="reference"><a href="#cite_note-faostat-28">&#91;28&#93;</a></sup></div></div></div></div>
+<p>In the U.S., bluefish are landed primarily in recreational fisheries, but important commercial fisheries also exist in temperate and subtropical waters.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+Bluefish population abundance is typically cyclical, with abundance varying widely over a span of 10 years or more.<sup id="cite_ref-Ulanski_30-0" class="reference"><a href="#cite_note-Ulanski-30">&#91;30&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Management">Management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=8" title="Edit section: Management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bluefish is a popular sport and food fish, and has been widely overfished.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> Fisheries management has generally stabilized its population. In the middle Atlantic region of the U.S., bluefish were <a href="/wiki/Overfishing" title="Overfishing">heavily overfished</a> in the late 1990s, but active management rebuilt the <a href="/wiki/Fish_stocks" title="Fish stocks">stock</a> by 2007.<sup id="cite_ref-FishWatch_32-0" class="reference"><a href="#cite_note-FishWatch-32">&#91;32&#93;</a></sup>  Elsewhere, public awareness efforts, such as bluefish festivals, combined with catch limits, may be having positive effects in reducing the stress on the regional stocks.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="As_food">As food</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=9" title="Edit section: As food">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bluefish may be baked or poached,<sup id="cite_ref-admed_34-0" class="reference"><a href="#cite_note-admed-34">&#91;34&#93;</a></sup> or smoked.<sup id="cite_ref-mkt_35-0" class="reference"><a href="#cite_note-mkt-35">&#91;35&#93;</a></sup> The smaller ones ("snapper blues") are generally fried, as they are not very oily.<sup id="cite_ref-adatl_36-0" class="reference"><a href="#cite_note-adatl-36">&#91;36&#93;</a></sup>
+</p><p>Because of its fattiness, bluefish goes rancid rapidly, so it is generally not found far from its fisheries,<sup id="cite_ref-mkt_35-1" class="reference"><a href="#cite_note-mkt-35">&#91;35&#93;</a></sup> but where it is available, it is often inexpensive.<sup id="cite_ref-sifton_37-0" class="reference"><a href="#cite_note-sifton-37">&#91;37&#93;</a></sup> It must be refrigerated and consumed soon after purchase; some recipes call for keeping it in vinegar and wine before cooking, in <i>vina d'alhos</i><sup id="cite_ref-adatl_36-1" class="reference"><a href="#cite_note-adatl-36">&#91;36&#93;</a></sup> or <i><a href="/wiki/En_escabeche" class="mw-redirect" title="En escabeche">en escabeche</a></i>.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> By the same token, it is high in <a href="/wiki/Omega-3_fatty_acids" class="mw-redirect" title="Omega-3 fatty acids">omega-3 fatty acids</a>, but also in <a href="/wiki/Mercury_in_fish" title="Mercury in fish">mercury</a> and <a href="/wiki/Polychlorinated_biphenyl" title="Polychlorinated biphenyl">PCBs</a>,<sup id="cite_ref-mkt_35-2" class="reference"><a href="#cite_note-mkt-35">&#91;35&#93;</a></sup> containing the high level of about 0.4 ppm of mercury on average,<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> comparable to <a href="/wiki/Albacore_tuna" class="mw-redirect" title="Albacore tuna">albacore tuna</a> or <a href="/wiki/Spanish_mackerel" title="Spanish mackerel">Spanish mackerel</a>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> For that reason, the U.S. <a href="/wiki/FDA" class="mw-redirect" title="FDA">FDA</a> recommends that young children and women of childbearing age consume no more than one serving per week (a serving size is about 4 ounces uncooked for an adult, 2 ounces for children ages 4–7 years, 3 ounces for children ages 8–10 years, and 4 ounces for children 11 years and older).<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 33em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFCarpenter,_K.E.Ralph,_G.Pina_Amargos,_F.Collette,_B.B.2017" class="citation journal cs1">Carpenter, K.E.; Ralph, G.; Pina Amargos, F.;  et&#160;al. (2017) [errata version of 2015 assessment]. <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/species/190279/115314064">"<i>Pomatomus saltatrix</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2015</b>: e.T190279A115314064. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2305%2FIUCN.UK.2015-4.RLTS.T190279A19929357.en">10.2305/IUCN.UK.2015-4.RLTS.T190279A19929357.en</a></span><span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Pomatomus+saltatrix&amp;rft.volume=2015&amp;rft.pages=e.T190279A115314064&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.2305%2FIUCN.UK.2015-4.RLTS.T190279A19929357.en&amp;rft.au=Carpenter%2C+K.E.&amp;rft.au=Ralph%2C+G.&amp;rft.au=Pina+Amargos%2C+F.&amp;rft.au=Collette%2C+B.B.&amp;rft.au=Singh-Renton%2C+S.&amp;rft.au=Aiken%2C+K.A.&amp;rft.au=Dooley%2C+J.&amp;rft.au=Marechal%2C+J.&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fspecies%2F190279%2F115314064&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-CofF-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-CofF_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEschmeyerFrickevan_der_Laan" class="citation web cs1"><a href="/wiki/William_N._Eschmeyer" title="William N. Eschmeyer">Eschmeyer, William N.</a>; Fricke, Ron &amp; van der Laan, Richard (eds.). <a rel="nofollow" class="external text" href="http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?genid=499">"Pomatomus"</a>. <i><a href="/wiki/Catalog_of_Fishes" title="Catalog of Fishes">Catalog of Fishes</a></i>. <a href="/wiki/California_Academy_of_Sciences" title="California Academy of Sciences">California Academy of Sciences</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Catalog+of+Fishes&amp;rft.atitle=Pomatomus&amp;rft_id=http%3A%2F%2Fresearcharchive.calacademy.org%2Fresearch%2Fichthyology%2Fcatalog%2Ffishcatget.asp%3Fgenid%3D499&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-VDLEF-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-VDLEF_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRichard_van_der_LaanWilliam_N._EschmeyerRonald_Fricke2014" class="citation journal cs1">Richard van der Laan; William N. Eschmeyer &amp; Ronald Fricke (2014). <a rel="nofollow" class="external text" href="https://biotaxa.org/Zootaxa/article/view/zootaxa.3882.1.1/10480">"Family-group names of Recent fishes"</a>. <i>Zootaxa</i>. <b>3882</b> (2): 001–230. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.11646%2Fzootaxa.3882.1.1">10.11646/zootaxa.3882.1.1</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/25543675">25543675</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zootaxa&amp;rft.atitle=Family-group+names+of+Recent+fishes&amp;rft.volume=3882&amp;rft.issue=2&amp;rft.pages=001-230&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.11646%2Fzootaxa.3882.1.1&amp;rft_id=info%3Apmid%2F25543675&amp;rft.au=Richard+van+der+Laan&amp;rft.au=William+N.+Eschmeyer&amp;rft.au=Ronald+Fricke&amp;rft_id=https%3A%2F%2Fbiotaxa.org%2FZootaxa%2Farticle%2Fview%2Fzootaxa.3882.1.1%2F10480&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Fishbase-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fishbase_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fishbase_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fishbase_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Fishbase_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Froese, Rainer; Pauly, Daniel (eds.) (2019). <a rel="nofollow" class="external text" href="http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Pomatomus&amp;speciesname=saltatrix">"<i>Pomatomus saltatrix</i><span style="padding-left:.15em;">"</span></a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. December 2019 version.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.marine.csiro.au/caabsearch/caab_search.caab_report?spcode=37334002">CAAB taxon report for Pomatomus saltatrix</a> at the <a href="/wiki/CSIRO" title="CSIRO">CSIRO</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHeemstraHeemstra2004" class="citation book cs1">Heemstra, Phillip C.; Heemstra, Elaine (2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=e4H1uWszXOQC&amp;q=other+names+for+bluefish+in+north+america+elf&amp;pg=PA188"><i>Coastal Fishes of Southern Africa</i></a>. NISC (PTY) LTD. pp.&#160;187–188. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781920033019" title="Special:BookSources/9781920033019"><bdi>9781920033019</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Coastal+Fishes+of+Southern+Africa&amp;rft.pages=187-188&amp;rft.pub=NISC+%28PTY%29+LTD&amp;rft.date=2004&amp;rft.isbn=9781920033019&amp;rft.aulast=Heemstra&amp;rft.aufirst=Phillip+C.&amp;rft.au=Heemstra%2C+Elaine&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3De4H1uWszXOQC%26q%3Dother%2Bnames%2Bfor%2Bbluefish%2Bin%2Bnorth%2Bamerica%2Belf%26pg%3DPA188&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090227002954/http://www.landbigfish.com/fish/fish.cfm?ID=49">"Bluefish Identification"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.landbigfish.com/fish/fish.cfm?ID=49">the original</a> on 2009-02-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bluefish+Identification&amp;rft_id=http%3A%2F%2Fwww.landbigfish.com%2Ffish%2Ffish.cfm%3FID%3D49&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nefsc.noaa.gov/publications/tm/tm144/tm144.pdf">"New England/Mid-Atlantic &#124; NOAA Fisheries"</a> <span class="cs1-format">(PDF)</span>. 20 July 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+England%2FMid-Atlantic+%26%23124%3B+NOAA+Fisheries&amp;rft.date=2021-07-20&amp;rft_id=http%3A%2F%2Fwww.nefsc.noaa.gov%2Fpublications%2Ftm%2Ftm144%2Ftm144.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">McBride, R. S., Conover, D. O. 1991. Recruitment of young-of-the-year bluefish <i>Pomatomus saltatrix</i> to the New York Bight - variation in abundance and growth of spring-spawned and summer-spawned cohorts. Marine Ecology Progress Series 78(3): 205-216, www.int-res.com/articles/meps/78/m078p205.pdf</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">McBride, R. S., Ross, J. L., Conover, D. O. 1993. Recruitment of bluefish Pomatomus saltatrix to estuaries of the U.S. South Atlantic bight.
+Fishery Bulletin, U.S. 91(2): 389-395, <a rel="nofollow" class="external free" href="http://fishbull.noaa.gov/912/mcbride.pdf">http://fishbull.noaa.gov/912/mcbride.pdf</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">McBride, R. S., Scherer, M. D., Powell, J. C. 1995. Correlated variations in abundances, size, growth, and loss rates of age-0 bluefish in a southern New England estuary. Transactions of the American Fisheries Society. 124(6): 898-910, DOI: 10.1577/1548-8659(1995)124&lt;0898:CVIASG&gt;2.3.CO;2</span>
+</li>
+<li id="cite_note-FAO-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-FAO_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FAO_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FAO_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fao.org/fishery/species/3102/en"><i>Pomatomus saltatrix</i> (Linnaeus, 1766)</a> FAO, Species Fact Sheet. Retrieved October 2012.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.sms.si.edu/irlspec/pomatom_saltat.htm">"Pomatomus saltatrix (Bluefish)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pomatomus+saltatrix+%28Bluefish%29&amp;rft_id=http%3A%2F%2Fwww.sms.si.edu%2Firlspec%2Fpomatom_saltat.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://combat-fishing.com/fishencyclo1/bluefishes/bluefish.htm">"Common Name: Bluefish"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Common+Name%3A+Bluefish&amp;rft_id=http%3A%2F%2Fcombat-fishing.com%2Ffishencyclo1%2Fbluefishes%2Fbluefish.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111127013552/http://www.slowfood.com/slowfish/pagine/eng/pagina.lasso?-id_pg=199">"Saving the Sultan of Fish"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.slowfood.com/slowfish/pagine/eng/pagina.lasso?-id_pg=199">the original</a> on 2011-11-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Saving+the+Sultan+of+Fish&amp;rft_id=http%3A%2F%2Fwww.slowfood.com%2Fslowfish%2Fpagine%2Feng%2Fpagina.lasso%3F-id_pg%3D199&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-mosselbaai-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-mosselbaai_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://mosselbaai.wordpress.com/2012/05/13/pomatomus-saltatrix-shad-or-elf/">"Pomatomus Saltatrix"</a>. 13 May 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pomatomus+Saltatrix&amp;rft.date=2012-05-13&amp;rft_id=http%3A%2F%2Fmosselbaai.wordpress.com%2F2012%2F05%2F13%2Fpomatomus-saltatrix-shad-or-elf%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Norcross, J. J., Richardson, S. L., Massmann, W. H., Joseph, E. B. 1974. Development of young bluefish <i>Pomatomus saltatrix</i> and distribution of eggs and young in Virginian coastal waters. Trans. Am. Fish. Soc. 103:477-497.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Ditty, J. G., Shaw, R. F. 1993. <a rel="nofollow" class="external free" href="http://www.galvestonlab.sefsc.noaa.gov/publications/pdf/832.pdf">http://www.galvestonlab.sefsc.noaa.gov/publications/pdf/832.pdf</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Kendall, A. W., Jr., Walford, L. A. 1979. Sources and distribution of bluefish, <i>Pomatomus saltatrix</i>, larvae and juveniles off the east coast of the United States. Fishery Bulletin, U.S. 77(1): 213-227,  <a rel="nofollow" class="external free" href="http://fishbull.noaa.gov/77-1/kendall.pdf">http://fishbull.noaa.gov/77-1/kendall.pdf</a></span>
+</li>
+<li id="cite_note-Schultz-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Schultz_20-0">^</a></b></span> <span class="reference-text">Schultz, Ken (2009) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=R4aA5QZqj5kC&amp;pg=PA75&amp;lpg=PA75&amp;dq=Bluefish+cannibalistic&amp;source=bl&amp;ots=pbpH89MivM&amp;sig=WYnTHJiV5NXUHumicygPmwgqFTU&amp;hl=en&amp;sa=X&amp;ei=gsJoUKGaIJCPiAfR1oHIDw&amp;ved=0CDgQ6AEwAg#v=onepage&amp;q=Bluefish%20cannibalistic&amp;f=false"><i>Ken Schultz's Essentials of Fishing</i></a> John Wiley &amp; Sons. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780470444313" title="Special:BookSources/9780470444313">9780470444313</a>.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHonachefsky2016" class="citation journal cs1">Honachefsky, Nick (October 2016). "Blues travelers". <i>Outdoor Life</i>. <b>223</b>: 68 &#8211; via Gale Academic OneFile.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Outdoor+Life&amp;rft.atitle=Blues+travelers&amp;rft.volume=223&amp;rft.pages=68&amp;rft.date=2016-10&amp;rft.aulast=Honachefsky&amp;rft.aufirst=Nick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.seachoice.org/wp-content/uploads/2011/12/MBA_SeafoodWatch_BluefishReport.pdf">"Monterey Bay Aquarium Seafood Watch. Bluefish"</a> <span class="cs1-format">(PDF)</span>. <i>SeaChoice.org</i>. December 12, 2013. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220120003420/http://www.seachoice.org/wp-content/uploads/2011/12/MBA_SeafoodWatch_BluefishReport.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 2022-01-20<span class="reference-accessdate">. Retrieved <span class="nowrap">January 16,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SeaChoice.org&amp;rft.atitle=Monterey+Bay+Aquarium+Seafood+Watch.+Bluefish&amp;rft.date=2013-12-12&amp;rft_id=http%3A%2F%2Fwww.seachoice.org%2Fwp-content%2Fuploads%2F2011%2F12%2FMBA_SeafoodWatch_BluefishReport.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Lovko, Vincent J. (2008) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ymQlrOJLCN4C&amp;printsec=frontcover&amp;dq=%22Pfiesteria+piscicida%22&amp;source=bl&amp;ots=6DPcCIqhcO&amp;sig=qfgrf7GVPJ6jwpI96iLTjrXVB8k&amp;hl=en&amp;sa=X&amp;ei=YwtsUOXVF8eQiAe84IDgAQ&amp;ved=0CD0Q6AEwAQ#v=onepage&amp;q=%22Pfiesteria%20piscicida%22&amp;f=false"><i>Pathogenicity of the Purportedly Toxic Dinoflagellates Pfiesteria Piscicida and Pseudopfiesteria Shumwayae and Related Species</i></a> ProQuest. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780549882640" title="Special:BookSources/9780549882640">9780549882640</a>.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.elpais.com/articulo/espana/depredador/rapido/voraz/dientes/sierra/elpporesp/20060714elpepunac_9/Tes">"Un depredador rápido y muy voraz con dientes de sierra (in Spanish)"</a> <i>El País</i>, July 14, 2006</span>
+</li>
+<li id="cite_note-MoravecChaabane2017-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-MoravecChaabane2017_25-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMoravecChaabaneNeifarGey2017" class="citation journal cs1">Moravec, František; Chaabane, Amira; Neifar, Lassad; Gey, Delphine; Justine, Jean-Lou (2017). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC5364780">"Species of <i>Philometra</i> (Nematoda, Philometridae) from fishes off the Mediterranean coast of Africa, with a description of <i>Philometra rara</i> n. sp. from <i>Hyporthodus haifensis</i> and a molecular analysis of <i>Philometra saltatrix</i> from <i>Pomatomus saltatrix</i>"</a>. <i>Parasite</i>. <b>24</b>: 8. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1051%2Fparasite%2F2017008">10.1051/parasite/2017008</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1776-1042">1776-1042</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC5364780">5364780</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/28287390">28287390</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Parasite&amp;rft.atitle=Species+of+Philometra+%28Nematoda%2C+Philometridae%29+from+fishes+off+the+Mediterranean+coast+of+Africa%2C+with+a+description+of+Philometra+rara+n.+sp.+from+Hyporthodus+haifensis+and+a+molecular+analysis+of+Philometra+saltatrix+from+Pomatomus+saltatrix&amp;rft.volume=24&amp;rft.pages=8&amp;rft.date=2017&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5364780%23id-name%3DPMC&amp;rft.issn=1776-1042&amp;rft_id=info%3Apmid%2F28287390&amp;rft_id=info%3Adoi%2F10.1051%2Fparasite%2F2017008&amp;rft.aulast=Moravec&amp;rft.aufirst=Franti%C5%A1ek&amp;rft.au=Chaabane%2C+Amira&amp;rft.au=Neifar%2C+Lassad&amp;rft.au=Gey%2C+Delphine&amp;rft.au=Justine%2C+Jean-Lou&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5364780&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication – free to read"><img alt="open access" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" decoding="async" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fish.wa.gov.au/Species/Tailor/Pages/Tailor-Recreational-Fishing.aspx">"Tailor recreational fishing"</a>. <i>fish.wa.au</i>. Government of Western Australia<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=fish.wa.au&amp;rft.atitle=Tailor+recreational+fishing&amp;rft_id=http%3A%2F%2Fwww.fish.wa.gov.au%2FSpecies%2FTailor%2FPages%2FTailor-Recreational-Fishing.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://wrec.igfa.org/WRecordsList.aspx?lc=AllTackle&amp;cn=Bluefish">"Bluefish"</a>. <i>igfa.org</i>. International Game Fish Association<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=igfa.org&amp;rft.atitle=Bluefish&amp;rft_id=http%3A%2F%2Fwrec.igfa.org%2FWRecordsList.aspx%3Flc%3DAllTackle%26cn%3DBluefish&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-faostat-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-faostat_28-0">^</a></b></span> <span class="reference-text">Based on data sourced from the <a rel="nofollow" class="external text" href="http://faostat.fao.org/site/629/default.aspx">FishStat database</a></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nefsc.noaa.gov/sos/spsyn/op/bluefish/">"Bluefish_ Status of Fishery Resources off the Northeastern US"</a>. 20 July 2021.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bluefish_+Status+of+Fishery+Resources+off+the+Northeastern+US&amp;rft.date=2021-07-20&amp;rft_id=http%3A%2F%2Fwww.nefsc.noaa.gov%2Fsos%2Fspsyn%2Fop%2Fbluefish%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Ulanski-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ulanski_30-0">^</a></b></span> <span class="reference-text">Ulanski, Stan (2011) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=fNqu1nrQbyoC&amp;pg=PA103&amp;lpg=PA103&amp;dq=Bluefish+cannibalistic&amp;source=bl&amp;ots=0jdgrk__3o&amp;sig=diGbexjGlTutRc6eSXR-r6RUDoU&amp;hl=en&amp;sa=X&amp;ei=gsJoUKGaIJCPiAfR1oHIDw&amp;ved=0CDMQ6AEwAQ#v=onepage&amp;q=Bluefish%20cannibalistic&amp;f=false"><i>Fishing North Carolina's Outer Banks</i></a> University of North Carolina Press. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780807872079" title="Special:BookSources/9780807872079">9780807872079</a>.</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://academic.oup.com/icesjms/article/64/3/531/818349">"Validate User"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Validate+User&amp;rft_id=https%3A%2F%2Facademic.oup.com%2Ficesjms%2Farticle%2F64%2F3%2F531%2F818349&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FishWatch-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-FishWatch_32-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fishwatch.gov/seafood_profiles/species/bluefish/species_pages/bluefish.htm">Bluefish</a> <i>FishWatch</i>, NOAA. Retrieved 5 October 2012.</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.treehugger.com/green-food/istanbul-celebrates-new-hope-for-a-favorite-fish-with-first-annual-la14fer-festival.html">"Istanbul Celebrates New Hope for a Favorite Fish With First-Annual 'Lüfer Festival'<span class="cs1-kern-right"></span>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Istanbul+Celebrates+New+Hope+for+a+Favorite+Fish+With+First-Annual+%27L%C3%BCfer+Festival%27&amp;rft_id=http%3A%2F%2Fwww.treehugger.com%2Fgreen-food%2Fistanbul-celebrates-new-hope-for-a-favorite-fish-with-first-annual-la14fer-festival.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-admed-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-admed_34-0">^</a></b></span> <span class="reference-text">Alan Davidson, <i>Mediterranean Seafood</i>, 3rd edition, 2002, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1580084516" title="Special:BookSources/1580084516">1580084516</a>, p. 100</span>
+</li>
+<li id="cite_note-mkt-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-mkt_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mkt_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mkt_35-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation book cs1"><i>Fish Market: A Cookbook for Selecting and Preparing Seafood</i>. p.&#160;87.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fish+Market%3A+A+Cookbook+for+Selecting+and+Preparing+Seafood&amp;rft.pages=87&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-adatl-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-adatl_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-adatl_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Alan Davidson, <i>North Atlantic Seafood</i>, 1980, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0670515248" title="Special:BookSources/0670515248">0670515248</a>, p. 92-93</span>
+</li>
+<li id="cite_note-sifton-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-sifton_37-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://cooking.nytimes.com/recipes/1014240-smoked-bluefish-pate">"Sam Sifton, "Smoked Bluefish Pâté", <i>New York Times</i>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sam+Sifton%2C+%22Smoked+Bluefish+P%C3%A2t%C3%A9%22%2C+New+York+Times&amp;rft_id=https%3A%2F%2Fcooking.nytimes.com%2Frecipes%2F1014240-smoked-bluefish-pate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://cooking.nytimes.com/recipes/5915-bluefish-escabeche">"Florence Fabricant, "Bluefish Escabeche", <i>New York Times</i> Cooking"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Florence+Fabricant%2C+%22Bluefish+Escabeche%22%2C+New+York+Times+Cooking&amp;rft_id=https%3A%2F%2Fcooking.nytimes.com%2Frecipes%2F5915-bluefish-escabeche&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBurgerGochfeld2011" class="citation journal cs1">Burger, Joanna; Gochfeld, Michael (2011). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4300121">"Mercury and selenium levels in 19 species of saltwater fish from New Jersey as a function of species, size, and season"</a>. <i>Science of the Total Environment</i>. <b>409</b> (8): 1418–1429. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2011ScTEn.409.1418B">2011ScTEn.409.1418B</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.scitotenv.2010.12.034">10.1016/j.scitotenv.2010.12.034</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4300121">4300121</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/21292311">21292311</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science+of+the+Total+Environment&amp;rft.atitle=Mercury+and+selenium+levels+in+19+species+of+saltwater+fish+from+New+Jersey+as+a+function+of+species%2C+size%2C+and+season&amp;rft.volume=409&amp;rft.issue=8&amp;rft.pages=1418-1429&amp;rft.date=2011&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4300121%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F21292311&amp;rft_id=info%3Adoi%2F10.1016%2Fj.scitotenv.2010.12.034&amp;rft_id=info%3Abibcode%2F2011ScTEn.409.1418B&amp;rft.aulast=Burger&amp;rft.aufirst=Joanna&amp;rft.au=Gochfeld%2C+Michael&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4300121&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fda.gov/food/foodborneillnesscontaminants/metals/ucm115644.htm">"Mercury Levels in Commercial Fish and Shellfish (1990-2012)"</a>. <i>FDA</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FDA&amp;rft.atitle=Mercury+Levels+in+Commercial+Fish+and+Shellfish+%281990-2012%29&amp;rft_id=https%3A%2F%2Fwww.fda.gov%2Ffood%2Ffoodborneillnesscontaminants%2Fmetals%2Fucm115644.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">U.S. Food &amp; Drug Administration, "Eating Fish: What Pregnant Women and Parents Should Know" <a rel="nofollow" class="external autonumber" href="https://www.fda.gov/Food/ResourcesForYou/Consumers/ucm393070.htm">[1]</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=168559">"Pomatomus saltatrix"</a>. <a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">Integrated Taxonomic Information System</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pomatomus+saltatrix&amp;rft.pub=Integrated+Taxonomic+Information+System&amp;rft_id=https%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D168559&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABluefish" class="Z3988"></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.fishwatch.gov/seafood_profiles/species/bluefish/species_pages/bluefish.htm">Bluefish</a> <i>NOAA FishWatch</i>. Retrieved 4 November 2012.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bluefish&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.iucnredlist.org/species/190279/115314064">Pomatomus saltatrix, The IUCN Red List of Threatened Species</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=EuJNRZtLexI">Bluefish or Tailor video on Youtube</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=8N6QSWlo6LI">Tailor in Australian Marine Reserve on Youtube</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=311">FishBase info for Pomatomidae</a></li>
+<li><a rel="nofollow" class="external text" href="http://eol.org/pages/205264/overview">Encyclopedia of Life</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141104035646/http://octopus.gma.org/Tidings/bluefish.html">Life history of the bluefish</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303215136/http://reel-time.com/fishwire/rt_cms/dam/uploads/IMG_0035.JPG">Photo of a large bluefish</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140313203958/http://www.fish.wa.gov.au/Documents/recreational_fishing/fact_sheets/fact_sheet_tailor.pdf">Fisheries Western Australia Tailor Fact Sheet</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141104040154/http://www.amalfiguide.it/events-amalfi-coast/atrani/bluefish-feast">Bluefish feast in Italy</a></li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Taxon_identifiers" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: left;"><i>Pomatomus saltatrix</i></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q461432" class="extiw" title="wikidata:Q461432">Q461432</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Pomatomus_saltatrix" class="extiw" title="wikispecies:Pomatomus saltatrix">Pomatomus saltatrix</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Pomatomidae/">Pomatomidae</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Pomatomus_saltatrix">Pomatomus_saltatrix</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=18117">18117</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/4LQWC">4LQWC</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/European_Nature_Information_System" class="mw-redirect" title="European Nature Information System">EUNIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eunis.eea.europa.eu/species/124097">124097</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/FishBase" title="FishBase">FishBase</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.fishbase.ca/summary/364">364</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=83269">83269</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/5208090">5208090</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/50984">50984</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=11305712">11305712</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=168559">168559</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/190279">190279</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/NatureServe" title="NatureServe">NatureServe</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.101998/">2.101998</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000185919">NBNSYS0000185919</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=75034">75034</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Marine_Fisheries_Service" title="National Marine Fisheries Service">NOAA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.fisheries.noaa.gov/species/bluefish">bluefish</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Plazi" title="Plazi">Plazi</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://treatment.plazi.org/id/D2AE224F-06AE-225C-90FD-C81796851025">D2AE224F-06AE-225C-90FD-C81796851025</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=151482">151482</a></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: left;"><i>Pomatomus</i></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q10351126" class="extiw" title="wikidata:Q10351126">Q10351126</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Pomatomus_(Lacep%C3%A8de)" class="extiw" title="wikispecies:Pomatomus (Lacepède)">Pomatomus (Lacepède)</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Pomatomus">Pomatomus</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=3799">3799</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/63P2X">63P2X</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=83267">83267</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2369654">2369654</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/50986">50986</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=168558">168558</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0001745694">NHMSYS0001745694</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=75033">75033</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=126046">126046</a></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: left;"><i>Pomatomidae</i></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q12809595" class="extiw" title="wikidata:Q12809595">Q12809595</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Pomatomidae" class="extiw" title="wikispecies:Pomatomidae">Pomatomidae</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Pomatomidae">Pomatomidae</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=728">728</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/627KT">627KT</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eol.org/pages/5258">5258</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=83266">83266</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/6193">6193</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/50985">50985</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=114836">114836</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=168557">168557</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000185917">NBNSYS0000185917</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=30864">30864</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Plazi" title="Plazi">Plazi</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://treatment.plazi.org/id/FD1087D9-FFAD-4A5C-FF67-A66B4D21FE32">FD1087D9-FFAD-4A5C-FF67-A66B4D21FE32</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=125554">125554</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1413
+Cached time: 20221026140410
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.819 seconds
+Real time usage: 1.024 seconds
+Preprocessor visited node count: 9547/1000000
+Post‐expand include size: 93308/2097152 bytes
+Template argument size: 12526/2097152 bytes
+Highest expansion depth: 21/100
+Expensive parser function count: 30/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 94777/5000000 bytes
+Lua time usage: 0.550/10.000 seconds
+Lua memory usage: 12393534/52428800 bytes
+Number of Wikibase entities loaded: 22/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  909.901      1 -total
+ 27.22%  247.686      1 Template:Reflist
+ 26.77%  243.581      1 Template:Taxonbar
+ 26.75%  243.388      1 Template:Speciesbox
+ 26.18%  238.171      1 Template:Taxobox/core
+  7.76%   70.624      1 Template:Cite_iucn
+  4.98%   45.291     15 Template:Cite_web
+  4.92%   44.753      1 Template:Short_description
+  3.66%   33.310      3 Template:ISBN
+  3.19%   29.011     28 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47333-0!canonical and timestamp 20221026140409 and revision id 1111780069.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bluefish&amp;oldid=1111780069">https://en.wikipedia.org/w/index.php?title=Bluefish&amp;oldid=1111780069</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_vulnerable_species" title="Category:IUCN Red List vulnerable species">IUCN Red List vulnerable species</a></li><li><a href="/wiki/Category:Pomatomidae" title="Category:Pomatomidae">Pomatomidae</a></li><li><a href="/wiki/Category:Fish_of_Africa" title="Category:Fish of Africa">Fish of Africa</a></li><li><a href="/wiki/Category:Fish_of_Asia" title="Category:Fish of Asia">Fish of Asia</a></li><li><a href="/wiki/Category:Fish_of_Europe" title="Category:Fish of Europe">Fish of Europe</a></li><li><a href="/wiki/Category:Fish_of_North_America" title="Category:Fish of North America">Fish of North America</a></li><li><a href="/wiki/Category:Marine_fish_of_Australia" title="Category:Marine fish of Australia">Marine fish of Australia</a></li><li><a href="/wiki/Category:Fish_of_the_United_States" title="Category:Fish of the United States">Fish of the United States</a></li><li><a href="/wiki/Category:Fish_of_the_Atlantic_Ocean" title="Category:Fish of the Atlantic Ocean">Fish of the Atlantic Ocean</a></li><li><a href="/wiki/Category:Fish_described_in_1766" title="Category:Fish described in 1766">Fish described in 1766</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2021" title="Category:Articles with unsourced statements from September 2021">Articles with unsourced statements from September 2021</a></li><li><a href="/wiki/Category:Taxonbars_with_multiple_manual_Wikidata_items" title="Category:Taxonbars with multiple manual Wikidata items">Taxonbars with multiple manual Wikidata items</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bluefish" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bluefish" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Bluefish" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Bluefish" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Bluefish"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Bluefish&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Bluefish&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Bluefish" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Bluefish" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Bluefish&amp;oldid=1111780069" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Bluefish&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bluefish&amp;id=1111780069&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q461432" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Bluefish&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Bluefish&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Pomatomus_saltatrix" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Pomatomus_saltatrix" hreflang="en"><span>Wikispecies</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Elf_(vis)" title="Elf (vis) – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%85%D9%83%D8%A9_%D8%B2%D8%B1%D9%82%D8%A7%D8%A1" title="سمكة زرقاء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B5%D1%84%D0%B5%D1%80" title="Лефер – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Tallahams" title="Tallahams – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Lufara_drav%C3%A1" title="Lufara dravá – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Blaufisch" title="Blaufisch – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%BF%CF%86%CE%AC%CF%81%CE%B9" title="Γοφάρι – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%DB%8C%E2%80%8C%D9%85%D8%A7%D9%87%DB%8C" title="آبی‌ماهی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tassergal" title="Tassergal – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Iasc_gorm" title="Iasc gorm – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%9E%80%EB%86%8D%EC%96%B4" title="파란농어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%95%D7%9E%D7%91%D7%A8_%D7%98%D7%95%D7%A8%D7%A3" title="גומבר טורף – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%A3%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98" title="ლუფარი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9B%D1%83%D1%84%D0%B0%D1%80%D1%8C" title="Луфарь – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Latin" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Melsvieji_e%C5%A1eriai" title="Melsvieji ešeriai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/V%C3%A9rengz%C5%91_makrahal" title="Vérengző makrahal – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%85%D9%83%D9%87_%D8%B2%D8%B1%D9%82%D8%A7%D8%A1" title="سمكه زرقاء – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Blauwbaars" title="Blauwbaars – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AD%E3%82%B9%E3%82%BA%E3%82%AD" title="オキスズキ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Bluefish" title="Bluefish – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Lufar" title="Lufar – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Lufar" title="Lufar – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D1%84%D0%B0%D1%80%D1%8C" title="Луфарь – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Bluefish" title="Bluefish – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle mw-list-item" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Sinikala" title="Sinikala – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Bl%C3%A5fisk" title="Blåfisk – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Isdang_bughaw" title="Isdang bughaw – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%AE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%8B%E0%AE%AE%E0%AF%88%E0%AE%9F%E0%AF%80" title="பொமட்டோமைடீ – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/L%C3%BCfer" title="Lüfer – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D1%83%D1%84%D0%B0%D1%80" title="Луфар – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a href="https://wa.wikipedia.org/wiki/Bleu_pexhon" title="Bleu pexhon – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target"><span>Walon</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Pomatomus_saltatrix" title="Pomatomus saltatrix – Waray" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%89%81%E9%B0%BA" title="扁鰺 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q461432#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 22 September 2022, at 21:44<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bluefish&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.819","walltime":"1.024","ppvisitednodes":{"value":9547,"limit":1000000},"postexpandincludesize":{"value":93308,"limit":2097152},"templateargumentsize":{"value":12526,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":30,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":94777,"limit":5000000},"entityaccesscount":{"value":22,"limit":400},"timingprofile":["100.00%  909.901      1 -total"," 27.22%  247.686      1 Template:Reflist"," 26.77%  243.581      1 Template:Taxonbar"," 26.75%  243.388      1 Template:Speciesbox"," 26.18%  238.171      1 Template:Taxobox/core","  7.76%   70.624      1 Template:Cite_iucn","  4.98%   45.291     15 Template:Cite_web","  4.92%   44.753      1 Template:Short_description","  3.66%   33.310      3 Template:ISBN","  3.19%   29.011     28 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.550","limit":"10.000"},"limitreport-memusage":{"value":12393534,"limit":52428800}},"cachereport":{"origin":"mw1413","timestamp":"20221026140410","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bluefish","url":"https:\/\/en.wikipedia.org\/wiki\/Bluefish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q461432","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q461432","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-04-03T07:10:28Z","dateModified":"2022-09-22T21:44:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/Pomatomus_saltatrix.png","headline":"bluefish\/shad\/elf"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bluefish","url":"https:\/\/en.wikipedia.org\/wiki\/Bluefish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q461432","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q461432","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-04-03T07:10:28Z","dateModified":"2022-09-22T21:44:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/Pomatomus_saltatrix.png","headline":"bluefish\/shad\/elf"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1352"});});</script>
+</body>
+</html>

@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chimaera - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ed37577b-7aa5-4a39-9f55-60e8338759df","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chimaera","wgTitle":"Chimaera","wgCurRevisionId":1117261556,"wgRevisionId":1117261556,"wgArticleId":490225,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2021","Articles with permanently dead external links","Articles with short description","Short description matches Wikidata","Articles with 'species' microformats","Commons category link is on Wikidata",
+"Articles with GND identifiers","Chimaeriformes","Extant Early Devonian first appearances"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Chimaera","wgRelevantArticleId":490225,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ratfish","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Chimaera","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q5290058","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f9/Hydrolagus_colliei.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="822"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f9/Hydrolagus_colliei.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="548"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hydrolagus_colliei.jpg/640px-Hydrolagus_colliei.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="438"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Chimaera - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Chimaera"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chimaera&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Chimaera"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Chimaera rootpage-Chimaera skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Chimaera</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Ratfish&amp;redirect=no" class="mw-redirect" title="Ratfish">Ratfish</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Cartilaginous fish in the order Chimaeriformes</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">This article is about the cartilaginous fish order. For the namesake genus, see <a href="/wiki/Chimaera_(genus)" title="Chimaera (genus)">Chimaera (genus)</a>. For the mythological beast, see <a href="/wiki/Chimera_(mythology)" title="Chimera (mythology)">Chimera (mythology)</a>. For other uses, see <a href="/wiki/Chimera_(disambiguation)" class="mw-redirect mw-disambig" title="Chimera (disambiguation)">Chimera</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">"Ghost shark" redirects here. For the film, see <a href="/wiki/Ghost_Shark_(film)" class="mw-redirect" title="Ghost Shark (film)">Ghost Shark (film)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Chimaeras<br /><div style="font-size: 85%;">Temporal range: <span class="noprint"><span style="display:inline-block;"></span><span style="display:inline-block;">Early Carboniferous–Present</span> <span style="display:inline-block;"></span><div id="Timeline-row" style="margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; white-space:nowrap; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:97%;">
+<div style="position:absolute; height:100%; left:0px; width:207.23076923077px; padding-left:5px; text-align:left; background-color:rgb(254,217,106); background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1));"><a href="/wiki/Precambrian" title="Precambrian">PreꞒ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(127,160,86); left:37.636923076923px; width:18.073846153846px;"><a href="/wiki/Cambrian" title="Cambrian">Ꞓ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,146,112); left:55.710769230769px; width:14.08px;"><a href="/wiki/Ordovician" title="Ordovician">O</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(179,225,182); left:69.790769230769px; width:8.3261538461539px;"><a href="/wiki/Silurian" title="Silurian">S</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(203,140,55); left:78.116923076923px; width:20.409230769231px;"><a href="/wiki/Devonian" title="Devonian">D</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(103,165,153); left:98.526153846154px; width:20.307692307692px;"><a href="/wiki/Carboniferous" title="Carboniferous">C</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(240,64,40); left:118.83384615385px; width:15.907015384615px;"><a href="/wiki/Permian" title="Permian">P</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(129,43,146); left:134.74086153846px; width:17.126830769231px;"><a href="/wiki/Triassic" title="Triassic">T</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(52,178,201); left:151.86769230769px; width:19.055384615385px;"><a href="/wiki/Jurassic" title="Jurassic">J</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(127,198,78); left:170.92307692308px; width:26.738461538462px;"><a href="/wiki/Cretaceous" title="Cretaceous">K</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(253,154,82); left:197.66153846154px; width:14.543692307692px;"><a href="/wiki/Paleogene" title="Paleogene">Pg</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(255,230,25); left:212.20523076923px; width:6.9215384615385px;"><a href="/wiki/Neogene" title="Neogene">N</a></div>
+<div id="end-border" style="position:absolute; height:100%; background-color:#666; width:1px; left:219px"></div><div style="margin:0 auto; line-height:0; clear:both; width:220px; padding:0px; height:8px; overflow:visible; background-color:transparent; position:relative; top:-4px; z-index:100;"><div style="position:absolute; height:8px; left:98.526153846154px; width:121.47384615385px; background-color:#360; opacity:0.42;"></div>
+<div style="position:absolute; height:8px; left:98.526153846154px; width:121.47384615385px; background-color:#360; opacity:1;"></div>
+<div style="position:absolute; height:6px; top:1px; left:99.526153846154px; width:119.47384615385px; background-color:#6c3;"></div>
+</div>
+</div></span></div>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Hydrolagus_colliei.jpg" class="image"><img alt="Hydrolagus colliei.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hydrolagus_colliei.jpg/220px-Hydrolagus_colliei.jpg" decoding="async" width="220" height="151" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hydrolagus_colliei.jpg/330px-Hydrolagus_colliei.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hydrolagus_colliei.jpg/440px-Hydrolagus_colliei.jpg 2x" data-file-width="800" data-file-height="548" /></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i><a href="/wiki/Hydrolagus_colliei" class="mw-redirect" title="Hydrolagus colliei">Hydrolagus colliei</a></i>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Chimaeriformes" title="e"><img alt="e" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Chondrichthyes" title="Chondrichthyes">Chondrichthyes</a>
+</td></tr>
+<tr>
+<td>Subclass:
+</td>
+<td><a href="/wiki/Holocephali" title="Holocephali">Holocephali</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a class="mw-selflink selflink">Chimaeriformes</a><br /><small><a href="/w/index.php?title=Dmitry_Obruchev&amp;action=edit&amp;redlink=1" class="new" title="Dmitry Obruchev (page does not exist)">Obruchev</a>, 1953</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Families
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul><li>†<b>Squalorajoidei</b> Patterson, 1965
+<ul><li>†<i><a href="/wiki/Squaloraja" title="Squaloraja">Squaloraja</a></i></li></ul></li>
+<li>†<a href="/w/index.php?title=Myriacanthoidei&amp;action=edit&amp;redlink=1" class="new" title="Myriacanthoidei (page does not exist)">Myriacanthoidei</a> Patterson, 1965</li>
+<li>†<b>Protochimaeroidei</b> Lebedev &amp; Popov, 2021
+<ul><li>†<i><a href="/w/index.php?title=Protochimaera&amp;action=edit&amp;redlink=1" class="new" title="Protochimaera (page does not exist)">Protochimaera</a></i></li></ul></li>
+<li><b>Chimaeroidei</b> Patterson, 1965
+<ul><li><a href="/wiki/Callorhinchidae" class="mw-redirect" title="Callorhinchidae">Callorhinchidae</a></li>
+<li><a href="/wiki/Chimaeridae" title="Chimaeridae">Chimaeridae</a></li>
+<li><a href="/wiki/Rhinochimaeridae" title="Rhinochimaeridae">Rhinochimaeridae</a></li></ul></li></ul>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p><b>Chimaeras</b><sup id="cite_ref-FB_1-0" class="reference"><a href="#cite_note-FB-1">&#91;1&#93;</a></sup> are <a href="/wiki/Chondrichthyes" title="Chondrichthyes">cartilaginous fish</a> in the <a href="/wiki/Order_(biology)" title="Order (biology)">order</a> <b>Chimaeriformes</b> <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt" lang="en-fonipa"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/ɛ/: &#39;e&#39; in &#39;dress&#39;">ɛ</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;f&#39; in &#39;find&#39;">f</span><span title="/ɔːr/: &#39;ar&#39; in &#39;war&#39;">ɔːr</span><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/iː/: &#39;ee&#39; in &#39;fleece&#39;">iː</span><span title="&#39;z&#39; in &#39;zoom&#39;">z</span></span>/</a></span></span>, known informally as <b>ghost sharks</b>, <b>rat fish</b>, <b>spookfish</b>, or <b>rabbit fish</b>; the last three names are not to be confused with <a href="/wiki/Rattail" class="mw-redirect" title="Rattail">rattails</a>, <a href="/wiki/Barreleye" title="Barreleye">Opisthoproctidae</a>, or <a href="/wiki/Rabbitfish" title="Rabbitfish">Siganidae</a>, respectively.
+</p><p>At one time a "diverse and abundant" group (based on the <a href="/wiki/Fossil_record" class="mw-redirect" title="Fossil record">fossil record</a>), their closest living relatives are <a href="/wiki/Shark" title="Shark">sharks</a> and <a href="/wiki/Ray_(fish)" class="mw-redirect" title="Ray (fish)">rays</a>, though their last common ancestor with them lived nearly 400 million years ago.<sup id="cite_ref-scidai09_2-0" class="reference"><a href="#cite_note-scidai09-2">&#91;2&#93;</a></sup> Today, they are largely confined to deep water.<sup id="cite_ref-PetersonEschmeyer1999_3-0" class="reference"><a href="#cite_note-PetersonEschmeyer1999-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description_and_habits"><span class="tocnumber">1</span> <span class="toctext">Description and habits</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Phylogenetics"><span class="tocnumber">2</span> <span class="toctext">Phylogenetics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Parasites"><span class="tocnumber">3</span> <span class="toctext">Parasites</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Classification"><span class="tocnumber">4</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description_and_habits">Description and habits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chimaera&amp;action=edit&amp;section=1" title="Edit section: Description and habits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:92px;"><a href="/wiki/File:Oeufs002b,56.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Oeufs002b%2C56.png/90px-Oeufs002b%2C56.png" decoding="async" width="90" height="356" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Oeufs002b%2C56.png/135px-Oeufs002b%2C56.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Oeufs002b%2C56.png/180px-Oeufs002b%2C56.png 2x" data-file-width="684" data-file-height="2708" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Oeufs002b,56.png" class="internal" title="Enlarge"></a></div>Chimaera egg case</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Deep_sea_chimaera.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deep_sea_chimaera.jpg/220px-Deep_sea_chimaera.jpg" decoding="async" width="220" height="241" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deep_sea_chimaera.jpg/330px-Deep_sea_chimaera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deep_sea_chimaera.jpg/440px-Deep_sea_chimaera.jpg 2x" data-file-width="600" data-file-height="657" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Deep_sea_chimaera.jpg" class="internal" title="Enlarge"></a></div>Deep-sea chimaera photographed by the <a href="/wiki/NOAAS_Okeanos_Explorer_(R_337)" class="mw-redirect" title="NOAAS Okeanos Explorer (R 337)">NOAAS Okeanos Explorer</a>. Visible on its snout are tiny pores which lead to <a href="/wiki/Electroreceptor" class="mw-redirect" title="Electroreceptor">electroreceptor</a> cells.</div></div></div>
+<p>Chimaeras live in temperate ocean floors down to 2,600&#160;m (8,500&#160;ft) deep, with few occurring at depths shallower than 200&#160;m (660&#160;ft). Exceptions include the members of the <a href="/wiki/Genus" title="Genus">genus</a> <i><a href="/wiki/Callorhinchus" title="Callorhinchus">Callorhinchus</a></i>, the <a href="/wiki/Chimaera_monstrosa" class="mw-redirect" title="Chimaera monstrosa">rabbit fish</a> and the <a href="/wiki/Spotted_ratfish" title="Spotted ratfish">spotted ratfish</a>, which locally or periodically can be found at shallower depths. Consequently, these are also among the few species from the chimaera order kept in <a href="/wiki/Public_aquaria" class="mw-redirect" title="Public aquaria">public aquaria</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> They live in all the oceans except for the Arctic and Antarctic oceans.
+</p><p>They have elongated, soft bodies, with a bulky head and a single <a href="/wiki/Gill" title="Gill">gill</a>-opening. They grow up to 150&#160;cm (4.9&#160;ft) in length, although this includes the lengthy tail found in some species. In many species, the snout is modified into an elongated sensory organ.<sup id="cite_ref-EoF_5-0" class="reference"><a href="#cite_note-EoF-5">&#91;5&#93;</a></sup>
+</p><p>Like other members of the class <a href="/wiki/Chondrichthyes" title="Chondrichthyes">Chondrichthyes</a>, chimaera skeletons are composed of <a href="/wiki/Cartilage" title="Cartilage">cartilage</a>. Their skin is smooth and naked, lacking <a href="/wiki/Placoid_scale" class="mw-redirect" title="Placoid scale">placoid scales</a> (except in the claspers), and their color can range from black to brownish gray. For defense, most chimaeras have a <a href="/wiki/Venom" title="Venom">venomous</a> <a href="/wiki/Spine_(zoology)" title="Spine (zoology)">spine</a> in front of the <a href="/wiki/Dorsal_fin" title="Dorsal fin">dorsal fin</a>. They use these fins to "fly" through water.
+</p><p>Chimaeras resemble sharks in some ways: they employ <a href="/wiki/Clasper" title="Clasper">claspers</a> for internal fertilization of females and they lay <a href="/wiki/Egg_(biology)" class="mw-redirect" title="Egg (biology)">eggs</a> with <a href="/wiki/Leather" title="Leather">leathery</a> cases.  They also use <a href="/wiki/Electroreception" class="mw-redirect" title="Electroreception">electroreception</a> to find their prey.<sup id="cite_ref-BullockHartline2012_6-0" class="reference"><a href="#cite_note-BullockHartline2012-6">&#91;6&#93;</a></sup> However, unlike sharks, male chimaeras also have retractable <a href="/wiki/Clasper" title="Clasper">sexual appendages</a> on the forehead (a type of <a href="/wiki/Tentaculum" title="Tentaculum">tentaculum</a>)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> and in front of the <a href="/wiki/Pelvic_fin" title="Pelvic fin">pelvic fins</a>.<sup id="cite_ref-EoF_5-1" class="reference"><a href="#cite_note-EoF-5">&#91;5&#93;</a></sup> The females lay eggs in <a href="/wiki/Spindle_(textiles)" title="Spindle (textiles)">spindle</a>-shaped, leathery <a href="/wiki/Egg_case_(Chondrichthyes)" title="Egg case (Chondrichthyes)">egg cases</a>.<sup id="cite_ref-FB_1-1" class="reference"><a href="#cite_note-FB-1">&#91;1&#93;</a></sup>
+</p><p>They also differ from sharks in that their upper jaws are fused with their skulls and they have separate <a href="/wiki/Anus" title="Anus">anal</a> and <a href="/wiki/Urogenital" class="mw-redirect" title="Urogenital">urogenital</a> openings. They also have gill covers or <a href="/wiki/Operculum_(fish)" title="Operculum (fish)">opercula</a> like bony fishes.<sup id="cite_ref-EoF_5-2" class="reference"><a href="#cite_note-EoF-5">&#91;5&#93;</a></sup> Instead of sharks' many sharp and replaceable teeth, they have just three pairs of large permanent grinding tooth plates. These are unique among vertebrates due to their mineralization. They are made of osteodentin and is covered by an enamel called pleromin formed by mesenchyme-derived cells and made by the mineral <a href="/wiki/Whitlockite" title="Whitlockite">whitlockite</a>. Most vertebrates have an enamel of <a href="/wiki/Apatite" title="Apatite">apatite</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Phylogenetics">Phylogenetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chimaera&amp;action=edit&amp;section=2" title="Edit section: Phylogenetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tracing the evolution of these species has been problematic given the paucity of good fossils. DNA sequencing has become the preferred approach to understanding speciation.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>The group containing Chimeras and their close relatives (<a href="/wiki/Holocephali" title="Holocephali">Holocephali</a>) is thought to have originated about 420 million years ago during the <a href="/wiki/Silurian" title="Silurian">Silurian</a>. The oldest known Chimaeriform is <i><a href="/w/index.php?title=Protochimaera&amp;action=edit&amp;redlink=1" class="new" title="Protochimaera (page does not exist)">Protochimaera</a></i> from the Early <a href="/wiki/Carboniferous" title="Carboniferous">Carboniferous</a> (338-332 million years ago) of Russia, which is more closely related to modern chimeras (Chimaeroidei) than any other known extinct groups of Chimaeriformes.<sup id="cite_ref-:0_10-0" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup> The earliest known remains attributable to modern chimaeras are known from the <a href="/wiki/Early_Jurassic" title="Early Jurassic">Early Jurassic</a> (<a href="/wiki/Pliensbachian" title="Pliensbachian">Pliensbachian</a>) of Europe, but egg cases from the <a href="/wiki/Late_Triassic" title="Late Triassic">Late Triassic</a> of Yakutia, Russia and New Zealand<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> that resemble those of <a href="/wiki/Rhinochimaeridae" title="Rhinochimaeridae">rhinochimaerids</a> and <a href="/wiki/Callorhinchidae" class="mw-redirect" title="Callorhinchidae">callorhinchids</a> respectively indicates that they had a global distribution prior to the end of the <a href="/wiki/Triassic" title="Triassic">Triassic</a>. Unlike modern chimaeras, <a href="/wiki/Mesozoic" title="Mesozoic">Mesozoic</a> representatives are often found in shallow water settings.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> The extant species fall into three families—the Callorhinchidae, Rhinochimaeridae and <a href="/wiki/Chimaeridae" title="Chimaeridae">Chimaeridae</a> with the callorhinchids being the most basal <a href="/wiki/Clade" title="Clade">clade</a>.
+</p>
+<h2><span class="mw-headline" id="Parasites">Parasites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chimaera&amp;action=edit&amp;section=3" title="Edit section: Parasites">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As other fish, chimaeras have a number of <a href="/wiki/Fish_parasites" class="mw-redirect" title="Fish parasites">parasites</a>. <i><a href="/wiki/Chimaericola_leptogaster" title="Chimaericola leptogaster">Chimaericola leptogaster</a></i> (<a href="/wiki/Chimaericolidae" title="Chimaericolidae">Chimaericolidae</a>) is a <a href="/wiki/Monogenea" title="Monogenea">monogenean</a> parasite of the <a href="/wiki/Gill" title="Gill">gills</a> of <i><a href="/wiki/Chimaera_monstrosa" class="mw-redirect" title="Chimaera monstrosa">Chimaera monstrosa</a></i>; the species can attain 50&#160;mm (2.0&#160;in) in length.
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chimaera&amp;action=edit&amp;section=4" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In some classifications, the chimaeras are included (as subclass Holocephali) in the class <a href="/wiki/Chondrichthyes" title="Chondrichthyes">Chondrichthyes</a> of cartilaginous fishes; in other systems, this distinction may be raised to the level of class. Chimaeras also have some characteristics of <a href="/wiki/Osteichthyes" title="Osteichthyes">bony fishes</a>.
+</p><p>A renewed effort to explore deep water and to undertake taxonomic analysis of specimens in museum collections led to a boom during the first decade of the 21st century in the number of new species identified.<sup id="cite_ref-scidai09_2-1" class="reference"><a href="#cite_note-scidai09-2">&#91;2&#93;</a></sup> A preliminary study found 8% of species to be threatened.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> There are <a href="/wiki/List_of_Chimaeras" class="mw-redirect" title="List of Chimaeras">50 extant species</a> in six genera and four <a href="/wiki/Family_(biology)" title="Family (biology)">families</a> are described; an additional three genera  and two families are only known from <a href="/wiki/Fossil" title="Fossil">fossils</a>):
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Callorhinchus_callorhynchus.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Callorhinchus_callorhynchus.JPG/220px-Callorhinchus_callorhynchus.JPG" decoding="async" width="220" height="90" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Callorhinchus_callorhynchus.JPG/330px-Callorhinchus_callorhynchus.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Callorhinchus_callorhynchus.JPG/440px-Callorhinchus_callorhynchus.JPG 2x" data-file-width="937" data-file-height="385" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Callorhinchus_callorhynchus.JPG" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Callorhinchus_callorynchus" title="Callorhinchus callorynchus">Callorhinchus callorynchus</a></i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Chimaera_monstrosa.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Chimaera_monstrosa.png/220px-Chimaera_monstrosa.png" decoding="async" width="220" height="71" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Chimaera_monstrosa.png/330px-Chimaera_monstrosa.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Chimaera_monstrosa.png/440px-Chimaera_monstrosa.png 2x" data-file-width="1060" data-file-height="340" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Chimaera_monstrosa.png" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Chimaera_monstrosa" class="mw-redirect" title="Chimaera monstrosa">Chimaera monstrosa</a></i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hydrolagus_affinis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hydrolagus_affinis.jpg/220px-Hydrolagus_affinis.jpg" decoding="async" width="220" height="81" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hydrolagus_affinis.jpg/330px-Hydrolagus_affinis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hydrolagus_affinis.jpg/440px-Hydrolagus_affinis.jpg 2x" data-file-width="1189" data-file-height="436" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hydrolagus_affinis.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Hydrolagus_affinis" class="mw-redirect" title="Hydrolagus affinis">Hydrolagus affinis</a></i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Harriotta_raleighana.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harriotta_raleighana.jpg/220px-Harriotta_raleighana.jpg" decoding="async" width="220" height="60" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harriotta_raleighana.jpg/330px-Harriotta_raleighana.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harriotta_raleighana.jpg/440px-Harriotta_raleighana.jpg 2x" data-file-width="1181" data-file-height="323" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Harriotta_raleighana.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Harriotta_raleighana" class="mw-redirect" title="Harriotta raleighana">Harriotta raleighana</a></i></div></div></div>
+<ul><li>†Suborder Squalorajoidei <small>Patterson 1965</small>  (Early Jurassic)
+<ul><li>†Family Squalorajidae <small>Woodward 1886</small>
+<ul><li>†<i><a href="/wiki/Squaloraja" title="Squaloraja">Squaloraja</a></i> Europe, Early Jurassic (<a href="/wiki/Hettangian" title="Hettangian">Hettangian</a>-<a href="/wiki/Sinemurian" title="Sinemurian">Sinemurian</a>)</li></ul></li></ul></li>
+<li>†Suborder Myriacanthoidei <small>Patterson 1965</small>  (Late Triassic-Late Jurassic)
+<ul><li>†Family <a href="/w/index.php?title=Chimaeropsidae&amp;action=edit&amp;redlink=1" class="new" title="Chimaeropsidae (page does not exist)">Chimaeropsidae</a>
+<ul><li>†<i><a href="/w/index.php?title=Chimaeropsis&amp;action=edit&amp;redlink=1" class="new" title="Chimaeropsis (page does not exist)">Chimaeropsis</a></i> <small>Zittel 1887</small> Belgium, Early Jurassic (Sinemurian)</li></ul></li>
+<li>†Family Myriacanthidae <small>Woodward 1889</small>
+<ul><li>†<i><a href="/wiki/Acanthorhina" title="Acanthorhina">Acanthorhina</a></i> <small>Fraas 1910</small> <a href="/wiki/Posidonia_Shale" title="Posidonia Shale">Posidonia Shale Formation</a>, Germany, Early Jurassic (<a href="/wiki/Toarcian" title="Toarcian">Toarcian</a>)</li>
+<li>†<i><a href="/wiki/Agkistracanthus" title="Agkistracanthus">Agkistracanthus</a></i> <small>Duffin and Furrer 1981</small> Austria, England and Switzerland, Late Triassic-Early Jurassic (<a href="/wiki/Rhaetian" title="Rhaetian">Rhaetian</a>-Sinemurian)</li>
+<li>†<i><a href="/wiki/Alethodontus" title="Alethodontus">Alethodontus</a></i> <small>Duffin 1983</small> Germany, Early Jurassic (Sinemurian)</li>
+<li>†<i><a href="/w/index.php?title=Halonodon&amp;action=edit&amp;redlink=1" class="new" title="Halonodon (page does not exist)">Halonodon</a></i> <small>Duffin 1984</small> Belgium and Luxembourg, Early Jurassic (Sinemurian)</li>
+<li>†<i><a href="/wiki/Metopacanthus" title="Metopacanthus">Metopacanthus</a></i> <small>Zittel 1887</small> Posidonia Shale Formation, Germany, Early Jurassic (Toarcian)</li>
+<li>†<i><a href="/w/index.php?title=Oblidens&amp;action=edit&amp;redlink=1" class="new" title="Oblidens (page does not exist)">Oblidens</a></i> <small>Duffin and Milàn 2017</small> <a href="/wiki/Hasle_Formation" title="Hasle Formation">Hasle Formation</a>, Denmark, Early Jurassic (<a href="/wiki/Pliensbachian" title="Pliensbachian">Pliensbachian</a>)</li>
+<li>†<i><a href="/w/index.php?title=Myriacanthus&amp;action=edit&amp;redlink=1" class="new" title="Myriacanthus (page does not exist)">Myriacanthus</a></i> <small>Agassiz 1837</small> United Kingdom, Late Triassic-Early Jurassic (Rhaetian-Sinemurian)</li>
+<li>†<i><a href="/w/index.php?title=Recurvacanthus&amp;action=edit&amp;redlink=1" class="new" title="Recurvacanthus (page does not exist)">Recurvacanthus</a></i> <small>Duffin 1981</small> United Kingdom, Early Jurassic (Sinemurian)</li></ul></li></ul></li>
+<li>†Suborder Protochimaeroidei Lebedev &amp; Popov, 2021
+<ul><li>†Family Protochimaeridae Lebedev &amp; Popov, 2021
+<ul><li>†<i><a href="/w/index.php?title=Protochimaera&amp;action=edit&amp;redlink=1" class="new" title="Protochimaera (page does not exist)">Protochimaera</a></i> Lebedev &amp; Popov, 2021 Moscow Region, Russia, Lower Carboniferous (<a href="/wiki/Vis%C3%A9an" title="Viséan">Viséan</a>–<a href="/wiki/Serpukhovian" title="Serpukhovian">Serpukhovian</a>)<sup id="cite_ref-:0_10-1" class="reference"><a href="#cite_note-:0-10">&#91;10&#93;</a></sup></li></ul></li></ul></li>
+<li>Suborder Chimaeroidei <small>Patterson 1965</small>
+<ul><li>†<i><a href="/w/index.php?title=Eomanodon&amp;action=edit&amp;redlink=1" class="new" title="Eomanodon (page does not exist)">Eomanodon</a></i> <small>Ward and Duffin 1989</small> United Kingdom, Early Jurassic (Pliensbachian)</li>
+<li>Family <a href="/wiki/Callorhinchidae" class="mw-redirect" title="Callorhinchidae">Callorhinchidae</a> <small><a href="/wiki/Samuel_Garman" title="Samuel Garman">Garman</a>, 1901</small>
+<ul><li>Genus <i><a href="/wiki/Callorhinchus" title="Callorhinchus">Callorhinchus</a></i> <small><a href="/wiki/Bernard_Germain_de_Lac%C3%A9p%C3%A8de" title="Bernard Germain de Lacépède">Lacépède</a>, 1798</small>
+<ul><li><i><a href="/wiki/Callorhinchus_callorynchus" title="Callorhinchus callorynchus">Callorhinchus callorynchus</a></i> <small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></small> (ploughnose chimaera)</li>
+<li><i><a href="/wiki/Callorhinchus_capensis" class="mw-redirect" title="Callorhinchus capensis">Callorhinchus capensis</a></i> <small><a href="/wiki/Auguste_Henri_Andr%C3%A9_Dum%C3%A9ril" class="mw-redirect" title="Auguste Henri André Duméril">A. H. A. Duméril</a>, 1865</small> (Cape elephantfish)</li>
+<li><i><a href="/wiki/Callorhinchus_milii" class="mw-redirect" title="Callorhinchus milii">Callorhinchus milii</a></i> <small><a href="/wiki/Jean_Baptiste_Bory_de_Saint-Vincent" title="Jean Baptiste Bory de Saint-Vincent">Bory de Saint-Vincent</a>, 1823</small> (Australian ghost shark)</li></ul></li>
+<li>†<i><a href="/wiki/Brachymylus" title="Brachymylus">Brachymylus</a></i> <small>A. S. Woodward 1894</small> Germany, Early Jurassic (Pliensbachian)</li>
+<li>†<i><a href="/wiki/Bathytheristes" title="Bathytheristes">Bathytheristes</a></i> <small>Duffin 1995</small> Posidonia Shale Formation, Germany, Early Jurassic (Toarcian)</li>
+<li>†<i><a href="/w/index.php?title=Ottangodus&amp;action=edit&amp;redlink=1" class="new" title="Ottangodus (page does not exist)">Ottangodus</a></i> <small>Popov, Delsate &amp; Felten, 2019</small> France, Middle Jurassic (<a href="/wiki/Bajocian" title="Bajocian">Bajocian</a>)</li>
+<li>†<i><a href="/w/index.php?title=Moskovirhynchus&amp;action=edit&amp;redlink=1" class="new" title="Moskovirhynchus (page does not exist)">Moskovirhynchus</a></i> Russia, Upper Jurassic</li>
+<li>†<i><a href="/wiki/Pachymylus" title="Pachymylus">Pachymylus</a></i> United Kingdom, France, Middle Jurassic</li></ul></li>
+<li>Family †"Edaphodontidae"
+<ul><li>†<i><a href="/wiki/Ischyodus" title="Ischyodus">Ischyodus</a></i> (40 species) Worldwide, Middle Jurassic-Miocene (also placed in Callorhinchidae)</li>
+<li>†<i><a href="/w/index.php?title=Elasmodectes&amp;action=edit&amp;redlink=1" class="new" title="Elasmodectes (page does not exist)">Elasmodectes</a></i> Europe, Jurassic-Cretaceous</li>
+<li>†<i><a href="/w/index.php?title=Elasmodus&amp;action=edit&amp;redlink=1" class="new" title="Elasmodus (page does not exist)">Elasmodus</a></i> Worldwide, Cretaceous-Paleogene</li>
+<li>†<i><a href="/wiki/Edaphodon" title="Edaphodon">Edaphodon</a></i> Worldwide, Cretaceous-Neogene</li>
+<li>†<i><a href="/wiki/Ptyktoptychion" title="Ptyktoptychion">Ptyktoptychion</a></i> Australia, Early Cretaceous</li>
+<li>†<i><a href="/w/index.php?title=Lebediodon&amp;action=edit&amp;redlink=1" class="new" title="Lebediodon (page does not exist)">Lebediodon</a></i> Europe, Cretaceous</li></ul></li>
+<li>Family <a href="/wiki/Chimaeridae" title="Chimaeridae">Chimaeridae</a> <small><a href="/wiki/Charles_Lucien_Bonaparte" title="Charles Lucien Bonaparte">Bonaparte</a>, 1831</small>
+<ul><li>Genus <i><a href="/wiki/Chimaera_(genus)" title="Chimaera (genus)">Chimaera</a></i> <small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></small>
+<ul><li><i><a href="/wiki/Chimaera_argiloba" class="mw-redirect" title="Chimaera argiloba">Chimaera argiloba</a></i> <small><a href="/wiki/Peter_R._Last" title="Peter R. Last">Last</a>, <a href="/w/index.php?title=William_T._White&amp;action=edit&amp;redlink=1" class="new" title="William T. White (page does not exist)">W. T. White</a> &amp; <a href="/w/index.php?title=John_James_Pogonoski&amp;action=edit&amp;redlink=1" class="new" title="John James Pogonoski (page does not exist)">Pogonoski</a>, 2008</small> (whitefin chimaera)</li>
+<li><i><a href="/wiki/Chimaera_bahamaensis" title="Chimaera bahamaensis">Chimaera bahamaensis</a></i> <small><a href="/w/index.php?title=Jenny_M._Kemper&amp;action=edit&amp;redlink=1" class="new" title="Jenny M. Kemper (page does not exist)">Kemper</a>, <a href="/w/index.php?title=David_A._Ebert&amp;action=edit&amp;redlink=1" class="new" title="David A. Ebert (page does not exist)">Ebert</a>, <a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a> &amp; <a href="/wiki/Leonard_Joseph_Victor_Compagno" class="mw-redirect" title="Leonard Joseph Victor Compagno">Compagno</a>, 2010</small> (Bahamas ghost shark)</li>
+<li><i><a href="/w/index.php?title=Chimaera_compacta&amp;action=edit&amp;redlink=1" class="new" title="Chimaera compacta (page does not exist)">Chimaera compacta</a></i> <small><a href="/w/index.php?title=Samuel_Paco_Igl%C3%A9sias&amp;action=edit&amp;redlink=1" class="new" title="Samuel Paco Iglésias (page does not exist)">Iglésias</a>, <a href="/w/index.php?title=Jenny_M._Kemper&amp;action=edit&amp;redlink=1" class="new" title="Jenny M. Kemper (page does not exist)">Kemper</a> &amp; <a href="/w/index.php?title=Gavin_J._P._Naylor&amp;action=edit&amp;redlink=1" class="new" title="Gavin J. P. Naylor (page does not exist)">Naylor</a>, 2022</small><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li><i><a href="/wiki/Chimaera_cubana" class="mw-redirect" title="Chimaera cubana">Chimaera cubana</a></i> <small><a href="/wiki/Luis_Howell-Rivero" title="Luis Howell-Rivero">Howell-Rivero</a>, 1936</small></li>
+<li><i><a href="/wiki/Chimaera_fulva" class="mw-redirect" title="Chimaera fulva">Chimaera fulva</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, <a href="/wiki/Peter_R._Last" title="Peter R. Last">Last</a> &amp; <a href="/w/index.php?title=William_T._White&amp;action=edit&amp;redlink=1" class="new" title="William T. White (page does not exist)">W. T. White</a>, 2008</small> (southern chimaera)</li>
+<li><i><a href="/wiki/Chimaera_jordani" class="mw-redirect" title="Chimaera jordani">Chimaera jordani</a></i> <small><a href="/wiki/Shigeho_Tanaka" title="Shigeho Tanaka">S. Tanaka (I)</a>, 1905</small> (Jordan's chimaera)</li>
+<li><i><a href="/wiki/Chimaera_lignaria" class="mw-redirect" title="Chimaera lignaria">Chimaera lignaria</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, 2002</small> (carpenter's chimaera)</li>
+<li><i><a href="/wiki/Chimaera_macrospina" class="mw-redirect" title="Chimaera macrospina">Chimaera macrospina</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, <a href="/wiki/Peter_R._Last" title="Peter R. Last">Last</a> &amp; <a href="/w/index.php?title=William_T._White&amp;action=edit&amp;redlink=1" class="new" title="William T. White (page does not exist)">W. T. White</a>, 2008</small> (longspine chimaera)</li>
+<li><i><a href="/wiki/Chimaera_monstrosa" class="mw-redirect" title="Chimaera monstrosa">Chimaera monstrosa</a></i> <small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></small> (rabbit fish)</li>
+<li><i><a href="/wiki/Chimaera_notafricana" class="mw-redirect" title="Chimaera notafricana">Chimaera notafricana</a></i> <small><a href="/w/index.php?title=Jenny_M._Kemper&amp;action=edit&amp;redlink=1" class="new" title="Jenny M. Kemper (page does not exist)">Kemper</a>, <a href="/w/index.php?title=David_A._Ebert&amp;action=edit&amp;redlink=1" class="new" title="David A. Ebert (page does not exist)">Ebert</a>, <a href="/wiki/Leonard_Joseph_Victor_Compagno" class="mw-redirect" title="Leonard Joseph Victor Compagno">Compagno</a> &amp; <a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, 2010</small> Cape chimaera</li>
+<li><i><a href="/wiki/Chimaera_obscura" class="mw-redirect" title="Chimaera obscura">Chimaera obscura</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, <a href="/wiki/Peter_R._Last" title="Peter R. Last">Last</a> &amp; <a href="/w/index.php?title=William_T._White&amp;action=edit&amp;redlink=1" class="new" title="William T. White (page does not exist)">W. T. White</a>, 2008</small> (shortspine chimaera)</li>
+<li><i><a href="/wiki/Chimaera_opalescens" class="mw-redirect" title="Chimaera opalescens">Chimaera opalescens</a></i> <small><a href="/w/index.php?title=Elena_A._Luchetti&amp;action=edit&amp;redlink=1" class="new" title="Elena A. Luchetti (page does not exist)">Luchetti</a>, <a href="/w/index.php?title=Samuel_Paco_Igl%C3%A9sias&amp;action=edit&amp;redlink=1" class="new" title="Samuel Paco Iglésias (page does not exist)">Iglésias</a> &amp; <a href="/w/index.php?title=Daniel_Y._Sellos&amp;action=edit&amp;redlink=1" class="new" title="Daniel Y. Sellos (page does not exist)">Sellos</a>, 2011</small></li>
+<li><i><a href="/wiki/Chimaera_owstoni" class="mw-redirect" title="Chimaera owstoni">Chimaera owstoni</a></i> <small><a href="/wiki/Shigeho_Tanaka" title="Shigeho Tanaka">S. Tanaka (I)</a>, 1905</small> (Owston's chimaera)</li>
+<li><i><a href="/wiki/Chimaera_panthera" class="mw-redirect" title="Chimaera panthera">Chimaera panthera</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, 1998</small> (leopard chimaera)</li>
+<li><i><a href="/wiki/Chimaera_phantasma" class="mw-redirect" title="Chimaera phantasma">Chimaera phantasma</a></i> <small><a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">Jordan</a> &amp; <a href="/wiki/John_Otterbein_Snyder" title="John Otterbein Snyder">Snyder</a>, 1900</small> (silver chimaera)</li></ul></li>
+<li>Genus <i><a href="/wiki/Hydrolagus" title="Hydrolagus">Hydrolagus</a></i> <small><a href="/wiki/Theodore_Gill" title="Theodore Gill">Gill</a>, 1863</small>
+<ul><li><i><a href="/wiki/Hydrolagus_affinis" class="mw-redirect" title="Hydrolagus affinis">Hydrolagus affinis</a></i> <small><a href="/w/index.php?title=F%C3%A9lix_Ant%C3%B3nio_de_Brito_Capello&amp;action=edit&amp;redlink=1" class="new" title="Félix António de Brito Capello (page does not exist)">Brito Capello</a>, 1868</small> (smalleyed rabbitfish)</li>
+<li><i><a href="/wiki/Hydrolagus_africanus" class="mw-redirect" title="Hydrolagus africanus">Hydrolagus africanus</a></i> <small><a href="/wiki/John_Dow_Fisher_Gilchrist" class="mw-redirect" title="John Dow Fisher Gilchrist">Gilchrist</a>, 1922</small> (African chimaera)</li>
+<li><i><a href="/wiki/Hydrolagus_alberti" class="mw-redirect" title="Hydrolagus alberti">Hydrolagus alberti</a></i> <small><a href="/wiki/Henry_Bryant_Bigelow" title="Henry Bryant Bigelow">Bigelow</a> &amp; <a href="/wiki/William_Charles_Schroeder" title="William Charles Schroeder">Schroeder</a>, 1951</small></li>
+<li><i><a href="/wiki/Hydrolagus_alphus" class="mw-redirect" title="Hydrolagus alphus">Hydrolagus alphus</a></i> <small><a href="/w/index.php?title=Kimberly_L._Quaranta&amp;action=edit&amp;redlink=1" class="new" title="Kimberly L. Quaranta (page does not exist)">Quaranta</a>, <a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, <a href="/w/index.php?title=Douglas_J._Long&amp;action=edit&amp;redlink=1" class="new" title="Douglas J. Long (page does not exist)">Long</a> &amp; <a href="/w/index.php?title=David_A._Ebert&amp;action=edit&amp;redlink=1" class="new" title="David A. Ebert (page does not exist)">Ebert</a>, 2006</small> (whitespot ghost shark)</li>
+<li><i><a href="/wiki/Hydrolagus_barbouri" class="mw-redirect" title="Hydrolagus barbouri">Hydrolagus barbouri</a></i> <small><a href="/wiki/Samuel_Garman" title="Samuel Garman">Garman</a>, 1908</small></li>
+<li><i><a href="/wiki/Hydrolagus_bemisi" class="mw-redirect" title="Hydrolagus bemisi">Hydrolagus bemisi</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, 2002</small> (pale ghost shark)</li>
+<li><i><a href="/wiki/Hydrolagus_colliei" class="mw-redirect" title="Hydrolagus colliei">Hydrolagus colliei</a></i> <small><a href="/wiki/George_Tradescant_Lay" title="George Tradescant Lay">Lay</a> &amp; <a href="/wiki/Edward_Turner_Bennett" title="Edward Turner Bennett">E. T. Bennett</a>, 1839</small> (spotted ratfish)</li>
+<li><i><a href="/wiki/Hydrolagus_deani" class="mw-redirect" title="Hydrolagus deani">Hydrolagus deani</a></i> <small><a href="/wiki/Hugh_McCormick_Smith" title="Hugh McCormick Smith">H. M. Smith</a> &amp; <a href="/wiki/Lewis_Radcliffe" title="Lewis Radcliffe">Radcliffe</a>, 1912</small> (Philippine chimaera)</li>
+<li><i><a href="/w/index.php?title=Hydrolagus_eidolon&amp;action=edit&amp;redlink=1" class="new" title="Hydrolagus eidolon (page does not exist)">Hydrolagus eidolon</a></i> <small><a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">Jordan</a> &amp; <a href="/wiki/Carl_Leavitt_Hubbs" title="Carl Leavitt Hubbs">Hubbs</a>, 1925</small></li>
+<li><i><a href="/wiki/Hydrolagus_homonycteris" class="mw-redirect" title="Hydrolagus homonycteris">Hydrolagus homonycteris</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, 2008</small> (black ghostshark)</li>
+<li><i><a href="/wiki/Hydrolagus_lemures" class="mw-redirect" title="Hydrolagus lemures">Hydrolagus lemures</a></i> <small><a href="/wiki/Gilbert_Percy_Whitley" title="Gilbert Percy Whitley">Whitley</a>, 1939</small> (blackfin ghostshark)</li>
+<li><i><a href="/w/index.php?title=Hydrolagus_lusitanicus&amp;action=edit&amp;redlink=1" class="new" title="Hydrolagus lusitanicus (page does not exist)">Hydrolagus lusitanicus</a></i> <small><a href="/w/index.php?title=Teresa_Moura&amp;action=edit&amp;redlink=1" class="new" title="Teresa Moura (page does not exist)">Moura</a>, <a href="/w/index.php?title=Ivone_Figueiredo&amp;action=edit&amp;redlink=1" class="new" title="Ivone Figueiredo (page does not exist)">Figueiredo</a>, <a href="/w/index.php?title=Pedro_Bordalo-Machado&amp;action=edit&amp;redlink=1" class="new" title="Pedro Bordalo-Machado (page does not exist)">Bordalo-Machado</a>, <a href="/w/index.php?title=Concei%C3%A7%C3%A3o_Almeida&amp;action=edit&amp;redlink=1" class="new" title="Conceição Almeida (page does not exist)">Almeida</a> &amp; <a href="/w/index.php?title=Leonel_Serrano-Gordo&amp;action=edit&amp;redlink=1" class="new" title="Leonel Serrano-Gordo (page does not exist)">Gordo</a>, 2005</small></li>
+<li><i><a href="/wiki/Hydrolagus_macrophthalmus" class="mw-redirect" title="Hydrolagus macrophthalmus">Hydrolagus macrophthalmus</a></i> <small><a href="/wiki/Don_Fernando_de_Buen_y_Lozano" class="mw-redirect" title="Don Fernando de Buen y Lozano">de Buen</a>, 1959</small></li>
+<li><i><a href="/wiki/Hydrolagus_marmoratus" class="mw-redirect" title="Hydrolagus marmoratus">Hydrolagus marmoratus</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, 2008</small> marbled ghostshark</li>
+<li><i><a href="/wiki/Hydrolagus_matallanasi" title="Hydrolagus matallanasi">Hydrolagus matallanasi</a></i> <small><a href="/w/index.php?title=Jules_Marcelo_Rosa_Soto&amp;action=edit&amp;redlink=1" class="new" title="Jules Marcelo Rosa Soto (page does not exist)">Soto</a> &amp; <a href="/w/index.php?title=Carolus_Maria_Vooren&amp;action=edit&amp;redlink=1" class="new" title="Carolus Maria Vooren (page does not exist)">Vooren</a>, 2004</small> (striped rabbitfish)</li>
+<li><i><a href="/wiki/Hydrolagus_mccoskeri" class="mw-redirect" title="Hydrolagus mccoskeri">Hydrolagus mccoskeri</a></i> <small><a href="/w/index.php?title=Lewis_A._K._Barnett&amp;action=edit&amp;redlink=1" class="new" title="Lewis A. K. Barnett (page does not exist)">Barnett</a>, <a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, <a href="/w/index.php?title=Douglas_J._Long&amp;action=edit&amp;redlink=1" class="new" title="Douglas J. Long (page does not exist)">Long</a> &amp; <a href="/w/index.php?title=David_A._Ebert&amp;action=edit&amp;redlink=1" class="new" title="David A. Ebert (page does not exist)">Ebert</a>, 2006</small> (Galápagos ghostshark)</li>
+<li><i><a href="/wiki/Hydrolagus_melanophasma" title="Hydrolagus melanophasma">Hydrolagus melanophasma</a></i> <small><a href="/w/index.php?title=Kelsey_C._James&amp;action=edit&amp;redlink=1" class="new" title="Kelsey C. James (page does not exist)">K. C. James</a>, <a href="/w/index.php?title=David_A._Ebert&amp;action=edit&amp;redlink=1" class="new" title="David A. Ebert (page does not exist)">Ebert</a>, <a href="/w/index.php?title=Douglas_J._Long&amp;action=edit&amp;redlink=1" class="new" title="Douglas J. Long (page does not exist)">Long</a> &amp; <a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a>, 2009</small> (Eastern Pacific black ghostshark)</li>
+<li><i><a href="/wiki/Hydrolagus_mirabilis" class="mw-redirect" title="Hydrolagus mirabilis">Hydrolagus mirabilis</a></i> <small><a href="/wiki/Robert_Collett" title="Robert Collett">Collett</a>, 1904</small> (large-eyed rabbitfish)</li>
+<li><i><a href="/wiki/Hydrolagus_mitsukurii" title="Hydrolagus mitsukurii">Hydrolagus mitsukurii</a></i> <small><a href="/wiki/David_Starr_Jordan" title="David Starr Jordan">Jordan</a> &amp; <a href="/wiki/John_Otterbein_Snyder" title="John Otterbein Snyder">Snyder</a>, 1904</small> (spookfish)</li>
+<li><i><a href="/wiki/Hydrolagus_novaezealandiae" class="mw-redirect" title="Hydrolagus novaezealandiae">Hydrolagus novaezealandiae</a></i> <small><a href="/wiki/Henry_Weed_Fowler" title="Henry Weed Fowler">Fowler</a>, 1911</small> (dark ghostshark)</li>
+<li><i><a href="/wiki/Hydrolagus_ogilbyi" class="mw-redirect" title="Hydrolagus ogilbyi">Hydrolagus ogilbyi</a></i> <small><a href="/wiki/Edgar_Ravenswood_Waite" title="Edgar Ravenswood Waite">Waite</a>, 1898</small></li>
+<li><i><a href="/wiki/Hydrolagus_pallidus" title="Hydrolagus pallidus">Hydrolagus pallidus</a></i> <small><a href="/w/index.php?title=Graham_S._Hardy&amp;action=edit&amp;redlink=1" class="new" title="Graham S. Hardy (page does not exist)">Hardy</a> &amp; <a href="/w/index.php?title=Matthias_Stehmann&amp;action=edit&amp;redlink=1" class="new" title="Matthias Stehmann (page does not exist)">Stehmann</a>, 1990</small></li>
+<li><i><a href="/wiki/Hydrolagus_purpurescens" class="mw-redirect" title="Hydrolagus purpurescens">Hydrolagus purpurescens</a></i> <small><a href="/wiki/Charles_Henry_Gilbert" title="Charles Henry Gilbert">Gilbert</a>, 1905</small> (purple chimaera)</li>
+<li><i><a href="/wiki/Hydrolagus_trolli" class="mw-redirect" title="Hydrolagus trolli">Hydrolagus trolli</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a> &amp; <a href="/w/index.php?title=Bernard_S%C3%A9ret&amp;action=edit&amp;redlink=1" class="new" title="Bernard Séret (page does not exist)">Séret</a>, 2002</small> (pointy-nosed blue chimaera)</li>
+<li><i><a href="/w/index.php?title=Hydrolagus_waitei&amp;action=edit&amp;redlink=1" class="new" title="Hydrolagus waitei (page does not exist)">Hydrolagus waitei</a></i> <small><a href="/wiki/Henry_Weed_Fowler" title="Henry Weed Fowler">Fowler</a>, 1907</small></li></ul></li>
+<li>†<i><a href="/w/index.php?title=Canadodus&amp;action=edit&amp;redlink=1" class="new" title="Canadodus (page does not exist)">Canadodus</a></i> Popov, Johns &amp; Suntok, 2020 <a href="/wiki/Sooke_Formation" title="Sooke Formation">Sooke Formation</a>, Canada, <a href="/wiki/Oligocene" title="Oligocene">Oligocene</a></li></ul></li>
+<li>Family <a href="/wiki/Rhinochimaeridae" title="Rhinochimaeridae">Rhinochimaeridae</a> <small><a href="/wiki/Samuel_Garman" title="Samuel Garman">Garman</a>, 1901</small>
+<ul><li>Genus <i><a href="/wiki/Harriotta" title="Harriotta">Harriotta</a></i> <small><a href="/wiki/George_Brown_Goode" title="George Brown Goode">Goode</a> &amp; <a href="/wiki/Tarleton_Hoffman_Bean" title="Tarleton Hoffman Bean">Bean</a>, 1895</small>
+<ul><li><i><a href="/wiki/Harriotta_haeckeli" class="mw-redirect" title="Harriotta haeckeli">Harriotta haeckeli</a></i> <small><a href="/w/index.php?title=Christine_Karrer&amp;action=edit&amp;redlink=1" class="new" title="Christine Karrer (page does not exist)">Karrer</a>, 1972</small> (smallspine spookfish)</li>
+<li><i><a href="/wiki/Harriotta_raleighana" class="mw-redirect" title="Harriotta raleighana">Harriotta raleighana</a></i> <small><a href="/wiki/George_Brown_Goode" title="George Brown Goode">Goode</a> &amp; <a href="/wiki/Tarleton_Hoffman_Bean" title="Tarleton Hoffman Bean">Bean</a>, 1895</small> (Pacific longnose chimaera)</li></ul></li>
+<li>Genus <i><a href="/wiki/Neoharriotta" title="Neoharriotta">Neoharriotta</a></i> <small><a href="/wiki/Henry_Bryant_Bigelow" title="Henry Bryant Bigelow">Bigelow</a> &amp; <a href="/wiki/William_Charles_Schroeder" title="William Charles Schroeder">Schroeder</a>, 1950</small>
+<ul><li><i><a href="/wiki/Neoharriotta_carri" class="mw-redirect" title="Neoharriotta carri">Neoharriotta carri</a></i> <small><a href="/w/index.php?title=Harvey_R._Bullis&amp;action=edit&amp;redlink=1" class="new" title="Harvey R. Bullis (page does not exist)">Bullis</a> &amp; <a href="/w/index.php?title=James_S._Carpenter&amp;action=edit&amp;redlink=1" class="new" title="James S. Carpenter (page does not exist)">J. S. Carpenter</a>, 1966</small> (dwarf sicklefin chimaera)</li>
+<li><i><a href="/wiki/Neoharriotta_pinnata" class="mw-redirect" title="Neoharriotta pinnata">Neoharriotta pinnata</a></i> <small>Schnakenbeck, 1931</small> (sicklefin chimaera)</li>
+<li><i><a href="/wiki/Neoharriotta_pumila" class="mw-redirect" title="Neoharriotta pumila">Neoharriotta pumila</a></i> <small><a href="/w/index.php?title=Dominique_A._Didier_Dagit&amp;action=edit&amp;redlink=1" class="new" title="Dominique A. Didier Dagit (page does not exist)">Didier</a> &amp; <a href="/w/index.php?title=Matthias_Stehmann&amp;action=edit&amp;redlink=1" class="new" title="Matthias Stehmann (page does not exist)">Stehmann</a>, 1996</small> (Arabian sicklefin chimaera)</li></ul></li>
+<li>Genus <i><a href="/wiki/Rhinochimaera" title="Rhinochimaera">Rhinochimaera</a></i> <small><a href="/wiki/Samuel_Garman" title="Samuel Garman">Garman</a>, 1901</small>
+<ul><li><i><a href="/wiki/Rhinochimaera_africana" class="mw-redirect" title="Rhinochimaera africana">Rhinochimaera africana</a></i> <small><a href="/wiki/Leonard_Joseph_Victor_Compagno" class="mw-redirect" title="Leonard Joseph Victor Compagno">Compagno</a>, <a href="/w/index.php?title=Matthias_Stehmann&amp;action=edit&amp;redlink=1" class="new" title="Matthias Stehmann (page does not exist)">Stehmann</a> &amp; <a href="/w/index.php?title=David_A._Ebert&amp;action=edit&amp;redlink=1" class="new" title="David A. Ebert (page does not exist)">Ebert</a>, 1990</small> (paddle-nose chimaera)</li>
+<li><i><a href="/wiki/Rhinochimaera_atlantica" class="mw-redirect" title="Rhinochimaera atlantica">Rhinochimaera atlantica</a></i> <small><a href="/wiki/Ernest_William_Lyons_Holt" title="Ernest William Lyons Holt">Holt</a> &amp; Byrne, 1909</small> (straightnose rabbitfish)</li>
+<li><i><a href="/wiki/Rhinochimaera_pacifica" title="Rhinochimaera pacifica">Rhinochimaera pacifica</a></i> <small><a href="/wiki/Kakichi_Mitsukuri" title="Kakichi Mitsukuri">Mitsukuri</a>, 1895</small> (Pacific spookfish)</li></ul></li>
+<li>†<i><a href="/wiki/Amylodon" title="Amylodon">Amylodon</a></i> Europe, Late Cretaceous</li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chimaera&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_prehistoric_cartilaginous_fish" class="mw-redirect" title="List of prehistoric cartilaginous fish">List of prehistoric cartilaginous fish</a></li>
+<li><a href="/wiki/List_of_chimaeras" title="List of chimaeras">List of chimaeras</a></li>
+<li><a href="/wiki/Acanthothoraci" title="Acanthothoraci">Acanthothoraci</a></li>
+<li><a href="/wiki/Ptyctodontida" title="Ptyctodontida">Ptyctodontida</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chimaera&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-FB-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FB_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FB_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Froese, Rainer, and Daniel Pauly, eds. (2014). <a rel="nofollow" class="external text" href="http://www.fishbase.org/Summary/OrdersSummary.php?order=Chimaeriformes">"Chimaeriformes"</a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. November 2014 version.</span>
+</li>
+<li id="cite_note-scidai09-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-scidai09_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-scidai09_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sciencedaily.com/releases/2009/09/090922095816.htm">"Ancient And Bizarre Fish Discovered: New Species Of Ghostshark From California And Baja California"</a>. <a href="/wiki/ScienceDaily" title="ScienceDaily">ScienceDaily</a>. September 23, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ancient+And+Bizarre+Fish+Discovered%3A+New+Species+Of+Ghostshark+From+California+And+Baja+California&amp;rft.pub=ScienceDaily&amp;rft.date=2009-09-23&amp;rft_id=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2009%2F09%2F090922095816.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-PetersonEschmeyer1999-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-PetersonEschmeyer1999_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPetersonEschmeyerHerald1999" class="citation book cs1"><a href="/wiki/Roger_Tory_Peterson" title="Roger Tory Peterson">Peterson, Roger Tory</a>; Eschmeyer, William N.; Herald, Earl S. (1 September 1999). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=h_6RNzCo6lAC&amp;pg=PA13"><i>A Field Guide to Pacific Coast Fishes: North America</i></a>. Houghton Mifflin Harcourt. p.&#160;13. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-618-00212-X" title="Special:BookSources/0-618-00212-X"><bdi>0-618-00212-X</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Field+Guide+to+Pacific+Coast+Fishes%3A+North+America&amp;rft.pages=13&amp;rft.pub=Houghton+Mifflin+Harcourt&amp;rft.date=1999-09-01&amp;rft.isbn=0-618-00212-X&amp;rft.aulast=Peterson&amp;rft.aufirst=Roger+Tory&amp;rft.au=Eschmeyer%2C+William+N.&amp;rft.au=Herald%2C+Earl+S.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dh_6RNzCo6lAC%26pg%3DPA13&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFTozerDagit2004" class="citation book cs1">Tozer, Helen; Dagit, Dominique D. (2004). <a rel="nofollow" class="external text" href="https://02af4cce-a-62cb3a1a-s-sites.googlegroups.com/site/elasmobranchhusbandry/Chapter33-HusbandryofSpottedRatfish.pdf">"Chapter 33: Husbandry of Spotted Ratfish, <i>Hydrolagus colliei</i>"</a> <span class="cs1-format">(PDF)</span>.  In Smith, Mark; Warmolts, Doug; Thoney, Dennis; Heuter, Robert (eds.). <i>Elasmobranch Husbandry Manual: Captive Care of Sharks, Rays, and their Relatives</i>. Ohio Biological Survey. pp.&#160;487–491. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-86727-152-3" title="Special:BookSources/0-86727-152-3"><bdi>0-86727-152-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+33%3A+Husbandry+of+Spotted+Ratfish%2C+Hydrolagus+colliei&amp;rft.btitle=Elasmobranch+Husbandry+Manual%3A+Captive+Care+of+Sharks%2C+Rays%2C+and+their+Relatives&amp;rft.pages=487-491&amp;rft.pub=Ohio+Biological+Survey&amp;rft.date=2004&amp;rft.isbn=0-86727-152-3&amp;rft.aulast=Tozer&amp;rft.aufirst=Helen&amp;rft.au=Dagit%2C+Dominique+D.&amp;rft_id=https%3A%2F%2F02af4cce-a-62cb3a1a-s-sites.googlegroups.com%2Fsite%2Felasmobranchhusbandry%2FChapter33-HusbandryofSpottedRatfish.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged July 2021">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-EoF-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-EoF_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EoF_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EoF_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFStevensLast1998" class="citation book cs1">Stevens, John; Last, Peter R. (1998).  Paxton, John R.; Eschmeyer, William N. (eds.). <i>Encyclopedia of Fishes</i>. San Diego: Academic Press. p.&#160;69. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-547665-5" title="Special:BookSources/0-12-547665-5"><bdi>0-12-547665-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Fishes&amp;rft.place=San+Diego&amp;rft.pages=69&amp;rft.pub=Academic+Press&amp;rft.date=1998&amp;rft.isbn=0-12-547665-5&amp;rft.aulast=Stevens&amp;rft.aufirst=John&amp;rft.au=Last%2C+Peter+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-BullockHartline2012-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-BullockHartline2012_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBullockHartlineKalmijnLaurent2012" class="citation book cs1">Bullock, T. H.; Hartline, R. H.; Kalmijn, A. J.; Laurent, P.; Murray, R. W.; Scheich, H.; Schwartz, E.; Szabo, T. (6 December 2012).  Fessard, A. (ed.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=wq3tCAAAQBAJ&amp;pg=PA125"><i>Electroreceptors and Other Specialized Receptors in Lower Vertebrates</i></a>. Springer Science &amp; Business Media. p.&#160;125. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-65926-3" title="Special:BookSources/978-3-642-65926-3"><bdi>978-3-642-65926-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Electroreceptors+and+Other+Specialized+Receptors+in+Lower+Vertebrates&amp;rft.pages=125&amp;rft.pub=Springer+Science+%26+Business+Media&amp;rft.date=2012-12-06&amp;rft.isbn=978-3-642-65926-3&amp;rft.aulast=Bullock&amp;rft.aufirst=T.+H.&amp;rft.au=Hartline%2C+R.+H.&amp;rft.au=Kalmijn%2C+A.+J.&amp;rft.au=Laurent%2C+P.&amp;rft.au=Murray%2C+R.+W.&amp;rft.au=Scheich%2C+H.&amp;rft.au=Schwartz%2C+E.&amp;rft.au=Szabo%2C+T.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dwq3tCAAAQBAJ%26pg%3DPA125&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMadrigal2009" class="citation magazine cs1"><a href="/wiki/Alexis_Madrigal" title="Alexis Madrigal">Madrigal, Alexis</a> (22 September 2009). <a rel="nofollow" class="external text" href="https://www.wired.com/2009/09/ghostshark/">"Freaky New Ghostshark ID'd Off California Coast"</a>. <i>Wired</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2018</span>. <q>...&#160;Perhaps the most intriguing feature of the newly described species, <i>Hydrolagus melanophasma</i>, is a presumed sexual organ that extends from its forehead called a tentaculum.&#160;...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wired&amp;rft.atitle=Freaky+New+Ghostshark+ID%27d+Off+California+Coast&amp;rft.date=2009-09-22&amp;rft.aulast=Madrigal&amp;rft.aufirst=Alexis&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2009%2F09%2Fghostshark%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nature.com/articles/s41598-020-75545-0">A unique mineralization mode of hypermineralized pleromin in the tooth plate of Chimaera phantasma contributes to its microhardness</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFInoueMiyaLamTay2010" class="citation journal cs1">Inoue, Jun G.; Miya, Masaki; Lam, Kevin; Tay, Boon-Hui; Danks, Janine A.; Bell, Justin; Walker, Terrence I.; Venkatesh, Byrappa (November 2010). <a rel="nofollow" class="external text" href="https://academic.oup.com/mbe/article/27/11/2576/1121974">"Evolutionary Origin and Phylogeny of the Modern Holocephalans (Chondrichthyes: Chimaeriformes): A Mitogenomic Perspective"</a>. <i>Molecular Biology and Evolution</i>. <b>27</b> (11): 2576–2586. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fmolbev%2Fmsq147">10.1093/molbev/msq147</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/20551041">20551041</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Molecular+Biology+and+Evolution&amp;rft.atitle=Evolutionary+Origin+and+Phylogeny+of+the+Modern+Holocephalans+%28Chondrichthyes%3A+Chimaeriformes%29%3A+A+Mitogenomic+Perspective&amp;rft.volume=27&amp;rft.issue=11&amp;rft.pages=2576-2586&amp;rft.date=2010-11&amp;rft_id=info%3Adoi%2F10.1093%2Fmolbev%2Fmsq147&amp;rft_id=info%3Apmid%2F20551041&amp;rft.aulast=Inoue&amp;rft.aufirst=Jun+G.&amp;rft.au=Miya%2C+Masaki&amp;rft.au=Lam%2C+Kevin&amp;rft.au=Tay%2C+Boon-Hui&amp;rft.au=Danks%2C+Janine+A.&amp;rft.au=Bell%2C+Justin&amp;rft.au=Walker%2C+Terrence+I.&amp;rft.au=Venkatesh%2C+Byrappa&amp;rft_id=https%3A%2F%2Facademic.oup.com%2Fmbe%2Farticle%2F27%2F11%2F2576%2F1121974&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFLebedevPopovBagirovBolshiyanov2021" class="citation journal cs1">Lebedev, Oleg A.; Popov, Evgeny V.; Bagirov, Sergey V.; Bolshiyanov, Igor P.; Kadyrov, Rail I.; Statsenko, Evgeny O. (2021-10-21). <a rel="nofollow" class="external text" href="https://doi.org/10.1080/14772019.2021.1977732">"The earliest chimaeriform fish from the Carboniferous of Central Russia"</a>. <i>Journal of Systematic Palaeontology</i>. <b>19</b> (12): 821–846. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1080%2F14772019.2021.1977732">10.1080/14772019.2021.1977732</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1477-2019">1477-2019</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:239509836">239509836</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Systematic+Palaeontology&amp;rft.atitle=The+earliest+chimaeriform+fish+from+the+Carboniferous+of+Central+Russia&amp;rft.volume=19&amp;rft.issue=12&amp;rft.pages=821-846&amp;rft.date=2021-10-21&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A239509836%23id-name%3DS2CID&amp;rft.issn=1477-2019&amp;rft_id=info%3Adoi%2F10.1080%2F14772019.2021.1977732&amp;rft.aulast=Lebedev&amp;rft.aufirst=Oleg+A.&amp;rft.au=Popov%2C+Evgeny+V.&amp;rft.au=Bagirov%2C+Sergey+V.&amp;rft.au=Bolshiyanov%2C+Igor+P.&amp;rft.au=Kadyrov%2C+Rail+I.&amp;rft.au=Statsenko%2C+Evgeny+O.&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1080%2F14772019.2021.1977732&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFGottfriedFordyce2015" class="citation journal cs1">Gottfried, Michael D.; Fordyce, R. Ewan (2015-05-04). <a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/full/10.1080/14772019.2014.880752">"A Late Triassic chimaeroid egg capsule from New Zealand: early evidence of chimaeroid reproductive mode from the eastern margin of Gondwana"</a>. <i>Journal of Systematic Palaeontology</i>. <b>13</b> (5): 371–375. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1080%2F14772019.2014.880752">10.1080/14772019.2014.880752</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1477-2019">1477-2019</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:128402250">128402250</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Systematic+Palaeontology&amp;rft.atitle=A+Late+Triassic+chimaeroid+egg+capsule+from+New+Zealand%3A+early+evidence+of+chimaeroid+reproductive+mode+from+the+eastern+margin+of+Gondwana&amp;rft.volume=13&amp;rft.issue=5&amp;rft.pages=371-375&amp;rft.date=2015-05-04&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A128402250%23id-name%3DS2CID&amp;rft.issn=1477-2019&amp;rft_id=info%3Adoi%2F10.1080%2F14772019.2014.880752&amp;rft.aulast=Gottfried&amp;rft.aufirst=Michael+D.&amp;rft.au=Fordyce%2C+R.+Ewan&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F14772019.2014.880752&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPopovDelsateFelten2019" class="citation journal cs1">Popov, Evgeny V.; Delsate, Dominique; Felten, Roland (2019-07-02). <a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/334183749">"A New Callorhinchid Genus (Holocephali, Chimaeroidei) from the Early Bajocian of Ottange-Rumelange, on the Luxembourg-French Border"</a>. <i>Paleontological Research</i>. <b>23</b> (3): 220. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2517%2F2018PR021">10.2517/2018PR021</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1342-8144">1342-8144</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:198423356">198423356</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Paleontological+Research&amp;rft.atitle=A+New+Callorhinchid+Genus+%28Holocephali%2C+Chimaeroidei%29+from+the+Early+Bajocian+of+Ottange-Rumelange%2C+on+the+Luxembourg-French+Border&amp;rft.volume=23&amp;rft.issue=3&amp;rft.pages=220&amp;rft.date=2019-07-02&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A198423356%23id-name%3DS2CID&amp;rft.issn=1342-8144&amp;rft_id=info%3Adoi%2F10.2517%2F2018PR021&amp;rft.aulast=Popov&amp;rft.aufirst=Evgeny+V.&amp;rft.au=Delsate%2C+Dominique&amp;rft.au=Felten%2C+Roland&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F334183749&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFFinucciCheokEbertHerman2021" class="citation journal cs1">Finucci, Brittany; Cheok, Jessica; Ebert, David A.; Herman, Katelyn; Kyne, Peter M.; Dulvy, Nicholas K. (2021). <a rel="nofollow" class="external text" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12526">"Ghosts of the deep – Biodiversity, fisheries, and extinction risk of ghost sharks"</a>. <i>Fish and Fisheries</i>. <b>22</b> (2): 391–412. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Ffaf.12526">10.1111/faf.12526</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1467-2979">1467-2979</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:229433827">229433827</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fish+and+Fisheries&amp;rft.atitle=Ghosts+of+the+deep+%E2%80%93+Biodiversity%2C+fisheries%2C+and+extinction+risk+of+ghost+sharks&amp;rft.volume=22&amp;rft.issue=2&amp;rft.pages=391-412&amp;rft.date=2021&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A229433827%23id-name%3DS2CID&amp;rft.issn=1467-2979&amp;rft_id=info%3Adoi%2F10.1111%2Ffaf.12526&amp;rft.aulast=Finucci&amp;rft.aufirst=Brittany&amp;rft.au=Cheok%2C+Jessica&amp;rft.au=Ebert%2C+David+A.&amp;rft.au=Herman%2C+Katelyn&amp;rft.au=Kyne%2C+Peter+M.&amp;rft.au=Dulvy%2C+Nicholas+K.&amp;rft_id=https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2Fabs%2F10.1111%2Ffaf.12526&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChimaera" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Iglésias, S.P., Kemper, J.M. &amp; Naylor, G.J.P. Chimaera compacta, a new species from southern Indian Ocean, and an estimate of phylogenetic relationships within the genus Chimaera (Chondrichthyes: Chimaeridae). Ichthyol Res 69, 31–45 (2022). <a rel="nofollow" class="external free" href="https://doi.org/10.1007/s10228-021-00810-9">https://doi.org/10.1007/s10228-021-00810-9</a></span>
+</li>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r1097025294">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox">
+<div class="side-box-flex">
+<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Chimaeriformes" class="extiw" title="commons:Category:Chimaeriformes">Chimaeriformes</a></span>.</div></div>
+</div>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Extant_cartilaginous_fish_orders" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Chondrichthyes" title="Template:Chondrichthyes"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chondrichthyes" title="Template talk:Chondrichthyes"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Chondrichthyes&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Extant_cartilaginous_fish_orders" style="font-size:114%;margin:0 4em">Extant <a href="/wiki/Chondrichthyes" title="Chondrichthyes">cartilaginous fish</a> orders</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Kingdom_Animalia_*_Phylum_Chordata_*_Subphylum_Vertebrata_*_Infraphylum_Gnathostomata">
+<ul><li>Kingdom <a href="/wiki/Animalia" class="mw-redirect" title="Animalia">Animalia</a></li>
+<li>Phylum <a href="/wiki/Chordata" class="mw-redirect" title="Chordata">Chordata</a></li>
+<li>Subphylum <a href="/wiki/Vertebrata" class="mw-redirect" title="Vertebrata">Vertebrata</a></li>
+<li>Infraphylum <a href="/wiki/Gnathostomata" title="Gnathostomata">Gnathostomata</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Elasmobranchii" title="Elasmobranchii">Elasmobranchii</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Shark" title="Shark">Selachii (sharks)</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Hexanchiformes" title="Hexanchiformes">Hexanchiformes (frilled and cow sharks)</a></li>
+<li><a href="/wiki/Squaliformes" title="Squaliformes">Squaliformes (dogfish sharks)</a></li>
+<li><a href="/wiki/Sawsharks" class="mw-redirect" title="Sawsharks">Pristiophoriformes (sawsharks)</a></li>
+<li><a href="/wiki/Angel_shark" class="mw-redirect" title="Angel shark">Squatiniformes (angel sharks)</a></li>
+<li><a href="/wiki/Bullhead_shark" title="Bullhead shark">Heterodontiformes (bullhead sharks)</a></li>
+<li><a href="/wiki/Carpet_shark" title="Carpet shark">Orectolobiformes (carpet sharks)</a></li>
+<li><a href="/wiki/Carcharhiniformes" title="Carcharhiniformes">Carcharhiniformes (ground sharks)</a></li>
+<li><a href="/wiki/Lamniformes" title="Lamniformes">Lamniformes (mackerel sharks)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Batoidea" title="Batoidea">Batoidea (rays)</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Electric_ray" title="Electric ray">Torpediniformes (electric rays)</a></li>
+<li><a href="/wiki/Sawfish" title="Sawfish">Pristiformes (sawfishes)</a></li>
+<li><a href="/wiki/Rajiformes" title="Rajiformes">Rajiformes (skates and guitarfishes)</a></li>
+<li><a href="/wiki/Myliobatiformes" title="Myliobatiformes">Myliobatiformes (stingrays and relatives)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Holocephali" title="Holocephali">Holocephali</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Chimaeriformes (chimaeras)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q5290058" class="extiw" title="wikidata:Q5290058">Q5290058</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Chimaeriformes" class="extiw" title="wikispecies:Chimaeriformes">Chimaeriformes</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Chimaeriformes/">Chimaeriformes</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Chimaeriformes">Chimaeriformes</a></span></span></li>
+<li><span style="white-space:nowrap;">BioLib: <span class="uid"><a rel="nofollow" class="external text" href="https://www.biolib.cz/en/taxon/id15396">15396</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=227">227</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/X9">X9</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eol.org/pages/8902">8902</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=34790">34790</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/880">880</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/60451">60451</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=11054">11054</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=161009">161009</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000173046">NBNSYS0000173046</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=7864">7864</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a rel="nofollow" class="external text" href="https://www.nzor.org.nz/names/f0e70598-5386-4bdf-b1c7-21b8f17caf06">f0e70598-5386-4bdf-b1c7-21b8f17caf06</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Plazi" title="Plazi">Plazi</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://treatment.plazi.org/id/03A3DB49-C050-B83F-82E7-C4FAFE187CBB">03A3DB49-C050-B83F-82E7-C4FAFE187CBB</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=10217">10217</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5290058#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control:_National_libraries_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5290058#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control: National libraries</a>  <a href="https://www.wikidata.org/wiki/Q5290058#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4609156-7">Germany</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1454
+Cached time: 20221023042416
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.733 seconds
+Real time usage: 0.981 seconds
+Preprocessor visited node count: 16405/1000000
+Post‐expand include size: 105429/2097152 bytes
+Template argument size: 22984/2097152 bytes
+Highest expansion depth: 24/100
+Expensive parser function count: 23/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49656/5000000 bytes
+Lua time usage: 0.470/10.000 seconds
+Lua memory usage: 10000645/52428800 bytes
+Number of Wikibase entities loaded: 17/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  878.630      1 -total
+ 33.38%  293.296      1 Template:Automatic_taxobox
+ 21.54%  189.250      1 Template:Taxonbar
+ 18.05%  158.601      1 Template:Reflist
+ 13.66%  120.016      1 Template:Fossil_range
+ 11.79%  103.619      1 Template:Phanerozoic_220px
+ 10.27%   90.228     38 Template:Period_start
+ 10.09%   88.642     11 Template:Fossil_range/bar
+  8.05%   70.722     39 Template:Period_id
+  7.24%   63.576      1 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:490225-0!canonical and timestamp 20221023042415 and revision id 1117261556.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chimaera&amp;oldid=1117261556">https://en.wikipedia.org/w/index.php?title=Chimaera&amp;oldid=1117261556</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chimaeriformes" title="Category:Chimaeriformes">Chimaeriformes</a></li><li><a href="/wiki/Category:Extant_Early_Devonian_first_appearances" title="Category:Extant Early Devonian first appearances">Extant Early Devonian first appearances</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2021" title="Category:Articles with dead external links from July 2021">Articles with dead external links from July 2021</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chimaera" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chimaera" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Chimaera" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Chimaera" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Chimaera"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Chimaera&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Chimaera&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Chimaera" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Chimaera" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Chimaera&amp;oldid=1117261556" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Chimaera&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chimaera&amp;id=1117261556&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5290058" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Chimaera&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Chimaera&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Chimaeriformes" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Chimaeriformes" hreflang="en"><span>Wikispecies</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AE%D8%B1%D8%A7%D9%81%D9%8A%D8%A7%D8%AA_(%D8%B3%D9%85%D9%83)" title="خرافيات (سمك) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Ximerkimil%C9%99r" title="Ximerkimilər – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A5%D1%96%D0%BC%D0%B5%D1%80%D0%B0%D0%BF%D0%B0%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D1%8F" title="Хімерападобныя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A5%D1%96%D0%BC%D1%8D%D1%80%D0%B0%D0%BF%D0%B0%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D1%8F" title="Хімэрападобныя – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Himere" title="Himere – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Quimeres_(peixos)" title="Quimeres (peixos) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Kim%C3%A6rer_(fisk)" title="Kimærer (fisk) – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Seekatzen" title="Seekatzen – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-nv mw-list-item"><a href="https://nv.wikipedia.org/wiki/%C5%81%C3%B3%C3%B3%CA%BC_hashk%C3%A9h%C3%A9chil%C3%AD" title="Łóóʼ hashkéhéchilí – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target"><span>Diné bizaad</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/%C4%A4imero_(fi%C5%9Do)" title="Ĥimero (fiŝo) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%88%D8%B4%E2%80%8C%D9%85%D8%A7%D9%87%DB%8C" title="موش‌ماهی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Draakfisken" title="Draakfisken – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Cim%C3%A9ara_(iasc)" title="Ciméara (iasc) – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9D%80%EC%83%81%EC%96%B4%EB%AA%A9" title="은상어목 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%94%D5%AB%D5%B4%D5%A5%D6%80%D5%A1%D5%B6%D5%B4%D5%A1%D5%B6%D5%B6%D5%A5%D6%80" title="Քիմերանմաններ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Himere_(ribe)" title="Himere (ribe) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9B%D7%99%D7%9E%D7%A8%D7%90%D7%99%D7%9D" title="כימראים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B3%88%E0%B2%AE%E0%B3%80%E0%B2%B0_%E0%B2%AE%E0%B3%80%E0%B2%A8%E0%B3%81" title="ಕೈಮೀರ ಮೀನು – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B5%D1%80%D0%BB%D1%96%D0%BA%D1%82%D0%B5%D1%80" title="Химерліктер – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Chimer%C5%BEuv%C4%97s" title="Chimeržuvės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Tengerimacska-alak%C3%BAak" title="Tengerimacska-alakúak – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B5%D1%80%D0%B0" title="Химера – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%BF%E0%B4%AE%E0%B5%87%E0%B4%B0%E0%B4%B8%E0%B5%8D" title="ചിമേരസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Draakvissen" title="Draakvissen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%B3%E3%82%B6%E3%83%A1%E7%9B%AE" title="ギンザメ目 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Draagfasker" title="Draagfasker – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Helhodefisker" title="Helhodefisker – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Heilhovudfiskar" title="Heilhovudfiskar – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%AE%D9%8A%D9%85%D9%8A%D8%B1%D8%A7%D9%86" title="خيميران – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Chimerokszta%C5%82tne" title="Chimerokształtne – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Quimeriformes" title="Quimeriformes – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Химерообразные – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Chimaera_(fish)" title="Chimaera (fish) – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B5%D1%80%D0%B5" title="Химере – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Himere_(ribe)" title="Himere (ribe) – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Sillikuningaskalat" title="Sillikuningaskalat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Havsmusartade_fiskar" title="Havsmusartade fiskar – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%B2%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%B1%E0%AE%BE_(%E0%AE%B5%E0%AE%95%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%81)" title="கலப்புச்சுறா (வகைப்பாடு) – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%B2" title="ปลาคิเมียรา – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/S%C4%B1%C3%A7ans%C4%B1lar_(bal%C4%B1k)" title="Sıçansılar (balık) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D1%96" title="Химероподібні – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Chimaeriformes" title="Chimaeriformes – Waray" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%93%B6%E9%B2%9B%E7%9B%AE" title="银鲛目 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5290058#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 20 October 2022, at 19:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chimaera&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.733","walltime":"0.981","ppvisitednodes":{"value":16405,"limit":1000000},"postexpandincludesize":{"value":105429,"limit":2097152},"templateargumentsize":{"value":22984,"limit":2097152},"expansiondepth":{"value":24,"limit":100},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49656,"limit":5000000},"entityaccesscount":{"value":17,"limit":400},"timingprofile":["100.00%  878.630      1 -total"," 33.38%  293.296      1 Template:Automatic_taxobox"," 21.54%  189.250      1 Template:Taxonbar"," 18.05%  158.601      1 Template:Reflist"," 13.66%  120.016      1 Template:Fossil_range"," 11.79%  103.619      1 Template:Phanerozoic_220px"," 10.27%   90.228     38 Template:Period_start"," 10.09%   88.642     11 Template:Fossil_range/bar","  8.05%   70.722     39 Template:Period_id","  7.24%   63.576      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.470","limit":"10.000"},"limitreport-memusage":{"value":10000645,"limit":52428800}},"cachereport":{"origin":"mw1454","timestamp":"20221023042416","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chimaera","url":"https:\/\/en.wikipedia.org\/wiki\/Chimaera","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5290058","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5290058","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-26T19:30:16Z","dateModified":"2022-10-20T19:34:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Hydrolagus_colliei.jpg","headline":"cartilaginous fish in the order Chimaeriformes"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chimaera","url":"https:\/\/en.wikipedia.org\/wiki\/Chimaera","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5290058","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5290058","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-26T19:30:16Z","dateModified":"2022-10-20T19:34:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Hydrolagus_colliei.jpg","headline":"cartilaginous fish in the order Chimaeriformes"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1451"});});</script>
+</body>
+</html>

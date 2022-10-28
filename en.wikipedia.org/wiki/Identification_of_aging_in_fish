@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Age determination in fish - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d47adb16-5d58-42c6-946b-f695194d6fec","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Age_determination_in_fish","wgTitle":"Age determination in fish","wgCurRevisionId":1107065137,"wgRevisionId":1107065137,"wgArticleId":31632332,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Fish anatomy","Senescence in non-human organisms"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Age_determination_in_fish","wgRelevantArticleId":31632332,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Identification_of_aging_in_fish","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Age_determination_in_fish","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q5988221","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":
+"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks",
+"ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/0c/Removing_a_red_snapper_otolith.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="900"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/0c/Removing_a_red_snapper_otolith.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="600"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="480"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Age determination in fish - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Age_determination_in_fish"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Age_determination_in_fish&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Age_determination_in_fish"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Age_determination_in_fish rootpage-Age_determination_in_fish skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Age determination in fish</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Identification_of_aging_in_fish&amp;redirect=no" class="mw-redirect" title="Identification of aging in fish">Identification of aging in fish</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Removing_a_red_snapper_otolith.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Removing_a_red_snapper_otolith.jpg/300px-Removing_a_red_snapper_otolith.jpg" decoding="async" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Removing_a_red_snapper_otolith.jpg/450px-Removing_a_red_snapper_otolith.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0c/Removing_a_red_snapper_otolith.jpg 2x" data-file-width="480" data-file-height="360" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Removing_a_red_snapper_otolith.jpg" class="internal" title="Enlarge"></a></div>Removing an <a href="/wiki/Otolith" title="Otolith">otolith</a> from a <a href="/wiki/Lutjanus_campechanus" class="mw-redirect" title="Lutjanus campechanus">red snapper</a> to determine its age</div></div></div>
+<p>Knowledge of fish age characteristics is necessary for stock assessments, and to develop management or conservation plans. Size is generally associated with age; however, there are variations in size at any particular age for most fish species making it difficult to estimate one from the other with precision.<sup id="cite_ref-Helfman_1-0" class="reference"><a href="#cite_note-Helfman-1">&#91;1&#93;</a></sup> Therefore, researchers interested in determining a fish age look for structures which increase incrementally with age. The most commonly used techniques involve counting natural growth rings on the <a href="/wiki/Fish_scale" title="Fish scale">scales</a>, <a href="/wiki/Otoliths" class="mw-redirect" title="Otoliths">otoliths</a>, <a href="/wiki/Fish_vertebra" class="mw-redirect" title="Fish vertebra">vertebrae</a>, <a href="/wiki/Fish_fin" title="Fish fin">fin spines</a>, <a href="/wiki/Vision_in_fishes" class="mw-redirect" title="Vision in fishes">eye lenses</a>, teeth, or <a href="/wiki/Fish_jaw" title="Fish jaw">bones of the jaw</a>, pectoral girdle, and <a href="/wiki/Operculum_(fish)" title="Operculum (fish)">opercular series</a>.<sup id="cite_ref-Helfman_1-1" class="reference"><a href="#cite_note-Helfman-1">&#91;1&#93;</a></sup> Even reliable aging techniques may vary among species; often, several different bony structures are compared among a population in order to determine the most accurate method.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Analysis_of_ages"><span class="tocnumber">2</span> <span class="toctext">Analysis of ages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Aging_structures_and_techniques"><span class="tocnumber">3</span> <span class="toctext">Aging structures and techniques</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Scales"><span class="tocnumber">3.1</span> <span class="toctext">Scales</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Otoliths"><span class="tocnumber">3.2</span> <span class="toctext">Otoliths</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Calcified_or_bony_structures"><span class="tocnumber">3.3</span> <span class="toctext">Calcified or bony structures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Analyzing_age_class_structure"><span class="tocnumber">4</span> <span class="toctext">Analyzing age class structure</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1096954695/mw-parser-output/.tmulti">.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner multiimageinner" style="width:224px;max-width:224px"><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/File:Oldest_freshwater_drum_sagittal_otolith.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oldest_freshwater_drum_sagittal_otolith.jpg/220px-Oldest_freshwater_drum_sagittal_otolith.jpg" decoding="async" width="220" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oldest_freshwater_drum_sagittal_otolith.jpg/330px-Oldest_freshwater_drum_sagittal_otolith.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oldest_freshwater_drum_sagittal_otolith.jpg/440px-Oldest_freshwater_drum_sagittal_otolith.jpg 2x" data-file-width="1360" data-file-height="1024" /></a></div><div class="thumbcaption">Sagittal otolith from a 74-year-old (84-YO?) <a href="/wiki/Freshwater_drum" title="Freshwater drum">freshwater drum</a>, <i>Aplodinotus grunniens</i></div></div></div><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/File:Fish_otolith_on_sectioning_saw_-_USGS.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fish_otolith_on_sectioning_saw_-_USGS.jpg/220px-Fish_otolith_on_sectioning_saw_-_USGS.jpg" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fish_otolith_on_sectioning_saw_-_USGS.jpg/330px-Fish_otolith_on_sectioning_saw_-_USGS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fish_otolith_on_sectioning_saw_-_USGS.jpg/440px-Fish_otolith_on_sectioning_saw_-_USGS.jpg 2x" data-file-width="4320" data-file-height="3240" /></a></div><div class="thumbcaption">Fish otolith on a sectioning saw</div></div></div></div></div>
+<p>Aristotle (ca. 340 B.C.) may have been the first scientist to speculate on the use of hard parts of fishes to determine age, stating in <i>Historica Animalium</i> that “the age of a scaly fish may be told by the size and hardness of its scales.”<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  However, it wasn't until the development of the microscope that more detailed studies were performed on the structure of scales.<sup id="cite_ref-Jackson_5-0" class="reference"><a href="#cite_note-Jackson-5">&#91;5&#93;</a></sup> <a href="/wiki/Antonie_van_Leeuwenhoek" title="Antonie van Leeuwenhoek">Antonie van Leeuwenhoek</a> developed improved lenses which he went use in his creation of microscopes. He had a wide range of interests including the structure of fish scales from the <a href="/wiki/European_eel" title="European eel">European eel</a> (<i>Anguilla anguilla</i>) and the <a href="/wiki/Burbot" title="Burbot">burbot</a> (<i>Lota lota</i>), species which were previously thought not to have scales.<sup id="cite_ref-Jackson_5-1" class="reference"><a href="#cite_note-Jackson-5">&#91;5&#93;</a></sup> He observed that the scales contained “circular lines” and that each scale had the same number of these lines, and correctly inferred that the number of lines correlated to the age of the fish. He also correctly associated the darker areas of scale growth to the season of slowed growth, a characteristic he had previously observed in tree trunks. Leeuwenhoek's work went widely undiscovered by fisheries researchers, and the discovery of fish aging structures is widely credited to Hans Hederström (e.g., Ricker 1975). Hederström examined the vertebrae of <a href="/wiki/Esox_lucius" class="mw-redirect" title="Esox lucius">pike</a> (<i>Esox lucius</i>) and concluded that each contained growth rings which could then be used to determine the fish's age.<sup id="cite_ref-Jackson_5-2" class="reference"><a href="#cite_note-Jackson-5">&#91;5&#93;</a></sup> In 1859, Robert Bell reported that one could use these growth rings to reliably determine the age of all fish after examination of <a href="/wiki/Catostomidae" title="Catostomidae">sucker</a> (<i>Catastomus sp.</i>) vertebrae and <a href="/wiki/Yellow_perch" title="Yellow perch">yellow perch</a> (<i>Perca flavescens</i>) scales that he raised in a pond for two years showed “two rings or circles.”
+</p><p>In 1898, more than 200 years after Leewenhoek's original insights of scale age structure, this subject was given a thorough review by C. Hoffbauer.<sup id="cite_ref-Jackson_5-3" class="reference"><a href="#cite_note-Jackson-5">&#91;5&#93;</a></sup>  Hoffbauer studied commercially grown carp scale growth patterns throughout the year. He noted that during the season of growth, the concentric rings were easily discernible and widely spaced; however, as growth slowed and ceased during the winter months the rings were very compact then resumed normal spacing as the growth season began again. His work convinced other researchers that these aging techniques could be used on marine species. 
+Shortly after Hoffbauer's findings were published, structures other than scales were examined for utility of aging fish. Johannes Reibisch, working for the Commission of Scientific Investigation of German Seas at Kiel, attempted to use Hoffbauer's techniques to age <a href="/wiki/European_plaice" title="European plaice">plaice</a> (<i>Plueronectes platessa</i>) but found it difficult to accurately discern annuli. He decided to study a different structure and in 1899 he published the first procedures using otoliths as an aging structure.<sup id="cite_ref-Jackson_5-4" class="reference"><a href="#cite_note-Jackson-5">&#91;5&#93;</a></sup>  A fellow scientist also with the German Commission at Kiel, Friedriche Heincke, also frustrated with difficult scale annuli, further studied other structures to age fish. He discovered annuli in the vertebrae, opercula, and pectoral girdle and published his findings in Heicke 1905.
+</p><p>The works of Hoffbauer, Reibisch, and Heinke are most often cited as establishing scales, otoliths, and bony structures as viable aging structures. Further, Tereshenko (1913) is credited as the first to use <a href="/wiki/Cleithra" class="mw-redirect" title="Cleithra">cleithra</a> aging techniques on <a href="/wiki/Common_roach" title="Common roach">roach</a>; and Holtzmeyer (1924) with using <a href="/wiki/Fin_ray" class="mw-redirect" title="Fin ray">fin rays</a> to age <a href="/wiki/Sturgeon" title="Sturgeon">sturgeon</a>.
+</p>
+<h2><span class="mw-headline" id="Analysis_of_ages">Analysis of ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=2" title="Edit section: Analysis of ages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Not long after Hoffbauer's and Reibisch's findings were published, aging was used in fishery assessments of the early 1900s. One of the first to focus on the applications of fish aging was the Norwegian fisheries scientist <a href="/wiki/Johan_Hjort" title="Johan Hjort">Johan Hjort</a>. Focusing on fish scales, Hjort developed an extensive aging program collecting statistics on birth rate, age-distribution and migration.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Hjort's research elicited debate from the biomathematician <a href="/wiki/D%E2%80%99Arcy_Wentworth_Thompson" class="mw-redirect" title="D’Arcy Wentworth Thompson">D’Arcy Wentworth Thompson</a>, who later rescinded his criticisms. His research otherwise received glowing praise and would lead to fundamental changes in the way fish populations were studied and managed.<sup id="cite_ref-Jackson_5-5" class="reference"><a href="#cite_note-Jackson-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Aging_structures_and_techniques">Aging structures and techniques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=3" title="Edit section: Aging structures and techniques">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1096954695/mw-parser-output/.tmulti"/><div class="thumb tmulti tright"><div class="thumbinner multiimageinner" style="width:224px;max-width:224px"><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/File:PSM_V35_D074_Scale_of_common_carp.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/PSM_V35_D074_Scale_of_common_carp.jpg/220px-PSM_V35_D074_Scale_of_common_carp.jpg" decoding="async" width="220" height="214" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/PSM_V35_D074_Scale_of_common_carp.jpg/330px-PSM_V35_D074_Scale_of_common_carp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/PSM_V35_D074_Scale_of_common_carp.jpg/440px-PSM_V35_D074_Scale_of_common_carp.jpg 2x" data-file-width="1107" data-file-height="1078" /></a></div><div class="thumbcaption">Scale of a <a href="/wiki/Common_carp" class="mw-redirect" title="Common carp">common carp</a></div></div></div><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/File:Herringjuvenilekils.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herringjuvenilekils.jpg/220px-Herringjuvenilekils.jpg" decoding="async" width="220" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herringjuvenilekils.jpg/330px-Herringjuvenilekils.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herringjuvenilekils.jpg/440px-Herringjuvenilekils.jpg 2x" data-file-width="2339" data-file-height="1453" /></a></div><div class="thumbcaption">Still transparent juvenile <a href="/wiki/Herring" title="Herring">herring</a>. The otoliths are visible left of the eye.</div></div></div><div class="trow"><div class="tsingle" style="width:222px;max-width:222px"><div class="thumbimage"><a href="/wiki/File:Lingcodskeleton1600ppx.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lingcodskeleton1600ppx.JPG/220px-Lingcodskeleton1600ppx.JPG" decoding="async" width="220" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lingcodskeleton1600ppx.JPG/330px-Lingcodskeleton1600ppx.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lingcodskeleton1600ppx.JPG/440px-Lingcodskeleton1600ppx.JPG 2x" data-file-width="1614" data-file-height="974" /></a></div><div class="thumbcaption">Some bony structures such as fin rays and pectoral spines can be harvested without sacrificing the fish, unlike otoliths.</div></div></div></div></div>
+<h3><span class="mw-headline" id="Scales">Scales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=4" title="Edit section: Scales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Fish_scale" title="Fish scale">Fish scale</a></div>
+<p>Scales are the most widely used aging structure in North America because of their non-lethal ease of collection.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Counting the number of annuli (rings) on a scale provides the fish age and the spacing between rings is proportional to the growth of the fish.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;a&#93;</a></sup> The ease of collection of this aging structure is not without its tradeoffs, as the major bias of scales used as an age estimation structure is their tendency to underestimate the age of older fish.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Otoliths">Otoliths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=5" title="Edit section: Otoliths">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Otolith" title="Otolith">Otolith</a></div>
+<p>Fish otoliths are the earbones of a teleost (bony) fish and are present in pairs; fish have three pairs, the lapilli, the sagittae, astersci. These three pairs of otoliths in teleost fishes differ in form, function, size, shape, and ultrastructure. Otoliths function in fishes’ hearing, equilibrium, and acceleration. Otolith microstructural studies exist for 50 families and 135 species of fish and squid.<sup id="cite_ref-Secor_10-0" class="reference"><a href="#cite_note-Secor-10">&#91;9&#93;</a></sup> The size and shape of otoliths vary widely depending on the species. Without prior experience it is difficult to predict the exact size, shape, and position of a given species.<sup id="cite_ref-Secor_10-1" class="reference"><a href="#cite_note-Secor-10">&#91;9&#93;</a></sup> There is also interspecies variation, especially ontogenetic changes as a fish experiences growth. Otoliths are generally easier to read than scales and are more accurate, being internal and never reabsorbing like scales. Often the sagittae are analyzed for growth as they are the largest of the three otoliths and therefore easiest to remove. When preparing to analyze otoliths, generally if the otolith is &lt;300&#160;mm than it can be analyzed intact, when &gt;300&#160;mm otoliths contain too much three-dimensional material and must be sectioned to analyze it more clearly.<sup id="cite_ref-Secor_10-2" class="reference"><a href="#cite_note-Secor-10">&#91;9&#93;</a></sup>  The steps to preparing otoliths are to 1. Embed or mount the otolith 2. Section and polish 3. Store the otolith section safely.
+</p>
+<h3><span class="mw-headline" id="Calcified_or_bony_structures">Calcified or bony structures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=6" title="Edit section: Calcified or bony structures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The choice of <a href="/wiki/Calcified" class="mw-redirect" title="Calcified">calcified</a> or bony structures for aging varies among species, a structure used in one species may not be the same structure used in another. Not all bony structures lay down growth rings equally. Such bony structures used for age estimation are <a href="/wiki/Vertebrae" class="mw-redirect" title="Vertebrae">vertebrae</a>, <a href="/wiki/Operculum_(fish)" title="Operculum (fish)">opercula</a>, <a href="/wiki/Fin_ray" class="mw-redirect" title="Fin ray">fin rays</a>, pectoral spines, among others. Bony structures are often compared to otoliths as far as accuracy. Some bony structures such as fin rays and pectoral spines may be harvested without sacrificing the specimen, unlike otoliths.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;10&#93;</a></sup>  Preparation for bony parts involves first cleaning by soaking the structure in bleach or boiling to remove soft tissues. Depending on the size, shape, and structure of the calcified aging part it may be examined whole or more likely, sectioned. Estimation of annuli is similar to that of otoliths.
+</p>
+<h2><span class="mw-headline" id="Analyzing_age_class_structure">Analyzing age class structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=7" title="Edit section: Analyzing age class structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Age_class_structure" title="Age class structure">Age class structure</a></div>
+<p>Fish ages are often examined along with measurements of length and weight which combined can provide information on stock composition, age at maturity, life span, mortality, and production. Other purposes of performing age structure analysis are growth analysis, population dynamics estimates and resource management. Data from a particular study can delineate individuals into specific age classes. Exploited species often have the older, larger individuals removed from the population because they are the first removed by fishers leaving the younger smaller individuals. This effect may have serious consequences for that population. By performing age analysis studies we can identify these types of effects as well their implications to the status of the population.
+</p><p>Age structure analysis can be performed by the above methods which are the most direct, through estimates of length and weight, or a combination of both. Once the data is acquired and individuals are arranged in their respective age classes, one can attempt to attribute trends to the age distribution. For example, in Jaurequizar and Guerrero (2009), the researchers were examining the age structure of a population as a function of a period of four years which experienced varying environmental conditions (two average years to El Niño and La Niña years). The dominant age classes were affected by the environmental conditions.
+</p><p>While the age analysis has been around in some form for over 250 years, there has only more recently been a rapid advance in techniques and uses of this information. There are still efforts required to further validate these aging methods and to determine new techniques. As the population of the world's fish continues to decline due to exploitation age structure analysis data will only become more important as we to try understand multiple effects on population dynamics.
+</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Some examples and uses of scale aging can be found in <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181122005517/http://www.dnrec.delaware.gov/fw/Fisheries/Documents/agegrowth.pdf">"Fish scales tell a story..."</a> from the Delaware Division of Fish &amp; Wildlife.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734"/><div class="reflist reflist-columns references-column-width" style="column-width: 32em;">
+<ol class="references">
+<li id="cite_note-Helfman-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Helfman_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Helfman_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Helfman et al 1997</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Polat et al 2001</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Khan and Khan 2009</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Thompson 1910: Book VIII, Section 30</span>
+</li>
+<li id="cite_note-Jackson-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jackson_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jackson_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Jackson_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Jackson_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Jackson_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Jackson_5-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Jackson 2007</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">(Hjort 1914:11)</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Al-Absy and Carlander 1988</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Vandergoot 2008</span>
+</li>
+<li id="cite_note-Secor-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Secor_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Secor_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Secor_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Secor et al 1991</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Borkholder and Edwards 2001</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit&amp;section=10" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1054258005">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}</style><div class="refbegin refbegin-columns references-column-width" style="column-width: 32em">
+<ul><li>Helfman, G.S., Collette, B.B., and Facey, D.E. The Diversity of Fishes. Blackwell Science, 1997.</li>
+<li>Polat N, Bostanci D, Yilmaz S (2001) Comparable age determination in different bony structures of Pleuronectes flesus luscus Pallas, 1811 inhabiting the Black Sea. Turk J Zool 25:441–446.</li>
+<li>Khan, MA and Khan, S. (2009). Comparison of age estimates from scale, opercular bone, otolith, vertebrae and dorsal fin ray in Labeo rohita (Hamilton), Catla catla (Hamilton) and Channa marulius (Hamilton).Fish Res 100:255–259.</li>
+<li>Thompson, D. W. 1910. The works of Aristotle translated into English under the editorship of J. A. Smith, M. A. Waynette Professor of Moral and Metaphysical Philosophy Fellow of Magdalen College and W. D. Ross, M. A. Fellow of Oriel College, Volume IV, Historia Animalium by D’Arcy Wentworth Thompson. Clarendon Press, Oxford. Available <a rel="nofollow" class="external text" href="http://etext.virginia.edu/toc/modeng/public/AriHian.html">here</a></li>
+<li>Jackson J. 2007. Earliest references to age determination of fishes and their early application to the study of fisheries. Fisheries History. Fisheries. Vol 32:7.</li>
+<li>Tereschenko K., 1913. Voblya(Rutilusru tilus caspicu Jasck.)Its growth and prolificacy Works of the Astrakhan Ichthyological Laboratory 3(2):1-127. (Original not seen, information obtained from Jackson J. 2007).</li>
+<li>Holtzmayer, H. 1924. Zur Altersbestimmung der Acipenseriden. Zoologischer Anzeiger 59/60.16-18. (Original not seen, information summarized from Jackson 2007).</li>
+<li>Al-Absy, A.H. and K.D. Carlander. 1988. Criteria for selection of scale-sampling sites in growth studies of yellow perch. Transactions of the American Fisheries Society. 117:2, 209-212.</li>
+<li>Ricker, W. E. 1975. Computation and interpretation of biological statistics of fish populations. Fisheries Research Board of Canada Bulletin 191.</li>
+<li>Vandergoot, C S, Bur, MT and Powell, K A.(2008) Lake Erie Yellow Perch Age Estimation Based on Three Structures: Precision, Processing Times, and Management Implications, North American Journal of Fisheries Management, 28: 2, 563-571.</li>
+<li>Secor, D.H., Dean, J.M., and Laban, E.H. 1991. Otolith Removal and Preparation for Microstructural Examination: A User's Manual. Electric Power Research Institute and Belle W. Baruch Institute for Marine Biology and Coastal Research.</li>
+<li>Ma. B., Xie, C., Huo, B., Yang, X., and Li P. 2011. Age validation, and comparison of otolith, vertebra and opercular bone for estimating age of Schizothorax o’ connori in the Yarlung Tsangp River, Tibet. Environ Biol Fish. 90:159-169.</li>
+<li>Borkholder, B.D., and A.J. Edwards. 2001. North American Journal of Fisheries Management 21:935-942.</li>
+<li>Jaurequizar, A.J. and Guerrero, R. 2009. Striped weakfish (Cynoscion guatucupa) population structure in waters adjacent to Rio de la Plata, environmental influence on its inter-annual variability. Estuarine, Coastal and Shelf Science. Vol 85. 89-96.</li></ul>
+</div>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Fish" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Diversity_of_fish" title="Template:Diversity of fish"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Diversity_of_fish" title="Template talk:Diversity of fish"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Diversity_of_fish&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Fish" style="font-size:114%;margin:0 4em"><a href="/wiki/Fish" title="Fish">Fish</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About <a href="/wiki/Fish" title="Fish">fish</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Diversity_of_fish" title="Diversity of fish">Diversity</a></li>
+<li><a href="/wiki/Ethnoichthyology" title="Ethnoichthyology">Ethnoichthyology</a></li>
+<li><a href="/wiki/Evolution_of_fish" title="Evolution of fish">Evolution</a></li>
+<li><a href="/wiki/Fish_diseases_and_parasites" class="mw-redirect" title="Fish diseases and parasites">Diseases and parasites</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a></li>
+<li><a href="/wiki/Fishing" title="Fishing">Fishing</a></li>
+<li><a href="/wiki/Fish_as_food" title="Fish as food">-as food</a></li>
+<li><a href="/wiki/Fear_of_fish" title="Fear of fish">Fear of-</a></li>
+<li><a href="/wiki/FishBase" title="FishBase">FishBase</a></li>
+<li><a href="/wiki/Fish_kill" title="Fish kill">Fish kill</a></li>
+<li><a href="/wiki/Hypoxia_in_fish" title="Hypoxia in fish">Hypoxia in-</a></li>
+<li><a href="/wiki/Ichthyology" title="Ichthyology">Ichthyology</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="11" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Antennarius_striatus.jpg" class="image" title="Striated frogfish"><img alt="Striated frogfish" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antennarius_striatus.jpg/140px-Antennarius_striatus.jpg" decoding="async" width="140" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antennarius_striatus.jpg/210px-Antennarius_striatus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antennarius_striatus.jpg/280px-Antennarius_striatus.jpg 2x" data-file-width="340" data-file-height="209" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_anatomy" title="Fish anatomy">Anatomy</a><br /> and<br /><a href="/wiki/Fish_physiology" title="Fish physiology">physiology</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Age determination</a></li>
+<li><a href="/wiki/Anguilliformity" title="Anguilliformity">Anguilliformity</a></li>
+<li><a href="/wiki/Fish_bone" title="Fish bone">Bone</a>
+<ul><li><a href="/wiki/Dermal_bone" title="Dermal bone">dermal</a></li>
+<li><a href="/wiki/Intramembranous_ossification" title="Intramembranous ossification">intramembranous ossification</a></li></ul></li>
+<li><a href="/wiki/Cleithrum" title="Cleithrum">Cleithrum</a></li>
+<li><a href="/wiki/Chromatophore" title="Chromatophore">Chromatophore</a></li>
+<li><a href="/wiki/Fish_fin" title="Fish fin">Fins</a>
+<ul><li><a href="/wiki/Dorsal_fin" title="Dorsal fin">dorsal fin</a></li></ul></li>
+<li><a href="/wiki/Fish_gill" title="Fish gill">Gill</a>
+<ul><li><a href="/wiki/Branchial_arch" title="Branchial arch">branchial arch</a></li>
+<li><a href="/wiki/Gill_raker" title="Gill raker">gill raker</a></li>
+<li><a href="/wiki/Gill_slit" title="Gill slit">gill slit</a></li>
+<li><a href="/wiki/Pharyngeal_arch" title="Pharyngeal arch">pharyngeal arch</a></li>
+<li><a href="/wiki/Pharyngeal_slit" title="Pharyngeal slit">pharyngeal slit</a></li>
+<li><a href="/wiki/Pseudobranch" title="Pseudobranch">pseudobranch</a></li></ul></li>
+<li><a href="/wiki/Glossohyal" title="Glossohyal">Glossohyal</a></li>
+<li><a href="/wiki/Fish_jaw" title="Fish jaw">Jaw</a>
+<ul><li><a href="/wiki/Hyomandibula" title="Hyomandibula">hyomandibula</a></li>
+<li><a href="/wiki/Pharyngeal_jaw" title="Pharyngeal jaw">pharyngeal jaw</a></li></ul></li>
+<li><a href="/wiki/Leydig%27s_organ" title="Leydig&#39;s organ">Leydig's organ</a></li>
+<li><a href="/wiki/Mauthner_cell" title="Mauthner cell">Mauthner cell</a></li>
+<li><a href="/wiki/Meristics" title="Meristics">Meristics</a></li>
+<li><a href="/wiki/Operculum_(fish)" title="Operculum (fish)">Operculum</a>
+<ul><li><a href="/wiki/Operculum_papillare" title="Operculum papillare">papillare</a></li></ul></li>
+<li><a href="/wiki/Papilla_(fish_anatomy)" title="Papilla (fish anatomy)">Papilla</a></li>
+<li><a href="/wiki/Photophore" title="Photophore">Photophore</a></li>
+<li><a href="/wiki/Root_effect" title="Root effect">Root effect</a></li>
+<li><a href="/wiki/Shark_cartilage" title="Shark cartilage">Shark cartilage</a></li>
+<li><a href="/wiki/Fish_scale" title="Fish scale">Scales</a>
+<ul><li><a href="/wiki/Ganoine" title="Ganoine">ganoine</a></li></ul></li>
+<li><a href="/wiki/Spiral_valve" title="Spiral valve">Spiral valve</a></li>
+<li><a href="/wiki/Suckermouth" title="Suckermouth">Suckermouth</a></li>
+<li><a href="/wiki/Swim_bladder" title="Swim bladder">Swim bladder</a>
+<ul><li><a href="/wiki/Physoclisti" title="Physoclisti">physoclisti</a></li>
+<li><a href="/wiki/Physostome" title="Physostome">physostome</a></li></ul></li>
+<li><a href="/wiki/Teeth" class="mw-redirect" title="Teeth">Teeth</a>
+<ul><li><a href="/wiki/Pharyngeal_teeth" title="Pharyngeal teeth">pharyngeal</a></li>
+<li><a href="/wiki/Shark_tooth" title="Shark tooth">shark</a></li></ul></li>
+<li><a href="/wiki/Teleost_leptins" title="Teleost leptins">Teleost leptins</a></li>
+<li><a href="/wiki/Digital_Fish_Library" title="Digital Fish Library">Digital Library</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sensory_systems_in_fish" title="Sensory systems in fish">Sensory<br />systems</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ampullae_of_Lorenzini" title="Ampullae of Lorenzini">Ampullae of Lorenzini</a></li>
+<li><a href="/wiki/Barbel_(anatomy)" title="Barbel (anatomy)">Barbel</a></li>
+<li><a href="/wiki/Hydrodynamic_reception" title="Hydrodynamic reception">Hydrodynamic reception</a></li>
+<li><a href="/wiki/Electrocommunication" class="mw-redirect" title="Electrocommunication">Electrocommunication</a></li>
+<li><a href="/wiki/Electroreception" class="mw-redirect" title="Electroreception">Electroreception</a></li>
+<li><a href="/wiki/Jamming_avoidance_response" title="Jamming avoidance response">Jamming avoidance response</a></li>
+<li><a href="/wiki/Lateral_line" title="Lateral line">Lateral line</a></li>
+<li><a href="/wiki/Otolith" title="Otolith">Otolith</a></li>
+<li><a href="/wiki/Passive_electrolocation_in_fish" class="mw-redirect" title="Passive electrolocation in fish">Passive electrolocation</a></li>
+<li><a href="/wiki/Pain_in_fish" title="Pain in fish">Capacity for pain</a></li>
+<li><a href="/wiki/Schreckstoff" title="Schreckstoff">Schreckstoff</a></li>
+<li><a href="/wiki/Surface_wave_detection_by_animals" title="Surface wave detection by animals">Surface wave detection</a></li>
+<li><a href="/wiki/Vision_in_fishes" class="mw-redirect" title="Vision in fishes">Vision</a></li>
+<li><a href="/wiki/Weberian_apparatus" title="Weberian apparatus">Weberian apparatus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_reproduction" title="Fish reproduction">Reproduction</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bubble_nest" title="Bubble nest">Bubble nest</a></li>
+<li><a href="/wiki/Clasper" title="Clasper">Clasper</a></li>
+<li><a href="/wiki/Egg_case_(Chondrichthyes)" title="Egg case (Chondrichthyes)">Egg case</a></li>
+<li><a href="/wiki/Fish_development" title="Fish development">Development</a></li>
+<li><a href="/wiki/Ichthyoplankton" title="Ichthyoplankton">Ichthyoplankton</a></li>
+<li><a href="/wiki/Juvenile_fish" title="Juvenile fish">Juvenile</a></li>
+<li><a href="/wiki/Life_history_theory" title="Life history theory">Life history theory</a></li>
+<li><a href="/wiki/Milt" title="Milt">Milt</a></li>
+<li><a href="/wiki/Mouthbrooder" title="Mouthbrooder">Mouthbrooder</a></li>
+<li><a href="/wiki/Polyandry_in_fish" title="Polyandry in fish">Polyandry</a></li>
+<li><a href="/wiki/Pregnancy_in_fish" title="Pregnancy in fish">Pregnancy</a></li>
+<li><a href="/wiki/Roe" title="Roe">Roe</a></li>
+<li><a href="/wiki/Sequential_hermaphroditism" title="Sequential hermaphroditism">Sequential hermaphroditism</a></li>
+<li><a href="/wiki/Spawn_(biology)" title="Spawn (biology)">Spawning</a>
+<ul><li><a href="/wiki/Spawning_trigger" title="Spawning trigger">triggers</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_locomotion" title="Fish locomotion">Locomotion</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fin_and_flipper_locomotion" title="Fin and flipper locomotion">Fin and flipper locomotion</a></li>
+<li><a href="/wiki/Amphibious_fish" title="Amphibious fish">Amphibious</a></li>
+<li><a href="/wiki/Walking_fish" title="Walking fish">Walking</a></li>
+<li><a href="/wiki/Flying_fish" title="Flying fish">Flying</a></li>
+<li><a href="/wiki/Undulatory_locomotion" title="Undulatory locomotion">Undulatory locomotion</a></li>
+<li><a href="/wiki/Tradeoffs_for_locomotion_in_air_and_water" title="Tradeoffs for locomotion in air and water">Tradeoffs for locomotion in air and water</a></li>
+<li><a href="/wiki/RoboTuna" title="RoboTuna">RoboTuna</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other<br />behaviour</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Aquatic_predation" class="mw-redirect" title="Aquatic predation">Aquatic predation</a></li>
+<li><a href="/wiki/Aquatic_respiration" title="Aquatic respiration">Aquatic respiration</a></li>
+<li><a href="/wiki/Bait_ball" title="Bait ball">Bait ball</a></li>
+<li><a href="/wiki/Bottom_feeder" title="Bottom feeder">Bottom feeders</a></li>
+<li><a href="/wiki/Cleaner_fish" title="Cleaner fish">Cleaner fish</a></li>
+<li><a href="/wiki/Corallivore" title="Corallivore">Corallivory</a></li>
+<li><a href="/wiki/Diel_vertical_migration" title="Diel vertical migration">Diel vertical migration</a></li>
+<li><a href="/wiki/Electric_fish" title="Electric fish">Electric fish</a></li>
+<li><a href="/wiki/Filter_feeder" title="Filter feeder">Filter feeders</a></li>
+<li><a href="/wiki/Forage_fish" title="Forage fish">Forage fish</a></li>
+<li><a href="/wiki/Fish_migration" title="Fish migration">Migratory</a></li>
+<li><a href="/wiki/Paedophagy" title="Paedophagy">Paedophagy</a></li>
+<li><a href="/wiki/Predatory_fish" title="Predatory fish">Predatory</a></li>
+<li><a href="/wiki/Salmon_run" title="Salmon run">Salmon run</a></li>
+<li><a href="/wiki/Sardine_run" title="Sardine run">Sardine run</a></li>
+<li><a href="/wiki/Lepidophagy" title="Lepidophagy">Scale eaters</a></li>
+<li><a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">Schooling fish</a></li>
+<li><a href="/wiki/Sleep_in_fish" title="Sleep in fish">Sleep</a></li>
+<li><a href="/wiki/Venomous_fish" title="Venomous fish">Venomous</a></li>
+<li><a href="/wiki/Fish_intelligence" title="Fish intelligence">Intelligence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/Marine_habitats" title="Marine habitats">habitat</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cavefish" title="Cavefish">Cave</a></li>
+<li><a href="/wiki/Coastal_fish" title="Coastal fish">Coastal</a></li>
+<li><a href="/wiki/Coldwater_fish" title="Coldwater fish">Coldwater</a></li>
+<li><a href="/wiki/Coral_reef_fish" title="Coral reef fish">Coral reef</a></li>
+<li><a href="/wiki/Deep_sea_fish" class="mw-redirect" title="Deep sea fish">Deep sea</a></li>
+<li><a href="/wiki/Demersal_fish" title="Demersal fish">Demersal</a></li>
+<li><a href="/wiki/Euryhaline" title="Euryhaline">Euryhaline</a></li>
+<li><a href="/wiki/Freshwater_fish" title="Freshwater fish">Freshwater</a></li>
+<li><a href="/wiki/Groundfish" class="mw-redirect" title="Groundfish">Groundfish</a></li>
+<li><a href="/wiki/Pelagic_fish" title="Pelagic fish">Pelagic</a></li>
+<li><a href="/wiki/Tropical_fish" title="Tropical fish">Tropical</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other types</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bait_fish" title="Bait fish">Bait</a></li>
+<li><a href="/wiki/Coarse_fishing" title="Coarse fishing">Coarse</a></li>
+<li><a href="/wiki/Diversity_of_fish" title="Diversity of fish">Diversity</a></li>
+<li><a href="/wiki/Game_fish" title="Game fish">Game</a></li>
+<li><a href="/wiki/Genetically_modified_fish" title="Genetically modified fish">Genetically modified</a></li>
+<li><a href="/wiki/Hallucinogenic_fish" title="Hallucinogenic fish">Hallucinogenic</a></li>
+<li><a href="/wiki/Oily_fish" title="Oily fish">Oily</a></li>
+<li><a href="/wiki/Poisonous_fish" title="Poisonous fish">Poisonous</a></li>
+<li><a href="/wiki/Rough_fish" title="Rough fish">Rough</a></li>
+<li><a href="/wiki/Whitefish_(fisheries_term)" title="Whitefish (fisheries term)">Whitefish</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_commercially_important_fish_species" title="List of commercially important fish species">Commerce</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_farming" title="Fish farming">Farming</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Carp#Aquaculture" title="Carp">Carp</a></li>
+<li><a href="/wiki/Aquaculture_of_catfish" title="Aquaculture of catfish">Catfish</a></li>
+<li><a href="/wiki/Octopus_aquaculture" title="Octopus aquaculture">Octopus</a></li>
+<li><a href="/wiki/Aquaculture_of_salmonids" title="Aquaculture of salmonids">Salmonids</a></li>
+<li><a href="/wiki/Aquaculture_of_tilapia" title="Aquaculture of tilapia">Tilapia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wild_fisheries" title="Wild fisheries">Wild fisheries</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Predatory_fish" title="Predatory fish">Predatory</a>
+<ul><li><a href="/wiki/Billfish" title="Billfish">billfish</a></li>
+<li><a href="/wiki/Mackerel" title="Mackerel">mackerel</a></li>
+<li><a href="/wiki/Salmon" title="Salmon">salmon</a></li>
+<li><a href="/wiki/Tuna" title="Tuna">tuna</a></li></ul></li>
+<li><a href="/wiki/Forage_fish" title="Forage fish">Forage</a>
+<ul><li><a href="/wiki/Anchovy" title="Anchovy">anchovy</a></li>
+<li><a href="/wiki/Herring" title="Herring">herring</a></li>
+<li><a href="/wiki/Sardine" title="Sardine">sardine</a></li>
+<li><a href="/wiki/Sprat" title="Sprat">sprats</a></li></ul></li>
+<li><a href="/wiki/Demersal_fish" title="Demersal fish">Demersal</a>
+<ul><li><a href="/wiki/Cod" title="Cod">cod</a></li>
+<li><a href="/wiki/Flatfish" title="Flatfish">flatfish</a></li>
+<li><a href="/wiki/Pollock" title="Pollock">pollock</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major groups</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Agnatha" title="Agnatha">Jawless</a>
+<ul><li><a href="/wiki/Hagfish" title="Hagfish">hagfish</a></li>
+<li><a href="/wiki/Hyperoartia" title="Hyperoartia">lampreys</a></li></ul></li>
+<li><a href="/wiki/Chondrichthyes" title="Chondrichthyes">Cartilaginous</a>
+<ul><li><a href="/wiki/Holocephali" title="Holocephali">chimaeras</a></li>
+<li><a href="/wiki/Shark" title="Shark">sharks</a></li>
+<li><a href="/wiki/Batoidea" title="Batoidea">rays</a></li></ul></li>
+<li><a href="/wiki/Osteichthyes" title="Osteichthyes">Bony</a>
+<ul><li><a href="/wiki/Actinopterygii" title="Actinopterygii">spiny-finned</a></li>
+<li><a href="/wiki/Sarcopterygii" title="Sarcopterygii">fleshy-finned</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lists_of_aquarium_life" title="Lists of aquarium life">Aquarium life</a></li>
+<li><a href="/wiki/Blind_fish" title="Blind fish">Blind</a></li>
+<li><a href="/wiki/List_of_fish_common_names" title="List of fish common names">Fish common names</a></li>
+<li><a href="/wiki/List_of_fish_families" title="List of fish families">Fish families</a></li>
+<li><a href="/wiki/Glossary_of_ichthyology" title="Glossary of ichthyology">Glossary of ichthyology</a></li>
+<li><a href="/wiki/List_of_largest_fish" title="List of largest fish">Largest</a></li>
+<li><a href="/wiki/List_of_smallest_fish" title="List of smallest fish">Smallest</a></li>
+<li>Threatened
+<ul><li><a href="/wiki/List_of_threatened_rays" title="List of threatened rays">rays</a></li>
+<li><a href="/wiki/List_of_threatened_sharks" title="List of threatened sharks">sharks</a></li></ul></li>
+<li><a href="/wiki/Lists_of_prehistoric_fish" title="Lists of prehistoric fish">Prehistoric</a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Lists_of_fishes" title="Category:Lists of fishes">more lists...</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Fish" title="Category:Fish">Category</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" title="WikiProject" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:WikiProject_Fishes" title="Wikipedia:WikiProject Fishes">WikiProject</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1400
+Cached time: 20221022235825
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.172 seconds
+Real time usage: 0.232 seconds
+Preprocessor visited node count: 732/1000000
+Post‐expand include size: 36226/2097152 bytes
+Template argument size: 591/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13445/5000000 bytes
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 1575808/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.708      1 -total
+ 34.95%   53.016      1 Template:Diversity_of_fish
+ 34.71%   52.658      2 Template:Navbox
+ 19.00%   28.818      3 Template:See_also
+ 15.80%   23.975      2 Template:Multiple_image
+ 15.02%   22.792      2 Template:Reflist
+ 14.12%   21.420      1 Template:Notes
+  5.06%    7.671      3 Template:Icon
+  5.01%    7.607      1 Template:Refbegin
+  1.71%    2.592      1 Template:Efn
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31632332-0!canonical and timestamp 20221022235825 and revision id 1107065137.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Age_determination_in_fish&amp;oldid=1107065137">https://en.wikipedia.org/w/index.php?title=Age_determination_in_fish&amp;oldid=1107065137</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fish_anatomy" title="Category:Fish anatomy">Fish anatomy</a></li><li><a href="/wiki/Category:Senescence_in_non-human_organisms" title="Category:Senescence in non-human organisms">Senescence in non-human organisms</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Age+determination+in+fish" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Age+determination+in+fish" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Age_determination_in_fish" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Age_determination_in_fish" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Age_determination_in_fish"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Age_determination_in_fish&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Age_determination_in_fish&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Age_determination_in_fish" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Age_determination_in_fish" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Age_determination_in_fish&amp;oldid=1107065137" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Age_determination_in_fish&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Age_determination_in_fish&amp;id=1107065137&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5988221" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Age_determination_in_fish&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Age_determination_in_fish&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Leeftijdsaflezing" title="Leeftijdsaflezing – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5988221#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 27 August 2022, at 23:44<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Age_determination_in_fish&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.232","ppvisitednodes":{"value":732,"limit":1000000},"postexpandincludesize":{"value":36226,"limit":2097152},"templateargumentsize":{"value":591,"limit":2097152},"expansiondepth":{"value":9,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13445,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  151.708      1 -total"," 34.95%   53.016      1 Template:Diversity_of_fish"," 34.71%   52.658      2 Template:Navbox"," 19.00%   28.818      3 Template:See_also"," 15.80%   23.975      2 Template:Multiple_image"," 15.02%   22.792      2 Template:Reflist"," 14.12%   21.420      1 Template:Notes","  5.06%    7.671      3 Template:Icon","  5.01%    7.607      1 Template:Refbegin","  1.71%    2.592      1 Template:Efn"]},"scribunto":{"limitreport-timeusage":{"value":"0.065","limit":"10.000"},"limitreport-memusage":{"value":1575808,"limit":52428800}},"cachereport":{"origin":"mw1400","timestamp":"20221022235825","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Age determination in fish","url":"https:\/\/en.wikipedia.org\/wiki\/Age_determination_in_fish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5988221","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5988221","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-04-29T20:43:43Z","dateModified":"2022-08-27T23:44:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0c\/Removing_a_red_snapper_otolith.jpg"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Age determination in fish","url":"https:\/\/en.wikipedia.org\/wiki\/Age_determination_in_fish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5988221","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5988221","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-04-29T20:43:43Z","dateModified":"2022-08-27T23:44:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0c\/Removing_a_red_snapper_otolith.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1385"});});</script>
+</body>
+</html>

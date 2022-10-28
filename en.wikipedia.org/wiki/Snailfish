@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Snailfish - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"154d17a2-2254-4d6e-aa76-8b3f8debb27f","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Snailfish","wgTitle":"Snailfish","wgCurRevisionId":1117672249,"wgRevisionId":1117672249,"wgArticleId":453600,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Articles with short description","Short description matches Wikidata","Articles with 'species' microformats","Commons category link is on Wikidata","Liparidae"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Snailfish","wgRelevantArticleId":
+453600,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q670598","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles"
+:"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.gallery","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks",
+"ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.7"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Festive_Snailfish.jpg/1200px-Festive_Snailfish.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="897"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Festive_Snailfish.jpg/800px-Festive_Snailfish.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="598"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Festive_Snailfish.jpg/640px-Festive_Snailfish.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="478"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Snailfish - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Snailfish"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Snailfish&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Snailfish"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Snailfish rootpage-Snailfish skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Snailfish</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Family of fishes</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Snailfish
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Snailfish.jpg" class="image"><img alt="Snailfish.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Snailfish.jpg/220px-Snailfish.jpg" decoding="async" width="220" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Snailfish.jpg/330px-Snailfish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8c/Snailfish.jpg 2x" data-file-width="432" data-file-height="177" /></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Snailfish (probably <i><a href="/w/index.php?title=Elassodiscus_tremebundus&amp;action=edit&amp;redlink=1" class="new" title="Elassodiscus tremebundus (page does not exist)">Elassodiscus tremebundus</a></i>) caught in the eastern Bering Sea
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Liparidae" title="e"><img alt="e" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Scorpaeniformes" title="Scorpaeniformes">Scorpaeniformes</a>
+</td></tr>
+<tr>
+<td>Superfamily:
+</td>
+<td><a href="/w/index.php?title=Cyclopteroidea&amp;action=edit&amp;redlink=1" class="new" title="Cyclopteroidea (page does not exist)">Cyclopteroidea</a>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><a class="mw-selflink selflink">Liparidae</a><br /><small><a href="/wiki/Theodore_Gill" title="Theodore Gill">T. N. Gill</a>, 1861</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Type_genus" title="Type genus">Type genus</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><i><a href="/wiki/Liparis_(fish)" title="Liparis (fish)">Liparis</a></i><br /><div style="font-size: 85%;">Scopoli, 1777</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Festive_Snailfish.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Festive_Snailfish.jpg/220px-Festive_Snailfish.jpg" decoding="async" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Festive_Snailfish.jpg/330px-Festive_Snailfish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Festive_Snailfish.jpg/440px-Festive_Snailfish.jpg 2x" data-file-width="1400" data-file-height="1046" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Festive_Snailfish.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Liparis_marmoratus" title="Liparis marmoratus">Liparis marmoratus</a></i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Purity_snailfish.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Purity_snailfish.jpg/220px-Purity_snailfish.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Purity_snailfish.jpg/330px-Purity_snailfish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Purity_snailfish.jpg/440px-Purity_snailfish.jpg 2x" data-file-width="2560" data-file-height="1920" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Purity_snailfish.jpg" class="internal" title="Enlarge"></a></div><i>Liparis catharus</i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:GelatinousSeasnail.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GelatinousSeasnail.jpg/220px-GelatinousSeasnail.jpg" decoding="async" width="220" height="105" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GelatinousSeasnail.jpg/330px-GelatinousSeasnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GelatinousSeasnail.jpg/440px-GelatinousSeasnail.jpg 2x" data-file-width="1800" data-file-height="859" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:GelatinousSeasnail.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Liparis_fabricii" title="Liparis fabricii">Liparis fabricii</a></i></div></div></div>
+<p>The <b>Liparidae</b>, commonly known as <b>snailfish</b> or <b>sea snails</b>,<sup id="cite_ref-gma_1-0" class="reference"><a href="#cite_note-gma-1">&#91;1&#93;</a></sup> are a <a href="/wiki/Family_(biology)" title="Family (biology)">family</a> of <a href="/wiki/Saltwater_fish" title="Saltwater fish">marine</a> <a href="/wiki/Scorpaeniformes" title="Scorpaeniformes">scorpaeniform</a> <a href="/wiki/Fish" title="Fish">fishes</a>.
+</p><p>Widely distributed from the <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic</a> to <a href="/wiki/Antarctic_Ocean" class="mw-redirect" title="Antarctic Ocean">Antarctic Oceans</a>, including the oceans in between, the snailfish family contains more than 30 genera and about 410 described species,<sup id="cite_ref-fishbase_2-0" class="reference"><a href="#cite_note-fishbase-2">&#91;2&#93;</a></sup> but there are also many <a href="/wiki/Undescribed_species" class="mw-redirect" title="Undescribed species">undescribed species</a>.<sup id="cite_ref-Gardner2016_3-0" class="reference"><a href="#cite_note-Gardner2016-3">&#91;3&#93;</a></sup> Snailfish species can be found in depths ranging from shallow surface waters to greater than 8,000 meters, and species of the Liparid family have been found in seven ocean <a href="/wiki/Oceanic_trench" title="Oceanic trench">trenches</a>.<sup id="cite_ref-:1_4-0" class="reference"><a href="#cite_note-:1-4">&#91;4&#93;</a></sup> They are closely related to the <a href="/wiki/Sculpin" title="Sculpin">sculpins</a> (family Cottidae) and <a href="/wiki/Lumpfish" class="mw-redirect" title="Lumpfish">lumpfish</a> (family Cyclopteridae). In the past, snailfish were sometimes included within the latter family.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Occurrence_and_habitat"><span class="tocnumber">2</span> <span class="toctext">Occurrence and habitat</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reproduction_and_life_span"><span class="tocnumber">3</span> <span class="toctext">Reproduction and life span</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Diet"><span class="tocnumber">4</span> <span class="toctext">Diet</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Genera"><span class="tocnumber">5</span> <span class="toctext">Genera</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snailfish&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The snailfish family is poorly studied and few specifics are known. Their elongated, <a href="/wiki/Tadpole" title="Tadpole">tadpole</a>-like bodies are similar in profile to the <a href="/wiki/Rattail" class="mw-redirect" title="Rattail">rattails</a>. Their heads are large (compared to their size) with small eyes; their bodies are slender to deep, tapering to very small tails. The extensive dorsal and anal <a href="/wiki/Fish_fin" title="Fish fin">fins</a> may merge or nearly merge with the tail fin. Snailfish are scaleless with a thin, loose <a href="/wiki/Gelatin" title="Gelatin">gelatinous</a> skin; some species, such as <i><a href="/wiki/Acantholiparis_opercularis" title="Acantholiparis opercularis">Acantholiparis opercularis</a></i> have prickly spines, as well. Their teeth are small and simple with blunt cusps. The deep-sea species have prominent, well-developed sensory pores on the head, part of the animals' <a href="/wiki/Lateral_line" title="Lateral line">lateral line</a> system.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>The pectoral fins are large and provide the snailfish with its primary means of locomotion although they are fragile. They are <a href="/wiki/Benthic" class="mw-redirect" title="Benthic">benthic</a> fish with pelvic fins modified to form an adhesive disc; this nearly circular disc is absent in <i><a href="/wiki/Paraliparis" title="Paraliparis">Paraliparis</a></i> and <i><a href="/wiki/Nectoliparis" class="mw-redirect" title="Nectoliparis">Nectoliparis</a></i> species. Snailfish range in size from <i>Paraliparis australis</i> at 5&#160;cm (2.0&#160;in) to <i><a href="/wiki/Polypera_simushirae" title="Polypera simushirae">Polypera simushirae</a></i> at some 77&#160;cm (30&#160;in) in length. The latter species may reach a weight of 11&#160;kg (24&#160;lb), but most species are smaller.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Snailfish are of no interest to commercial <a href="/wiki/Fishery" title="Fishery">fisheries</a>.
+</p><p>It was difficult to initially study snailfish species that dwell at deeper levels because they would explode upon being brought to the surface, but researchers did manage to study the bones of the animal.
+</p>
+<h2><span class="mw-headline" id="Occurrence_and_habitat">Occurrence and habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snailfish&amp;action=edit&amp;section=2" title="Edit section: Occurrence and habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The habitats occupied by snailfish are as widely variable in terms of size. They are found in oceans worldwide, ranging from shallow <a href="/wiki/Intertidal" class="mw-redirect" title="Intertidal">intertidal</a> zones to depths of slightly more than 8,000&#160;m (26,000&#160;ft). This is a wider depth range than any other family of fish.<sup id="cite_ref-Gerringer2017_7-0" class="reference"><a href="#cite_note-Gerringer2017-7">&#91;7&#93;</a></sup> They are strictly found in cold waters, meaning that species of tropical and <a href="/wiki/Subtropical" class="mw-redirect" title="Subtropical">subtropical</a> regions strictly are deepwater.<sup id="cite_ref-Gardner2016_3-1" class="reference"><a href="#cite_note-Gardner2016-3">&#91;3&#93;</a></sup><sup id="cite_ref-Gerringer2017_7-1" class="reference"><a href="#cite_note-Gerringer2017-7">&#91;7&#93;</a></sup><sup id="cite_ref-Sakurai2008_8-0" class="reference"><a href="#cite_note-Sakurai2008-8">&#91;8&#93;</a></sup> They are common in most cold marine waters and are highly resilient, with some species, such as <i>Liparis atlanticus</i> and <i>Liparus gibbus,</i> having type-1 <a href="/wiki/Antifreeze_protein" title="Antifreeze protein">antifreeze proteins</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> It is the most species-rich family of fish in the Antarctic region, generally found in relatively deep waters (shallower Antarctic waters are dominated by <a href="/wiki/Antarctic_icefish" class="mw-redirect" title="Antarctic icefish">Antarctic icefish</a>).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>The diminutive <a href="/w/index.php?title=Inquiline_snailfish&amp;action=edit&amp;redlink=1" class="new" title="Inquiline snailfish (page does not exist)">inquiline snailfish</a> (<i>Liparis inquilinus</i>) of the northwestern Atlantic is known to live out its life inside the <a href="/wiki/Mantle_(mollusc)" title="Mantle (mollusc)">mantle</a> cavity of the scallop <i><a href="/wiki/Placopecten_magellanicus" title="Placopecten magellanicus">Placopecten magellanicus</a></i>. <i>Liparis tunicatus</i> lives amongst the <a href="/wiki/Kelp_forest" title="Kelp forest">kelp forests</a> of the <a href="/wiki/Bering_Strait" title="Bering Strait">Bering Strait</a> and the <a href="/wiki/Gulf_of_St._Lawrence" title="Gulf of St. Lawrence">Gulf of St. Lawrence</a>. The single species in genus <i>Rhodichthys</i> is endemic to the <a href="/wiki/Norwegian_Sea" title="Norwegian Sea">Norwegian Sea</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Other species are found on muddy or silty bottoms of <a href="/wiki/Continental_slope" class="mw-redirect" title="Continental slope">continental slopes</a>.
+</p><p>In October 2008, a UK-Japan team discovered a <a href="/wiki/Shoal" title="Shoal">shoal</a> of <i><a href="/wiki/Pseudoliparis_amblystomopsis" title="Pseudoliparis amblystomopsis">Pseudoliparis amblystomopsis</a></i> snailfish at a depth of approximately 7,700&#160;m (25,300&#160;ft) in the <a href="/wiki/Japan_Trench" title="Japan Trench">Japan Trench</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> These were, at the time, the deepest living fish ever recorded on film. The record was surpassed by a snailfish that was filmed at a depth of 8,145&#160;m (26,722&#160;ft) in December 2014 in the <a href="/wiki/Mariana_Trench" title="Mariana Trench">Mariana Trench</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> and extended in May 2017 when another was filmed at a depth of 8,178&#160;m (26,831&#160;ft) in the Mariana Trench.<sup id="cite_ref-Gerringer2017_7-2" class="reference"><a href="#cite_note-Gerringer2017-7">&#91;7&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> The species in these deepest records remain <a href="/wiki/Undescribed_taxon" title="Undescribed taxon">undescribed</a>, but it has been referred to as the "ethereal snailfish". The deepest-living described species is <i><a href="/wiki/Pseudoliparis_swirei" title="Pseudoliparis swirei">Pseudoliparis swirei</a></i>, also of the Mariana Trench, which has been recorded to 8,076&#160;m (26,496&#160;ft).<sup id="cite_ref-Gerringer2017_7-3" class="reference"><a href="#cite_note-Gerringer2017-7">&#91;7&#93;</a></sup><sup id="cite_ref-Linley2016_15-0" class="reference"><a href="#cite_note-Linley2016-15">&#91;15&#93;</a></sup> In general, snailfish (notably genera <i><a href="/wiki/Notoliparis" title="Notoliparis">Notoliparis</a></i> and <i><a href="/wiki/Pseudoliparis_(fish)" title="Pseudoliparis (fish)">Pseudoliparis</a></i>) are the most common and dominant fish family in the <a href="/wiki/Hadal_zone" title="Hadal zone">hadal zone</a>.<sup id="cite_ref-Linley2016_15-1" class="reference"><a href="#cite_note-Linley2016-15">&#91;15&#93;</a></sup> Through <a href="/wiki/Whole_genome_sequencing" title="Whole genome sequencing">genomic analysis</a> it was found that <i><a href="/wiki/Pseudoliparis_swirei" title="Pseudoliparis swirei">Pseudoliparis swirei</a></i> possesses multiple molecular adaptions to survive the intense pressures of a deep sea environment, including pressure-tolerant <a href="/wiki/Cartilage" title="Cartilage">cartilage</a>, pressure-stable proteins, increased transport protein activity, higher cell membrane fluidity, and loss of eyesight and other visual characteristics such as color.<sup id="cite_ref-:1_4-1" class="reference"><a href="#cite_note-:1-4">&#91;4&#93;</a></sup> There are indications that the <a href="/wiki/Fish_larvae" class="mw-redirect" title="Fish larvae">larvae</a> of at least some hadal snailfish species spend time in open water at relatively shallow depths, less than 1,000&#160;m (3,300&#160;ft).<sup id="cite_ref-GerringerAndrews2017_16-0" class="reference"><a href="#cite_note-GerringerAndrews2017-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reproduction_and_life_span">Reproduction and life span</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snailfish&amp;action=edit&amp;section=3" title="Edit section: Reproduction and life span">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reproductive strategies vary extensively among snailfish species. As far as known, all species lay eggs that are relatively large in size (diameter up to 9.4&#160;mm or 0.37&#160;in).<sup id="cite_ref-Gerringer2017_7-4" class="reference"><a href="#cite_note-Gerringer2017-7">&#91;7&#93;</a></sup> The number of eggs varies extensively depending on species.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Some deposit their egg mass among <a href="/wiki/Deep-water_coral" title="Deep-water coral">cold-water corals</a>, <a href="/wiki/Kelp" title="Kelp">kelp</a>, stones, or <a href="/wiki/Xenophyophorea" title="Xenophyophorea">xenophyophores</a>.<sup id="cite_ref-Gardner2016_3-2" class="reference"><a href="#cite_note-Gardner2016-3">&#91;3&#93;</a></sup><sup id="cite_ref-Kawasaki1983_18-0" class="reference"><a href="#cite_note-Kawasaki1983-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> It is possible that the male guards the egg mass.<sup id="cite_ref-Kawasaki1983_18-1" class="reference"><a href="#cite_note-Kawasaki1983-18">&#91;18&#93;</a></sup> At least one species, <i>Careproctus ovigerus</i> of the North Pacific, is known to practice <a href="/wiki/Mouth_brooding" class="mw-redirect" title="Mouth brooding">mouth brooding</a>; that is, the male snailfish carries the developing eggs around in his mouth. Some other species of the genus <i><a href="/wiki/Careproctus" title="Careproctus">Careproctus</a></i> are <a href="/wiki/Parasitic" class="mw-redirect" title="Parasitic">parasitic</a>, laying their eggs in the gill cavities of <a href="/wiki/King_crab" title="King crab">king crabs</a>.<sup id="cite_ref-Gardner2016_3-3" class="reference"><a href="#cite_note-Gardner2016-3">&#91;3&#93;</a></sup> One species, <i>Careproctus rhodomelas</i>, was found instead to be a batch spawner, laying multiple batches of large eggs multiple times throughout its lifetime.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> After the eggs hatch, some species rapidly reach the adult size and only live for about one year,<sup id="cite_ref-Kawasaki1983_18-2" class="reference"><a href="#cite_note-Kawasaki1983-18">&#91;18&#93;</a></sup> but others have life spans of more than a decade.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Diet">Diet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snailfish&amp;action=edit&amp;section=4" title="Edit section: Diet">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a 2007 study of fish in the hadal zone, it was revealed that snailfish usually feed on amphipods, which were also attracted to the chum that the researchers left out.
+<a href="/wiki/Larva" title="Larva">Larval</a> snailfish feed on a mix of <a href="/wiki/Plankton" title="Plankton">plankton</a>, small and large <a href="/wiki/Copepod" title="Copepod">copepods</a>, and <a href="/wiki/Amphipoda" title="Amphipoda">amphipods</a>. The diet of larval snailfish contains 28 food categories, mainly copepods and amphipods. <sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>Snailfish prey can be grouped into six main categories: <a href="/wiki/Gammaridea" title="Gammaridea">gammarid</a>, <a href="/wiki/Krill" title="Krill">krill</a>, <a href="/wiki/Natantia" title="Natantia">natantian decapods</a>, other crustaceans, fish, and others.<sup id="cite_ref-:0_23-0" class="reference"><a href="#cite_note-:0-23">&#91;23&#93;</a></sup> Size also affects snailfish diets. Species smaller than 50 mm primarily eat gammarids, while species larger than 100 mm primarily eat natantian decapods. Species larger than 150 mm have the highest proportion of fish in their diet. Larger snailfish species tend to be <a href="/wiki/Piscivorous" class="mw-redirect" title="Piscivorous">piscivorous</a>. <sup id="cite_ref-:0_23-1" class="reference"><a href="#cite_note-:0-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Genera">Genera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snailfish&amp;action=edit&amp;section=5" title="Edit section: Genera">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This family contains these genera as of 2020:<sup id="cite_ref-fishbase_2-1" class="reference"><a href="#cite_note-fishbase-2">&#91;2&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 17em;">
+<ul><li><i><a href="/wiki/Acantholiparis" title="Acantholiparis">Acantholiparis</a></i> <small>Gilbert &amp; Burke, 1912</small></li>
+<li><i><a href="/wiki/Aetheliparis" title="Aetheliparis">Aetheliparis</a></i> <small>Stein, 2012</small><sup id="cite_ref-Stein2012_24-0" class="reference"><a href="#cite_note-Stein2012-24">&#91;24&#93;</a></sup></li>
+<li><i><a href="/wiki/Allocareproctus" title="Allocareproctus">Allocareproctus</a></i> <small>Pitruk &amp; Fedorov, 1993</small></li>
+<li><i><a href="/wiki/Careproctus" title="Careproctus">Careproctus</a></i> <small>Krøyer, 1862</small></li>
+<li><i><a href="/wiki/Crystallichthys" title="Crystallichthys">Crystallichthys</a></i> <small>Jordan &amp; Gilbert, 1898</small></li>
+<li><i><a href="/wiki/Eknomoliparis" class="mw-redirect" title="Eknomoliparis">Eknomoliparis</a></i> <small>Stein, Meléndez C. &amp; Kong U., 1991</small></li>
+<li><i><a href="/wiki/Elassodiscus" title="Elassodiscus">Elassodiscus</a></i> <small>Gilbert &amp; Burke, 1912</small></li>
+<li><i><a href="/wiki/Eutelichthys" class="mw-redirect" title="Eutelichthys">Eutelichthys</a></i> <small>Tortonese, 1959</small></li>
+<li><i><a href="/wiki/Genioliparis" title="Genioliparis">Genioliparis</a></i> <small>Andriashev &amp; Neyelov, 1976</small></li>
+<li><i><a href="/wiki/Gyrinichthys" class="mw-redirect" title="Gyrinichthys">Gyrinichthys</a></i> <small>Gilbert, 1896</small></li>
+<li><i><a href="/wiki/Liparis_(fish)" title="Liparis (fish)">Liparis</a></i> <small>Scopoli, 1777</small></li>
+<li><i><a href="/wiki/Lipariscus" class="mw-redirect" title="Lipariscus">Lipariscus</a></i> <small>Gilbert, 1915</small></li>
+<li><i><a href="/wiki/Lopholiparis" class="mw-redirect" title="Lopholiparis">Lopholiparis</a></i> <small>Orr, 2004</small></li>
+<li><i><a href="/wiki/Menziesichthys" class="mw-redirect" title="Menziesichthys">Menziesichthys</a></i> <small>Nalbant &amp; Mayer, 1971</small></li>
+<li><i><a href="/wiki/Nectoliparis" class="mw-redirect" title="Nectoliparis">Nectoliparis</a></i> <small>Gilbert &amp; Burke, 1912</small></li>
+<li><i><a href="/wiki/Notoliparis" title="Notoliparis">Notoliparis</a></i> <small>Andriashev, 1975</small></li>
+<li><i><a href="/wiki/Osteodiscus" title="Osteodiscus">Osteodiscus</a></i> <small>Stein, 1978</small></li>
+<li><i><a href="/wiki/Palmoliparis" class="mw-redirect" title="Palmoliparis">Palmoliparis</a></i> <small>Balushkin, 1996</small></li>
+<li><i><a href="/wiki/Paraliparis" title="Paraliparis">Paraliparis</a></i> <small>Collett, 1879</small></li>
+<li><i><a href="/wiki/Polypera" class="mw-redirect" title="Polypera">Polypera</a></i> <small>Burke, 1912</small></li>
+<li><i><a href="/wiki/Praematoliparis" title="Praematoliparis">Praematoliparis</a></i> <small>Andriashev, 2003</small></li>
+<li><i><a href="/wiki/Prognatholiparis" class="mw-redirect" title="Prognatholiparis">Prognatholiparis</a></i> <small>Orr &amp; Busby, 2001</small></li>
+<li><i><a href="/wiki/Psednos" title="Psednos">Psednos</a></i> <small>Barnard, 1927</small></li>
+<li><i><a href="/wiki/Pseudoliparis_(fish)" title="Pseudoliparis (fish)">Pseudoliparis</a></i> <small>Andriashev, 1955</small></li>
+<li><i><a href="/wiki/Pseudonotoliparis" class="mw-redirect" title="Pseudonotoliparis">Pseudonotoliparis</a></i> <small>Pitruk, 1991</small></li>
+<li><i><a href="/wiki/Rhinoliparis" title="Rhinoliparis">Rhinoliparis</a></i> <small>Gilbert, 1896</small></li>
+<li><i><a href="/wiki/Rhodichthys" title="Rhodichthys">Rhodichthys</a></i> <small>Collett, 1879</small></li>
+<li><i><a href="/wiki/Squaloliparis" class="mw-redirect" title="Squaloliparis">Squaloliparis</a></i> <small>Pitruk &amp; Fedorov, 1993</small></li>
+<li><i><a href="/wiki/Temnocora" class="mw-redirect" title="Temnocora">Temnocora</a></i> <small>Burke, 1930</small></li>
+<li><i><a href="/wiki/Volodichthys" title="Volodichthys">Volodichthys</a></i> <small>Balushkin, 2012</small><sup id="cite_ref-Balushkin_25-0" class="reference"><a href="#cite_note-Balushkin-25">&#91;25&#93;</a></sup></li></ul>
+</div>
+<ul class="gallery mw-gallery-packed" style="text-align:center;">
+		<li class="gallerybox" style="width: 535.33333333333px"><div style="width: 535.33333333333px">
+			<div class="thumb" style="width: 533.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:Acantholiparis_opercularis.jpg" class="image" title="Acantholiparis opercularis"><img alt="Acantholiparis opercularis" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Acantholiparis_opercularis.jpg/800px-Acantholiparis_opercularis.jpg" decoding="async" width="534" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Acantholiparis_opercularis.jpg/1200px-Acantholiparis_opercularis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e7/Acantholiparis_opercularis.jpg 2x" data-file-width="1600" data-file-height="360" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/wiki/Acantholiparis_opercularis" title="Acantholiparis opercularis">Acantholiparis opercularis</a></i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 157.33333333333px"><div style="width: 157.33333333333px">
+			<div class="thumb" style="width: 155.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:Careproctus_ovigerum_(juvenile).jpg" class="image" title="Careproctus ovigerus (juvenile)"><img alt="Careproctus ovigerus (juvenile)" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Careproctus_ovigerum_%28juvenile%29.jpg/233px-Careproctus_ovigerum_%28juvenile%29.jpg" decoding="async" width="156" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Careproctus_ovigerum_%28juvenile%29.jpg/349px-Careproctus_ovigerum_%28juvenile%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Careproctus_ovigerum_%28juvenile%29.jpg/465px-Careproctus_ovigerum_%28juvenile%29.jpg 2x" data-file-width="496" data-file-height="384" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/wiki/Careproctus_ovigerus" title="Careproctus ovigerus">Careproctus ovigerus</a></i> (juvenile)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 265.33333333333px"><div style="width: 265.33333333333px">
+			<div class="thumb" style="width: 263.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:Crystallichthys_cyclospilus.jpg" class="image" title="Crystallichthys cyclospilus"><img alt="Crystallichthys cyclospilus" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Crystallichthys_cyclospilus.jpg/395px-Crystallichthys_cyclospilus.jpg" decoding="async" width="264" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Crystallichthys_cyclospilus.jpg/592px-Crystallichthys_cyclospilus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Crystallichthys_cyclospilus.jpg/789px-Crystallichthys_cyclospilus.jpg 2x" data-file-width="1620" data-file-height="740" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/w/index.php?title=Crystallichthys_cyclospilus&amp;action=edit&amp;redlink=1" class="new" title="Crystallichthys cyclospilus (page does not exist)">Crystallichthys cyclospilus</a></i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 370px"><div style="width: 370px">
+			<div class="thumb" style="width: 368px;"><div style="margin:0px auto;"><a href="/wiki/File:Elassodiscus_tremebundus.jpg" class="image" title="Elassodiscus tremebundus"><img alt="Elassodiscus tremebundus" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Elassodiscus_tremebundus.jpg/552px-Elassodiscus_tremebundus.jpg" decoding="async" width="368" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Elassodiscus_tremebundus.jpg/828px-Elassodiscus_tremebundus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Elassodiscus_tremebundus.jpg/1103px-Elassodiscus_tremebundus.jpg 2x" data-file-width="1556" data-file-height="508" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/w/index.php?title=Elassodiscus_tremebundus&amp;action=edit&amp;redlink=1" class="new" title="Elassodiscus tremebundus (page does not exist)">Elassodiscus tremebundus</a></i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 254px"><div style="width: 254px">
+			<div class="thumb" style="width: 252px;"><div style="margin:0px auto;"><a href="/wiki/File:GelatinousSeasnail.jpg" class="image" title="Liparis fabricii"><img alt="Liparis fabricii" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GelatinousSeasnail.jpg/378px-GelatinousSeasnail.jpg" decoding="async" width="252" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GelatinousSeasnail.jpg/566px-GelatinousSeasnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GelatinousSeasnail.jpg/755px-GelatinousSeasnail.jpg 2x" data-file-width="1800" data-file-height="859" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/wiki/Liparis_fabricii" title="Liparis fabricii">Liparis fabricii</a></i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 424.66666666667px"><div style="width: 424.66666666667px">
+			<div class="thumb" style="width: 422.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:Nectoliparis_pelagicus.jpg" class="image" title="Nectoliparis pelagicus"><img alt="Nectoliparis pelagicus" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nectoliparis_pelagicus.jpg/634px-Nectoliparis_pelagicus.jpg" decoding="async" width="423" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nectoliparis_pelagicus.jpg/951px-Nectoliparis_pelagicus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nectoliparis_pelagicus.jpg/1268px-Nectoliparis_pelagicus.jpg 2x" data-file-width="1592" data-file-height="452" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/wiki/Nectoliparis_pelagicus" title="Nectoliparis pelagicus">Nectoliparis pelagicus</a></i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 356px"><div style="width: 356px">
+			<div class="thumb" style="width: 354px;"><div style="margin:0px auto;"><a href="/wiki/File:Paraliparis_bathybius1.jpg" class="image" title="Paraliparis bathybius"><img alt="Paraliparis bathybius" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paraliparis_bathybius1.jpg/531px-Paraliparis_bathybius1.jpg" decoding="async" width="354" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paraliparis_bathybius1.jpg/797px-Paraliparis_bathybius1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paraliparis_bathybius1.jpg/1062px-Paraliparis_bathybius1.jpg 2x" data-file-width="1100" data-file-height="373" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/wiki/Paraliparis_bathybius" class="mw-redirect" title="Paraliparis bathybius">Paraliparis bathybius</a></i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 286.66666666667px"><div style="width: 286.66666666667px">
+			<div class="thumb" style="width: 284.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:Rhodichthys_regina1.jpg" class="image" title="Rhodichthys regina"><img alt="Rhodichthys regina" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rhodichthys_regina1.jpg/427px-Rhodichthys_regina1.jpg" decoding="async" width="285" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rhodichthys_regina1.jpg/640px-Rhodichthys_regina1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rhodichthys_regina1.jpg/853px-Rhodichthys_regina1.jpg 2x" data-file-width="900" data-file-height="380" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/wiki/Rhodichthys_regina" class="mw-redirect" title="Rhodichthys regina">Rhodichthys regina</a></i>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 271.33333333333px"><div style="width: 271.33333333333px">
+			<div class="thumb" style="width: 269.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:Temnocora_candida.jpg" class="image" title="Temnocora candida"><img alt="Temnocora candida" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Temnocora_candida.jpg/404px-Temnocora_candida.jpg" decoding="async" width="270" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Temnocora_candida.jpg/606px-Temnocora_candida.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Temnocora_candida.jpg/807px-Temnocora_candida.jpg 2x" data-file-width="1596" data-file-height="712" /></a></div></div>
+			<div class="gallerytext">
+<p><i><a href="/wiki/Temnocora_candida" title="Temnocora candida">Temnocora candida</a></i>
+</p>
+			</div>
+		</div></li>
+</ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snailfish&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-gma-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-gma_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gma.org/fogm/Liparidae.htm">"The Sea Snails. Family Liparidae"</a>. Gulf of Maine Research Institute<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Sea+Snails.+Family+Liparidae&amp;rft.pub=Gulf+of+Maine+Research+Institute&amp;rft_id=http%3A%2F%2Fwww.gma.org%2Ffogm%2FLiparidae.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-fishbase-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-fishbase_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fishbase_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Froese, Rainer, and Daniel Pauly, eds. (2015). <a rel="nofollow" class="external text" href="http://www.fishbase.org/Summary/FamilySummary.php?Family=Liparidae">"Liparidae"</a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. February 2015 version.</span>
+</li>
+<li id="cite_note-Gardner2016-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gardner2016_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gardner2016_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gardner2016_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gardner2016_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFGardner,_J.R.J.W._OrrD.E._StevensonI._Spies2016" class="citation journal cs1">Gardner, J.R.; J.W. Orr; D.E. Stevenson; I. Spies; D.A. Somerton (2016). "Reproductive Parasitism between Distant Phyla: Molecular Identification of Snailfish (Liparidae) Egg Masses in the Gill Cavities of King Crabs (Lithodidae)". <i>Copeia</i>. <b>104</b> (3): 645–657. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1643%2FCI-15-374">10.1643/CI-15-374</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Copeia&amp;rft.atitle=Reproductive+Parasitism+between+Distant+Phyla%3A+Molecular+Identification+of+Snailfish+%28Liparidae%29+Egg+Masses+in+the+Gill+Cavities+of+King+Crabs+%28Lithodidae%29&amp;rft.volume=104&amp;rft.issue=3&amp;rft.pages=645-657&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1643%2FCI-15-374&amp;rft.au=Gardner%2C+J.R.&amp;rft.au=J.W.+Orr&amp;rft.au=D.E.+Stevenson&amp;rft.au=I.+Spies&amp;rft.au=D.A.+Somerton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFWangShenYangGan2019" class="citation journal cs1">Wang, Kun; Shen, Yanjun; Yang, Yongzhi; Gan, Xiaoni; Liu, Guichun; Hu, Kuang; Li, Yongxin; Gao, Zhaoming; Zhu, Li; Yan, Guoyong; He, Lisheng (2019). <a rel="nofollow" class="external text" href="http://www.nature.com/articles/s41559-019-0864-8">"Morphology and genome of a snailfish from the Mariana Trench provide insights into deep-sea adaptation"</a>. <i>Nature Ecology &amp; Evolution</i>. <b>3</b> (5): 823–833. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fs41559-019-0864-8">10.1038/s41559-019-0864-8</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2397-334X">2397-334X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Ecology+%26+Evolution&amp;rft.atitle=Morphology+and+genome+of+a+snailfish+from+the+Mariana+Trench+provide+insights+into+deep-sea+adaptation&amp;rft.volume=3&amp;rft.issue=5&amp;rft.pages=823-833&amp;rft.date=2019&amp;rft_id=info%3Adoi%2F10.1038%2Fs41559-019-0864-8&amp;rft.issn=2397-334X&amp;rft.aulast=Wang&amp;rft.aufirst=Kun&amp;rft.au=Shen%2C+Yanjun&amp;rft.au=Yang%2C+Yongzhi&amp;rft.au=Gan%2C+Xiaoni&amp;rft.au=Liu%2C+Guichun&amp;rft.au=Hu%2C+Kuang&amp;rft.au=Li%2C+Yongxin&amp;rft.au=Gao%2C+Zhaoming&amp;rft.au=Zhu%2C+Li&amp;rft.au=Yan%2C+Guoyong&amp;rft.au=He%2C+Lisheng&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Farticles%2Fs41559-019-0864-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFChernova,_Natalia2006" class="citation journal cs1">Chernova, Natalia (2006). <a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/225854160_New_and_rare_snailfishes_Liparidae_Scorpaeniformes_with_the_description_of_four_new_species_from_the_Southern_Hemisphere_and_tropical_east_Pacific">"New and rare snailfishes (Liparidae, Scorpaeniformes) with the description of four new species from the Southern Hemisphere and tropical east Pacific"</a>. <i>Journal of Ichthyology</i>. <b>46</b>: S1–S14. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1134%2FS0032945206100018">10.1134/S0032945206100018</a>. <a href="/wiki/Hdl_(identifier)" class="mw-redirect" title="Hdl (identifier)">hdl</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//hdl.handle.net/1834%2F17070">1834/17070</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Ichthyology&amp;rft.atitle=New+and+rare+snailfishes+%28Liparidae%2C+Scorpaeniformes%29+with+the+description+of+four+new+species+from+the+Southern+Hemisphere+and+tropical+east+Pacific&amp;rft.volume=46&amp;rft.pages=S1-S14&amp;rft.date=2006&amp;rft_id=info%3Ahdl%2F1834%2F17070&amp;rft_id=info%3Adoi%2F10.1134%2FS0032945206100018&amp;rft.au=Chernova%2C+Natalia&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F225854160_New_and_rare_snailfishes_Liparidae_Scorpaeniformes_with_the_description_of_four_new_species_from_the_Southern_Hemisphere_and_tropical_east_Pacific&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Froese, Rainer; Pauly, Daniel (eds.) (2012). <a rel="nofollow" class="external text" href="http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Polypera&amp;speciesname=simushirae">"<i>Polypera simushirae</i><span style="padding-left:.15em;">"</span></a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. December 2012 version.</span>
+</li>
+<li id="cite_note-Gerringer2017-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gerringer2017_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gerringer2017_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gerringer2017_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gerringer2017_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Gerringer2017_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFGerringer,_M.E.T.D._LinleyP.H._YanceyA.J._Jamieson2016" class="citation journal cs1">Gerringer, M.E.; T.D. Linley; P.H. Yancey; A.J. Jamieson; E. Goetze; J.C. Drazen (2016). <a rel="nofollow" class="external text" href="https://doi.org/10.11646%2Fzootaxa.4358.1.7">"Pseudoliparis swirei sp. nov.: A newly-discovered hadal snailfish (Scorpaeniformes: Liparidae) from the Mariana Trench"</a>. <i>Zootaxa</i>. <b>4358</b> (1): 161–177. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.11646%2Fzootaxa.4358.1.7">10.11646/zootaxa.4358.1.7</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/29245485">29245485</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zootaxa&amp;rft.atitle=Pseudoliparis+swirei+sp.+nov.%3A+A+newly-discovered+hadal+snailfish+%28Scorpaeniformes%3A+Liparidae%29+from+the+Mariana+Trench&amp;rft.volume=4358&amp;rft.issue=1&amp;rft.pages=161-177&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.11646%2Fzootaxa.4358.1.7&amp;rft_id=info%3Apmid%2F29245485&amp;rft.au=Gerringer%2C+M.E.&amp;rft.au=T.D.+Linley&amp;rft.au=P.H.+Yancey&amp;rft.au=A.J.+Jamieson&amp;rft.au=E.+Goetze&amp;rft.au=J.C.+Drazen&amp;rft_id=%2F%2Fdoi.org%2F10.11646%252Fzootaxa.4358.1.7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Sakurai2008-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sakurai2008_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSakurai,_H.G._Shinohara2008" class="citation journal cs1 cs1-prop-long-vol">Sakurai, H.; G. Shinohara (2008). "Careproctus rotundifrons, a New Snailfish (Scorpaeniformes: Liparidae) from Japan". <i>Bull. Natl. Mus. Nat. Sci</i>. Ser. A (Suppl. 2): 39–45.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bull.+Natl.+Mus.+Nat.+Sci.&amp;rft.atitle=Careproctus+rotundifrons%2C+a+New+Snailfish+%28Scorpaeniformes%3A+Liparidae%29+from+Japan&amp;rft.volume=Ser.+A&amp;rft.issue=Suppl.+2&amp;rft.pages=39-45&amp;rft.date=2008&amp;rft.au=Sakurai%2C+H.&amp;rft.au=G.+Shinohara&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEvans,_R.E.G.L._Fletcher2001" class="citation journal cs1">Evans, R.E.; G.L. Fletcher (2001). "Isolation and characterization of type I antifreeze proteins from Atlantic snailfish (Liparis atlanticus) and dusky snailfish (Liparis gibbus)". <i>Biochimica et Biophysica Acta (BBA) - Protein Structure and Molecular Enzymology</i>. <b>1547</b> (Suppl. 2): 235–244. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2FS0167-4838%2801%2900190-X">10.1016/S0167-4838(01)00190-X</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/11410279">11410279</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochimica+et+Biophysica+Acta+%28BBA%29+-+Protein+Structure+and+Molecular+Enzymology&amp;rft.atitle=Isolation+and+characterization+of+type+I+antifreeze+proteins+from+Atlantic+snailfish+%28Liparis+atlanticus%29+and+dusky+snailfish+%28Liparis+gibbus%29&amp;rft.volume=1547&amp;rft.issue=Suppl.+2&amp;rft.pages=235-244&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1016%2FS0167-4838%2801%2900190-X&amp;rft_id=info%3Apmid%2F11410279&amp;rft.au=Evans%2C+R.E.&amp;rft.au=G.L.+Fletcher&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEastman,_J.T.M.J._Lannoo1998" class="citation journal cs1">Eastman, J.T.; M.J. Lannoo (1998). "Morphology of the Brain and Sense Organs in the Snailfish Paraliparis devriesi: Neural Convergence and Sensory Compensation on the Antarctic Shelf". <i>Journal of Morphology</i>. <b>237</b> (3): 213–236. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2F%28sici%291097-4687%28199809%29237%3A3%3C213%3A%3Aaid-jmor2%3E3.0.co%3B2-%23">10.1002/(sici)1097-4687(199809)237:3&#60;213::aid-jmor2&#62;3.0.co;2-#</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/9734067">9734067</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Morphology&amp;rft.atitle=Morphology+of+the+Brain+and+Sense+Organs+in+the+Snailfish+Paraliparis+devriesi%3A+Neural+Convergence+and+Sensory+Compensation+on+the+Antarctic+Shelf&amp;rft.volume=237&amp;rft.issue=3&amp;rft.pages=213-236&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1002%2F%28sici%291097-4687%28199809%29237%3A3%3C213%3A%3Aaid-jmor2%3E3.0.co%3B2-%23&amp;rft_id=info%3Apmid%2F9734067&amp;rft.au=Eastman%2C+J.T.&amp;rft.au=M.J.+Lannoo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Hogan, C.M. (2011): <a rel="nofollow" class="external text" href="http://www.eoearth.org/article/Norwegian_Sea"><i>Norwegian Sea</i>. Encyclopedia of Earth. Eds. Saundry, P. &amp; Cleveland, C.J. National Council for Science and the Environment. Washington DC</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMorelle2008" class="citation news cs1"><a href="/wiki/Rebecca_Morelle" title="Rebecca Morelle">Morelle, Rebecca</a> (2008). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/sci/tech/7655358.stm">"<span class="cs1-kern-left"></span>'Deepest ever' living fish filmed"</a>. <i>BBC News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=%27Deepest+ever%27+living+fish+filmed&amp;rft.date=2008&amp;rft.aulast=Morelle&amp;rft.aufirst=Rebecca&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fsci%2Ftech%2F7655358.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMorelle2014" class="citation news cs1">Morelle, Rebecca (2014-12-19). <a rel="nofollow" class="external text" href="https://www.bbc.com/news/science-environment-30541065">"New record for deepest fish"</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=New+record+for+deepest+fish&amp;rft.date=2014-12-19&amp;rft.aulast=Morelle&amp;rft.aufirst=Rebecca&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fscience-environment-30541065&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.cbc.ca/news/technology/deepest-fish-1.4263003">"Ghostly fish in Mariana Trench in the Pacific is deepest ever recorded"</a>. <i><a href="/wiki/CBC_News" title="CBC News">CBC News</a></i>. 2017-08-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CBC+News&amp;rft.atitle=Ghostly+fish+in+Mariana+Trench+in+the+Pacific+is+deepest+ever+recorded&amp;rft.date=2017-08-25&amp;rft_id=https%3A%2F%2Fwww.cbc.ca%2Fnews%2Ftechnology%2Fdeepest-fish-1.4263003&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Linley2016-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Linley2016_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Linley2016_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFLinley,_T.D.M.E._GerringerP.H._YanceyJ.C._Drazen2016" class="citation journal cs1">Linley, T.D.; M.E. Gerringer; P.H. Yancey; J.C. Drazen; C.L. Weinstock; A.J. Jamieson (2016). <a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.dsr.2016.05.003">"Fishes of the hadal zone including new species, in situ observations and depth records of Liparidae"</a>. <i>Deep Sea Research Part I: Oceanographic Research Papers</i>. <b>114</b>: 99–110. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2016DSRI..114...99L">2016DSRI..114...99L</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.dsr.2016.05.003">10.1016/j.dsr.2016.05.003</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep+Sea+Research+Part+I%3A+Oceanographic+Research+Papers&amp;rft.atitle=Fishes+of+the+hadal+zone+including+new+species%2C+in+situ+observations+and+depth+records+of+Liparidae&amp;rft.volume=114&amp;rft.pages=99-110&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1016%2Fj.dsr.2016.05.003&amp;rft_id=info%3Abibcode%2F2016DSRI..114...99L&amp;rft.au=Linley%2C+T.D.&amp;rft.au=M.E.+Gerringer&amp;rft.au=P.H.+Yancey&amp;rft.au=J.C.+Drazen&amp;rft.au=C.L.+Weinstock&amp;rft.au=A.J.+Jamieson&amp;rft_id=%2F%2Fdoi.org%2F10.1016%252Fj.dsr.2016.05.003&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-GerringerAndrews2017-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-GerringerAndrews2017_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFGerringer,_M.E.A.H._AndrewsG.R._HuusK._Nagashima2017" class="citation journal cs1">Gerringer, M.E.; A.H. Andrews; G.R. Huus; K. Nagashima; B.N. Popp; T.D. Linley; N.D. Gallo; M.R. Clark; A.J. Jamieson; J.C. Drazen (2017). <a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.dsr.2017.12.002">"Life history of abyssal and hadal fishes from otolith growth zones and oxygen isotopic compositions"</a>. <i>Deep Sea Research Part I: Oceanographic Research Papers</i>. <b>132</b>: 37–50. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2018DSRI..132...37G">2018DSRI..132...37G</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.dsr.2017.12.002">10.1016/j.dsr.2017.12.002</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep+Sea+Research+Part+I%3A+Oceanographic+Research+Papers&amp;rft.atitle=Life+history+of+abyssal+and+hadal+fishes+from+otolith+growth+zones+and+oxygen+isotopic+compositions&amp;rft.volume=132&amp;rft.pages=37-50&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1016%2Fj.dsr.2017.12.002&amp;rft_id=info%3Abibcode%2F2018DSRI..132...37G&amp;rft.au=Gerringer%2C+M.E.&amp;rft.au=A.H.+Andrews&amp;rft.au=G.R.+Huus&amp;rft.au=K.+Nagashima&amp;rft.au=B.N.+Popp&amp;rft.au=T.D.+Linley&amp;rft.au=N.D.+Gallo&amp;rft.au=M.R.+Clark&amp;rft.au=A.J.+Jamieson&amp;rft.au=J.C.+Drazen&amp;rft_id=%2F%2Fdoi.org%2F10.1016%252Fj.dsr.2017.12.002&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFStein,_D.L.1980" class="citation journal cs1">Stein, D.L. (1980). "Aspects of Reproduction of Liparid Fishes from the Continental Slope and Abyssal Plain off Oregon, with Notes on Growth". <i>Copeia</i>. <b>1980</b> (4): 687–699. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F1444445">10.2307/1444445</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1444445">1444445</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Copeia&amp;rft.atitle=Aspects+of+Reproduction+of+Liparid+Fishes+from+the+Continental+Slope+and+Abyssal+Plain+off+Oregon%2C+with+Notes+on+Growth&amp;rft.volume=1980&amp;rft.issue=4&amp;rft.pages=687-699&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.2307%2F1444445&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1444445%23id-name%3DJSTOR&amp;rft.au=Stein%2C+D.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Kawasaki1983-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kawasaki1983_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kawasaki1983_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Kawasaki1983_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFKawasaki,_I.J._HashimotoH._HondaA._Otake1983" class="citation journal cs1">Kawasaki, I.; J. Hashimoto; H. Honda; A. Otake (1983). <a rel="nofollow" class="external text" href="https://www.jstage.jst.go.jp/article/suisan1932/49/3/49_3_367/_pdf">"Selection of Life Histories and its Adaptive Significance in a Snailfish Liparis tanakai from Sendai Bay"</a>. <i>Bulletin of the Japanese Society of Scientific Fisheries</i>. <b>49</b> (3): 367–377. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2331%2Fsuisan.49.367">10.2331/suisan.49.367</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+Japanese+Society+of+Scientific+Fisheries&amp;rft.atitle=Selection+of+Life+Histories+and+its+Adaptive+Significance+in+a+Snailfish+Liparis+tanakai+from+Sendai+Bay&amp;rft.volume=49&amp;rft.issue=3&amp;rft.pages=367-377&amp;rft.date=1983&amp;rft_id=info%3Adoi%2F10.2331%2Fsuisan.49.367&amp;rft.au=Kawasaki%2C+I.&amp;rft.au=J.+Hashimoto&amp;rft.au=H.+Honda&amp;rft.au=A.+Otake&amp;rft_id=https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fsuisan1932%2F49%2F3%2F49_3_367%2F_pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFLevinRouse2020" class="citation journal cs1">Levin, Lisa A.; Rouse, Greg W. (April 2020). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC7341444">"Giant protists (xenophyophores) function as fish nurseries"</a>. <i>Ecology</i>. <b>101</b> (4). <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fecy.2933">10.1002/ecy.2933</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0012-9658">0012-9658</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC7341444">7341444</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/31742677">31742677</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecology&amp;rft.atitle=Giant+protists+%28xenophyophores%29+function+as+fish+nurseries&amp;rft.volume=101&amp;rft.issue=4&amp;rft.date=2020-04&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7341444%23id-name%3DPMC&amp;rft.issn=0012-9658&amp;rft_id=info%3Apmid%2F31742677&amp;rft_id=info%3Adoi%2F10.1002%2Fecy.2933&amp;rft.aulast=Levin&amp;rft.aufirst=Lisa+A.&amp;rft.au=Rouse%2C+Greg+W.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7341444&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFTakemuraTamotsuMiwaYamamoto2010" class="citation journal cs1">Takemura, A.; Tamotsu, S.; Miwa, T.; Yamamoto, H. (2010-10-14). <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1111/j.1095-8649.2010.02789.x">"Preliminary results on the reproduction of a deep-sea snailfish Careproctus rhodomelas around the active hydrothermal vent on the Hatoma Knoll, Okinawa, Japan"</a>. <i>Journal of Fish Biology</i>. <b>77</b> (7): 1709–1715. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1095-8649.2010.02789.x">10.1111/j.1095-8649.2010.02789.x</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0022-1112">0022-1112</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Fish+Biology&amp;rft.atitle=Preliminary+results+on+the+reproduction+of+a+deep-sea+snailfish+Careproctus+rhodomelas+around+the+active+hydrothermal+vent+on+the+Hatoma+Knoll%2C+Okinawa%2C+Japan&amp;rft.volume=77&amp;rft.issue=7&amp;rft.pages=1709-1715&amp;rft.date=2010-10-14&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1095-8649.2010.02789.x&amp;rft.issn=0022-1112&amp;rft.aulast=Takemura&amp;rft.aufirst=A.&amp;rft.au=Tamotsu%2C+S.&amp;rft.au=Miwa%2C+T.&amp;rft.au=Yamamoto%2C+H.&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1111%2Fj.1095-8649.2010.02789.x&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFOrlov,_A.M.A.M._Tokranov2011" class="citation journal cs1">Orlov, A.M.; A.M. Tokranov (2011). <a rel="nofollow" class="external text" href="https://doi.org/10.5402%2F2011%2F341640">"Some Rare and Insufficiently Studied Snailfish (Liparidae, Scorpaeniformes, Pisces) in the Pacific Waters off the Northern Kuril Islands and Southeastern Kamchatka, Russia"</a>. <i>ISRN Zoology</i>. <b>201</b>: 341640. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.5402%2F2011%2F341640">10.5402/2011/341640</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ISRN+Zoology&amp;rft.atitle=Some+Rare+and+Insufficiently+Studied+Snailfish+%28Liparidae%2C+Scorpaeniformes%2C+Pisces%29+in+the+Pacific+Waters+off+the+Northern+Kuril+Islands+and+Southeastern+Kamchatka%2C+Russia&amp;rft.volume=201&amp;rft.pages=341640&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.5402%2F2011%2F341640&amp;rft.au=Orlov%2C+A.M.&amp;rft.au=A.M.+Tokranov&amp;rft_id=%2F%2Fdoi.org%2F10.5402%252F2011%252F341640&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="https://www.sciencedirect.com/science/article/pii/S0078323415001311">"Spatial distribution and diet of larval snailfishes (Liparis fabricii, Liparis gibbus, Liparis tunicatus) in the Canadian Beaufort Sea"</a>. <i>Oceanologia</i>. <b>58</b> (2): 117–123. 2016-04-01. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.oceano.2015.12.001">10.1016/j.oceano.2015.12.001</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0078-3234">0078-3234</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Oceanologia&amp;rft.atitle=Spatial+distribution+and+diet+of+larval+snailfishes+%28Liparis+fabricii%2C+Liparis+gibbus%2C+Liparis+tunicatus%29+in+the+Canadian+Beaufort+Sea&amp;rft.volume=58&amp;rft.issue=2&amp;rft.pages=117-123&amp;rft.date=2016-04-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.oceano.2015.12.001&amp;rft.issn=0078-3234&amp;rft_id=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0078323415001311&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFTomiyamaYamadaYoshida" class="citation journal cs1">Tomiyama, Takeshi; Yamada, Manabu; Yoshida, Tetsuya. <a rel="nofollow" class="external text" href="https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/seasonal-migration-of-the-snailfish-liparis-tanakae-and-their-habitat-overlap-with-0yearold-japanese-flounder-paralichthys-olivaceus/1C9F563326F0CA1F1664B789602C8414">"Seasonal migration of the snailfish Liparis tanakae and their habitat overlap with 0-year-old Japanese flounder Paralichthys olivaceus"</a>. <i>Journal of the Marine Biological Association of the United Kingdom</i>. <b>93</b> (7): 1981–1987. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1017%2FS0025315413000544">10.1017/S0025315413000544</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0025-3154">0025-3154</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Marine+Biological+Association+of+the+United+Kingdom&amp;rft.atitle=Seasonal+migration+of+the+snailfish+Liparis+tanakae+and+their+habitat+overlap+with+0-year-old+Japanese+flounder+Paralichthys+olivaceus&amp;rft.volume=93&amp;rft.issue=7&amp;rft.pages=1981-1987&amp;rft_id=info%3Adoi%2F10.1017%2FS0025315413000544&amp;rft.issn=0025-3154&amp;rft.aulast=Tomiyama&amp;rft.aufirst=Takeshi&amp;rft.au=Yamada%2C+Manabu&amp;rft.au=Yoshida%2C+Tetsuya&amp;rft_id=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fjournal-of-the-marine-biological-association-of-the-united-kingdom%2Farticle%2Fseasonal-migration-of-the-snailfish-liparis-tanakae-and-their-habitat-overlap-with-0yearold-japanese-flounder-paralichthys-olivaceus%2F1C9F563326F0CA1F1664B789602C8414&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Stein2012-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stein2012_24-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFStein_D.L.2012" class="citation journal cs1">Stein D.L. (2012). "A Review of the Snailfishes (Liparidae, Scorpaeniformes) of New Zealand, Including Descriptions of a New Genus and Sixteen New Species". <i>Zootaxa</i>. <b>3588</b>: 1–54. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.11646%2Fzootaxa.3588.1.1">10.11646/zootaxa.3588.1.1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zootaxa&amp;rft.atitle=A+Review+of+the+Snailfishes+%28Liparidae%2C+Scorpaeniformes%29+of+New+Zealand%2C+Including+Descriptions+of+a+New+Genus+and+Sixteen+New+Species&amp;rft.volume=3588&amp;rft.pages=1-54&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.11646%2Fzootaxa.3588.1.1&amp;rft.au=Stein+D.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Balushkin-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Balushkin_25-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBalushkin_A.V.2012" class="citation journal cs1">Balushkin A.V. (2012). "Volodichthys<i> gen. nov. New Species of the Primitive Snailfish (Liparidae: Scorpaeniformes) of the Southern Hemisphere. Description of New Species </i>V. solovjevae<i> sp. nov. (Cooperation Sea, the Antarctic)". </i>Journal of Ichthyology<i>. <b>52</b> (1): 1–10. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1134%2Fs0032945212010018">10.1134/s0032945212010018</a>.</i></cite><i><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Ichthyology&amp;rft.atitle=Volodichthys+gen.+nov.+New+Species+of+the+Primitive+Snailfish+%28Liparidae%3A+Scorpaeniformes%29+of+the+Southern+Hemisphere.+Description+of+New+Species+V.+solovjevae+sp.+nov.+%28Cooperation+Sea%2C+the+Antarctic%29&amp;rft.volume=52&amp;rft.issue=1&amp;rft.pages=1-10&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1134%2Fs0032945212010018&amp;rft.au=Balushkin+A.V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASnailfish" class="Z3988"></span></i></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Snailfish&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Liparidae" class="extiw" title="commons:Category:Liparidae">Liparidae</a> at Wikimedia Commons</li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q670598" class="extiw" title="wikidata:Q670598">Q670598</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Liparidae" class="extiw" title="wikispecies:Liparidae">Liparidae</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Liparidae/">Liparidae</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Liparidae">Liparidae</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=1284">1284</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/624XH">624XH</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eol.org/pages/5136">5136</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=266390">266390</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/8627">8627</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/49032">49032</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=105454">105454</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=555701">555701</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0021053436">NHMSYS0021053436</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=183715">183715</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a rel="nofollow" class="external text" href="https://www.nzor.org.nz/names/28144031-1293-4252-8b06-333944f4bb65">28144031-1293-4252-8b06-333944f4bb65</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Plazi" title="Plazi">Plazi</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://treatment.plazi.org/id/AC642D14-3A55-FFD7-34F2-FA2DDFCF2D4F">AC642D14-3A55-FFD7-34F2-FA2DDFCF2D4F</a></span></span></li>
+<li><span style="white-space:nowrap;">uBio: <span class="uid"><a rel="nofollow" class="external text" href="http://www.ubio.org/browser/details.php?namebankID=6434011">6434011</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=234519">234519</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="Fish" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Diversity_of_fish" title="Template:Diversity of fish"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Diversity_of_fish" title="Template talk:Diversity of fish"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Diversity_of_fish&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Fish" style="font-size:114%;margin:0 4em"><a href="/wiki/Fish" title="Fish">Fish</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About <a href="/wiki/Fish" title="Fish">fish</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Diversity_of_fish" title="Diversity of fish">Diversity</a></li>
+<li><a href="/wiki/Ethnoichthyology" title="Ethnoichthyology">Ethnoichthyology</a></li>
+<li><a href="/wiki/Evolution_of_fish" title="Evolution of fish">Evolution</a></li>
+<li><a href="/wiki/Fish_diseases_and_parasites" class="mw-redirect" title="Fish diseases and parasites">Diseases and parasites</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a></li>
+<li><a href="/wiki/Fishing" title="Fishing">Fishing</a></li>
+<li><a href="/wiki/Fish_as_food" title="Fish as food">-as food</a></li>
+<li><a href="/wiki/Fear_of_fish" title="Fear of fish">Fear of-</a></li>
+<li><a href="/wiki/FishBase" title="FishBase">FishBase</a></li>
+<li><a href="/wiki/Fish_kill" title="Fish kill">Fish kill</a></li>
+<li><a href="/wiki/Hypoxia_in_fish" title="Hypoxia in fish">Hypoxia in-</a></li>
+<li><a href="/wiki/Ichthyology" title="Ichthyology">Ichthyology</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="11" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Antennarius_striatus.jpg" class="image" title="Striated frogfish"><img alt="Striated frogfish" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antennarius_striatus.jpg/140px-Antennarius_striatus.jpg" decoding="async" width="140" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antennarius_striatus.jpg/210px-Antennarius_striatus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Antennarius_striatus.jpg/280px-Antennarius_striatus.jpg 2x" data-file-width="340" data-file-height="209" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_anatomy" title="Fish anatomy">Anatomy</a><br /> and<br /><a href="/wiki/Fish_physiology" title="Fish physiology">physiology</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Age_determination_in_fish" title="Age determination in fish">Age determination</a></li>
+<li><a href="/wiki/Anguilliformity" title="Anguilliformity">Anguilliformity</a></li>
+<li><a href="/wiki/Fish_bone" title="Fish bone">Bone</a>
+<ul><li><a href="/wiki/Dermal_bone" title="Dermal bone">dermal</a></li>
+<li><a href="/wiki/Intramembranous_ossification" title="Intramembranous ossification">intramembranous ossification</a></li></ul></li>
+<li><a href="/wiki/Cleithrum" title="Cleithrum">Cleithrum</a></li>
+<li><a href="/wiki/Chromatophore" title="Chromatophore">Chromatophore</a></li>
+<li><a href="/wiki/Fish_fin" title="Fish fin">Fins</a>
+<ul><li><a href="/wiki/Dorsal_fin" title="Dorsal fin">dorsal fin</a></li></ul></li>
+<li><a href="/wiki/Fish_gill" title="Fish gill">Gill</a>
+<ul><li><a href="/wiki/Branchial_arch" title="Branchial arch">branchial arch</a></li>
+<li><a href="/wiki/Gill_raker" title="Gill raker">gill raker</a></li>
+<li><a href="/wiki/Gill_slit" title="Gill slit">gill slit</a></li>
+<li><a href="/wiki/Pharyngeal_arch" title="Pharyngeal arch">pharyngeal arch</a></li>
+<li><a href="/wiki/Pharyngeal_slit" title="Pharyngeal slit">pharyngeal slit</a></li>
+<li><a href="/wiki/Pseudobranch" title="Pseudobranch">pseudobranch</a></li></ul></li>
+<li><a href="/wiki/Glossohyal" title="Glossohyal">Glossohyal</a></li>
+<li><a href="/wiki/Fish_jaw" title="Fish jaw">Jaw</a>
+<ul><li><a href="/wiki/Hyomandibula" title="Hyomandibula">hyomandibula</a></li>
+<li><a href="/wiki/Pharyngeal_jaw" title="Pharyngeal jaw">pharyngeal jaw</a></li></ul></li>
+<li><a href="/wiki/Leydig%27s_organ" title="Leydig&#39;s organ">Leydig's organ</a></li>
+<li><a href="/wiki/Mauthner_cell" title="Mauthner cell">Mauthner cell</a></li>
+<li><a href="/wiki/Meristics" title="Meristics">Meristics</a></li>
+<li><a href="/wiki/Operculum_(fish)" title="Operculum (fish)">Operculum</a>
+<ul><li><a href="/wiki/Operculum_papillare" title="Operculum papillare">papillare</a></li></ul></li>
+<li><a href="/wiki/Papilla_(fish_anatomy)" title="Papilla (fish anatomy)">Papilla</a></li>
+<li><a href="/wiki/Photophore" title="Photophore">Photophore</a></li>
+<li><a href="/wiki/Root_effect" title="Root effect">Root effect</a></li>
+<li><a href="/wiki/Shark_cartilage" title="Shark cartilage">Shark cartilage</a></li>
+<li><a href="/wiki/Fish_scale" title="Fish scale">Scales</a>
+<ul><li><a href="/wiki/Ganoine" title="Ganoine">ganoine</a></li></ul></li>
+<li><a href="/wiki/Spiral_valve" title="Spiral valve">Spiral valve</a></li>
+<li><a href="/wiki/Suckermouth" title="Suckermouth">Suckermouth</a></li>
+<li><a href="/wiki/Swim_bladder" title="Swim bladder">Swim bladder</a>
+<ul><li><a href="/wiki/Physoclisti" title="Physoclisti">physoclisti</a></li>
+<li><a href="/wiki/Physostome" title="Physostome">physostome</a></li></ul></li>
+<li><a href="/wiki/Teeth" class="mw-redirect" title="Teeth">Teeth</a>
+<ul><li><a href="/wiki/Pharyngeal_teeth" title="Pharyngeal teeth">pharyngeal</a></li>
+<li><a href="/wiki/Shark_tooth" title="Shark tooth">shark</a></li></ul></li>
+<li><a href="/wiki/Teleost_leptins" title="Teleost leptins">Teleost leptins</a></li>
+<li><a href="/wiki/Digital_Fish_Library" title="Digital Fish Library">Digital Library</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sensory_systems_in_fish" title="Sensory systems in fish">Sensory<br />systems</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ampullae_of_Lorenzini" title="Ampullae of Lorenzini">Ampullae of Lorenzini</a></li>
+<li><a href="/wiki/Barbel_(anatomy)" title="Barbel (anatomy)">Barbel</a></li>
+<li><a href="/wiki/Hydrodynamic_reception" title="Hydrodynamic reception">Hydrodynamic reception</a></li>
+<li><a href="/wiki/Electrocommunication" class="mw-redirect" title="Electrocommunication">Electrocommunication</a></li>
+<li><a href="/wiki/Electroreception" class="mw-redirect" title="Electroreception">Electroreception</a></li>
+<li><a href="/wiki/Jamming_avoidance_response" title="Jamming avoidance response">Jamming avoidance response</a></li>
+<li><a href="/wiki/Lateral_line" title="Lateral line">Lateral line</a></li>
+<li><a href="/wiki/Otolith" title="Otolith">Otolith</a></li>
+<li><a href="/wiki/Passive_electrolocation_in_fish" class="mw-redirect" title="Passive electrolocation in fish">Passive electrolocation</a></li>
+<li><a href="/wiki/Pain_in_fish" title="Pain in fish">Capacity for pain</a></li>
+<li><a href="/wiki/Schreckstoff" title="Schreckstoff">Schreckstoff</a></li>
+<li><a href="/wiki/Surface_wave_detection_by_animals" title="Surface wave detection by animals">Surface wave detection</a></li>
+<li><a href="/wiki/Vision_in_fishes" class="mw-redirect" title="Vision in fishes">Vision</a></li>
+<li><a href="/wiki/Weberian_apparatus" title="Weberian apparatus">Weberian apparatus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_reproduction" title="Fish reproduction">Reproduction</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bubble_nest" title="Bubble nest">Bubble nest</a></li>
+<li><a href="/wiki/Clasper" title="Clasper">Clasper</a></li>
+<li><a href="/wiki/Egg_case_(Chondrichthyes)" title="Egg case (Chondrichthyes)">Egg case</a></li>
+<li><a href="/wiki/Fish_development" title="Fish development">Development</a></li>
+<li><a href="/wiki/Ichthyoplankton" title="Ichthyoplankton">Ichthyoplankton</a></li>
+<li><a href="/wiki/Juvenile_fish" title="Juvenile fish">Juvenile</a></li>
+<li><a href="/wiki/Life_history_theory" title="Life history theory">Life history theory</a></li>
+<li><a href="/wiki/Milt" title="Milt">Milt</a></li>
+<li><a href="/wiki/Mouthbrooder" title="Mouthbrooder">Mouthbrooder</a></li>
+<li><a href="/wiki/Polyandry_in_fish" title="Polyandry in fish">Polyandry</a></li>
+<li><a href="/wiki/Pregnancy_in_fish" title="Pregnancy in fish">Pregnancy</a></li>
+<li><a href="/wiki/Roe" title="Roe">Roe</a></li>
+<li><a href="/wiki/Sequential_hermaphroditism" title="Sequential hermaphroditism">Sequential hermaphroditism</a></li>
+<li><a href="/wiki/Spawn_(biology)" title="Spawn (biology)">Spawning</a>
+<ul><li><a href="/wiki/Spawning_trigger" title="Spawning trigger">triggers</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_locomotion" title="Fish locomotion">Locomotion</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fin_and_flipper_locomotion" title="Fin and flipper locomotion">Fin and flipper locomotion</a></li>
+<li><a href="/wiki/Amphibious_fish" title="Amphibious fish">Amphibious</a></li>
+<li><a href="/wiki/Walking_fish" title="Walking fish">Walking</a></li>
+<li><a href="/wiki/Flying_fish" title="Flying fish">Flying</a></li>
+<li><a href="/wiki/Undulatory_locomotion" title="Undulatory locomotion">Undulatory locomotion</a></li>
+<li><a href="/wiki/Tradeoffs_for_locomotion_in_air_and_water" title="Tradeoffs for locomotion in air and water">Tradeoffs for locomotion in air and water</a></li>
+<li><a href="/wiki/RoboTuna" title="RoboTuna">RoboTuna</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other<br />behaviour</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Aquatic_predation" class="mw-redirect" title="Aquatic predation">Aquatic predation</a></li>
+<li><a href="/wiki/Aquatic_respiration" title="Aquatic respiration">Aquatic respiration</a></li>
+<li><a href="/wiki/Bait_ball" title="Bait ball">Bait ball</a></li>
+<li><a href="/wiki/Bottom_feeder" title="Bottom feeder">Bottom feeders</a></li>
+<li><a href="/wiki/Cleaner_fish" title="Cleaner fish">Cleaner fish</a></li>
+<li><a href="/wiki/Corallivore" title="Corallivore">Corallivory</a></li>
+<li><a href="/wiki/Diel_vertical_migration" title="Diel vertical migration">Diel vertical migration</a></li>
+<li><a href="/wiki/Electric_fish" title="Electric fish">Electric fish</a></li>
+<li><a href="/wiki/Filter_feeder" title="Filter feeder">Filter feeders</a></li>
+<li><a href="/wiki/Forage_fish" title="Forage fish">Forage fish</a></li>
+<li><a href="/wiki/Fish_migration" title="Fish migration">Migratory</a></li>
+<li><a href="/wiki/Paedophagy" title="Paedophagy">Paedophagy</a></li>
+<li><a href="/wiki/Predatory_fish" title="Predatory fish">Predatory</a></li>
+<li><a href="/wiki/Salmon_run" title="Salmon run">Salmon run</a></li>
+<li><a href="/wiki/Sardine_run" title="Sardine run">Sardine run</a></li>
+<li><a href="/wiki/Lepidophagy" title="Lepidophagy">Scale eaters</a></li>
+<li><a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">Schooling fish</a></li>
+<li><a href="/wiki/Sleep_in_fish" title="Sleep in fish">Sleep</a></li>
+<li><a href="/wiki/Venomous_fish" title="Venomous fish">Venomous</a></li>
+<li><a href="/wiki/Fish_intelligence" title="Fish intelligence">Intelligence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/Marine_habitats" title="Marine habitats">habitat</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cavefish" title="Cavefish">Cave</a></li>
+<li><a href="/wiki/Coastal_fish" title="Coastal fish">Coastal</a></li>
+<li><a href="/wiki/Coldwater_fish" title="Coldwater fish">Coldwater</a></li>
+<li><a href="/wiki/Coral_reef_fish" title="Coral reef fish">Coral reef</a></li>
+<li><a href="/wiki/Deep_sea_fish" class="mw-redirect" title="Deep sea fish">Deep sea</a></li>
+<li><a href="/wiki/Demersal_fish" title="Demersal fish">Demersal</a></li>
+<li><a href="/wiki/Euryhaline" title="Euryhaline">Euryhaline</a></li>
+<li><a href="/wiki/Freshwater_fish" title="Freshwater fish">Freshwater</a></li>
+<li><a href="/wiki/Groundfish" class="mw-redirect" title="Groundfish">Groundfish</a></li>
+<li><a href="/wiki/Pelagic_fish" title="Pelagic fish">Pelagic</a></li>
+<li><a href="/wiki/Tropical_fish" title="Tropical fish">Tropical</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other types</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bait_fish" title="Bait fish">Bait</a></li>
+<li><a href="/wiki/Coarse_fishing" title="Coarse fishing">Coarse</a></li>
+<li><a href="/wiki/Diversity_of_fish" title="Diversity of fish">Diversity</a></li>
+<li><a href="/wiki/Game_fish" title="Game fish">Game</a></li>
+<li><a href="/wiki/Genetically_modified_fish" title="Genetically modified fish">Genetically modified</a></li>
+<li><a href="/wiki/Hallucinogenic_fish" title="Hallucinogenic fish">Hallucinogenic</a></li>
+<li><a href="/wiki/Oily_fish" title="Oily fish">Oily</a></li>
+<li><a href="/wiki/Poisonous_fish" title="Poisonous fish">Poisonous</a></li>
+<li><a href="/wiki/Rough_fish" title="Rough fish">Rough</a></li>
+<li><a href="/wiki/Whitefish_(fisheries_term)" title="Whitefish (fisheries term)">Whitefish</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_commercially_important_fish_species" title="List of commercially important fish species">Commerce</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fish_farming" title="Fish farming">Farming</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Carp#Aquaculture" title="Carp">Carp</a></li>
+<li><a href="/wiki/Aquaculture_of_catfish" title="Aquaculture of catfish">Catfish</a></li>
+<li><a href="/wiki/Octopus_aquaculture" title="Octopus aquaculture">Octopus</a></li>
+<li><a href="/wiki/Aquaculture_of_salmonids" title="Aquaculture of salmonids">Salmonids</a></li>
+<li><a href="/wiki/Aquaculture_of_tilapia" title="Aquaculture of tilapia">Tilapia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wild_fisheries" title="Wild fisheries">Wild fisheries</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Predatory_fish" title="Predatory fish">Predatory</a>
+<ul><li><a href="/wiki/Billfish" title="Billfish">billfish</a></li>
+<li><a href="/wiki/Mackerel" title="Mackerel">mackerel</a></li>
+<li><a href="/wiki/Salmon" title="Salmon">salmon</a></li>
+<li><a href="/wiki/Tuna" title="Tuna">tuna</a></li></ul></li>
+<li><a href="/wiki/Forage_fish" title="Forage fish">Forage</a>
+<ul><li><a href="/wiki/Anchovy" title="Anchovy">anchovy</a></li>
+<li><a href="/wiki/Herring" title="Herring">herring</a></li>
+<li><a href="/wiki/Sardine" title="Sardine">sardine</a></li>
+<li><a href="/wiki/Sprat" title="Sprat">sprats</a></li></ul></li>
+<li><a href="/wiki/Demersal_fish" title="Demersal fish">Demersal</a>
+<ul><li><a href="/wiki/Cod" title="Cod">cod</a></li>
+<li><a href="/wiki/Flatfish" title="Flatfish">flatfish</a></li>
+<li><a href="/wiki/Pollock" title="Pollock">pollock</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major groups</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Agnatha" title="Agnatha">Jawless</a>
+<ul><li><a href="/wiki/Hagfish" title="Hagfish">hagfish</a></li>
+<li><a href="/wiki/Hyperoartia" title="Hyperoartia">lampreys</a></li></ul></li>
+<li><a href="/wiki/Chondrichthyes" title="Chondrichthyes">Cartilaginous</a>
+<ul><li><a href="/wiki/Holocephali" title="Holocephali">chimaeras</a></li>
+<li><a href="/wiki/Shark" title="Shark">sharks</a></li>
+<li><a href="/wiki/Batoidea" title="Batoidea">rays</a></li></ul></li>
+<li><a href="/wiki/Osteichthyes" title="Osteichthyes">Bony</a>
+<ul><li><a href="/wiki/Actinopterygii" title="Actinopterygii">spiny-finned</a></li>
+<li><a href="/wiki/Sarcopterygii" title="Sarcopterygii">fleshy-finned</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lists_of_aquarium_life" title="Lists of aquarium life">Aquarium life</a></li>
+<li><a href="/wiki/Blind_fish" title="Blind fish">Blind</a></li>
+<li><a href="/wiki/List_of_fish_common_names" title="List of fish common names">Fish common names</a></li>
+<li><a href="/wiki/List_of_fish_families" title="List of fish families">Fish families</a></li>
+<li><a href="/wiki/Glossary_of_ichthyology" title="Glossary of ichthyology">Glossary of ichthyology</a></li>
+<li><a href="/wiki/List_of_largest_fish" title="List of largest fish">Largest</a></li>
+<li><a href="/wiki/List_of_smallest_fish" title="List of smallest fish">Smallest</a></li>
+<li>Threatened
+<ul><li><a href="/wiki/List_of_threatened_rays" title="List of threatened rays">rays</a></li>
+<li><a href="/wiki/List_of_threatened_sharks" title="List of threatened sharks">sharks</a></li></ul></li>
+<li><a href="/wiki/Lists_of_prehistoric_fish" title="Lists of prehistoric fish">Prehistoric</a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Lists_of_fishes" title="Category:Lists of fishes">more lists...</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Fish" title="Category:Fish">Category</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" title="WikiProject" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:WikiProject_Fishes" title="Wikipedia:WikiProject Fishes">WikiProject</a></b></li></ul>
+</div></td></tr></tbody></table></div><div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="Evolution_of_fish" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Evolution_of_fish" title="Template:Evolution of fish"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Evolution_of_fish" title="Template talk:Evolution of fish"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Evolution_of_fish&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Evolution_of_fish" style="font-size:114%;margin:0 4em"><a href="/wiki/Evolution_of_fish" title="Evolution of fish">Evolution of fish</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;&quot;text-align:center; width:80px;&quot;"><a href="/wiki/Chordate" title="Chordate">Forerunners</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0;width: auto;"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cephalochordate" title="Cephalochordate">Cephalochordate</a>
+<ul><li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><i><a href="/wiki/Pikaia" title="Pikaia">Pikaia</a></i></li>
+<li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><i><a href="/wiki/Cathaymyrus" title="Cathaymyrus">Cathaymyrus</a></i></li>
+<li><a href="/wiki/Lancelet" title="Lancelet">Lancelet</a></li></ul></li>
+<li><a href="/wiki/Olfactores" title="Olfactores">Olfactores</a>
+<ul><li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><i><a href="/wiki/Haikouella" title="Haikouella">Haikouella</a></i></li>
+<li><a href="/wiki/Tunicate" title="Tunicate">Tunicate</a></li>
+<li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Myllokunmingiidae" title="Myllokunmingiidae">Myllokunmingiidae</a>?</li>
+<li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><i><a href="/wiki/Zhongxiniscus" title="Zhongxiniscus">Zhongxiniscus</a></i>?</li></ul></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Astraspis_desiderata.png" class="image" title="Placoderm"><img alt="Placoderm" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Astraspis_desiderata.png/100px-Astraspis_desiderata.png" decoding="async" width="100" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Astraspis_desiderata.png/150px-Astraspis_desiderata.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Astraspis_desiderata.png/200px-Astraspis_desiderata.png 2x" data-file-width="354" data-file-height="250" /></a><br /><br /><br /><br /><br /><style data-mw-deduplicate="TemplateStyles:r1093669538">.mw-parser-output .portalbox{padding:0}.mw-parser-output .portalborder{border:solid #aaa 1px}.mw-parser-output .portalbox.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalbox.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portalbox>ul{display:table;box-sizing:border-box;max-width:175px;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portalborder>ul{padding:0.1em;background:#f9f9f9}.mw-parser-output .portalbox>ul>li{display:table-row}.mw-parser-output .portalbox>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint plainlist portalbox portalborder tright">
+<ul>
+<li><span><a href="/wiki/File:Tree_of_life.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/32px-Tree_of_life.svg.png" decoding="async" width="32" height="27" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/48px-Tree_of_life.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/64px-Tree_of_life.svg.png 2x" data-file-width="915" data-file-height="760" /></a></span><span><a href="/wiki/Portal:Evolutionary_biology" title="Portal:Evolutionary biology">Evolutionary biology portal</a></span></li></ul></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;&quot;text-align:center; width:80px;&quot;"><a href="/wiki/Agnatha" title="Agnatha">Jawless fish</a><br /></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0;width: auto;"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cyclostomata" class="mw-redirect" title="Cyclostomata">Cyclostomata</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Hagfish" title="Hagfish">Hagfish</a></li>
+<li><a href="/wiki/Hyperoartia" title="Hyperoartia">Hyperoartia</a>
+<ul><li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><i><a href="/wiki/Haikouichthys" title="Haikouichthys">Haikouichthys</a></i></li>
+<li><a href="/wiki/Lamprey" title="Lamprey">Lamprey</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Conodont" title="Conodont">Conodonts</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>†<a href="/wiki/Protoconodont" title="Protoconodont">Protoconodonta</a>?</li>
+<li>†<a href="/wiki/Paraconodontida" title="Paraconodontida">Paraconodontida</a></li>
+<li>†<a href="/wiki/Prioniodontida" title="Prioniodontida">Prioniodontida</a>
+<ul><li>†<i><a href="/wiki/Promissum" title="Promissum">Promissum</a></i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Ostracoderm" title="Ostracoderm">Ostracoderms</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>†<a href="/wiki/Pteraspidomorphi" title="Pteraspidomorphi">Pteraspidomorphi</a></li>
+<li>†<a href="/wiki/Thelodonti" title="Thelodonti">Thelodonti</a></li>
+<li>†<a href="/wiki/Anaspida" title="Anaspida">Anaspida</a></li>
+<li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Cephalaspidomorphi" title="Cephalaspidomorphi">Cephalaspidomorphi</a>
+<ul><li>†<a href="/wiki/Galeaspida" title="Galeaspida">Galeaspida</a></li>
+<li>†<a href="/wiki/Pituriaspida" title="Pituriaspida">Pituriaspida</a></li>
+<li>†<a href="/wiki/Osteostraci" title="Osteostraci">Osteostraci</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;&quot;text-align:center; width:80px;&quot;"><a href="/wiki/Gnathostomata" title="Gnathostomata">Jawed fish</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0;width: auto;"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Placodermi" title="Placodermi">Placoderms</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>†<a href="/wiki/Antiarchi" title="Antiarchi">Antiarchi</a></li>
+<li>†<a href="/wiki/Arthrodira" title="Arthrodira">Arthrodira</a></li>
+<li>†<a href="/wiki/Brindabellaspida" class="mw-redirect" title="Brindabellaspida">Brindabellaspida</a></li>
+<li>†<a href="/wiki/Petalichthyida" title="Petalichthyida">Petalichthyida</a></li>
+<li>†<a href="/wiki/Phyllolepida" title="Phyllolepida">Phyllolepida</a></li>
+<li>†<a href="/wiki/Ptyctodontida" title="Ptyctodontida">Ptyctodontida</a></li>
+<li>†<a href="/wiki/Rhenanida" title="Rhenanida">Rhenanida</a></li>
+<li>†<a href="/wiki/Acanthothoraci" title="Acanthothoraci">Acanthothoraci</a> †</li>
+<li>†<a href="/wiki/Pseudopetalichthyida" title="Pseudopetalichthyida">Pseudopetalichthyida</a>?</li>
+<li>†<a href="/wiki/Stensioellida" class="mw-redirect" title="Stensioellida">Stensioellida</a>?</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Acanthodii" title="Acanthodii">Acanthodii</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>†<a href="/wiki/Acanthodiformes" title="Acanthodiformes">Acanthodiformes</a></li>
+<li>†"<a href="/wiki/Climatiiformes" title="Climatiiformes">Climatiiformes</a>"</li>
+<li>†<a href="/wiki/Diplacanthiformes" title="Diplacanthiformes">Diplacanthiformes</a></li>
+<li>†<a href="/wiki/Ischnacanthiformes" title="Ischnacanthiformes">Ischnacanthiformes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chondrichthyes" title="Chondrichthyes">Cartilaginous</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Elasmobranchii" title="Elasmobranchii">Elasmobranchii</a></li>
+<li><a href="/wiki/Holocephali" title="Holocephali">Holocephali</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Osteichthyes" title="Osteichthyes">Bony</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sarcopterygii" title="Sarcopterygii">Lobe-finned</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Onychodontida" class="mw-redirect" title="Onychodontida">Onychodontida</a></li>
+<li><a href="/wiki/Actinistia" class="mw-redirect" title="Actinistia">Actinistia</a>
+<ul><li><a href="/wiki/Coelacanth" title="Coelacanth">Coelacanth</a></li></ul></li>
+<li><a href="/wiki/Dipnomorpha" class="mw-redirect" title="Dipnomorpha">Dipnomorpha</a>
+<ul><li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Porolepiformes" title="Porolepiformes">Porolepiformes</a></li>
+<li><a href="/wiki/Lungfish" title="Lungfish">Lungfish</a></li></ul></li>
+<li><a href="/wiki/Tetrapodomorpha" title="Tetrapodomorpha">Tetrapodomorpha</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Actinopterygii" title="Actinopterygii">Ray-finned</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cladistii" class="mw-redirect" title="Cladistii">Cladistii</a></li>
+<li><a href="/wiki/Chondrostei" title="Chondrostei">Chondrostei</a></li>
+<li><a href="/wiki/Neopterygii" title="Neopterygii">Neopterygii</a>
+<ul><li><abbr title="Extinct" aria-label="Extinct" style="border: none; text-decoration: none; cursor: inherit; font-weight: normal; font-style: normal;">†</abbr><a href="/wiki/Semionotiformes" title="Semionotiformes">Semionotiformes</a></li>
+<li><a href="/wiki/Holostei" title="Holostei">Holostei</a></li>
+<li><a href="/wiki/Teleostei" class="mw-redirect" title="Teleostei">Teleostei</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;&quot;text-align:center; width:80px;&quot;">Lists</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0;width: auto;"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Lists_of_prehistoric_fish" title="Lists of prehistoric fish">Lists of prehistoric fish</a>
+<ul><li><a href="/wiki/List_of_acanthodians" class="mw-redirect" title="List of acanthodians">spiny sharks</a></li>
+<li><a href="/wiki/List_of_placoderm_genera" title="List of placoderm genera">placoderms</a></li>
+<li><a href="/wiki/List_of_prehistoric_cartilaginous_fish_genera" title="List of prehistoric cartilaginous fish genera">cartilaginous</a></li>
+<li><a href="/wiki/List_of_prehistoric_bony_fish_genera" title="List of prehistoric bony fish genera">bony</a></li>
+<li><a href="/wiki/List_of_sarcopterygian_genera" title="List of sarcopterygian genera">lobe-finned</a></li></ul></li>
+<li><a href="/wiki/List_of_transitional_fossils" title="List of transitional fossils">List of transitional fossils</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;&quot;text-align:center; width:80px;&quot;">Related</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0;width: auto;"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Prehistoric_life" class="mw-redirect" title="Prehistoric life">Prehistoric life</a></li>
+<li><a href="/wiki/Transitional_fossils" class="mw-redirect" title="Transitional fossils">Transitional fossils</a></li>
+<li><a href="/wiki/Vertebrate_paleontology" title="Vertebrate paleontology">Vertebrate paleontology</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>† extinct</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20221023053610
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.774 seconds
+Real time usage: 1.002 seconds
+Preprocessor visited node count: 7259/1000000
+Post‐expand include size: 143770/2097152 bytes
+Template argument size: 3905/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 95164/5000000 bytes
+Lua time usage: 0.522/10.000 seconds
+Lua memory usage: 9470149/52428800 bytes
+Number of Wikibase entities loaded: 17/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  849.642      1 -total
+ 26.29%  223.354      1 Template:Reflist
+ 25.80%  219.193      1 Template:Automatic_taxobox
+ 20.01%  169.978      1 Template:Taxonbar
+ 11.93%  101.350     18 Template:Cite_journal
+  8.52%   72.378      1 Template:Cite_web
+  7.71%   65.537      6 Template:Navbox
+  6.82%   57.970      1 Template:Short_description
+  3.88%   32.951      1 Template:Commons_category-inline
+  3.86%   32.824     10 Template:Convert
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:453600-0!canonical and timestamp 20221023053609 and revision id 1117672249.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Snailfish&amp;oldid=1117672249">https://en.wikipedia.org/w/index.php?title=Snailfish&amp;oldid=1117672249</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Liparidae" title="Category:Liparidae">Liparidae</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Snailfish" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Snailfish" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Snailfish" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Snailfish" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Snailfish"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Snailfish&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Snailfish&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Snailfish" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Snailfish" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Snailfish&amp;oldid=1117672249" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Snailfish&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Snailfish&amp;id=1117672249&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q670598" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Snailfish&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Snailfish&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Liparidae" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Liparidae" hreflang="en"><span>Wikispecies</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Lip%C3%A0rids" title="Lipàrids – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Liparidae" title="Liparidae – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Scheibenb%C3%A4uche" title="Scheibenbäuche – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Liparidae" title="Liparidae – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Liparidae" title="Liparidae – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AD%D9%84%D8%B2%D9%88%D9%86%E2%80%8C%D9%85%D8%A7%D9%87%DB%8C" title="حلزون‌ماهی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Liparidae" title="Liparidae – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%BC%BC%EC%B9%98%EA%B3%BC" title="꼼치과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Liparidae" title="Liparidae – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Liparidae" title="Liparidae – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%93%D7%92%D7%99_%D7%97%D7%99%D7%9C%D7%96%D7%95%D7%9F" title="דגי חילזון – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Gleivia%C5%BEuvin%C4%97s" title="Gleiviažuvinės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%84%D9%8A%D8%A8%D8%A7%D8%B1%D9%8A%D8%AF%D8%A7" title="ليباريدا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Slakdolven" title="Slakdolven – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%AA%E7%A7%91" title="クサウオ科 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Ringbuker" title="Ringbuker – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Dennikowate" title="Dennikowate – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Liparidae" title="Liparidae – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D1%8B%D0%B5" title="Липаровые – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Imukalat" title="Imukalat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Liparidae" title="Liparidae – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Liparidae" title="Liparidae – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%96" title="Ліпарисові – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Liparidae" title="Liparidae – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Liparidae" title="Liparidae – Waray" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%8D%85%E5%AD%90%E9%AD%9A%E7%A7%91" title="獅子魚科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q670598#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 23 October 2022, at 00:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Snailfish&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.774","walltime":"1.002","ppvisitednodes":{"value":7259,"limit":1000000},"postexpandincludesize":{"value":143770,"limit":2097152},"templateargumentsize":{"value":3905,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":95164,"limit":5000000},"entityaccesscount":{"value":17,"limit":400},"timingprofile":["100.00%  849.642      1 -total"," 26.29%  223.354      1 Template:Reflist"," 25.80%  219.193      1 Template:Automatic_taxobox"," 20.01%  169.978      1 Template:Taxonbar"," 11.93%  101.350     18 Template:Cite_journal","  8.52%   72.378      1 Template:Cite_web","  7.71%   65.537      6 Template:Navbox","  6.82%   57.970      1 Template:Short_description","  3.88%   32.951      1 Template:Commons_category-inline","  3.86%   32.824     10 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.522","limit":"10.000"},"limitreport-memusage":{"value":9470149,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20221023053610","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Snailfish","url":"https:\/\/en.wikipedia.org\/wiki\/Snailfish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q670598","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q670598","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-03T20:19:51Z","dateModified":"2022-10-23T00:15:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/26\/Festive_Snailfish.jpg","headline":"family of fishes"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Snailfish","url":"https:\/\/en.wikipedia.org\/wiki\/Snailfish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q670598","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q670598","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-03T20:19:51Z","dateModified":"2022-10-23T00:15:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/26\/Festive_Snailfish.jpg","headline":"family of fishes"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1442"});});</script>
+</body>
+</html>

@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Population dynamics of fisheries - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e31f9aa7-ff9a-4237-898a-5e566de78b76","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Population_dynamics_of_fisheries","wgTitle":"Population dynamics of fisheries","wgCurRevisionId":1071372004,"wgRevisionId":1071372004,"wgArticleId":17502652,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: url-status","All articles with dead external links","Articles with dead external links from February 2021","Articles with permanently dead external links","Fisheries science","Population ecology"],"wgPageContentLanguage":"en","wgPageContentModel"
+:"wikitext","wgRelevantPageName":"Population_dynamics_of_fisheries","wgRelevantArticleId":17502652,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q7229803","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,
+"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.math.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/1200px-Moofushi_Kandu_fish.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="900"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/800px-Moofushi_Kandu_fish.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="600"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/640px-Moofushi_Kandu_fish.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="480"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Population dynamics of fisheries - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Population_dynamics_of_fisheries"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Population_dynamics_of_fisheries"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Population_dynamics_of_fisheries rootpage-Population_dynamics_of_fisheries skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Population dynamics of fisheries</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Moofushi_Kandu_fish.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/300px-Moofushi_Kandu_fish.jpg" decoding="async" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/450px-Moofushi_Kandu_fish.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moofushi_Kandu_fish.jpg/600px-Moofushi_Kandu_fish.jpg 2x" data-file-width="1632" data-file-height="1224" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Moofushi_Kandu_fish.jpg" class="internal" title="Enlarge"></a></div>Predator <a href="/wiki/Bluefin_trevally" title="Bluefin trevally">bluefin trevally</a> sizing up <a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">schooling</a> <a href="/wiki/Anchovy" title="Anchovy">anchovies</a>, in the <a href="/wiki/Maldives" title="Maldives">Maldives</a></div></div></div>
+<p>A <a href="/wiki/Fishery" title="Fishery">fishery</a> is an area with an associated <a href="/wiki/Fish" title="Fish">fish</a> or <a href="/wiki/Aquatic_animal" title="Aquatic animal">aquatic</a> population which is harvested for its <a href="/wiki/Commercial_fishing" title="Commercial fishing">commercial</a> or <a href="/wiki/Recreational_fishing" title="Recreational fishing">recreational</a> value. Fisheries can be <a href="/wiki/Wild_fisheries_of_the_world" class="mw-redirect" title="Wild fisheries of the world">wild</a> or <a href="/wiki/Fish_farm" class="mw-redirect" title="Fish farm">farmed</a>. <a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a> describes the ways in which a given population grows and shrinks over time, as controlled by birth, death, and migration. It is the basis for understanding changing fishery patterns and issues such as <a href="/wiki/Habitat_destruction" title="Habitat destruction">habitat destruction</a>, predation and optimal harvesting rates. The <b>population dynamics of fisheries</b> is used by <a href="/wiki/Fisheries_science" title="Fisheries science">fisheries scientists</a> to determine <a href="/wiki/Sustainable_yield_in_fisheries" title="Sustainable yield in fisheries">sustainable yields</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The basic accounting relation for population dynamics is the <a href="/wiki/Matrix_population_models" title="Matrix population models">BIDE</a> (Birth, Immigration, Death, Emigration) model, shown as:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<dl><dd><i>N</i><sub>1</sub> = <i>N</i><sub>0</sub> + <i>B</i> &#8722; <i>D</i> + <i>I</i> &#8722; <i>E</i></dd></dl>
+<p>where <i>N</i><sub>1</sub> is the number of individuals at time 1, <i>N</i><sub>0</sub> is the number of individuals at time 0, <i>B</i> is the number of individuals born, <i>D</i> the number that died, <i>I</i> the number that immigrated, and <i>E</i> the number that emigrated between time 0 and time 1. While immigration and emigration can be present in <a href="/wiki/Wild_fisheries_of_the_world" class="mw-redirect" title="Wild fisheries of the world">wild fisheries</a>, they are usually not measured.
+</p><p>A fishery population is affected by three dynamic rate functions:
+</p>
+<ul><li><a href="/wiki/Birth_rate" title="Birth rate">Birth rate</a> or <b>recruitment</b>. Recruitment means reaching a certain size or reproductive stage. With fisheries, recruitment usually refers to the age a fish can be caught and counted in nets.</li>
+<li>Growth rate. This measures the growth of individuals in size and length. This is important in fisheries where the population is often measured in terms of <a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">biomass</a>.</li>
+<li><a href="/wiki/Fish_mortality" title="Fish mortality">Mortality</a>. This includes harvest mortality and natural mortality. Natural mortality includes non-human predation, disease and old age.</li></ul>
+<p>If these rates are measured over different time intervals, the <b>harvestable surplus</b> of a fishery can be determined. The harvestable surplus is the number of individuals that can be harvested from the population without affecting long term stability (average population size). The harvest within the harvestable surplus is called <b>compensatory mortality</b>, where the harvest deaths are substituting for the deaths that would otherwise occur naturally. Harvest beyond that is <b>additive mortality</b>, harvest in addition to all the animals that would have died naturally.
+</p><p>Care is needed when applying population dynamics to real world fisheries. Over-simplistic modelling of fisheries has resulted in the collapse of key <a href="/wiki/Fish_stocks" title="Fish stocks">stocks</a>.<sup id="cite_ref-Epitaph_4-0" class="reference"><a href="#cite_note-Epitaph-4">&#91;4&#93;</a></sup><sup id="cite_ref-Lessons_5-0" class="reference"><a href="#cite_note-Lessons-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Population_size"><span class="tocnumber">2</span> <span class="toctext">Population size</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Virtual_population_analysis"><span class="tocnumber">3</span> <span class="toctext">Virtual population analysis</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Minimum_viable_population"><span class="tocnumber">4</span> <span class="toctext">Minimum viable population</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Maximum_sustainable_yield"><span class="tocnumber">5</span> <span class="toctext">Maximum sustainable yield</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Recruitment"><span class="tocnumber">6</span> <span class="toctext">Recruitment</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Fishing_effort"><span class="tocnumber">7</span> <span class="toctext">Fishing effort</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Overfishing"><span class="tocnumber">8</span> <span class="toctext">Overfishing</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Metapopulation"><span class="tocnumber">9</span> <span class="toctext">Metapopulation</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Age_class_structure"><span class="tocnumber">10</span> <span class="toctext">Age class structure</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Population_cycle"><span class="tocnumber">11</span> <span class="toctext">Population cycle</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Trophic_cascades"><span class="tocnumber">12</span> <span class="toctext">Trophic cascades</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Basic_models"><span class="tocnumber">13</span> <span class="toctext">Basic models</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Predator–prey_equations"><span class="tocnumber">14</span> <span class="toctext">Predator–prey equations</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">15</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">16</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Further_reading"><span class="tocnumber">17</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first principle of population dynamics is widely regarded as the exponential law of <a href="/wiki/Malthus" class="mw-redirect" title="Malthus">Malthus</a>, as modelled by the <a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a>. The early period was dominated by <a href="/wiki/Demography" title="Demography">demographic</a> studies such as the work of <a href="/wiki/Benjamin_Gompertz" title="Benjamin Gompertz">Benjamin Gompertz</a>  and <a href="/wiki/Pierre_Fran%C3%A7ois_Verhulst" title="Pierre François Verhulst">Pierre François Verhulst</a> in the early 19th century, who refined and adjusted the Malthusian demographic model. A more general model formulation was proposed by F.J. Richards in 1959, by which the models of Gompertz, Verhulst and also <a href="/wiki/Ludwig_von_Bertalanffy" title="Ludwig von Bertalanffy">Ludwig von Bertalanffy</a> are covered as special cases of the general formulation.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Population_size">Population size</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=2" title="Edit section: Population size">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Population_size" title="Population size">population size</a> (usually denoted by <i>N</i>) is the number of individual <a href="/wiki/Organism" title="Organism">organisms</a> in a <a href="/wiki/Population" title="Population">population</a>.
+</p><p>The <a href="/wiki/Effective_population_size" title="Effective population size">effective population size</a> (<i>N</i><sub><i>e</i></sub>) was defined by <a href="/wiki/Sewall_Wright" title="Sewall Wright">Sewall Wright</a>, who wrote two landmark papers on it (Wright 1931, 1938).  He defined it as "the number of breeding individuals in an <a href="/wiki/Idealized_population" class="mw-redirect" title="Idealized population">idealized population</a> that would show the same amount of dispersion of <a href="/wiki/Allele_frequency" title="Allele frequency">allele frequencies</a> under random <a href="/wiki/Genetic_drift" title="Genetic drift">genetic drift</a> or the same amount of <a href="/wiki/Inbreeding" title="Inbreeding">inbreeding</a> as the population under consideration". It is a basic parameter in many models in <a href="/wiki/Population_genetics" title="Population genetics">population genetics</a>. <i>N</i><sub><i>e</i></sub> is usually less than <i>N</i> (the absolute population size).
+</p><p><a href="/wiki/Small_population_size" title="Small population size">Small population size</a> results in increased <a href="/wiki/Genetic_drift" title="Genetic drift">genetic drift</a>.  <a href="/wiki/Population_bottleneck" title="Population bottleneck">Population bottlenecks</a> are when population size reduces for a short period of time.
+</p><p><a href="/wiki/Overpopulation_(biology)" class="mw-redirect" title="Overpopulation (biology)">Overpopulation</a> may indicate any case in which the population of any species of animal may exceed the <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a> of its <a href="/wiki/Ecological_niche" title="Ecological niche">ecological niche</a>.
+</p>
+<h2><span class="mw-headline" id="Virtual_population_analysis">Virtual population analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=3" title="Edit section: Virtual population analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Virtual_population_analysis" title="Virtual population analysis">Virtual population analysis</a></div>
+<p><b>Virtual population analysis (VPA)</b> is a <a href="/wiki/Cohort_(statistics)" title="Cohort (statistics)">cohort</a> modeling technique commonly used in <a href="/wiki/Fisheries_science" title="Fisheries science">fisheries science</a> for reconstructing historical fish numbers at age using information on death of individuals each year. This death is usually partitioned into catch by fisheries and <a href="/wiki/Fish_mortality" title="Fish mortality">natural mortality</a>. VPA is virtual in the sense that the population size is not observed or measured directly but is inferred or back-calculated to have been a certain size in the past in order to support the observed fish catches and an assumed death rate owing to non-fishery related causes.
+</p>
+<h2><span class="mw-headline" id="Minimum_viable_population">Minimum viable population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=4" title="Edit section: Minimum viable population">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></div>
+<p>The minimum viable population (MVP) is a lower bound on the population of a species, such that it can survive in the wild. More specifically MVP is the smallest possible size at which a biological population can exist without facing extinction from natural disasters or demographic, environmental, or genetic <a href="/wiki/Stochastic" title="Stochastic">stochasticity</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The term "population" refers to the population of a species in the wild.
+</p><p>As a reference standard, MVP is usually given with a population survival probability of somewhere between ninety and ninety-five percent and calculated for between one hundred and one thousand years into the future.
+</p><p>The MVP can be calculated using <a href="/wiki/Computer_simulation" title="Computer simulation">computer simulations</a> known as <a href="/wiki/Population_viability_analysis" title="Population viability analysis">population viability analyses</a> (PVA), where populations are modelled and future population dynamics are projected.
+</p>
+<h2><span class="mw-headline" id="Maximum_sustainable_yield">Maximum sustainable yield</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=5" title="Edit section: Maximum sustainable yield">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></div>
+<p>In <a href="/wiki/Population_ecology" title="Population ecology">population ecology</a> and <a href="/wiki/Economics" title="Economics">economics</a>, the <a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">maximum sustainable yield</a> or <b>MSY</b> is, theoretically, the largest catch that can be taken from a fishery stock over an indefinite period.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Under the assumption of logistic growth, the MSY will be exactly at half the <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a> of a species, as this is the stage at when population growth is highest. The maximum sustainable yield is usually higher than the <a href="/wiki/Optimum_sustainable_yield" title="Optimum sustainable yield">optimum sustainable yield</a>.
+</p><p>This <a href="/wiki/Logistic_function" title="Logistic function">logistic</a> model of growth is produced by a population introduced to a new habitat or with very poor numbers going through a lag phase of slow growth at first. Once it reaches a foothold population it will go through a rapid growth rate that will start to level off once the species approaches carrying capacity. The idea of maximum sustained yield is to decrease population density to the point of highest growth rate possible. This changes the number of the population, but the new number can be maintained indefinitely, ideally.
+</p><p>MSY is extensively used for fisheries management.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>  Unlike the logistic (Schaefer) model, MSY in most modern fisheries models occurs at around 30-40% of the unexploited population size.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> This fraction differs among populations depending on the life history of the species and the age-specific selectivity of the fishing method.
+</p><p>However, the approach has been widely criticized as ignoring several key factors involved in fisheries management and has led to the devastating collapse of many fisheries. As a simple calculation, it ignores the size and age of the animal being taken, its reproductive status, and it focuses solely on the species in question, ignoring the damage to the ecosystem caused by the designated level of exploitation and the issue of bycatch. Among <a href="/wiki/Conservation_biology" title="Conservation biology">conservation biologists</a> it is widely regarded as dangerous and misused.<sup id="cite_ref-Epitaph_4-1" class="reference"><a href="#cite_note-Epitaph-4">&#91;4&#93;</a></sup><sup id="cite_ref-Lessons_5-1" class="reference"><a href="#cite_note-Lessons-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Recruitment">Recruitment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=6" title="Edit section: Recruitment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Recruitment is the number of new young fish that enter a population in a given year. The size of fish populations can fluctuate by orders of magnitude over time, and five to 10-fold variations in abundance are usual. This variability applies across time spans ranging from a year to hundreds of years. Year to year fluctuations in the abundance of short lived <a href="/wiki/Forage_fish" title="Forage fish">forage fish</a> can be nearly as great as the fluctuations that occur over decades or centuries. This suggests that fluctuations in reproductive and recruitment success are prime factors behind fluctuations in abundance. Annual fluctuations often seem random, and recruitment success often has a poor relationship to adult stock levels and fishing effort. This makes prediction difficult.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>The recruitment problem is the problem of predicting the number of fish larvae in one season that will survive and become juvenile fish in the next season. It has been called "the central problem of fish population dynamics"<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> and “the major problem in fisheries science".<sup id="cite_ref-NYT_15-0" class="reference"><a href="#cite_note-NYT-15">&#91;15&#93;</a></sup> Fish produce huge volumes of larvae, but the volumes are very variable and mortality is high. This makes good predictions difficult.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>According to <a href="/wiki/Daniel_Pauly" title="Daniel Pauly">Daniel Pauly</a>,<sup id="cite_ref-NYT_15-1" class="reference"><a href="#cite_note-NYT-15">&#91;15&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> the definitive study was made in 1999 by <a href="/wiki/Ransom_A._Myers" title="Ransom A. Myers">Ransom Myers</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Myers solved the problem "by assembling a large base of stock data and developing a complex mathematical model to sort it out. Out of that came the conclusion that a female in general produced three to five recruits per year for most fish.”<sup id="cite_ref-NYT_15-2" class="reference"><a href="#cite_note-NYT-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fishing_effort">Fishing effort</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=7" title="Edit section: Fishing effort">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fishing effort is a measure of the anthropogenic work input used to catch fish. A good measure of the fishing effort will be approximately proportional to the amount of fish captured. Different measures are appropriate for different kinds of fisheries. For example, the fishing effort exerted by a <a href="/wiki/Fishing_fleet" title="Fishing fleet">fishing fleet</a> in a trawl fishery might be measured by summing the products of the engine power for each boat and time it spent at sea (KW × days). For a gill-net fishery the effort might be measured by summing the products of the length of each set net and the time it was set in the water (Km × soak time). In fisheries where boats spend a lot of time looking for fish, a measure based on search time may be used.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Overfishing">Overfishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=8" title="Edit section: Overfishing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Harvest_Control_Rule_graph.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harvest_Control_Rule_graph.gif/300px-Harvest_Control_Rule_graph.gif" decoding="async" width="300" height="213" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harvest_Control_Rule_graph.gif/450px-Harvest_Control_Rule_graph.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/0/04/Harvest_Control_Rule_graph.gif 2x" data-file-width="600" data-file-height="425" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Harvest_Control_Rule_graph.gif" class="internal" title="Enlarge"></a></div>The Traffic Light colour convention, showing the concept of Harvest Control Rule (HCR), specifying when a rebuilding plan is mandatory in terms of <a href="/wiki/Precautionary_principle" title="Precautionary principle">precautionary</a> and limit reference points for <a href="/wiki/Spawn_(biology)" title="Spawn (biology)">spawning</a> <a href="/wiki/Biomass" title="Biomass">biomass</a> and fishing <a href="/wiki/Fish_mortality" title="Fish mortality">mortality rate</a>.</div></div></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></div>
+<p>The notion of <a href="/wiki/Overfishing" title="Overfishing">overfishing</a> hinges on what is meant by an <b>acceptable level</b> of fishing.
+</p><p>A current operational model used by some fisheries for predicting acceptable levels is the <b>Harvest Control Rule</b> (HCR). This formalizes and summarizes a management strategy which can actively adapt to subsequent feedback. The HCR is a variable over which the management has some direct control and describes how the harvest is intended to be controlled by management in relation to the state of some indicator of stock status. For example, a harvest control rule can describe the various values of fishing mortality which will be aimed at for various values of the stock abundance.  Constant catch and constant fishing mortality are two types of simple harvest control rules.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<ul><li><b>Biological overfishing</b> occurs when fishing <a href="/wiki/Mortality_rate" title="Mortality rate">mortality</a> has reached a level where the stock <a href="/wiki/Biomass" title="Biomass">biomass</a> has negative <a href="/wiki/Marginalism" title="Marginalism">marginal growth</a> (slowing down biomass growth), as indicated by the red area in the figure. Fish are being taken out of the water so quickly that the replenishment of stock by breeding slows down.  If the replenishment continues to slow down for long enough, replenishment will go into reverse and the population will decrease.</li>
+<li><b>Economic</b> or <b>bioeconomic overfishing</b> additionally considers the cost of fishing and defines overfishing as a situation of negative marginal growth of <a href="/wiki/Resource_rent" title="Resource rent">resource rent</a>.  Fish are being taken out of the water so quickly that the growth in the profitability of fishing slows down. If this continues for long enough, profitability will decrease.</li></ul>
+<h2><span class="mw-headline" id="Metapopulation">Metapopulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=9" title="Edit section: Metapopulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></div>
+<p>A metapopulation is a group of spatially separated populations of the same <a href="/wiki/Species" title="Species">species</a> which interact at some level.  The term was coined by <a href="/wiki/Richard_Levins" title="Richard Levins">Richard Levins</a> in 1969. The idea has been most broadly applied to species in naturally or artificially <a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">fragmented habitats</a>. In Levins' own words, it consists of "a population of populations".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>A metapopulation generally consists of several distinct populations together with areas of suitable habitat which are currently unoccupied.  Each population cycles in relative independence of the other populations and eventually goes extinct as a consequence of demographic stochasticity (fluctuations in population size due to random demographic events); the smaller the population, the more prone it is to extinction.
+</p><p>Although individual populations have finite life-spans, the population as a whole is often stable because immigrants from one population (which may, for example, be experiencing a population boom) are likely to re-colonize habitat which has been left open by the extinction of another population.  They may also emigrate to a small population and rescue that population from extinction (called the <i><a href="/wiki/Rescue_effect" title="Rescue effect">rescue effect</a></i>).  
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Thomas_Malthus.jpg" class="image" title="Malthus"><img alt="Malthus" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Thomas_Malthus.jpg/91px-Thomas_Malthus.jpg" decoding="async" width="91" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Thomas_Malthus.jpg/137px-Thomas_Malthus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Thomas_Malthus.jpg/183px-Thomas_Malthus.jpg 2x" data-file-width="1641" data-file-height="2152" /></a></div></div>
+			<div class="gallerytext">
+<p>Malthus
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Gompertz.png" class="image" title="Gompertz"><img alt="Gompertz" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gompertz.png/99px-Gompertz.png" decoding="async" width="99" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gompertz.png/149px-Gompertz.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gompertz.png/199px-Gompertz.png 2x" data-file-width="487" data-file-height="587" /></a></div></div>
+			<div class="gallerytext">
+<p>Gompertz
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pierre_Francois_Verhulst.jpg" class="image" title="Verhulst"><img alt="Verhulst" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pierre_Francois_Verhulst.jpg/78px-Pierre_Francois_Verhulst.jpg" decoding="async" width="78" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pierre_Francois_Verhulst.jpg/116px-Pierre_Francois_Verhulst.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pierre_Francois_Verhulst.jpg/155px-Pierre_Francois_Verhulst.jpg 2x" data-file-width="395" data-file-height="610" /></a></div></div>
+			<div class="gallerytext">
+<p>Verhulst
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Age_class_structure">Age class structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=10" title="Edit section: Age class structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Age_class_structure" title="Age class structure">Age class structure</a></div>
+<p>Age can be determined by counting growth rings in <a href="/wiki/Fish" title="Fish">fish</a> scales, <a href="/wiki/Otoliths" class="mw-redirect" title="Otoliths">otoliths</a>, cross-sections of fin spines for species with thick spines such as <a href="/wiki/Triggerfish" title="Triggerfish">triggerfish</a>, or teeth for a few species. Each method has its merits and drawbacks. Fish scales are easiest to obtain, but may be unreliable if scales have fallen off of the fish and new ones grown in their places. Fin spines may be unreliable for the same reason, and most fish do not have spines of sufficient thickness for clear rings to be visible. Otoliths will have stayed with the fish throughout its life history, but obtaining them requires killing the fish. Also, otoliths often require more preparation before ageing can occur.
+</p><p>An age class structure with gaps in it, for instance a regular <a href="/wiki/Normal_distribution" title="Normal distribution">bell curve</a> for the population of 1-5 year-old fish, excepting a very low population for the 3-year-olds, implies a bad <a href="/wiki/Spawn_(biology)" title="Spawn (biology)">spawning</a> year 3 years ago in that species.
+</p><p>Often fish in younger age class structures have very low numbers because they were small enough to slip through the <a href="/wiki/Sampling_(statistics)" title="Sampling (statistics)">sampling</a> nets, and may in fact have a very healthy population.
+</p>
+<h2><span class="mw-headline" id="Population_cycle">Population cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=11" title="Edit section: Population cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></div>
+<p>A population cycle occurs where <a href="/wiki/Population" title="Population">populations</a> rise and fall over a predictable period of time. There are some species where population numbers have reasonably predictable patterns of change although the full reasons for population cycles is one of the major unsolved ecological problems. There are a number of factors which influence population change such as availability of food, predators, diseases and climate.
+</p>
+<h2><span class="mw-headline" id="Trophic_cascades">Trophic cascades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=12" title="Edit section: Trophic cascades">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></div>
+<p>Trophic cascades occur when <a href="/wiki/Predator" class="mw-redirect" title="Predator">predators</a> in a <a href="/wiki/Food_chain" title="Food chain">food chain</a> suppress the abundance of their <a href="/wiki/Prey" class="mw-redirect" title="Prey">prey</a>, thereby releasing the next lower <a href="/wiki/Trophic_level" title="Trophic level">trophic level</a> from <a href="/wiki/Predation" title="Predation">predation</a> (or <a href="/wiki/Herbivory" class="mw-redirect" title="Herbivory">herbivory</a> if the intermediate trophic level is an <a href="/wiki/Herbivore" title="Herbivore">herbivore</a>). For example, if the abundance of large <a href="/wiki/Piscivore" title="Piscivore">piscivorous</a> fish is increased in a <a href="/wiki/Lake" title="Lake">lake</a>, the abundance of their prey, <a href="/wiki/Zooplankton" title="Zooplankton">zooplanktivorous</a> <a href="/wiki/Fish" title="Fish">fish</a>, should decrease, large <a href="/wiki/Zooplankton" title="Zooplankton">zooplankton</a> abundance should increase, and <a href="/wiki/Phytoplankton" title="Phytoplankton">phytoplankton</a> <a href="/wiki/Biomass" title="Biomass">biomass</a> should decrease. This theory has stimulated new research in many areas of <a href="/wiki/Ecology" title="Ecology">ecology</a>. Trophic cascades may also be important for understanding the effects of removing top predators from food webs, as humans have done in many places through hunting and fishing activities.
+</p>
+<dl><dt>Classic examples</dt></dl>
+<ol><li>In <a href="/wiki/Lake" title="Lake">lakes</a>, <a href="/wiki/Piscivore" title="Piscivore">piscivorous</a> fish can dramatically reduce populations of <a href="/wiki/Zooplankton" title="Zooplankton">zooplanktivorous</a> fish, <a href="/wiki/Zooplankton" title="Zooplankton">zooplanktivorous</a> fish can dramatically alter <a href="/wiki/Freshwater" class="mw-redirect" title="Freshwater">freshwater</a> <a href="/wiki/Zooplankton" title="Zooplankton">zooplankton</a> communities, and <a href="/wiki/Zooplankton" title="Zooplankton">zooplankton</a> grazing can in turn have large impacts on <a href="/wiki/Phytoplankton" title="Phytoplankton">phytoplankton</a> communities. Removal of piscivorous fish can change lake water from clear to green by allowing phytoplankton to flourish.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup></li>
+<li>In the <a href="/wiki/Eel_River_(California)" title="Eel River (California)">Eel River</a>, in Northern <a href="/wiki/California" title="California">California</a>, fish (<a href="/wiki/Rainbow_trout" title="Rainbow trout">steelhead</a> and <a href="/wiki/California_Roach" class="mw-redirect" title="California Roach">roach</a>) consume fish larvae and predatory <a href="/wiki/Insects" class="mw-redirect" title="Insects">insects</a>. These smaller <a href="/wiki/Predator" class="mw-redirect" title="Predator">predators</a> prey on <a href="/wiki/Midge" title="Midge">midge</a> larvae, which feed on <a href="/wiki/Algae" title="Algae">algae</a>. Removal of the larger fish increases the abundance of algae.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup></li>
+<li>In <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific</a> <a href="/wiki/Kelp_forest" title="Kelp forest">kelp forests</a>, <a href="/wiki/Sea_otters" class="mw-redirect" title="Sea otters">sea otters</a> feed on <a href="/wiki/Sea_urchin" title="Sea urchin">sea urchins</a>. In areas where sea otters have been <a href="/wiki/Hunting" title="Hunting">hunted</a> to <a href="/wiki/Local_extinction" title="Local extinction">extinction</a>, sea urchins increase in abundance and decimate <a href="/wiki/Kelp" title="Kelp">kelp</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup></li></ol>
+<p>A recent theory, the <a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">mesopredator release hypothesis</a>, states that the decline of top predators in an ecosystem results in increased populations of medium-sized predators (mesopredators).
+</p>
+<h2><span class="mw-headline" id="Basic_models">Basic models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=13" title="Edit section: Basic models">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The classic population equilibrium model is <a href="/wiki/Pierre_Fran%C3%A7ois_Verhulst" title="Pierre François Verhulst">Verhulst's</a> 1838 <a href="/wiki/Logistic_function#In_ecology:_modeling_population_growth" title="Logistic function">growth model</a>:</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {dN}{dt}}=rN\left(1-{\frac {N}{K}}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <mi>N</mi>
+            </mrow>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>r</mi>
+        <mi>N</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mi>N</mi>
+                <mi>K</mi>
+              </mfrac>
+            </mrow>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {dN}{dt}}=rN\left(1-{\frac {N}{K}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ecdd930969407c6b71b1e6bed468dd7a7554730" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:21.04ex; height:6.176ex;" alt=" \frac{dN}{dt} = r N \left(1 - \frac {N}{K} \right)"/></span></dd></dl></dd></dl>
+<dl><dd>where <i>N</i>(<i>t</i>) represents number of individuals at time <i>t</i>, <i>r</i> the intrinsic growth rate and <i>K</i> is the <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a>, or the maximum number of individuals that the environment can support.</dd></dl>
+<ul><li>The individual growth model, published by <a href="/wiki/Ludwig_von_Bertalanffy" title="Ludwig von Bertalanffy">von Bertalanffy</a> in 1934, can be used to model the rate at which fish grow. It exists in a number of versions, but in its simplest form it is expressed as a <a href="/wiki/Differential_equation" title="Differential equation">differential equation</a> of length (<i>L</i>) over time (<i>t</i>):</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L'(t)=r_{B}\left(L_{\infty }-L(t)\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>L</mi>
+          <mo>&#x2032;</mo>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>B</mi>
+          </mrow>
+        </msub>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <msub>
+              <mi>L</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+              </mrow>
+            </msub>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>L</mi>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L'(t)=r_{B}\left(L_{\infty }-L(t)\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5cb6aebf6424c20a6b2ccc83cd071a9ae94c274d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:23.27ex; height:3.009ex;" alt="L&#039;(t)=r_{B}\left(L_{\infty }-L(t)\right)"/></span></dd></dl></dd></dl>
+<dl><dd>where <i>r</i><sub><i>B</i></sub> is the von Bertalanffy growth rate and <i>L</i><sub>&#8734;</sub> the ultimate length of the individual.</dd></dl>
+<ul><li><a href="/wiki/Milner_Baily_Schaefer" title="Milner Baily Schaefer">Schaefer</a> published a fishery equilibrium model based on the <a href="/wiki/Pierre_Fran%C3%A7ois_Verhulst" title="Pierre François Verhulst">Verhulst</a> model with an assumption of a bi-linear catch equation, often referred to as the Schaefer short-term catch equation:</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H(E,X)=qEX\!}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo>,</mo>
+        <mi>X</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>q</mi>
+        <mi>E</mi>
+        <mi>X</mi>
+        <mspace width="negativethinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H(E,X)=qEX\!}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/159b324a01ce1eaef6a5235207b78660a1571412" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:16.586ex; height:2.843ex;" alt="H(E,X)=qEX\!"/></span></dd></dl></dd></dl>
+<dl><dd>where the variables are; <i>H</i>, referring to catch (harvest) over a given period of time (e.g. a year); <i>E</i>, the fishing effort over the given period; <i>X</i>, the fish stock biomass at the beginning of the period (or the average biomass), and the parameter <i>q</i> represents the catchability of the stock.</dd></dl>
+<dl><dd>Assuming the catch to equal the net natural growth in the population over the same period (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\dot {X}}=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>X</mi>
+              <mo>&#x02D9;<!-- ˙ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\dot {X}}=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be02e70be2337643d42abd814db076f0f79212cb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.241ex; height:2.676ex;" alt="{\dot  {X}}=0"/></span>), the equilibrium catch is a function of the long term fishing effort <i>E</i>:</dd></dl>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H(E)=qKE(1-{\frac {qE}{r}})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo stretchy="false">(</mo>
+        <mi>E</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>q</mi>
+        <mi>K</mi>
+        <mi>E</mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>q</mi>
+              <mi>E</mi>
+            </mrow>
+            <mi>r</mi>
+          </mfrac>
+        </mrow>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H(E)=qKE(1-{\frac {qE}{r}})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9e6869dfbe5c3f051565c6056eebf2bcaf0d7df8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:23.152ex; height:5.343ex;" alt="H(E)=qKE(1-{\frac  {qE}{r}})"/></span></dd></dl></dd></dl>
+<dl><dd><i>r</i> and <i>K</i> being biological parameters representing intrinsic growth rate and natural equilibrium biomass respectively.</dd></dl>
+<ul><li>The <a href="/wiki/Baranov_catch_equation" class="mw-redirect" title="Baranov catch equation">Baranov catch equation</a> of 1918 is perhaps the most used equation in fisheries modelling.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> It gives the catch in numbers as a function of initial population abundance <i>N</i><sub><i>0</i></sub> and fishing <i>F</i> and natural mortality <i>M</i>:</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle C={\frac {F}{F+M}}(1-e^{-(F+M)T})N_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>F</mi>
+            <mrow>
+              <mi>F</mi>
+              <mo>+</mo>
+              <mi>M</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mo stretchy="false">(</mo>
+            <mi>F</mi>
+            <mo>+</mo>
+            <mi>M</mi>
+            <mo stretchy="false">)</mo>
+            <mi>T</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C={\frac {F}{F+M}}(1-e^{-(F+M)T})N_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/759bab0ac41606285144059765bcf86e6eb2bff5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:30.724ex; height:5.343ex;" alt="C={\frac  {F}{F+M}}(1-e^{{-(F+M)T}})N_{0}"/></span></dd></dl></dd></dl>
+<dl><dd>where <i>T</i> is the time period and is usually left out (i.e. <i>T=1</i> is assumed). The equation assumes that fishing and natural mortality occur simultaneously and thus "compete" with each other. The first term expresses the proportion of deaths that are caused by fishing, and the second and third term the total number of deaths.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup></dd></dl>
+<ul><li>The <a href="/wiki/Ricker_model" title="Ricker model">Ricker model</a> is a classic discrete population model which gives the expected number (or density) of individuals <i>N</i><sub><i>t</i>&#160;+&#160;1</sub> in generation <i>t</i>&#160;+&#160;1 as a function of the number of individuals in the previous generation,</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle N_{t+1}=N_{t}e^{r(1-{\frac {N_{t}}{k}})}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>N</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+            <mo stretchy="false">(</mo>
+            <mn>1</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <msub>
+                  <mi>N</mi>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>t</mi>
+                  </mrow>
+                </msub>
+                <mi>k</mi>
+              </mfrac>
+            </mrow>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N_{t+1}=N_{t}e^{r(1-{\frac {N_{t}}{k}})}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00b61548dddf5d21cca949993b0879bcfcb2f43d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:18.543ex; height:4.343ex;" alt="N_{{t+1}}=N_{t}e^{{r(1-{\frac  {N_{t}}{k}})}}"/></span></dd></dl></dd></dl>
+<dl><dd>Here <i>r</i> is interpreted as an intrinsic growth rate and <i>k</i> as the <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a> of the environment. The Ricker model was introduced in the context of the fisheries by <a href="/wiki/Bill_Ricker" title="Bill Ricker">Ricker</a> (1954).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup></dd></dl>
+<ul><li>The <a href="/wiki/Beverton%E2%80%93Holt_model" title="Beverton–Holt model">Beverton–Holt model</a>, introduced in the context of fisheries in 1957, is a classic discrete-time population model which gives the <a href="/wiki/Expected_value" title="Expected value">expected</a> number <i>n</i><sub>&#160;<i>t</i>+1</sub> (or density) of individuals in generation <i>t</i>&#160;+&#160;1 as a function of the number of individuals in the previous generation,</li></ul>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle n_{t+1}={\frac {R_{0}n_{t}}{1+n_{t}/M}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>n</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msub>
+                <mi>R</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+              <msub>
+                <mi>n</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <msub>
+                <mi>n</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>t</mi>
+                </mrow>
+              </msub>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>/</mo>
+              </mrow>
+              <mi>M</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n_{t+1}={\frac {R_{0}n_{t}}{1+n_{t}/M}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3cc730a3a6eb28344bedc63a58cfb812f0eee2d1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:18.731ex; height:6.176ex;" alt="n_{t+1}={\frac {R_{0}n_{t}}{1+n_{t}/M}}."/></span></dd></dl></dd></dl>
+<dl><dd>Here <i>R</i><sub>0</sub> is interpreted as the proliferation rate per generation and <i>K</i>&#160;=&#160;(<i>R</i><sub>0</sub>&#160;&#8722;&#160;1)&#160;<i>M</i> is the <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a> of the environment.</dd></dl>
+<h2><span id="Predator.E2.80.93prey_equations"></span><span class="mw-headline" id="Predator–prey_equations">Predator–prey equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=14" title="Edit section: Predator–prey equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Lotka%E2%80%93Volterra_equations" title="Lotka–Volterra equations">Lotka–Volterra equations</a>, <a href="/wiki/Competitive_Lotka%E2%80%93Volterra_equations" title="Competitive Lotka–Volterra equations">Competitive Lotka–Volterra equations</a>, and <a href="/wiki/Nicholson%E2%80%93Bailey_model" title="Nicholson–Bailey model">Nicholson–Bailey model</a></div>
+<p>The classic predator–prey equations are a pair of first order, <a href="/wiki/Non-linear" class="mw-redirect" title="Non-linear">non-linear</a>, <a href="/wiki/Differential_equation" title="Differential equation">differential equations</a> used to describe the dynamics of <a href="/wiki/Systems_biology" title="Systems biology">biological systems</a> in which two species interact, one a predator and one its prey. They were proposed independently by <a href="/wiki/Alfred_J._Lotka" title="Alfred J. Lotka">Alfred J. Lotka</a> in 1925 and <a href="/wiki/Vito_Volterra" title="Vito Volterra">Vito Volterra</a> in 1926.
+</p><p>An extension to these are the <a href="/wiki/Competitive_Lotka%E2%80%93Volterra_equations" title="Competitive Lotka–Volterra equations">competitive Lotka–Volterra equations</a>, which provide a simple model of the population dynamics of species competing for some common resource.
+</p><p>In the 1930s <a href="/wiki/Alexander_John_Nicholson" title="Alexander John Nicholson">Alexander Nicholson</a> and <a href="/wiki/Victor_Albert_Bailey" title="Victor Albert Bailey">Victor Bailey</a> developed a model to describe the population dynamics of a coupled predator–prey system. The model assumes that predators search for prey at random, and that both predators and prey are assumed to be distributed in a non-contiguous ("clumped") fashion in the environment.<sup id="cite_ref-Hopper_30-0" class="reference"><a href="#cite_note-Hopper-30">&#91;30&#93;</a></sup>
+</p><p>In the late 1980s, a credible, simple alternative to the Lotka–Volterra predator-prey model (and its common prey dependent generalizations) emerged, the ratio dependent or <a href="/wiki/Arditi%E2%80%93Ginzburg_equations" title="Arditi–Ginzburg equations">Arditi–Ginzburg model</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> The two are the extremes of the spectrum of predator interference models. According to the authors of the alternative view, the data show that true interactions in nature are so far from the Lotka–Volterra extreme on the interference spectrum that the model can simply be discounted as wrong. They are much closer to the ratio dependent extreme, so if a simple model is needed one can use the Arditi-Ginzburg model as the first approximation.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 20em;">
+<ul><li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Huffaker%27s_mite_experiment" title="Huffaker&#39;s mite experiment">Huffaker's mite experiment</a></li>
+<li><a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_modeling" class="mw-redirect" title="Population modeling">Population modeling</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li>
+<li><a href="/wiki/Wild_fisheries" title="Wild fisheries">Wild fisheries</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFWilderbuerZhang1999" class="citation journal cs1">Wilderbuer, Thomas K.; Zhang, Chang Ik (1999). "Evaluation of the population dynamics and yield characteristics of Alaska plaice, <i>Pleuronectes quadrituberculatus</i>, in the eastern Bering Sea". <i>Fisheries Research</i>. <b>41</b> (2): 183–200. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2FS0165-7836%2899%2900012-0">10.1016/S0165-7836(99)00012-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fisheries+Research&amp;rft.atitle=Evaluation+of+the+population+dynamics+and+yield+characteristics+of+Alaska+plaice%2C+Pleuronectes+quadrituberculatus%2C+in+the+eastern+Bering+Sea&amp;rft.volume=41&amp;rft.issue=2&amp;rft.pages=183-200&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1016%2FS0165-7836%2899%2900012-0&amp;rft.aulast=Wilderbuer&amp;rft.aufirst=Thomas+K.&amp;rft.au=Zhang%2C+Chang+Ik&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFZabelHarveyKatzGood2003" class="citation journal cs1">Zabel, Richard W.;  et&#160;al. (2003). "Ecologically Sustainable Yield". <i>American Scientist</i>. <b>91</b> (2): 150–157. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1511%2F2003.2.150">10.1511/2003.2.150</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/27858183">27858183</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Scientist&amp;rft.atitle=Ecologically+Sustainable+Yield&amp;rft.volume=91&amp;rft.issue=2&amp;rft.pages=150-157&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1511%2F2003.2.150&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F27858183%23id-name%3DJSTOR&amp;rft.aulast=Zabel&amp;rft.aufirst=Richard+W.&amp;rft.au=Harvey%2C+Chris+J.&amp;rft.au=Katz%2C+Steven+L.&amp;rft.au=Good%2C+Thomas+P.&amp;rft.au=Levin%2C+Phillip+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFCaswell2001" class="citation book cs1">Caswell, H. (2001). <i>Matrix population models: Construction, analysis and interpretation</i> (2nd&#160;ed.). Sunderland, Massachusetts: Sinauer Associates. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87893-096-5" title="Special:BookSources/0-87893-096-5"><bdi>0-87893-096-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Matrix+population+models%3A+Construction%2C+analysis+and+interpretation&amp;rft.place=Sunderland%2C+Massachusetts&amp;rft.edition=2nd&amp;rft.pub=Sinauer+Associates&amp;rft.date=2001&amp;rft.isbn=0-87893-096-5&amp;rft.aulast=Caswell&amp;rft.aufirst=H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Epitaph-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Epitaph_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Epitaph_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFLarkin1977" class="citation journal cs1">Larkin, P. A. (1977). "An Epitaph for the Concept of Maximum Sustained Yield". <i>Transactions of the American Fisheries Society</i>. <b>106</b> (1): 1–11. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1577%2F1548-8659%281977%29106%3C1%3AAEFTCO%3E2.0.CO%3B2">10.1577/1548-8659(1977)106&#60;1:AEFTCO&#62;2.0.CO;2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Transactions+of+the+American+Fisheries+Society&amp;rft.atitle=An+Epitaph+for+the+Concept+of+Maximum+Sustained+Yield&amp;rft.volume=106&amp;rft.issue=1&amp;rft.pages=1-11&amp;rft.date=1977&amp;rft_id=info%3Adoi%2F10.1577%2F1548-8659%281977%29106%3C1%3AAEFTCO%3E2.0.CO%3B2&amp;rft.aulast=Larkin&amp;rft.aufirst=P.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Lessons-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lessons_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lessons_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFWaltersMaguire1996" class="citation journal cs1"><a href="/wiki/Carl_Walters" title="Carl Walters">Walters, C.</a>; Maguire, J. (1996). "Lessons for stock assessment from the northern cod collapse". <i>Reviews in Fish Biology and Fisheries</i>. <b>6</b> (2): 125–137. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2FBF00182340">10.1007/BF00182340</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:20224324">20224324</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Fish+Biology+and+Fisheries&amp;rft.atitle=Lessons+for+stock+assessment+from+the+northern+cod+collapse&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=125-137&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1007%2FBF00182340&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A20224324%23id-name%3DS2CID&amp;rft.aulast=Walters&amp;rft.aufirst=C.&amp;rft.au=Maguire%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRichards1959" class="citation journal cs1">Richards, F. J. (1959). "A Flexible Growth Function for Empirical Use". <i>Journal of Experimental Botany</i>. <b>10</b> (2): 290–301. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fjxb%2F10.2.290">10.1093/jxb/10.2.290</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Experimental+Botany&amp;rft.atitle=A+Flexible+Growth+Function+for+Empirical+Use&amp;rft.volume=10&amp;rft.issue=2&amp;rft.pages=290-301&amp;rft.date=1959&amp;rft_id=info%3Adoi%2F10.1093%2Fjxb%2F10.2.290&amp;rft.aulast=Richards&amp;rft.aufirst=F.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHolsinger2007" class="citation web cs1">Holsinger, Kent (2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081120023317/http://darwin.eeb.uconn.edu/eeb310/lecture-notes/small-populations/node4.html">"Types of stochastic threats"</a>. Archived from <a rel="nofollow" class="external text" href="http://darwin.eeb.uconn.edu/eeb310/lecture-notes/small-populations/node4.html">the original</a> on November 20, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Types+of+stochastic+threats&amp;rft.date=2007&amp;rft.aulast=Holsinger&amp;rft.aufirst=Kent&amp;rft_id=http%3A%2F%2Fdarwin.eeb.uconn.edu%2Feeb310%2Flecture-notes%2Fsmall-populations%2Fnode4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEuropean_Union2006" class="citation web cs1">European Union (2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071223064801/http://europa.eu/scadplus/leg/en/lvb/l66037.htm">"Management based on maximum sustainable yield"</a>. Archived from <a rel="nofollow" class="external text" href="http://europa.eu/scadplus/leg/en/lvb/l66037.htm">the original</a> on 2007-12-23.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Management+based+on+maximum+sustainable+yield&amp;rft.date=2006&amp;rft.au=European+Union&amp;rft_id=http%3A%2F%2Feuropa.eu%2Fscadplus%2Fleg%2Fen%2Flvb%2Fl66037.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEuropean_Union2006" class="citation web cs1">European Union (2006). <a rel="nofollow" class="external text" href="http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/06/268&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en">"Questions and Answers on Maximum Sustainable Yield (MSY)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Questions+and+Answers+on+Maximum+Sustainable+Yield+%28MSY%29&amp;rft.date=2006&amp;rft.au=European+Union&amp;rft_id=http%3A%2F%2Feuropa.eu%2Frapid%2FpressReleasesAction.do%3Freference%3DMEMO%2F06%2F268%26format%3DHTML%26aged%3D0%26language%3DEN%26guiLanguage%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFWWF_Publications2007" class="citation web cs1">WWF Publications (2007). <a rel="nofollow" class="external text" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/maximum-sustainable-yield">"The Maximum Sustainable Yield objective in Fisheries"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Maximum+Sustainable+Yield+objective+in+Fisheries&amp;rft.date=2007&amp;rft.au=WWF+Publications&amp;rft_id=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fagricultural-and-biological-sciences%2Fmaximum-sustainable-yield&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: url-status (<a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">link</a>)</span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link tagged February 2021">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFNew_Zealand_Ministry_of_Fisheries" class="citation web cs1">New Zealand Ministry of Fisheries. <a rel="nofollow" class="external text" href="http://www.fish.govt.nz/en-nz/SOF/Indicators.htm">"MSY Harvest Strategies"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MSY+Harvest+Strategies&amp;rft.au=New+Zealand+Ministry+of+Fisheries&amp;rft_id=http%3A%2F%2Fwww.fish.govt.nz%2Fen-nz%2FSOF%2FIndicators.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">See e.g. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFThorpeLe_QuesneLuxfordCollie2015" class="citation journal cs1">Thorpe, Robert B.;  et&#160;al. (2015). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4390044">"Evaluation and management implications of uncertainty in a multispecies size-structured model of population and community responses to fishing"</a>. <i>Methods in Ecology and Evolution</i>. <b>6</b> (1): 49–58. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2F2041-210X.12292">10.1111/2041-210X.12292</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4390044">4390044</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/25866615">25866615</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Methods+in+Ecology+and+Evolution&amp;rft.atitle=Evaluation+and+management+implications+of+uncertainty+in+a+multispecies+size-structured+model+of+population+and+community+responses+to+fishing&amp;rft.volume=6&amp;rft.issue=1&amp;rft.pages=49-58&amp;rft.date=2015&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4390044%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F25866615&amp;rft_id=info%3Adoi%2F10.1111%2F2041-210X.12292&amp;rft.aulast=Thorpe&amp;rft.aufirst=Robert+B.&amp;rft.au=Le+Quesne%2C+Will+J.+F.&amp;rft.au=Luxford%2C+Fay&amp;rft.au=Collie%2C+Jeremy+S.&amp;rft.au=Jennings%2C+Simon&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4390044&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHoude2009" class="citation book cs1">Houde, D. E. (2009). "Recruitment variability".  In Jakobsen, T.; Fogarty, M. J.; Megrey, B. A.; Moksness, E. (eds.). <i>Fish Reproductive Biology</i>. Wiley-Blackwell. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4051-2126-2" title="Special:BookSources/978-1-4051-2126-2"><bdi>978-1-4051-2126-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Recruitment+variability&amp;rft.btitle=Fish+Reproductive+Biology&amp;rft.pub=Wiley-Blackwell&amp;rft.date=2009&amp;rft.isbn=978-1-4051-2126-2&amp;rft.aulast=Houde&amp;rft.aufirst=D.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBeyer1981" class="citation book cs1">Beyer, J. E. (1981). <i>Aquatic ecosystems-an operational research approach</i>. University of Washington Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-295-95719-0" title="Special:BookSources/0-295-95719-0"><bdi>0-295-95719-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Aquatic+ecosystems-an+operational+research+approach&amp;rft.pub=University+of+Washington+Press&amp;rft.date=1981&amp;rft.isbn=0-295-95719-0&amp;rft.aulast=Beyer&amp;rft.aufirst=J.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-NYT-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYT_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYT_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NYT_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/03/29/obituaries/29myers.html">"Ransom A. Myers, 54, Dies; Expert on Loss of Fish Stocks"</a>. <i>The New York Times</i>. 29 March 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Ransom+A.+Myers%2C+54%2C+Dies%3B+Expert+on+Loss+of+Fish+Stocks&amp;rft.date=2007-03-29&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F03%2F29%2Fobituaries%2F29myers.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBakun1985" class="citation journal cs1">Bakun, A. (1985). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081201100227/http://www.calcofi.org/newhome/publications/CalCOFI_Reports/v26/pdfs/Vol_26_Bakun.pdf">"Comparative studies and the recruitment problem: Searching for generalizations"</a> <span class="cs1-format">(PDF)</span>. <i>CalCOFI Report</i>. <b>26</b>. Archived from <a rel="nofollow" class="external text" href="http://www.calcofi.org/newhome/publications/CalCOFI_Reports/v26/pdfs/Vol_26_Bakun.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-12-01.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CalCOFI+Report&amp;rft.atitle=Comparative+studies+and+the+recruitment+problem%3A+Searching+for+generalizations&amp;rft.volume=26&amp;rft.date=1985&amp;rft.aulast=Bakun&amp;rft.aufirst=A.&amp;rft_id=http%3A%2F%2Fwww.calcofi.org%2Fnewhome%2Fpublications%2FCalCOFI_Reports%2Fv26%2Fpdfs%2FVol_26_Bakun.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPauly2007" class="citation journal cs1">Pauly, Daniel (10 May 2007). <a rel="nofollow" class="external text" href="http://seaaroundus.org/magazines/2007/Nature_RansomAldrichMyers.pdf">"Ransom Aldrich Myers (1952-2007)"</a> <span class="cs1-format">(PDF)</span>. <i>Nature</i>. <b>447</b> (7141): 160. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2F447160a">10.1038/447160a</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/17495917">17495917</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:4430142">4430142</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Ransom+Aldrich+Myers+%281952-2007%29&amp;rft.volume=447&amp;rft.issue=7141&amp;rft.pages=160&amp;rft.date=2007-05-10&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4430142%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F17495917&amp;rft_id=info%3Adoi%2F10.1038%2F447160a&amp;rft.aulast=Pauly&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fseaaroundus.org%2Fmagazines%2F2007%2FNature_RansomAldrichMyers.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMyers1995" class="citation journal cs1">Myers, R. A. (1995). <a rel="nofollow" class="external text" href="https://wayback.archive-it.org/all/20110425162945/http://www.fmap.ca/ramweb/papers-total/rec_marine_fish.pdf">"Recruitment of marine fish: the relative roles of density-dependent and density-independent mortality in the egg, larval, and juvenile stages"</a> <span class="cs1-format">(PDF)</span>. <i>Marine Ecology Progress Series</i>. <b>128</b>: 305–310. Archived from <a rel="nofollow" class="external text" href="http://www.fmap.ca/ramweb/papers-total/rec_marine_fish.pdf">the original</a> <span class="cs1-format">(PDF)</span> on April 25, 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marine+Ecology+Progress+Series&amp;rft.atitle=Recruitment+of+marine+fish%3A+the+relative+roles+of+density-dependent+and+density-independent+mortality+in+the+egg%2C+larval%2C+and+juvenile+stages&amp;rft.volume=128&amp;rft.pages=305-310&amp;rft.date=1995&amp;rft.aulast=Myers&amp;rft.aufirst=R.+A.&amp;rft_id=http%3A%2F%2Fwww.fmap.ca%2Framweb%2Fpapers-total%2Frec_marine_fish.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://stats.oecd.org/glossary/detail.asp?ID=994OECD">"Fishing effort"</a>. <i>Glossary of Statistical Terms</i>. Review of Fisheries in OECD Countries, 1998. 5 March 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Glossary+of+Statistical+Terms&amp;rft.atitle=Fishing+effort&amp;rft.date=2003-03-05&amp;rft_id=https%3A%2F%2Fstats.oecd.org%2Fglossary%2Fdetail.asp%3FID%3D994OECD&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ec.europa.eu/fisheries/cfp/fishing_rules/fishing_effort_en">"Fishing effort"</a>. European Commission<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fishing+effort&amp;rft.pub=European+Commission&amp;rft_id=https%3A%2F%2Fec.europa.eu%2Ffisheries%2Fcfp%2Ffishing_rules%2Ffishing_effort_en&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fao.org/gfcm/activities/fisheries/fleet/fishing-effort/en/">"Fishing effort measurement"</a>. Food and Agriculture Organization of the United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fishing+effort+measurement&amp;rft.pub=Food+and+Agriculture+Organization+of+the+United+Nations&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Fgfcm%2Factivities%2Ffisheries%2Ffleet%2Ffishing-effort%2Fen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFCoadMcAllister2008" class="citation web cs1">Coad, Brian W.; McAllister, Don E. (2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110720124618/http://www.briancoad.com/dictionary/H.htm">"Dictionary of Ichthyology"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.briancoad.com/dictionary/H.htm">the original</a> on 20 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dictionary+of+Ichthyology&amp;rft.date=2008&amp;rft.aulast=Coad&amp;rft.aufirst=Brian+W.&amp;rft.au=McAllister%2C+Don+E.&amp;rft_id=http%3A%2F%2Fwww.briancoad.com%2Fdictionary%2FH.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFLevins1969" class="citation journal cs1">Levins, R. (1969). "Some demographic and genetic consequences of environmental heterogeneity for biological control". <i>Bulletin of the Entomological Society of America</i>. <b>15</b> (3): 237–240. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fbesa%2F15.3.237">10.1093/besa/15.3.237</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+Entomological+Society+of+America&amp;rft.atitle=Some+demographic+and+genetic+consequences+of+environmental+heterogeneity+for+biological+control&amp;rft.volume=15&amp;rft.issue=3&amp;rft.pages=237-240&amp;rft.date=1969&amp;rft_id=info%3Adoi%2F10.1093%2Fbesa%2F15.3.237&amp;rft.aulast=Levins&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFCarpenterKitchellHodgson1985" class="citation journal cs1">Carpenter, S. R.; Kitchell, J. F.; Hodgson, J. R. (1985). "Cascading trophic interactions and lake productivity". <i>BioScience</i>. <b>35</b> (10): 634–639. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F1309989">10.2307/1309989</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1309989">1309989</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BioScience&amp;rft.atitle=Cascading+trophic+interactions+and+lake+productivity&amp;rft.volume=35&amp;rft.issue=10&amp;rft.pages=634-639&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.2307%2F1309989&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1309989%23id-name%3DJSTOR&amp;rft.aulast=Carpenter&amp;rft.aufirst=S.+R.&amp;rft.au=Kitchell%2C+J.+F.&amp;rft.au=Hodgson%2C+J.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPower1990" class="citation journal cs1">Power, M. E. (1990). "Effects of fish in river food webs". <i>Science</i>. <b>250</b> (4982): 811–814. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1990Sci...250..811P">1990Sci...250..811P</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.250.4982.811">10.1126/science.250.4982.811</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/17759974">17759974</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:24780727">24780727</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Effects+of+fish+in+river+food+webs&amp;rft.volume=250&amp;rft.issue=4982&amp;rft.pages=811-814&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.250.4982.811&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A24780727%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F17759974&amp;rft_id=info%3Abibcode%2F1990Sci...250..811P&amp;rft.aulast=Power&amp;rft.aufirst=M.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFEstesPalmisano1974" class="citation journal cs1">Estes, J. A.; Palmisano, J. F. (1974). "Sea otters: their role in structuring nearshore communities". <i>Science</i>. <b>185</b> (4156): 1058–1060. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1974Sci...185.1058E">1974Sci...185.1058E</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1126%2Fscience.185.4156.1058">10.1126/science.185.4156.1058</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/17738247">17738247</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:35892592">35892592</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Sea+otters%3A+their+role+in+structuring+nearshore+communities&amp;rft.volume=185&amp;rft.issue=4156&amp;rft.pages=1058-1060&amp;rft.date=1974&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.185.4156.1058&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A35892592%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F17738247&amp;rft_id=info%3Abibcode%2F1974Sci...185.1058E&amp;rft.aulast=Estes&amp;rft.aufirst=J.+A.&amp;rft.au=Palmisano%2C+J.+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFQuinn2003" class="citation journal cs1">Quinn, Terrance J. II (2003). "Ruminations on the development and future of population dynamics models in fisheries". <i>Natural Resource Modeling</i>. <b>16</b> (4): 341–392. <a href="/wiki/CiteSeerX_(identifier)" class="mw-redirect" title="CiteSeerX (identifier)">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.473.3765">10.1.1.473.3765</a></span>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1939-7445.2003.tb00119.x">10.1111/j.1939-7445.2003.tb00119.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Natural+Resource+Modeling&amp;rft.atitle=Ruminations+on+the+development+and+future+of+population+dynamics+models+in+fisheries&amp;rft.volume=16&amp;rft.issue=4&amp;rft.pages=341-392&amp;rft.date=2003&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.473.3765%23id-name%3DCiteSeerX&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1939-7445.2003.tb00119.x&amp;rft.aulast=Quinn&amp;rft.aufirst=Terrance+J.+II&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBaranov1918" class="citation journal cs1">Baranov, F. I. (1918). "On the question of the biological basis of fisheries". <i>Izvestiya</i>. <b>1</b>: 81–128.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Izvestiya&amp;rft.atitle=On+the+question+of+the+biological+basis+of+fisheries&amp;rft.volume=1&amp;rft.pages=81-128&amp;rft.date=1918&amp;rft.aulast=Baranov&amp;rft.aufirst=F.+I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span> (Translated from Russian by W.E. Ricker, 1945)</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Ricker, WE (1954). Stock and recruitment. Journal of the Fisheries Research Board of Canada.</span>
+</li>
+<li id="cite_note-Hopper-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hopper_30-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHopper1987" class="citation journal cs1">Hopper, J. L. (1987). <a rel="nofollow" class="external text" href="http://www.publish.csiro.au/paper/HR9880720179.htm">"Opportunities and Handicaps of Antipodean Scientists: A. J. Nicholson and V. A. Bailey on the Balance of Animal Populations"</a>. <i>Historical Records of Australian Science</i>. <b>7</b> (2): 179–188. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1071%2FHR9880720179">10.1071/HR9880720179</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Historical+Records+of+Australian+Science&amp;rft.atitle=Opportunities+and+Handicaps+of+Antipodean+Scientists%3A+A.+J.+Nicholson+and+V.+A.+Bailey+on+the+Balance+of+Animal+Populations&amp;rft.volume=7&amp;rft.issue=2&amp;rft.pages=179-188&amp;rft.date=1987&amp;rft_id=info%3Adoi%2F10.1071%2FHR9880720179&amp;rft.aulast=Hopper&amp;rft.aufirst=J.+L.&amp;rft_id=http%3A%2F%2Fwww.publish.csiro.au%2Fpaper%2FHR9880720179.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFArditiGinzburg1989" class="citation journal cs1">Arditi, R.; Ginzburg, L. R. (1989). "Coupling in predator-prey dynamics: ratio dependence". <i>Journal of Theoretical Biology</i>. <b>139</b> (3): 311–326. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2FS0022-5193%2889%2980211-5">10.1016/S0022-5193(89)80211-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Theoretical+Biology&amp;rft.atitle=Coupling+in+predator-prey+dynamics%3A+ratio+dependence&amp;rft.volume=139&amp;rft.issue=3&amp;rft.pages=311-326&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1016%2FS0022-5193%2889%2980211-5&amp;rft.aulast=Arditi&amp;rft.aufirst=R.&amp;rft.au=Ginzburg%2C+L.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFArditiGinzburg2012" class="citation book cs1">Arditi, R.; Ginzburg, L. R. (2012). <i>How Species Interact: Altering the Standard View on Trophic Ecology</i>. New York: Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=How+Species+Interact%3A+Altering+the+Standard+View+on+Trophic+Ecology&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft.date=2012&amp;rft.aulast=Arditi&amp;rft.aufirst=R.&amp;rft.au=Ginzburg%2C+L.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+dynamics+of+fisheries" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Berryman, Alan (2002) <i>Population Cycles.</i> Oxford University Press US. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-514098-2" title="Special:BookSources/0-19-514098-2">0-19-514098-2</a></li>
+<li><a href="/wiki/Gerda_de_Vries" title="Gerda de Vries">de Vries, Gerda</a>; Hillen, Thomas; Lewis, Mark; Schonfisch, Birgitt and Muller, Johannes (2006)  <a rel="nofollow" class="external text" href="https://books.google.com/books?id=jJH17hiqHLUC&amp;pg=PA212&amp;dq=Discrete+Dynamical+Systems:+The+Ricker+model"><i>A Course in Mathematical Biology</i></a> SIAM. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-89871-612-2" title="Special:BookSources/978-0-89871-612-2">978-0-89871-612-2</a></li>
+<li>Haddon, Malcolm (2001) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=TP_6Z4ukIZQC&amp;pg=PA247&amp;dq=9+recruitment+and+fisheries"><i>Modelling and quantitative methods in fisheries</i></a> Chapman &amp; Hall. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-58488-177-3" title="Special:BookSources/978-1-58488-177-3">978-1-58488-177-3</a></li>
+<li>Hilborn, Ray and Walters, Carl J (1992) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=WJg0OVEQHcQC&amp;pg=RA3-PA278&amp;lpg=RA3-PA278&amp;dq=%22Ricker+model%22&amp;source=web&amp;ots=eG4qRqCk8p&amp;sig=FFS-fvP3oua0j3nOTvUyCzR-3Qg&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=40&amp;ct=result"><i>Quantitative Fisheries Stock Assessment</i></a> Springer. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-412-02271-5" title="Special:BookSources/978-0-412-02271-5">978-0-412-02271-5</a></li>
+<li>McCallum, Hamish (2000) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=r9KnI2kkQ30C&amp;pg=PA175&amp;lpg=PA175&amp;dq=%22Ricker+model%22&amp;source=web&amp;ots=F4hGTL-f-v&amp;sig=jTBqwbY-TRcWHJZnHm97ipeP4Ww&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=43&amp;ct=result"><i>Population Parameters</i></a> Blackwell Publishing. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-86542-740-2" title="Special:BookSources/978-0-86542-740-2">978-0-86542-740-2</a></li>
+<li>Prevost E and Chaput G (2001) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4wdFFEMFupcC&amp;printsec=frontcover"><i>Stock, recruitment and reference points</i></a> Institute National de la Recherche Agronomique. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/2-7380-0962-X" title="Special:BookSources/2-7380-0962-X">2-7380-0962-X</a>.</li>
+<li>Plagányi, Éva, Models for an ecosystem approach to fisheries. FAO Fisheries Technical Paper. No. 477. Rome, FAO. 2007. 108p <a rel="nofollow" class="external autonumber" href="http://www.fao.org/3/a1149e/a1149e.pdf">[1]</a></li>
+<li>Quinn, Terrance J. II and Richard B. Deriso (1999) Quantitative Fish Dynamics.Oxford University Press <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-507631-1" title="Special:BookSources/0-19-507631-1">0-19-507631-1</a></li>
+<li>Sparre, Per and Hart, Paul J B (2002) Handbook of Fish Biology and Fisheries,  Chapter13: <i>Choosing the best model for fisheries assessment.</i> Blackwell Publishing. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-632-06482-X" title="Special:BookSources/0-632-06482-X">0-632-06482-X</a></li>
+<li><a href="/wiki/Peter_Turchin" title="Peter Turchin">Turchin, P.</a> 2003. Complex Population Dynamics: a Theoretical/Empirical Synthesis. Princeton, NJ: Princeton University Press.</li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px"><table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Fisheries_science_and_wild_fisheries" style="font-size:114%;margin:0 4em"><a href="/wiki/Fisheries_science" title="Fisheries science">Fisheries science</a> and <a href="/wiki/Wild_fisheries" title="Wild fisheries">wild fisheries</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/Fisheries_science" title="Fisheries science">Fisheries<br />science</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Population dynamics of fisheries</a></li>
+<li><a href="/wiki/Shifting_baseline" title="Shifting baseline">Shifting baseline</a></li>
+<li><a href="/wiki/Fish_stocks" title="Fish stocks">Fish stock</a></li>
+<li><a href="/wiki/Fish_mortality" title="Fish mortality">Fish mortality</a></li>
+<li><a href="/wiki/Condition_index_in_fish" title="Condition index in fish">Condition index</a></li>
+<li><a href="/wiki/Stock_assessment" title="Stock assessment">Stock assessment</a></li>
+<li><a href="/wiki/Fish_measurement" title="Fish measurement">Fish measurement</a></li>
+<li><a href="/wiki/Standard_weight_in_fish" title="Standard weight in fish">Standard weight in fish</a></li>
+<li><a href="/wiki/Fish_counter" title="Fish counter">Fish counter</a></li>
+<li><a href="/wiki/Data_storage_tag" title="Data storage tag">Data storage tag</a></li>
+<li><a href="/wiki/Catch_per_unit_effort" title="Catch per unit effort">Catch per unit effort</a></li>
+<li><a href="/wiki/Otolith_microchemical_analysis" title="Otolith microchemical analysis">Otolith microchemical analysis</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Fisheries_acoustics" title="Fisheries acoustics">Fisheries acoustics</a></li>
+<li><a href="/wiki/Acoustic_tag" title="Acoustic tag">Acoustic tag</a></li>
+<li><a href="/wiki/Coded_wire_tag" title="Coded wire tag">Coded wire tag</a></li>
+<li><a href="/wiki/GIS_and_aquatic_science" title="GIS and aquatic science">GIS and aquatic science</a></li>
+<li><a href="/wiki/Pop-up_satellite_archival_tag" title="Pop-up satellite archival tag">Pop-up satellite archival tag</a></li>
+<li><a href="/wiki/EcoSCOPE" title="EcoSCOPE">EcoSCOPE</a></li>
+<li><a href="/wiki/Age_class_structure" title="Age class structure">Age class structure</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascades</a></li>
+<li><a href="/wiki/Hydrographic_containment" title="Hydrographic containment">Hydrographic containment</a></li>
+<li><a href="/wiki/Match/mismatch" title="Match/mismatch">Match/mismatch hypothesis</a></li>
+<li><a href="/wiki/Climate_change_and_fisheries" title="Climate change and fisheries">Climate change and fisheries</a></li>
+<li><a href="/wiki/Marine_biology" title="Marine biology">Marine biology</a></li>
+<li><a href="/wiki/Aquatic_ecosystem" title="Aquatic ecosystem">Aquatic ecosystems</a></li>
+<li><a href="/wiki/Bioeconomics_(fisheries)" title="Bioeconomics (fisheries)">Bioeconomics</a></li>
+<li><a href="/wiki/EconMult" title="EconMult">EconMult</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a href="/wiki/FishBase" title="FishBase">FishBase</a></li>
+<li><a href="/wiki/Census_of_Marine_Life" title="Census of Marine Life">Census of Marine Life</a></li>
+<li><a href="/wiki/OSTM/Jason-2" title="OSTM/Jason-2">OSTM/Jason-2</a></li>
+<li><a href="/wiki/Category:Fisheries_databases" title="Category:Fisheries databases">Fisheries databases</a></li>
+<li><a href="/wiki/Category:Fisheries_and_aquaculture_research_institutes" title="Category:Fisheries and aquaculture research institutes">Institutes</a></li>
+<li><a href="/wiki/Fisheries_science#Notable_contributors" title="Fisheries science">Fisheries scientists</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="2" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Great_Barracuda_off_the_Netherland_Antilles.jpg" class="image"><img alt="Great Barracuda off the Netherland Antilles.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Great_Barracuda_off_the_Netherland_Antilles.jpg/140px-Great_Barracuda_off_the_Netherland_Antilles.jpg" decoding="async" width="140" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Great_Barracuda_off_the_Netherland_Antilles.jpg/210px-Great_Barracuda_off_the_Netherland_Antilles.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Great_Barracuda_off_the_Netherland_Antilles.jpg/280px-Great_Barracuda_off_the_Netherland_Antilles.jpg 2x" data-file-width="600" data-file-height="450" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:7em"><a href="/wiki/Wild_fisheries" title="Wild fisheries">Wild<br />fisheries</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ocean_fisheries" title="Ocean fisheries">Ocean fisheries</a></li>
+<li><a href="/wiki/Diversity_of_fish" title="Diversity of fish">Diversity of fish</a></li>
+<li><a href="/wiki/Coastal_fish" title="Coastal fish">Coastal fish</a></li>
+<li><a href="/wiki/Coral_reef_fish" title="Coral reef fish">Coral reef fish</a></li>
+<li><a href="/wiki/Demersal_fish" title="Demersal fish">Demersal fish</a></li>
+<li><a href="/wiki/Forage_fish" title="Forage fish">Forage fish</a></li>
+<li><a href="/wiki/Pelagic_fish" title="Pelagic fish">Pelagic fish</a></li>
+<li><a href="/wiki/Cod_fisheries" title="Cod fisheries">Cod fisheries</a></li>
+<li><a href="/wiki/Crab_fisheries" title="Crab fisheries">Crab fisheries</a></li>
+<li><a href="/wiki/Eel_life_history" title="Eel life history">Eel fisheries</a></li>
+<li><a href="/wiki/Krill_fishery" title="Krill fishery">Krill fisheries</a></li>
+<li><a href="/wiki/Kelp#Kelp_in_history_and_culture" title="Kelp">Kelp fisheries</a></li>
+<li><a href="/wiki/Lobster_fishing" title="Lobster fishing">Lobster fisheries</a></li>
+<li><a href="/wiki/Shrimp_fishery" title="Shrimp fishery">Shrimp fishery</a></li>
+<li><a href="/wiki/Eel_ladder" class="mw-redirect" title="Eel ladder">Eel ladder</a></li>
+<li><a href="/wiki/Fish_ladder" title="Fish ladder">Fish ladder</a></li>
+<li><a href="/wiki/Fish_screen" title="Fish screen">Fish screen</a></li>
+<li><a href="/wiki/Fish_migration" title="Fish migration">Migration</a></li>
+<li><a href="/wiki/Salmon_run" title="Salmon run">Salmon run</a></li>
+<li><a href="/wiki/Sardine_run" title="Sardine run">Sardine run</a></li>
+<li><a href="/wiki/Shoaling_and_schooling" title="Shoaling and schooling">Shoaling and schooling</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Marine_snow" title="Marine snow">Marine snow</a></li>
+<li><a href="/wiki/Water_column" title="Water column">Water column</a></li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt current</a></li>
+<li><a href="/wiki/Algal_bloom" title="Algal bloom">Algal blooms</a></li>
+<li><a href="/wiki/Dead_zone_(ecology)" title="Dead zone (ecology)">Dead zones</a></li>
+<li><a href="/wiki/Fish_kill" title="Fish kill">Fish kill</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Fisheries_law,_management,_sustainability_and_conservation" style="font-size:114%;margin:0 4em"><a href="/wiki/Fisheries_law" title="Fisheries law">Fisheries law</a>, <a href="/wiki/Fisheries_management" title="Fisheries management">management</a>, <a href="/wiki/Sustainable_fishery" title="Sustainable fishery">sustainability</a> and <a href="/wiki/Marine_conservation" title="Marine conservation">conservation</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:7em">Law</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fisheries_law" title="Fisheries law">Fisheries law</a></li>
+<li><a href="/wiki/Exclusive_economic_zone" title="Exclusive economic zone">Exclusive economic zone</a></li>
+<li><a href="/wiki/Illegal,_unreported_and_unregulated_fishing" title="Illegal, unreported and unregulated fishing">Illegal, unreported and unregulated fishing</a></li>
+<li><a href="/wiki/United_Nations_Convention_on_the_Law_of_the_Sea" title="United Nations Convention on the Law of the Sea">United Nations Convention on the Law of the Sea</a>
+<ul><li><a href="/wiki/United_Nations_Fish_Stocks_Agreement" title="United Nations Fish Stocks Agreement">United Nations Fish Stocks Agreement</a></li></ul></li>
+<li><a href="/wiki/Fisheries_Convention" title="Fisheries Convention">Fisheries Convention</a></li>
+<li><a href="/wiki/Magnuson%E2%80%93Stevens_Fishery_Conservation_and_Management_Act" title="Magnuson–Stevens Fishery Conservation and Management Act">Magnuson–Stevens Act</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="6" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Yellowfin_tuna_nurp.jpg" class="image"><img alt="Yellowfin tuna nurp.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yellowfin_tuna_nurp.jpg/140px-Yellowfin_tuna_nurp.jpg" decoding="async" width="140" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yellowfin_tuna_nurp.jpg/210px-Yellowfin_tuna_nurp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yellowfin_tuna_nurp.jpg/280px-Yellowfin_tuna_nurp.jpg 2x" data-file-width="1558" data-file-height="1106" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:7em">Management</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries management</a></li>
+<li><a href="/wiki/Fisheries_monitoring_control_and_surveillance" title="Fisheries monitoring control and surveillance">Monitoring control and surveillance</a></li>
+<li><a href="/wiki/Vessel_monitoring_system" title="Vessel monitoring system">Vessel monitoring system</a></li>
+<li><a href="/wiki/Fishery_Resources_Monitoring_System" title="Fishery Resources Monitoring System">Fishery Resources Monitoring System</a></li>
+<li><a href="/wiki/Catch_reporting" title="Catch reporting">Catch reporting</a></li>
+<li><a href="/wiki/Fisheries_observer" title="Fisheries observer">Fisheries observer</a></li>
+<li><a href="/wiki/Catch_share" title="Catch share">Catch share</a></li>
+<li><a href="/wiki/Individual_fishing_quota" title="Individual fishing quota">Individual fishing quota</a></li>
+<li><a href="/wiki/Minimum_landing_size" title="Minimum landing size">Minimum landing size</a></li>
+<li><a href="/wiki/Pulse_fishing" title="Pulse fishing">Pulse fishing</a></li>
+<li><a href="/wiki/Slot_limit" title="Slot limit">Slot limit</a></li>
+<li><a href="/wiki/Common_Fisheries_Policy" title="Common Fisheries Policy">EU Common Fisheries Policy</a></li>
+<li><a href="/wiki/European_Fishery_MLS" title="European Fishery MLS">EU MLS</a></li>
+<li><a href="/wiki/European_Fisheries_Control_Agency" title="European Fisheries Control Agency">European Fisheries Control Agency</a></li>
+<li><a href="/wiki/National_Marine_Fisheries_Service" title="National Marine Fisheries Service">National Marine Fisheries Service</a></li>
+<li><a href="/wiki/Regional_fishery_body" title="Regional fishery body">Regional fishery body</a>
+<ul><li><a href="/wiki/Regional_fishery_management_organisation" class="mw-redirect" title="Regional fishery management organisation">Regional fishery management organisation</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7em">Sustainability</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a href="/wiki/List_of_commercially_important_fish_species" title="List of commercially important fish species">List of commercially important fish species</a></li>
+<li><a href="/wiki/Sustainable_seafood" title="Sustainable seafood">Sustainable seafood</a></li>
+<li><a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">Environmental impact of fishing</a></li>
+<li><a href="/wiki/Fishing_down_the_food_web" title="Fishing down the food web">Fishing down the food web</a></li>
+<li><a href="/wiki/Destructive_fishing_practices" title="Destructive fishing practices">Destructive fishing practices</a></li>
+<li><a href="/wiki/Future_of_Marine_Animal_Populations" title="Future of Marine Animal Populations">Future of Marine Animal Populations</a></li>
+<li><i><a href="/wiki/The_Sunken_Billions" title="The Sunken Billions">The Sunken Billions</a></i></li>
+<li><i><a href="/wiki/The_End_of_the_Line_(book)" title="The End of the Line (book)">The End of the Line</a></i></li>
+<li><a href="/wiki/Bycatch" title="Bycatch">Bycatch</a></li>
+<li><a href="/wiki/Discards" title="Discards">Discards</a></li>
+<li><a href="/wiki/Incidental_catch" title="Incidental catch">Incidental catch</a></li>
+<li><a href="/wiki/Cetacean_bycatch" title="Cetacean bycatch">Cetacean bycatch</a></li>
+<li><a href="/wiki/Turtle_excluder_device" title="Turtle excluder device">Turtle excluder device</a></li>
+<li><a href="/wiki/Shrimp-Turtle_Case" title="Shrimp-Turtle Case"><i>Shrimp-Turtle</i> case</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7em">Conservation</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Marine_protected_area" title="Marine protected area">Marine protected area</a></li>
+<li><a href="/wiki/Marine_reserve" title="Marine reserve">Marine reserve</a></li>
+<li><a href="/wiki/Marine_conservation" title="Marine conservation">Marine conservation</a></li>
+<li><a href="/wiki/Marine_conservation_activism" title="Marine conservation activism">Marine conservation activism</a></li>
+<li><a href="/wiki/Salmon_conservation" title="Salmon conservation">Salmon conservation</a></li>
+<li><a href="/wiki/Grey_nurse_shark_conservation" title="Grey nurse shark conservation">Grey nurse shark conservation</a></li>
+<li><a href="/wiki/Shark_sanctuary" title="Shark sanctuary">Shark sanctuary</a></li>
+<li><a href="/wiki/European_Environmental_Agency" class="mw-redirect" title="European Environmental Agency">European Environmental Agency</a></li>
+<li><a href="/wiki/United_States_Fish_and_Wildlife_Service" title="United States Fish and Wildlife Service">U.S. Fish and Wildlife Service</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7em">Advocacy</th><td class="navbox-list-with-group navbox-list navbox-odd" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/FishAct" title="FishAct">FishAct</a></li>
+<li><a href="/wiki/Marine_Stewardship_Council" title="Marine Stewardship Council">Marine Stewardship Council</a></li>
+<li><a href="/wiki/Aquaculture_Stewardship_Council" title="Aquaculture Stewardship Council">Aquaculture Stewardship Council</a></li>
+<li><a href="/wiki/Friend_of_the_Sea" title="Friend of the Sea">Friend of the Sea</a></li>
+<li><a href="/wiki/SeaChoice" title="SeaChoice">SeaChoice</a></li>
+<li><a href="/wiki/Seafood_Watch" title="Seafood Watch">Seafood Watch</a></li>
+<li><a href="/wiki/Ocean_Conservancy" title="Ocean Conservancy">Ocean Conservancy</a></li>
+<li><a href="/wiki/Ocean_Outcomes" title="Ocean Outcomes">Ocean Outcomes</a></li>
+<li><a href="/wiki/Oceana_(non-profit_group)" title="Oceana (non-profit group)">Oceana</a></li>
+<li><a href="/wiki/Save_Our_Seas_Foundation" title="Save Our Seas Foundation">Save Our Seas Foundation</a></li>
+<li><a href="/wiki/Sea_Around_Us_(organization)" title="Sea Around Us (organization)">Sea Around Us</a></li>
+<li><a href="/wiki/WorldFish" title="WorldFish">WorldFish</a></li>
+<li><a href="/wiki/Defying_Ocean%27s_End" title="Defying Ocean&#39;s End">Defying Ocean's End</a></li>
+<li><a href="/wiki/Hotspot_Ecosystem_Research_and_Man%27s_Impact_On_European_Seas" title="Hotspot Ecosystem Research and Man&#39;s Impact On European Seas">HERMIONE</a></li>
+<li><a href="/wiki/PROFISH" title="PROFISH">PROFISH</a></li>
+<li><a href="/wiki/International_Seafood_Sustainability_Foundation" title="International Seafood Sustainability Foundation">International Seafood Sustainability Foundation</a></li>
+<li><a href="/wiki/Sea_Shepherd_Conservation_Society" title="Sea Shepherd Conservation Society">Sea Shepherd Conservation Society</a></li>
+<li><a href="/wiki/Greenpeace" title="Greenpeace">Greenpeace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:7em">Related issues</th><td class="navbox-list-with-group navbox-list navbox-even" style="padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CalCOFI" title="CalCOFI">CalCOFI</a></li>
+<li><a href="/wiki/Fish_slaughter" title="Fish slaughter">Fish slaughter</a></li>
+<li><a href="/wiki/Marine_pollution" title="Marine pollution">Marine pollution</a></li>
+<li><a href="/wiki/Mercury_in_fish" title="Mercury in fish">Mercury in fish</a></li>
+<li><a href="/wiki/Shark_culling" title="Shark culling">Shark culling</a></li>
+<li><a href="/wiki/Shark_finning" title="Shark finning">Shark finning</a></li>
+<li><a href="/wiki/List_of_threatened_sharks" title="List of threatened sharks">Threatened sharks</a></li>
+<li><a href="/wiki/List_of_threatened_rays" title="List of threatened rays">Threatened rays</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/Outline_of_fishing" title="Outline of fishing">Outline of fishing</a></li>
+<li><a href="/wiki/Index_of_fishing_articles" title="Index of fishing articles">Index of fishing articles</a></li>
+<li><a href="/wiki/Glossary_of_fishery_terms" title="Glossary of fishery terms">Glossary of fishery terms</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="Fisheries_and_fishing_topic_areas" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Fisheries_and_fishing" title="Template:Fisheries and fishing"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fisheries_and_fishing" title="Template talk:Fisheries and fishing"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Fisheries_and_fishing&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Fisheries_and_fishing_topic_areas" style="font-size:114%;margin:0 4em"><a href="/wiki/Fishery" title="Fishery">Fisheries</a> and <a href="/wiki/Fishing" title="Fishing">fishing</a> topic areas</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fishery" title="Fishery">Fisheries</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Aquaculture" title="Aquaculture">Aquaculture</a></li>
+<li><a href="/wiki/Diversity_of_fish" title="Diversity of fish">Diversity of fish</a></li>
+<li><a href="/wiki/Fish_diseases_and_parasites" class="mw-redirect" title="Fish diseases and parasites">Fish diseases and parasites</a></li>
+<li><a href="/wiki/Fish_farming" title="Fish farming">Fish farming</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries management</a></li>
+<li><a href="/wiki/Fisheries_science" title="Fisheries science">Fisheries science</a></li>
+<li><a href="/wiki/Individual_fishing_quota" title="Individual fishing quota">Individual fishing quota</a></li>
+<li><a href="/wiki/Illegal,_unreported_and_unregulated_fishing" title="Illegal, unreported and unregulated fishing">Illegal, unreported and unregulated fishing</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></li>
+<li><a href="/wiki/Wild_fisheries" title="Wild fisheries">Wild fisheries</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="7" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Trawer_Hauling_Nets.jpg" class="image"><img alt="Trawer Hauling Nets.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trawer_Hauling_Nets.jpg/140px-Trawer_Hauling_Nets.jpg" decoding="async" width="140" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trawer_Hauling_Nets.jpg/210px-Trawer_Hauling_Nets.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Trawer_Hauling_Nets.jpg/280px-Trawer_Hauling_Nets.jpg 2x" data-file-width="1736" data-file-height="1172" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fishing" title="Fishing">Fishing</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Artisanal_fishing" title="Artisanal fishing">Artisanal fishing</a></li>
+<li><a href="/wiki/Fisherman" title="Fisherman">Fisherman</a></li>
+<li><a href="/wiki/Fishing_vessel" title="Fishing vessel">Fishing vessel</a></li>
+<li><a href="/wiki/History_of_fishing" title="History of fishing">History of fishing</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fishing_industry" title="Fishing industry">Industry</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/List_of_harvested_aquatic_animals_by_weight" class="mw-redirect" title="List of harvested aquatic animals by weight">List of harvested aquatic animals by weight</a></li>
+<li><a href="/wiki/Fishing_industry_by_country" title="Fishing industry by country">By country</a></li>
+<li><a href="/wiki/Commercial_fishing" title="Commercial fishing">Commercial fishing</a></li>
+<li><a href="/wiki/Fish_marketing" title="Fish marketing">Marketing</a></li>
+<li><a href="/wiki/Fish_market" title="Fish market">Markets</a></li>
+<li><a href="/wiki/Fish_processing" title="Fish processing">Processing</a></li>
+<li><a href="/wiki/Fish_products" title="Fish products">Products</a></li>
+<li><a href="/wiki/Seafood" title="Seafood">Seafood</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Recreational_fishing" title="Recreational fishing">Recreation</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Angling" title="Angling">Angling</a></li>
+<li><a href="/wiki/Big-game_fishing" title="Big-game fishing">Big-game fishing</a></li>
+<li><a href="/wiki/Catch_and_release" title="Catch and release">Catch and release</a></li>
+<li><a href="/wiki/Fishing_tournament" title="Fishing tournament">Fishing tournaments</a></li>
+<li><a href="/wiki/Fly_fishing" title="Fly fishing">Fly fishing</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fishing_techniques" title="Fishing techniques">Techniques</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fish_trap" title="Fish trap">Fish trap</a></li>
+<li><a href="/wiki/Fishfinder" title="Fishfinder">Fishfinder</a></li>
+<li><a href="/wiki/Fishing_net" title="Fishing net">Fishing net</a></li>
+<li><a href="/wiki/Gathering_seafood_by_hand" title="Gathering seafood by hand">Gathering seafood by hand</a></li>
+<li><a href="/wiki/Handline_fishing" title="Handline fishing">Handline fishing</a></li>
+<li><a href="/wiki/Spearfishing" title="Spearfishing">Spearfishing</a></li>
+<li><a href="/wiki/Trawling" title="Trawling">Trawling</a></li>
+<li><a href="/wiki/Trolling_(fishing)" title="Trolling (fishing)">Trolling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fishing_tackle" title="Fishing tackle">Tackle</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Artificial_fly" title="Artificial fly">Artificial flies</a></li>
+<li><a href="/wiki/Fishing_bait" title="Fishing bait">Bait</a></li>
+<li><a href="/wiki/Bite_indicator" title="Bite indicator">Bite indicators</a></li>
+<li><a href="/wiki/Fish_hook" title="Fish hook">Hook</a></li>
+<li><a href="/wiki/Fishing_line" title="Fishing line">Line</a></li>
+<li><a href="/wiki/Fishing_lure" title="Fishing lure">Lures</a></li>
+<li><a href="/wiki/Fishing_rod" title="Fishing rod">Rod</a></li>
+<li><a href="/wiki/Fishing_sinker" title="Fishing sinker">Sinker</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Locations</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fish_pond" title="Fish pond">Fish ponds</a></li>
+<li><a href="/wiki/Ocean_bank_(topography)" class="mw-redirect" title="Ocean bank (topography)">Fishing banks</a></li>
+<li><a href="/wiki/Fishing_village" title="Fishing village">Fishing villages</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/Glossary_of_fishery_terms" title="Glossary of fishery terms">Glossary</a></li>
+<li><a href="/wiki/Index_of_fishing_articles" title="Index of fishing articles">Index</a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/10px-Global_thinking.svg.png" decoding="async" title="Outline" width="10" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/15px-Global_thinking.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/21px-Global_thinking.svg.png 2x" data-file-width="130" data-file-height="200" /> <b><a href="/wiki/Outline_of_fishing" title="Outline of fishing">Outline</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Fishing" title="Category:Fishing">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1442
+Cached time: 20221026143140
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.493 seconds
+Real time usage: 0.640 seconds
+Preprocessor visited node count: 4289/1000000
+Post‐expand include size: 124146/2097152 bytes
+Template argument size: 5509/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 121554/5000000 bytes
+Lua time usage: 0.253/10.000 seconds
+Lua memory usage: 5836376/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  443.735      1 -total
+ 55.48%  246.206      1 Template:Reflist
+ 30.26%  134.296     17 Template:Cite_journal
+ 13.46%   59.717      8 Template:ISBN
+  9.27%   41.123      8 Template:Main
+  8.49%   37.673      1 Template:Fishery_science_topics
+  8.06%   35.780      1 Template:Navbox_with_collapsible_groups
+  7.96%   35.312      9 Template:Cite_web
+  5.63%   24.991      3 Template:Navbox
+  5.28%   23.414      1 Template:Dead_link
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17502652-0!canonical and timestamp 20221026143139 and revision id 1071372004.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Population_dynamics_of_fisheries&amp;oldid=1071372004">https://en.wikipedia.org/w/index.php?title=Population_dynamics_of_fisheries&amp;oldid=1071372004</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fisheries_science" title="Category:Fisheries science">Fisheries science</a></li><li><a href="/wiki/Category:Population_ecology" title="Category:Population ecology">Population ecology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">CS1 maint: url-status</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_February_2021" title="Category:Articles with dead external links from February 2021">Articles with dead external links from February 2021</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Population+dynamics+of+fisheries" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Population+dynamics+of+fisheries" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Population_dynamics_of_fisheries" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Population_dynamics_of_fisheries" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Population_dynamics_of_fisheries"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Population_dynamics_of_fisheries" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Population_dynamics_of_fisheries" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;oldid=1071372004" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Population_dynamics_of_fisheries&amp;id=1071372004&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7229803" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Population_dynamics_of_fisheries&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Population_dynamics_of_fisheries&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86%D9%8A%D8%A9_%D9%84%D9%85%D8%B5%D8%A7%D9%8A%D8%AF_%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%A7%D9%83" title="الديناميكية السكانية لمصايد الأسماك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Dinamika_populasi_perikanan" title="Dinamika populasi perikanan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Biologia_pesqueira" title="Biologia pesqueira – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7229803#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 12 February 2022, at 08:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Population_dynamics_of_fisheries&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.493","walltime":"0.640","ppvisitednodes":{"value":4289,"limit":1000000},"postexpandincludesize":{"value":124146,"limit":2097152},"templateargumentsize":{"value":5509,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":121554,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  443.735      1 -total"," 55.48%  246.206      1 Template:Reflist"," 30.26%  134.296     17 Template:Cite_journal"," 13.46%   59.717      8 Template:ISBN","  9.27%   41.123      8 Template:Main","  8.49%   37.673      1 Template:Fishery_science_topics","  8.06%   35.780      1 Template:Navbox_with_collapsible_groups","  7.96%   35.312      9 Template:Cite_web","  5.63%   24.991      3 Template:Navbox","  5.28%   23.414      1 Template:Dead_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.253","limit":"10.000"},"limitreport-memusage":{"value":5836376,"limit":52428800}},"cachereport":{"origin":"mw1442","timestamp":"20221026143140","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Population dynamics of fisheries","url":"https:\/\/en.wikipedia.org\/wiki\/Population_dynamics_of_fisheries","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7229803","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7229803","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-05-19T07:01:45Z","dateModified":"2022-02-12T08:07:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/32\/Moofushi_Kandu_fish.jpg"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Population dynamics of fisheries","url":"https:\/\/en.wikipedia.org\/wiki\/Population_dynamics_of_fisheries","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7229803","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7229803","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-05-19T07:01:45Z","dateModified":"2022-02-12T08:07:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/32\/Moofushi_Kandu_fish.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1251,"wgHostname":"mw1442"});});</script>
+</body>
+</html>

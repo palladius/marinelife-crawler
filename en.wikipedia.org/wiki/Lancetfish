@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lancetfish - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"85a22022-61a4-4dac-9153-a2eeb8341b70","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lancetfish","wgTitle":"Lancetfish","wgCurRevisionId":1057358574,"wgRevisionId":1057358574,"wgArticleId":1477183,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Articles with 'species' microformats","Commons category link is on Wikidata","Taxonbars with multiple manual Wikidata items","Alepisauridae","Extant Miocene first appearances"],"wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"Lancetfish","wgRelevantArticleId":1477183,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q621219","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/1200px-Alepisaurus_ferox_on_deck.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="623"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/800px-Alepisaurus_ferox_on_deck.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="415"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/640px-Alepisaurus_ferox_on_deck.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="332"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Lancetfish - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Lancetfish"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lancetfish&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lancetfish"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lancetfish rootpage-Lancetfish skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Lancetfish</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Family of fishes</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For the United States Navy submarine, see <a href="/wiki/USS_Lancetfish_(SS-296)" title="USS Lancetfish (SS-296)">USS Lancetfish (SS-296)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Lancetfishes<br /><div style="font-size: 85%;">Temporal range: <span class="noprint"><span style="display:inline-block;"></span><span style="display:inline-block;">Middle Miocene-Recent<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></span> <span style="display:inline-block;"></span><div id="Timeline-row" style="margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; white-space:nowrap; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:97%;">
+<div style="position:absolute; height:100%; left:0px; width:207.23076923077px; padding-left:5px; text-align:left; background-color:rgb(254,217,106); background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1));"><a href="/wiki/Precambrian" title="Precambrian">PreꞒ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(127,160,86); left:37.636923076923px; width:18.073846153846px;"><a href="/wiki/Cambrian" title="Cambrian">Ꞓ</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(0,146,112); left:55.710769230769px; width:14.08px;"><a href="/wiki/Ordovician" title="Ordovician">O</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(179,225,182); left:69.790769230769px; width:8.3261538461539px;"><a href="/wiki/Silurian" title="Silurian">S</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(203,140,55); left:78.116923076923px; width:20.409230769231px;"><a href="/wiki/Devonian" title="Devonian">D</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(103,165,153); left:98.526153846154px; width:20.307692307692px;"><a href="/wiki/Carboniferous" title="Carboniferous">C</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(240,64,40); left:118.83384615385px; width:15.907015384615px;"><a href="/wiki/Permian" title="Permian">P</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(129,43,146); left:134.74086153846px; width:17.126830769231px;"><a href="/wiki/Triassic" title="Triassic">T</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(52,178,201); left:151.86769230769px; width:19.055384615385px;"><a href="/wiki/Jurassic" title="Jurassic">J</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(127,198,78); left:170.92307692308px; width:26.738461538462px;"><a href="/wiki/Cretaceous" title="Cretaceous">K</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(253,154,82); left:197.66153846154px; width:14.543692307692px;"><a href="/wiki/Paleogene" title="Paleogene">Pg</a></div>
+<div style="position:absolute; height:100%; text-align:center; background-color:rgb(255,230,25); left:212.20523076923px; width:6.9215384615385px;"><a href="/wiki/Neogene" title="Neogene">N</a></div>
+<div id="end-border" style="position:absolute; height:100%; background-color:#666; width:1px; left:219px"></div><div style="margin:0 auto; line-height:0; clear:both; width:220px; padding:0px; height:8px; overflow:visible; background-color:transparent; position:relative; top:-4px; z-index:100;"><div style="position:absolute; height:8px; left:214.59476923077px; width:5.4052307692308px; background-color:#360; opacity:0.42;"></div>
+<div style="position:absolute; height:8px; left:214.59476923077px; width:5.4052307692308px; background-color:#360; opacity:1;"></div>
+<div style="position:absolute; height:6px; top:1px; left:215.59476923077px; width:3.4052307692308px; background-color:#6c3;"></div>
+</div>
+</div></span></div>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Alepisaurus_ferox_on_deck.jpg" class="image"><img alt="Alepisaurus ferox on deck.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/220px-Alepisaurus_ferox_on_deck.jpg" decoding="async" width="220" height="114" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/330px-Alepisaurus_ferox_on_deck.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/440px-Alepisaurus_ferox_on_deck.jpg 2x" data-file-width="2046" data-file-height="1062" /></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Longnose lancetfish, <i>Alepisaurus ferox</i>
+</td></tr>
+
+
+
+
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Alepisaurus" title="e"><img alt="e" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Aulopiformes" title="Aulopiformes">Aulopiformes</a>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><a class="mw-selflink selflink">Alepisauridae</a><br /><small><a href="/wiki/William_John_Swainson" title="William John Swainson">Swainson</a>, 1839</small>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><a class="mw-selflink selflink"><i>Alepisaurus</i></a><br /><small><a href="/wiki/Richard_Thomas_Lowe" title="Richard Thomas Lowe">R. T. Lowe</a>, 1833</small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p><b>Lancetfishes</b> are large <a href="/wiki/Ocean" title="Ocean">oceanic</a> <a href="/wiki/Predator" class="mw-redirect" title="Predator">predatory</a> fishes in the genus <i><b>Alepisaurus</b></i> ("scaleless lizard") in the <a href="/wiki/Monotypic_taxon" title="Monotypic taxon">monogeneric family</a> <b>Alepisauridae</b>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Lancetfishes grow up to 2&#160;m (6.6&#160;ft) in length. Very little is known about their <a href="/wiki/Biology" title="Biology">biology</a>, though they are  widely distributed in all oceans, except the <a href="/wiki/Polar_region" class="mw-redirect" title="Polar region">polar</a> <a href="/wiki/Sea" title="Sea">seas</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Specimens have been recorded as far north as <a href="/wiki/Greenland" title="Greenland">Greenland</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> They are often caught as bycatch for vessels long-lining for <a href="/wiki/Tuna" title="Tuna">tuna</a>.
+</p><p>The <a href="/wiki/Genus" title="Genus">generic</a> name is from <a href="/wiki/Greek_language" title="Greek language">Greek</a> <i>a-</i> meaning "without", <i><span title="Greek-language romanization"><i lang="el-Latn">lepis</i></span></i> meaning "scale", and <i>sauros</i> meaning "lizard".
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Species"><span class="tocnumber">1</span> <span class="toctext">Species</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ecology_and_life_history"><span class="tocnumber">3</span> <span class="toctext">Ecology and life history</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Species">Species</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lancetfish&amp;action=edit&amp;section=1" title="Edit section: Species">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The two currently recognized extant species in this genus are:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<ul><li><i><a href="/wiki/Alepisaurus_brevirostris" class="mw-redirect" title="Alepisaurus brevirostris">Alepisaurus brevirostris</a></i> <small><a href="/wiki/Robert_Henry_Gibbs" title="Robert Henry Gibbs">Gibbs</a>, 1960</small> (short-snouted lancetfish)</li>
+<li><i><a href="/wiki/Alepisaurus_ferox" title="Alepisaurus ferox">Alepisaurus ferox</a></i> <small><a href="/wiki/Richard_Thomas_Lowe" title="Richard Thomas Lowe">R. T. Lowe</a>, 1833</small> (long-snouted lancetfish)</li></ul>
+<p>The main difference between the two is the shape of the snout, which is long and pointed in <i>A. ferox</i>, and slightly shorter in <i>A. brevirostris</i>.  A third recognized species, <i><a href="/wiki/Alepisaurus_paronai" title="Alepisaurus paronai">A. paronai</a></i> <small>D'Erasmo, 1923</small>,<sup id="cite_ref-uyeno_6-0" class="reference"><a href="#cite_note-uyeno-6">&#91;6&#93;</a></sup> is a fossil known from Middle Miocene-aged strata from Italy.
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lancetfish&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lancetfish possess a long and very high <a href="/wiki/Dorsal_fin" title="Dorsal fin">dorsal fin</a>, soft-rayed from end to end, with an <a href="/wiki/Adipose_fin" class="mw-redirect" title="Adipose fin">adipose fin</a> behind it. The dorsal fin has 41 to 44 <a href="/wiki/Fish_anatomy#Spines_and_rays" title="Fish anatomy">rays</a> and occupies the greater length of the back. This fin is rounded in outline, about twice as high as the fish is deep, and can be depressed into a groove along the back. The body is slender, flattened from side to side, deepest at the <a href="/wiki/Operculum_(fish)" title="Operculum (fish)">gill covers</a>, and tapers back to a slender <a href="/wiki/Caudal_peduncle" class="mw-redirect" title="Caudal peduncle">caudal peduncle</a>.
+</p><p>The mouth is wide, gaping to the back of the eye, and each jaw has two or three large, fang-like teeth, in addition to numerous smaller <a href="/wiki/Teeth" class="mw-redirect" title="Teeth">teeth</a>. The <a href="/wiki/Caudal_fin" class="mw-redirect" title="Caudal fin">caudal fin</a> is very deeply <a href="/wiki/Fork" title="Fork">forked</a>; its upper <a href="/wiki/Lobe_(anatomy)" title="Lobe (anatomy)">lobe</a> is prolonged as a long filament, although most lancetfishes seem to lose this when captured. The <a href="/wiki/Anal_fin" class="mw-redirect" title="Anal fin">anal fin</a> originates under the last dorsal ray, and is deeply concave in outline. The <a href="/wiki/Ventral_fin" class="mw-redirect" title="Ventral fin">ventral fins</a> are about halfway between the anal fin and the tip of the snout, while the <a href="/wiki/Pectoral_fin" class="mw-redirect" title="Pectoral fin">pectoral fins</a> are considerably longer than the body is deep and are situated very low down on the sides. No <a href="/wiki/Scale_(zoology)" class="mw-redirect" title="Scale (zoology)">scales</a> are present, and the fins are very fragile.
+</p><p>Lancetfishes are among the largest living bathypelagic fish forms. Specimens have been collected in excess of 2,080&#160;mm (6.82&#160;ft) in length, often from dead individuals that drifted ashore. Like their close relatives in the <a href="/wiki/Aulopiformes" title="Aulopiformes">Aulopiformes</a> suborder Alepisauroidei, lancetfish lack <a href="/wiki/Swimbladder" class="mw-redirect" title="Swimbladder">swimbladders</a> and are simultaneous <a href="/wiki/Hermaphrodites" class="mw-redirect" title="Hermaphrodites">hermaphrodites</a>.<sup id="cite_ref-FWNA_7-0" class="reference"><a href="#cite_note-FWNA-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Ecology_and_life_history">Ecology and life history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lancetfish&amp;action=edit&amp;section=3" title="Edit section: Ecology and life history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lancetfish_smithsonian.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lancetfish_smithsonian.JPG/220px-Lancetfish_smithsonian.JPG" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lancetfish_smithsonian.JPG/330px-Lancetfish_smithsonian.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lancetfish_smithsonian.JPG/440px-Lancetfish_smithsonian.JPG 2x" data-file-width="1500" data-file-height="1000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lancetfish_smithsonian.JPG" class="internal" title="Enlarge"></a></div>A lancetfish model in the Smithsonian National Museum of Natural History in Washington, DC</div></div></div>
+<p>Lancetfish have large mouths and sharp teeth, indicating a predatory mode of life. Their watery muscle is not suited to fast swimming and long pursuit, so they likely are ambush predators, using their narrow body profile and silvery coloration to conceal their presence. Lancetfish float in the water column, using their large eyes to scan for prey, which once detected, they attack using their forked tails for rapid bursts of speed, their large dorsal sails are likely used to maintain a stable trajectory toward their target, and their large mouths and teeth are used to subdue prey before it can escape. They are voracious predators and their distensible stomachs have often been found to contain a variety of food, mainly fishes, octopods, squid, <a href="/wiki/Tunicates" class="mw-redirect" title="Tunicates">tunicates</a>, and <a href="/wiki/Crustacea" class="mw-redirect" title="Crustacea">crustacea</a>.<sup id="cite_ref-FWNA_7-1" class="reference"><a href="#cite_note-FWNA-7">&#91;7&#93;</a></sup>
+</p><p>Extremely little is known of lancetfish reproductive habits. While they are known to be simultaneous hermaphrodites, spawning has never been observed. They likely are <a href="/wiki/Planktonic" class="mw-redirect" title="Planktonic">planktonic</a> <a href="/wiki/Spawners" class="mw-redirect" title="Spawners">spawners</a> from the small size and pelagic transmission of their larva. While seasonal presences and absences of lancetfish capture have been noted in certain ocean basins, if spawning is a seasonal occurrence remains unclear.
+</p><p>No commercial fisheries exist for lancetfishes. Their flesh is watery and gelatinous, although edible and reportedly sweet to taste. They are caught as <a href="/wiki/Bycatch" title="Bycatch">bycatch</a> by tuna fisheries and are often considered <a href="/wiki/Pest_(animal)" class="mw-redirect" title="Pest (animal)">pests</a>, taking bait intended for more valuable species.
+</p><p>Lancetfishes have been caught on longlines as shallow as ten fathoms in Oregon and the Gulf of Mexico. Some anecdotal reports have observed shoals of 30 - 40 individuals at the surface in Icelandic waters during spring. Hook and line capture of lancetfish from surf zones is not unheard of and dietary surveys suggest at least some feeding occurs within inshore waters. However, lancetfish are generally considered solitary, <a href="/wiki/Mesopelagic" class="mw-redirect" title="Mesopelagic">mesopelagic</a>, and <a href="/wiki/Bathypelagic" class="mw-redirect" title="Bathypelagic">bathypelagic</a> fishes occupying depths between 100 and 2000 m. While they have not been shown to participate in <a href="/wiki/Diel_vertical_migration" title="Diel vertical migration">diel vertical migration</a>, they have been found in a huge variety of depths.<sup id="cite_ref-FWNA_7-2" class="reference"><a href="#cite_note-FWNA-7">&#91;7&#93;</a></sup>
+</p><p>The <a href="/wiki/Tetraphyllidea" title="Tetraphyllidea">tetraphyllidean</a> <a href="/wiki/Tapeworm" class="mw-redirect" title="Tapeworm">tapeworm</a> <i><a href="/w/index.php?title=Pelichnibothrium_speciosum&amp;action=edit&amp;redlink=1" class="new" title="Pelichnibothrium speciosum (page does not exist)">Pelichnibothrium speciosum</a></i> is a significant <a href="/wiki/Parasite" class="mw-redirect" title="Parasite">parasite</a> of long-snouted lancetfish. The species seems to be an <a href="/wiki/Intermediate_host" class="mw-redirect" title="Intermediate host">intermediate</a> or <a href="/wiki/Paratenic" class="mw-redirect" title="Paratenic">paratenic</a> host for the tapeworm.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>The large size, wide depth distribution, and opportunistic diet of lancetfish have lent them to the study of other <a href="/wiki/Pelagic" class="mw-redirect" title="Pelagic">pelagic</a> <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> because their voraciousness can be used to survey smaller organisms throughout the deep-sea that are difficult to capture by other means.<sup id="cite_ref-alepPlastic_9-0" class="reference"><a href="#cite_note-alepPlastic-9">&#91;9&#93;</a></sup> Adult lancetfish are commonly caught as bycatch in longline fisheries and analysis of their gut contents provides a convenient, if somewhat biased, method for surveying regional pelagic biodiversity, so much so that some species of deep-sea fishes were first described from specimens found in the stomachs of lancetfish.
+This may be partially due to the unusually slow rate of digestion apparent in lancetfish, where actual digestion seemingly does not begin in earnest until the beginning of the small intestines.<sup id="cite_ref-FWNA_7-3" class="reference"><a href="#cite_note-FWNA-7">&#91;7&#93;</a></sup><sup id="cite_ref-alepIndia2_10-0" class="reference"><a href="#cite_note-alepIndia2-10">&#91;10&#93;</a></sup><sup id="cite_ref-alepPlastic_9-1" class="reference"><a href="#cite_note-alepPlastic-9">&#91;9&#93;</a></sup><sup id="cite_ref-alep66_11-0" class="reference"><a href="#cite_note-alep66-11">&#91;11&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg/220px-Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg/330px-Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg/440px-Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg 2x" data-file-width="4000" data-file-height="3000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alepisaurus_ferox_PC14-04_sta16_IMG_6741.jpg" class="internal" title="Enlarge"></a></div>A small lancetfish, photo by Dr. Jon A. Moore</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg/220px-PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg/330px-PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg/440px-PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg 2x" data-file-width="4608" data-file-height="3072" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PC12_sta_16_Alepisaurus_ferox_DSC_0012.jpg" class="internal" title="Enlarge"></a></div>A small lancetfish tattered from capture by a trawling net, photo by Dr. Jon A. Moore</div></div></div>
+<p>In addition to a high degree of cannibalism and consumption of gelatinous foods, lancetfishes have also been documented with plastic refuse in their stomachs in the tropical north Pacific.<sup id="cite_ref-alepPlastic_9-2" class="reference"><a href="#cite_note-alepPlastic-9">&#91;9&#93;</a></sup> While the exact pathway of this ingestion is not yet clear, lancetfish likely have some affinity with the <a href="/wiki/Epipelagic" class="mw-redirect" title="Epipelagic">epipelagic</a>, but this could be by way of direct migration or migration of prey which had eaten plastic at the surface and returned to depth. One particularly bizarre example of this affinity for surface waters comes from a gut survey of lancetfish in the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> where a large amount (24.1%) of floating <a href="/wiki/Macroalgae" class="mw-redirect" title="Macroalgae">macroalgae</a> was documented in the stomachs of exclusively adult (&gt;100&#160;cm) individuals. This is most likely indicative of the pursuit of evasive prey-types by larger lancetfish into epipelagic refuges.<sup id="cite_ref-alepIndia_12-0" class="reference"><a href="#cite_note-alepIndia-12">&#91;12&#93;</a></sup> The voracious appetite, low degree of prey selectivity, broad depth distribution, slow rate of digestion and ease of sampling via longline bycatch make lancetfishes useful platforms by which to study the greater ecology of deep mid-water fauna.<sup id="cite_ref-alepIndia_12-1" class="reference"><a href="#cite_note-alepIndia-12">&#91;12&#93;</a></sup>
+<sup id="cite_ref-alepPlastic_9-3" class="reference"><a href="#cite_note-alepPlastic-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lancetfish&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFSepkoski2002" class="citation journal cs1">Sepkoski, J. (2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110723131237/http://strata.ummp.lsa.umich.edu/jack/showgenera.php?taxon=611&amp;rank=class">"A compendium of fossil marine animal genera"</a>. <i>Bulletins of American Paleontology</i>. <b>364</b>. Archived from <a rel="nofollow" class="external text" href="http://strata.ummp.lsa.umich.edu/jack/showgenera.php?taxon=611&amp;rank=class">the original</a> on 2011-07-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletins+of+American+Paleontology&amp;rft.atitle=A+compendium+of+fossil+marine+animal+genera&amp;rft.volume=364&amp;rft.date=2002&amp;rft.aulast=Sepkoski&amp;rft.aufirst=J.&amp;rft_id=http%3A%2F%2Fstrata.ummp.lsa.umich.edu%2Fjack%2Fshowgenera.php%3Ftaxon%3D611%26rank%3Dclass&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Froese, Rainer, and Daniel Pauly, eds. (2006). <a rel="nofollow" class="external text" href="http://www.fishbase.org/Summary/FamilySummary.php?Family=Alepisauridae">"Alepisauridae"</a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. February 2006 version.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFKubota,_T.Uyeno,_T.1978" class="citation journal cs1">Kubota, T.; Uyeno, T. (1978). <a rel="nofollow" class="external text" href="http://eurekamag.com/research/006/024/on-meristic-characters-lancetfish-alepisaurus-collected-suruga-bay-japan.php">"On some meristic characters of lancetfish, <i>Alepisaurus</i>, collected from Suruga Bay, Japan"</a>. <i>Journal of Faculty of Marine Science and Technology, Tokai University</i>. <b>11</b>: 63–69.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Faculty+of+Marine+Science+and+Technology%2C+Tokai+University&amp;rft.atitle=On+some+meristic+characters+of+lancetfish%2C+Alepisaurus%2C+collected+from+Suruga+Bay%2C+Japan&amp;rft.volume=11&amp;rft.pages=63-69&amp;rft.date=1978&amp;rft.au=Kubota%2C+T.&amp;rft.au=Uyeno%2C+T.&amp;rft_id=http%3A%2F%2Feurekamag.com%2Fresearch%2F006%2F024%2Fon-meristic-characters-lancetfish-alepisaurus-collected-suruga-bay-japan.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFJensen,_A._S.1948" class="citation book cs1">Jensen, A. S. (1948). <i>Contributions to the Ichthyofauna of Greenland</i>. Skrifter Univ. Zool. Mus. Københaven. Vol.&#160;9. pp.&#160;1–182. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/83357750">83357750</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Contributions+to+the+Ichthyofauna+of+Greenland&amp;rft.series=Skrifter+Univ.+Zool.+Mus.+K%C3%B8benhaven&amp;rft.pages=1-182&amp;rft.date=1948&amp;rft_id=info%3Aoclcnum%2F83357750&amp;rft.au=Jensen%2C+A.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Froese, Rainer and Pauly, Daniel, eds. (2012). <a rel="nofollow" class="external text" href="http://www.fishbase.org/identification/SpeciesList.php?genus=Alepisaurus">Species of <i>Alepisaurus</i></a> in <a href="/wiki/FishBase" title="FishBase">FishBase</a>. February 2012 version.</span>
+</li>
+<li id="cite_note-uyeno-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-uyeno_6-0">^</a></b></span> <span class="reference-text">Uyeno, Teruya. "A Miocene alepisauroid fish of a new family, Polymerichthyidae, from Japan." Bull. Nat. Sci. Mus 10 (1967): 383-394.</span>
+</li>
+<li id="cite_note-FWNA-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-FWNA_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FWNA_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FWNA_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FWNA_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRofen_R.R.1966" class="citation book cs1">Rofen R.R. (1966).  Olsen, Y.H. &amp; Atz, J.W. (eds.). <i>Fishes of the Western North Atlantic Number 1. Part 5</i>. New Haven: Yale University. pp.&#160;482–497.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fishes+of+the+Western+North+Atlantic+Number+1.+Part+5&amp;rft.place=New+Haven&amp;rft.pages=482-497&amp;rft.pub=Yale+University&amp;rft.date=1966&amp;rft.au=Rofen+R.R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFScholz,_T.Euzet,_L.Moravec,_F.1998" class="citation journal cs1">Scholz, T.; Euzet, L.; Moravec, F. (1998). "Taxonomic status of <i>Pelichnibothrium speciosum</i> Monticelli, 1889 (Cestoda: Tetraphyllidea), a mysterious parasite of <i>Alepisaurus ferox</i> Lowe (Teleostei: Alepisauridae) and <i>Prionace glauca</i> (L.) (Euselachii: Carcharinidae)". <i>Systematic Parasitology</i>. <b>41</b> (1): 1–8. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1023%2FA%3A1006091102174">10.1023/A:1006091102174</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:33831101">33831101</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Systematic+Parasitology&amp;rft.atitle=Taxonomic+status+of+Pelichnibothrium+speciosum+Monticelli%2C+1889+%28Cestoda%3A+Tetraphyllidea%29%2C+a+mysterious+parasite+of+Alepisaurus+ferox+Lowe+%28Teleostei%3A+Alepisauridae%29+and+Prionace+glauca+%28L.%29+%28Euselachii%3A+Carcharinidae%29&amp;rft.volume=41&amp;rft.issue=1&amp;rft.pages=1-8&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1006091102174&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A33831101%23id-name%3DS2CID&amp;rft.au=Scholz%2C+T.&amp;rft.au=Euzet%2C+L.&amp;rft.au=Moravec%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-alepPlastic-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-alepPlastic_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-alepPlastic_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-alepPlastic_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-alepPlastic_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFChoyPortnerIwaneDrazen2013" class="citation journal cs1">Choy, C.A.; Portner, E.; Iwane, M.; Drazen, J.C. (2013). <a rel="nofollow" class="external text" href="https://doi.org/10.3354%2Fmeps10518">"Diets of five important predatory mesopelagic fishes of the central North Pacific"</a>. <i>Mar Ecol Prog Ser</i>. <b>492</b>: 169–184. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.3354%2Fmeps10518">10.3354/meps10518</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mar+Ecol+Prog+Ser&amp;rft.atitle=Diets+of+five+important+predatory+mesopelagic+fishes+of+the+central+North+Pacific&amp;rft.volume=492&amp;rft.pages=169-184&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.3354%2Fmeps10518&amp;rft.aulast=Choy&amp;rft.aufirst=C.A.&amp;rft.au=Portner%2C+E.&amp;rft.au=Iwane%2C+M.&amp;rft.au=Drazen%2C+J.C.&amp;rft_id=%2F%2Fdoi.org%2F10.3354%252Fmeps10518&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-alepIndia2-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-alepIndia2_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRomanovMénardZamorovPotier2008" class="citation journal cs1">Romanov, E.V.; Ménard, F.; Zamorov, V.V.; Potier, M. (2008). "Variability in conspecific predation among longnose lancetfish Alepisaurus ferox in the western Indian Ocean". <i>Fisheries Science</i>. <b>74</b> (1): 62–68. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1444-2906.2007.01496.x">10.1111/j.1444-2906.2007.01496.x</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:42124144">42124144</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fisheries+Science&amp;rft.atitle=Variability+in+conspecific+predation+among+longnose+lancetfish+Alepisaurus+ferox+in+the+western+Indian+Ocean&amp;rft.volume=74&amp;rft.issue=1&amp;rft.pages=62-68&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1444-2906.2007.01496.x&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A42124144%23id-name%3DS2CID&amp;rft.aulast=Romanov&amp;rft.aufirst=E.V.&amp;rft.au=M%C3%A9nard%2C+F.&amp;rft.au=Zamorov%2C+V.V.&amp;rft.au=Potier%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-alep66-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-alep66_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFHaedrichNielsen1966" class="citation journal cs1">Haedrich, R.L.; Nielsen, J.G. (1966). "Fishes eaten by Alepisaurus (Pisces, Iniomi) in the southeastern Pacific Ocean". <i>Deep-Sea Res</i>. <b>13</b>: 909–919.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep-Sea+Res.&amp;rft.atitle=Fishes+eaten+by+Alepisaurus+%28Pisces%2C+Iniomi%29+in+the+southeastern+Pacific+Ocean&amp;rft.volume=13&amp;rft.pages=909-919&amp;rft.date=1966&amp;rft.aulast=Haedrich&amp;rft.aufirst=R.L.&amp;rft.au=Nielsen%2C+J.G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+<li id="cite_note-alepIndia-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-alepIndia_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-alepIndia_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRomanovZamorov2007" class="citation journal cs1">Romanov, E.V.; Zamorov, V.V. (2007). "Regional feeding patterns of the longnose lancetfish (Alepisaurus ferox Lowe, 1833) of the western Indian Ocean". <i>Western Indian Ocean J. Mar. Sci</i>. <b>6</b>: 37–56.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Western+Indian+Ocean+J.+Mar.+Sci&amp;rft.atitle=Regional+feeding+patterns+of+the+longnose+lancetfish+%28Alepisaurus+ferox+Lowe%2C+1833%29+of+the+western+Indian+Ocean&amp;rft.volume=6&amp;rft.pages=37-56&amp;rft.date=2007&amp;rft.aulast=Romanov&amp;rft.aufirst=E.V.&amp;rft.au=Zamorov%2C+V.V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALancetfish" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lancetfish&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097025294">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox">
+<div class="side-box-flex">
+<div class="side-box-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Alepisauridae" class="extiw" title="commons:Category:Alepisauridae">Alepisauridae</a></span>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.abdn.ac.uk/~nhi991/alepisaurus.htm">Parasites of Lancetfish</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gma.org/fogm/Alepisaurus_ferox.htm">Presence of Lancetfish in the Gulf of Maine</a></li>
+<li><a rel="nofollow" class="external text" href="http://fishesofaustralia.net.au/home/species/4022">Fishes of Australia.net lancetfish pictures and video links</a></li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Taxon_identifiers" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: left;"><i>Alepisauridae</i></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q621219" class="extiw" title="wikidata:Q621219">Q621219</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Alepisauridae" class="extiw" title="wikispecies:Alepisauridae">Alepisauridae</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Alepisauridae/">Alepisauridae</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Alepisauridae">Alepisauridae</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=54198">54198</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/66N">66N</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eol.org/pages/8267">8267</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=53983">53983</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/7178">7178</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/85566">85566</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=114131">114131</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=162523">162523</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000178956">NBNSYS0000178956</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=88651">88651</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a rel="nofollow" class="external text" href="https://www.nzor.org.nz/names/47e07194-bc80-4d61-a426-d2474dff5d6f">47e07194-bc80-4d61-a426-d2474dff5d6f</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Plazi" title="Plazi">Plazi</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://treatment.plazi.org/id/FD1087D9-FFA0-4A51-FF67-A42C4D33FC2F">FD1087D9-FFA0-4A51-FF67-A42C4D33FC2F</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=125439">125439</a></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: left;"><i>Alepisaurus</i></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q12782074" class="extiw" title="wikidata:Q12782074">Q12782074</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Alepisaurus" class="extiw" title="wikispecies:Alepisaurus">Alepisaurus</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Alepisaurus">Alepisaurus</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=54199">54199</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/RQK">RQK</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=35554">35554</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2401689">2401689</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/86319">86319</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=1336124">1336124</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=162524">162524</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000178957">NBNSYS0000178957</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=88652">88652</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a rel="nofollow" class="external text" href="https://www.nzor.org.nz/names/a7f0a6e2-c46c-40c3-9557-fbc869e05f96">a7f0a6e2-c46c-40c3-9557-fbc869e05f96</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=125661">125661</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1417
+Cached time: 20221023044226
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.694 seconds
+Real time usage: 0.873 seconds
+Preprocessor visited node count: 17398/1000000
+Post‐expand include size: 83708/2097152 bytes
+Template argument size: 22420/2097152 bytes
+Highest expansion depth: 24/100
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34233/5000000 bytes
+Lua time usage: 0.505/10.000 seconds
+Lua memory usage: 24989048/52428800 bytes
+Number of Wikibase entities loaded: 17/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  816.555      1 -total
+ 37.33%  304.796      1 Template:Automatic_taxobox
+ 20.70%  168.987      1 Template:Taxonbar
+ 15.49%  126.444      1 Template:Reflist
+ 12.37%  100.970      1 Template:Fossil_range
+ 11.42%   93.225      7 Template:Cite_journal
+ 10.61%   86.637      1 Template:Transl
+ 10.39%   84.807      1 Template:Phanerozoic_220px
+  9.38%   76.576     38 Template:Period_start
+  8.92%   72.836     11 Template:Fossil_range/bar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1477183-0!canonical and timestamp 20221023044225 and revision id 1057358574.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lancetfish&amp;oldid=1057358574">https://en.wikipedia.org/w/index.php?title=Lancetfish&amp;oldid=1057358574</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Alepisauridae" title="Category:Alepisauridae">Alepisauridae</a></li><li><a href="/wiki/Category:Extant_Miocene_first_appearances" title="Category:Extant Miocene first appearances">Extant Miocene first appearances</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Taxonbars_with_multiple_manual_Wikidata_items" title="Category:Taxonbars with multiple manual Wikidata items">Taxonbars with multiple manual Wikidata items</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lancetfish" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lancetfish" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Lancetfish" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Lancetfish" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Lancetfish"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Lancetfish&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Lancetfish&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Lancetfish" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Lancetfish" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Lancetfish&amp;oldid=1057358574" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Lancetfish&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lancetfish&amp;id=1057358574&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q621219" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Lancetfish&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Lancetfish&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Alepisauridae" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Alepisauridae" hreflang="en"><span>Wikispecies</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Alepis%C3%A0urids" title="Alepisàurids – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Alepisauridae" title="Alepisauridae – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Alepisauridae" title="Alepisauridae – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B4%D8%AA%D8%B1%D9%85%D8%A7%D9%87%DB%8C" title="نیشترماهی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%9E%80%EB%8F%84%EC%96%B4%EA%B3%BC" title="란도어과 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Alepisauridae" title="Alepisauridae – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A4%D7%99%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%99%D7%9D" title="אלפיזאוריים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Pj%C5%ABkladantin%C4%97s" title="Pjūkladantinės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Alepisauridae" title="Alepisauridae – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/%C5%BBaglonowate" title="Żaglonowate – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Purjeliskokalat" title="Purjeliskokalat – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Alepisauridae" title="Alepisauridae – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%B8%86%E8%9C%A5%E9%AD%9A%E7%A7%91" title="帆蜥魚科 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q621219#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 27 November 2021, at 04:02<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lancetfish&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.694","walltime":"0.873","ppvisitednodes":{"value":17398,"limit":1000000},"postexpandincludesize":{"value":83708,"limit":2097152},"templateargumentsize":{"value":22420,"limit":2097152},"expansiondepth":{"value":24,"limit":100},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34233,"limit":5000000},"entityaccesscount":{"value":17,"limit":400},"timingprofile":["100.00%  816.555      1 -total"," 37.33%  304.796      1 Template:Automatic_taxobox"," 20.70%  168.987      1 Template:Taxonbar"," 15.49%  126.444      1 Template:Reflist"," 12.37%  100.970      1 Template:Fossil_range"," 11.42%   93.225      7 Template:Cite_journal"," 10.61%   86.637      1 Template:Transl"," 10.39%   84.807      1 Template:Phanerozoic_220px","  9.38%   76.576     38 Template:Period_start","  8.92%   72.836     11 Template:Fossil_range/bar"]},"scribunto":{"limitreport-timeusage":{"value":"0.505","limit":"10.000"},"limitreport-memusage":{"value":24989048,"limit":52428800}},"cachereport":{"origin":"mw1417","timestamp":"20221023044226","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lancetfish","url":"https:\/\/en.wikipedia.org\/wiki\/Lancetfish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q621219","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q621219","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-02-07T16:03:09Z","dateModified":"2021-11-27T04:02:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/Alepisaurus_ferox_on_deck.jpg","headline":"family of fishes"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lancetfish","url":"https:\/\/en.wikipedia.org\/wiki\/Lancetfish","sameAs":"http:\/\/www.wikidata.org\/entity\/Q621219","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q621219","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-02-07T16:03:09Z","dateModified":"2021-11-27T04:02:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/Alepisaurus_ferox_on_deck.jpg","headline":"family of fishes"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1373"});});</script>
+</body>
+</html>
