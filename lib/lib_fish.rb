@@ -269,7 +269,9 @@ I want to extract:
 
   # example from https://en.wikipedia.org/wiki/Bluethroat_triggerfish
   def extract_taxon_identifiers_from_dom(html, opts={})
+    opts_debug = opts.fetch :debug, false
     opts_verbose = opts.fetch :verbose, false
+
     ret = {'todo' => 'See https://en.wikipedia.org/wiki/Bluethroat_triggerfish'}
     # Wikidata: Q2425440Wikispecies: Sufflamen albicaudatumCoL: 7B4VGFishBase: 25419GBIF: 2407201iNaturalist: 362290IRMNG: 10145926ITIS: 646176NCBI: 480299WoRMS: 276850
     # buridone = html.at_css "#mw-content-text > div.mw-parser-output > div.navbox > table > tbody > tr"
@@ -283,25 +285,37 @@ I want to extract:
 
       puts "+ LI: #{li}" if opts_verbose
 
-      next unless( li.at_css('span.uid').at_css('a')['href'] rescue nil)
 
-      puts "+ GOOD LI: #{li}" # if opts_verbose
+      ######################################################################
+      # unless you need to use TWO, thr firs for KEY and the SEOCND for value?!?
+      maybe_i_shouldnt_do_next = li.at_css('span.uid').at_css('a.title')['title'] rescue nil
+      puts(" + 📚A '#{maybe_i_shouldnt_do_next}'") unless maybe_i_shouldnt_do_next.nil?
+      next unless( li.at_css('span.uid').at_css('a')['href'] rescue nil)
+      ######################################################################
+
+      puts "+ GOOD LI: #{li}" if opts_debug
 
       extracted_part_key = li.at_css('span.uid > span').text rescue nil
       extracted_part_value = li.at_css('span.uid') #.at_css('a').at_css('href') # ['a']
 
-      puts "  + 📚A '#{extracted_part_value.at_css('a.title')['title'] rescue $!}'"
+      puts "  + 📚A '#{extracted_part_value.at_css('a.title')['title'] rescue $!}'" if opts_debug
 
       #extracted_part_value = li.at_css('span.uid').at_css('a').at_css('href') # ['a']
       tmp_hash["link"] = li.at_css('span.uid').at_css('a')['href'] rescue nil
       tmp_hash["text"] = extracted_part_value.text rescue nil
-      tmp_hash["title_TODO"] = extracted_part_value.at_css('a.title') rescue nil
+      #tmp_hash["title_BROKEN_TODO"] = li.at_css('a.title') rescue nil
+      tmp_hash["title"] = li.at_css('span > a')['title'] rescue nil
+
+      next if (tmp_hash["link"].nil?)
+      next if (tmp_hash["text"].nil?)
+
+      pp tmp_hash if opts_verbose
+      #pp(li.at_css('span > a')) # ['title'].to_s
       #tmp_hash["value"] = extracted_part_value.text rescue nil # extracted_part_key.at_css('span.uid').text rescue nil
       #puts "  + 📚K '#{extracted_part_key}'"
       #puts "  + 📚V '#{extracted_part_value}'"
-      pp tmp_hash if opts_verbose
-      next if (tmp_hash["link"].nil?)
-      ret["taxon_TODO_#{ix}"] = tmp_hash
+      #ret["taxon_TODONAME_#{ix}"] = tmp_hash # theoretically i'll use the class name like AFD, WORMS, ..
+      ret[tmp_hash["title"]] = tmp_hash # theoretically i'll use the class name like AFD, WORMS, ..
     end
     ret
   end

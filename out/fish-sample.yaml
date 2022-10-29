@@ -1,4 +1,4 @@
-# initialized on 2022-10-29 16:38:34 +0200 from ./crawl-wikipedia.rb v1.3
+# initialized on 2022-10-29 16:51:43 +0200 from ./crawl-wikipedia.rb v1.3
 
 ################################################################################
 # useful_but_commented_debug_info:
@@ -30,70 +30,81 @@ WikiCrawler v0.9 - Clown triggerfish:
     > Balistoides > B. conspicillum
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q973548
       text: Q973548
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Balistoides_conspicillum
       text: Balistoides conspicillum
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Balistoides_conspicillum/
       text: Balistoides_conspicillum
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    Australian Faunal Directory:
       link: https://biodiversity.org.au/afd/taxa/Balistoides_conspicillum
       text: Balistoides_conspicillum
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: Australian Faunal Directory
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=47249
       text: '47249'
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/KH7P
       text: KH7P
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    FishBase:
       link: https://www.fishbase.ca/summary/2300
       text: '2300'
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407129
       text: '2407129'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/154282
       text: '154282'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=10841239
       text: '10841239'
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Invasive Species Compendium:
       link: https://www.cabi.org/isc/datasheet/112650
       text: '112650'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: Invasive Species Compendium
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173225
       text: '173225'
-      title_TODO:
-    taxon_TODO_24:
-      link: https://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=2823
-      text: '2823'
-      title_TODO:
-    taxon_TODO_26:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303689
-      text: '303689'
-      title_TODO:
-    taxon_TODO_28:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    ! '':
       link: http://www.ubio.org/browser/details.php?namebankID=7035172
       text: '7035172'
-      title_TODO:
-    taxon_TODO_30:
+      title_BROKEN_TODO:
+      title:
+    National Center for Biotechnology Information:
+      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303689
+      text: '303689'
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219876
       text: '219876'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: true
   name_with_short_taxo: "[true] Clown triggerfish (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae > Balistoides > B. conspicillum)"
@@ -127,58 +138,71 @@ WikiCrawler v0.9 - Gilded triggerfish:
     > Xanthichthys > X. auromarginatus
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q882918
       text: Q882918
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Xanthichthys_auromarginatus
       text: Xanthichthys auromarginatus
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Xanthichthys_auromarginatus/
       text: Xanthichthys_auromarginatus
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    Australian Faunal Directory:
       link: https://biodiversity.org.au/afd/taxa/Xanthichthys_auromarginatus
       text: Xanthichthys_auromarginatus
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: Australian Faunal Directory
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=47146
       text: '47146'
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/7FV3Q
       text: 7FV3Q
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    FishBase:
       link: https://www.fishbase.ca/summary/6030
       text: '6030'
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407037
       text: '2407037'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/244366
       text: '244366'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=11283040
       text: '11283040'
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173188
       text: '173188'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    National Center for Biotechnology Information:
       link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303701
       text: '303701'
-      title_TODO:
-    taxon_TODO_24:
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219897
       text: '219897'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: true
   name_with_short_taxo: "[true] Gilded triggerfish (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae > Xanthichthys > X. auromarginatus)"
@@ -255,78 +279,86 @@ WikiCrawler v0.9 - Lagoon triggerfish:
     > Rhinecanthus > R. aculeatus
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q1331593
       text: Q1331593
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Rhinecanthus_aculeatus
       text: Rhinecanthus aculeatus
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Rhinecanthus_aculeatus/
       text: Rhinecanthus_aculeatus
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    Australian Faunal Directory:
       link: https://biodiversity.org.au/afd/taxa/Rhinecanthus_aculeatus
       text: Rhinecanthus_aculeatus
-      title_TODO:
-    taxon_TODO_8:
-      link: https://www.biolib.cz/en/taxon/id145750
-      text: '145750'
-      title_TODO:
-    taxon_TODO_10:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=34230
-      text: '34230'
-      title_TODO:
-    taxon_TODO_12:
-      link: https://www.catalogueoflife.org/data/taxon/4S7KL
-      text: 4S7KL
-      title_TODO:
-    taxon_TODO_14:
-      link: https://eol.org/pages/218605
-      text: '218605'
-      title_TODO:
-    taxon_TODO_16:
-      link: https://www.fishbase.ca/summary/5839
-      text: '5839'
-      title_TODO:
-    taxon_TODO_18:
-      link: https://www.gbif.org/species/2407235
-      text: '2407235'
-      title_TODO:
-    taxon_TODO_20:
-      link: https://www.inaturalist.org/taxa/83884
-      text: '83884'
-      title_TODO:
-    taxon_TODO_22:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10663138
-      text: '10663138'
-      title_TODO:
-    taxon_TODO_24:
-      link: https://www.cabi.org/isc/datasheet/116706
-      text: '116706'
-      title_TODO:
-    taxon_TODO_26:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173203
-      text: '173203'
-      title_TODO:
-    taxon_TODO_28:
-      link: https://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=2766
-      text: '2766'
-      title_TODO:
-    taxon_TODO_30:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=245705
-      text: '245705'
-      title_TODO:
-    taxon_TODO_32:
+      title_BROKEN_TODO:
+      title: Australian Faunal Directory
+    ! '':
       link: http://www.ubio.org/browser/details.php?namebankID=137358
       text: '137358'
-      title_TODO:
-    taxon_TODO_34:
+      title_BROKEN_TODO:
+      title:
+    Barcode of Life Data System:
+      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=34230
+      text: '34230'
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
+      link: https://www.catalogueoflife.org/data/taxon/4S7KL
+      text: 4S7KL
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    Encyclopedia of Life:
+      link: https://eol.org/pages/218605
+      text: '218605'
+      title_BROKEN_TODO:
+      title: Encyclopedia of Life
+    FishBase:
+      link: https://www.fishbase.ca/summary/5839
+      text: '5839'
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
+      link: https://www.gbif.org/species/2407235
+      text: '2407235'
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
+      link: https://www.inaturalist.org/taxa/83884
+      text: '83884'
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
+      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10663138
+      text: '10663138'
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Invasive Species Compendium:
+      link: https://www.cabi.org/isc/datasheet/116706
+      text: '116706'
+      title_BROKEN_TODO:
+      title: Invasive Species Compendium
+    Integrated Taxonomic Information System:
+      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173203
+      text: '173203'
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    National Center for Biotechnology Information:
+      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=245705
+      text: '245705'
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219890
       text: '219890'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: true
   name_with_short_taxo: "[true] Lagoon triggerfish (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae > Rhinecanthus > R. aculeatus)"
@@ -359,58 +391,71 @@ WikiCrawler v0.9 - Canthidermis:
     > Canthidermis
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q3281065
       text: Q3281065
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Canthidermis
       text: Canthidermis
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Australian Faunal Directory:
       link: https://biodiversity.org.au/afd/taxa/Canthidermis
       text: Canthidermis
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Australian Faunal Directory
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=88561
       text: '88561'
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/3GVX
       text: 3GVX
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407062
       text: '2407062'
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/87207
       text: '87207'
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=1331920
       text: '1331920'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173168
       text: '173168'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    National Biodiversity Network:
       link: https://data.nbn.org.uk/Taxa/NBNSYS0000180138
       text: NBNSYS0000180138
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: National Biodiversity Network
+    National Center for Biotechnology Information:
       link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303690
       text: '303690'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    ! '':
       link: http://www.ubio.org/browser/details.php?namebankID=115177
       text: '115177'
-      title_TODO:
-    taxon_TODO_24:
+      title_BROKEN_TODO:
+      title:
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=126229
       text: '126229'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: true
   name_with_short_taxo: "[true] Canthidermis (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae > Canthidermis)"
@@ -443,62 +488,76 @@ WikiCrawler v0.9 - Orange-lined triggerfish:
     >  > B. undulatus
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q1139189
       text: Q1139189
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Balistapus_undulatus
       text: Balistapus undulatus
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Balistapus_undulatus/
       text: Balistapus_undulatus
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    Australian Faunal Directory:
       link: https://biodiversity.org.au/afd/taxa/Balistapus_undulatus
       text: Balistapus_undulatus
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: Australian Faunal Directory
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=64501
       text: '64501'
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/KH3B
       text: KH3B
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    FishBase:
       link: https://www.fishbase.ca/summary/6025
       text: '6025'
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407167
       text: '2407167'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/57743
       text: '57743'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=10778044
       text: '10778044'
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173218
       text: '173218'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    National Center for Biotechnology Information:
       link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=392899
       text: '392899'
-      title_TODO:
-    taxon_TODO_24:
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    ! '':
       link: http://www.ubio.org/browser/details.php?namebankID=121253
       text: '121253'
-      title_TODO:
-    taxon_TODO_26:
+      title_BROKEN_TODO:
+      title:
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219874
       text: '219874'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: false
   name_with_short_taxo: "[false] Orange-lined triggerfish (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae >  > B. undulatus)"
@@ -533,70 +592,86 @@ WikiCrawler v0.9 - Balistes vetula:
     > Balistes > B. vetula
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q302151
       text: Q302151
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Balistes_vetula
       text: Balistes vetula
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Balistes_vetula/
       text: Balistes_vetula
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    ARKive:
       link: https://web.archive.org/web/*/www.arkive.org/wd/balistes-vetula/
       text: balistes-vetula
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: ARKive
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=72896
       text: '72896'
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/KH7G
       text: KH7G
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    FishBase:
       link: https://www.fishbase.ca/summary/19
       text: '19'
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407103
       text: '2407103'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/95066
       text: '95066'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=11379071
       text: '11379071'
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173139
       text: '173139'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    IUCN Red List:
       link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/2539
       text: '2539'
-      title_TODO:
-    taxon_TODO_24:
+      title_BROKEN_TODO:
+      title: IUCN Red List
+    National Center for Biotechnology Information:
       link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303687
       text: '303687'
-      title_TODO:
-    taxon_TODO_26:
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    ! '':
       link: http://www.ubio.org/browser/details.php?namebankID=7137381
       text: '7137381'
-      title_TODO:
-    taxon_TODO_28:
+      title_BROKEN_TODO:
+      title:
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=127397
       text: '127397'
-      title_TODO:
-    taxon_TODO_30:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
+    ZooBank:
       link: https://zoobank.org/NomenclaturalActs/D0903BF7-6D28-4B82-ADA9-DE33ECCFD0BF
       text: D0903BF7-6D28-4B82-ADA9-DE33ECCFD0BF
-      title_TODO:
+      title_BROKEN_TODO:
+      title: ZooBank
   valid: true
   name_with_short_taxo: "[true] Balistes vetula (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae > Balistes > B. vetula)"
@@ -633,62 +708,76 @@ WikiCrawler v0.9 - Redtoothed triggerfish:
     >  > O. niger
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q1342941
       text: Q1342941
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Odonus_niger
       text: Odonus niger
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Odonus/
       text: Odonus
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    Australian Faunal Directory:
       link: https://biodiversity.org.au/afd/taxa/Odonus_niger
       text: Odonus_niger
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: Australian Faunal Directory
+    ARKive:
       link: https://web.archive.org/web/*/www.arkive.org/wd/odonus-niger/
       text: odonus-niger
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: ARKive
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=18003
       text: '18003'
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/48SD8
       text: 48SD8
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    FishBase:
       link: https://www.fishbase.ca/summary/911
       text: '911'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407210
       text: '2407210'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/53669
       text: '53669'
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=10708698
       text: '10708698'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173222
       text: '173222'
-      title_TODO:
-    taxon_TODO_24:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    National Center for Biotechnology Information:
       link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=392902
       text: '392902'
-      title_TODO:
-    taxon_TODO_26:
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219883
       text: '219883'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: false
   name_with_short_taxo: "[false] Redtoothed triggerfish (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae >  > O. niger)"
@@ -723,62 +812,76 @@ WikiCrawler v0.9 - Reef triggerfish:
     > Rhinecanthus > R. rectangulus
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q669512
       text: Q669512
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Rhinecanthus_rectangulus
       text: Rhinecanthus rectangulus
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Rhinecanthus_rectangulus/
       text: Rhinecanthus_rectangulus
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    Australian Faunal Directory:
       link: https://biodiversity.org.au/afd/taxa/Rhinecanthus_rectangulus
       text: Rhinecanthus_rectangulus
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: Australian Faunal Directory
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=88386
       text: '88386'
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/78TM5
       text: 78TM5
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    FishBase:
       link: https://www.fishbase.ca/summary/5840
       text: '5840'
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407244
       text: '2407244'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/52449
       text: '52449'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=10937408
       text: '10937408'
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173206
       text: '173206'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    National Center for Biotechnology Information:
       link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=480297
       text: '480297'
-      title_TODO:
-    taxon_TODO_24:
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    ! '':
       link: https://www.nzor.org.nz/names/11377374-28d1-4fcb-8f52-1760133bdff1
       text: 11377374-28d1-4fcb-8f52-1760133bdff1
-      title_TODO:
-    taxon_TODO_26:
+      title_BROKEN_TODO:
+      title:
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219886
       text: '219886'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: true
   name_with_short_taxo: "[true] Reef triggerfish (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae > Rhinecanthus > R. rectangulus)"
@@ -814,58 +917,71 @@ WikiCrawler v0.9 - Xanthichthys ringens:
     > Xanthichthys > X. ringens
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    taxon_TODO_0:
+    Wikidata:
       link: https://www.wikidata.org/wiki/Q2224916
       text: Q2224916
-      title_TODO:
-    taxon_TODO_2:
+      title_BROKEN_TODO:
+      title: Wikidata
+    Wikispecies:
       link: https://species.wikimedia.org/wiki/Xanthichthys_ringens
       text: Xanthichthys ringens
-      title_TODO:
-    taxon_TODO_4:
+      title_BROKEN_TODO:
+      title: Wikispecies
+    Animal Diversity Web:
       link: https://animaldiversity.org/accounts/Xanthichthys_ringens/
       text: Xanthichthys_ringens
-      title_TODO:
-    taxon_TODO_6:
+      title_BROKEN_TODO:
+      title: Animal Diversity Web
+    Barcode of Life Data System:
       link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=78437
       text: '78437'
-      title_TODO:
-    taxon_TODO_8:
+      title_BROKEN_TODO:
+      title: Barcode of Life Data System
+    Catalogue of Life:
       link: https://www.catalogueoflife.org/data/taxon/7G73R
       text: 7G73R
-      title_TODO:
-    taxon_TODO_10:
+      title_BROKEN_TODO:
+      title: Catalogue of Life
+    FishBase:
       link: https://www.fishbase.ca/summary/4285
       text: '4285'
-      title_TODO:
-    taxon_TODO_12:
+      title_BROKEN_TODO:
+      title: FishBase
+    Global Biodiversity Information Facility:
       link: https://www.gbif.org/species/2407041
       text: '2407041'
-      title_TODO:
-    taxon_TODO_14:
+      title_BROKEN_TODO:
+      title: Global Biodiversity Information Facility
+    INaturalist:
       link: https://www.inaturalist.org/taxa/131518
       text: '131518'
-      title_TODO:
-    taxon_TODO_16:
+      title_BROKEN_TODO:
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
       link: https://www.irmng.org/aphia.php?p=taxdetails&id=11177317
       text: '11177317'
-      title_TODO:
-    taxon_TODO_18:
+      title_BROKEN_TODO:
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
       link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173187
       text: '173187'
-      title_TODO:
-    taxon_TODO_20:
+      title_BROKEN_TODO:
+      title: Integrated Taxonomic Information System
+    IUCN Red List:
       link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/190377
       text: '190377'
-      title_TODO:
-    taxon_TODO_22:
+      title_BROKEN_TODO:
+      title: IUCN Red List
+    National Center for Biotechnology Information:
       link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=480302
       text: '480302'
-      title_TODO:
-    taxon_TODO_24:
+      title_BROKEN_TODO:
+      title: National Center for Biotechnology Information
+    World Register of Marine Species:
       link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=159486
       text: '159486'
-      title_TODO:
+      title_BROKEN_TODO:
+      title: World Register of Marine Species
   valid: true
   name_with_short_taxo: "[true] Xanthichthys ringens (Animalia > Chordata > Actinopterygii
     > Tetraodontiformes > Balistidae > Xanthichthys > X. ringens)"
