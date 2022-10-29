@@ -6,7 +6,7 @@ It's implemented in Ruby and currently cralws Wikipedia for fish info.
 
 ## Result
 
-Look how awsome the parsing results:
+Look how awesome the parsing results:
 
 ```
 $ ./crawl-wikipedia.rb

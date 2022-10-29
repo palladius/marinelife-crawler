@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Molecular phylogenetics - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"73fdd1e0-eae7-48ac-bdc1-eedcb0ce1d6f","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Molecular_phylogenetics","wgTitle":"Molecular phylogenetics","wgCurRevisionId":1109714820,"wgRevisionId":1109714820,"wgArticleId":149544,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Phylogenetics","Molecular evolution"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Molecular_phylogenetics","wgRelevantArticleId":149544,"wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q2007033","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Molecular phylogenetics - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Molecular_phylogenetics"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Molecular_phylogenetics"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Molecular_phylogenetics rootpage-Molecular_phylogenetics skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Molecular phylogenetics</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Branch of phylogeny that analyzes genetic, hereditary molecular differences</div>
+<p><b>Molecular phylogenetics</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt" lang="en-fonipa"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ɛ/: &#39;e&#39; in &#39;dress&#39;">ɛ</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="/j/: &#39;y&#39; in &#39;yes&#39;">j</span><span title="/ʊ/: &#39;u&#39; in &#39;push&#39;">ʊ</span><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ər/: &#39;er&#39; in &#39;letter&#39;">ər</span></span><span class="wrap"> </span><span style="border-bottom:1px dotted"><span title="/ˌ/: secondary stress follows">ˌ</span><span title="&#39;f&#39; in &#39;find&#39;">f</span><span title="/aɪ/: &#39;i&#39; in &#39;tide&#39;">aɪ</span><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span><span title="/dʒ/: &#39;j&#39; in &#39;jam&#39;">dʒ</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="/ɛ/: &#39;e&#39; in &#39;dress&#39;">ɛ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span></span>,<span class="wrap"> </span><span style="border-bottom:1px dotted"><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/ɒ/: &#39;o&#39; in &#39;body&#39;">ɒ</span></span>-,<span class="wrap"> </span><span style="border-bottom:1px dotted"><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span></span>-/</a></span></span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>) is the branch of <a href="/wiki/Phylogeny" class="mw-redirect" title="Phylogeny">phylogeny</a> that analyzes genetic, hereditary molecular differences, predominantly in DNA sequences, to gain information on an organism's evolutionary relationships. From these analyses, it is possible to determine the processes by which diversity among species has been achieved. The result of a molecular <a href="/wiki/Phylogenetics" title="Phylogenetics">phylogenetic</a> analysis is expressed in a <a href="/wiki/Phylogenetic_tree" title="Phylogenetic tree">phylogenetic tree</a>. Molecular phylogenetics is one aspect of <b>molecular systematics</b>, a broader term that also includes the use of molecular data in <a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">taxonomy</a> and <a href="/wiki/Biogeography" title="Biogeography">biogeography</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Molecular phylogenetics and <a href="/wiki/Molecular_evolution" title="Molecular evolution">molecular evolution</a> correlate. Molecular evolution is the process of selective changes (mutations) at a molecular level (genes, proteins, etc.) throughout various branches in the tree of life (evolution). Molecular phylogenetics makes inferences of the evolutionary relationships that arise due to molecular evolution and results in the construction of a phylogenetic tree.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Theoretical_background"><span class="tocnumber">2</span> <span class="toctext">Theoretical background</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Techniques_and_applications"><span class="tocnumber">3</span> <span class="toctext">Techniques and applications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Molecular_phylogenetic_analysis"><span class="tocnumber">4</span> <span class="toctext">Molecular phylogenetic analysis</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Limitations"><span class="tocnumber">5</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">7</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/History_of_molecular_evolution" title="History of molecular evolution">History of molecular evolution</a></div>
+<p>The theoretical frameworks for molecular <a href="/wiki/Systematics" title="Systematics">systematics</a> were laid in the 1960s in the works of <a href="/wiki/Emile_Zuckerkandl" title="Emile Zuckerkandl">Emile Zuckerkandl</a>, <a href="/wiki/Emanuel_Margoliash" title="Emanuel Margoliash">Emanuel Margoliash</a>, <a href="/wiki/Linus_Pauling" title="Linus Pauling">Linus Pauling</a>, and <a href="/wiki/Walter_M._Fitch" title="Walter M. Fitch">Walter M. Fitch</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Applications of molecular systematics were pioneered by <a href="/wiki/Charles_Sibley" title="Charles Sibley">Charles G. Sibley</a> (<a href="/wiki/Bird" title="Bird">birds</a>), <a href="/wiki/Herbert_C._Dessauer" title="Herbert C. Dessauer">Herbert C. Dessauer</a> (<a href="/wiki/Herpetology" title="Herpetology">herpetology</a>), and <a href="/wiki/Morris_Goodman_(scientist)" title="Morris Goodman (scientist)">Morris Goodman</a> (<a href="/wiki/Primate" title="Primate">primates</a>), followed by <a href="/wiki/Allan_Wilson_(biologist)" title="Allan Wilson (biologist)">Allan C. Wilson</a>, <a href="/wiki/Robert_K._Selander" title="Robert K. Selander">Robert K. Selander</a>, and <a href="/wiki/John_C._Avise" class="mw-redirect" title="John C. Avise">John C. Avise</a> (who studied various groups). Work with <a href="/wiki/Protein_electrophoresis" class="mw-redirect" title="Protein electrophoresis">protein electrophoresis</a> began around 1956. Although the results were not quantitative and did not initially improve on morphological classification, they provided tantalizing hints that long-held notions of the classifications of <a href="/wiki/Bird" title="Bird">birds</a>, for example, needed substantial revision. In the period of 1974–1986, <a href="/wiki/DNA-DNA_hybridization" class="mw-redirect" title="DNA-DNA hybridization">DNA-DNA hybridization</a> was the dominant technique used to measure genetic difference.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Theoretical_background">Theoretical background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=2" title="Edit section: Theoretical background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Early attempts at molecular systematics were also termed as <a href="/wiki/Chemotaxonomy" title="Chemotaxonomy">chemotaxonomy</a> and made use of proteins, <a href="/wiki/Enzyme" title="Enzyme">enzymes</a>, <a href="/wiki/Carbohydrate" title="Carbohydrate">carbohydrates</a>, and other molecules that were separated and characterized using techniques such as <a href="/wiki/Chromatography" title="Chromatography">chromatography</a>. These have been replaced in recent times largely by <a href="/wiki/DNA_sequencing" title="DNA sequencing">DNA sequencing</a>, which produces the exact sequences of <a href="/wiki/Nucleotides" class="mw-redirect" title="Nucleotides">nucleotides</a> or <i>bases</i> in either DNA or RNA segments extracted using different techniques. In general, these are considered superior for evolutionary studies, since the actions of evolution are ultimately reflected in the genetic sequences. At present, it is still a long and expensive process to sequence the entire DNA of an organism (its <a href="/wiki/Genome" title="Genome">genome</a>). However, it is quite feasible to determine the sequence of a defined area of a particular <a href="/wiki/Chromosome" title="Chromosome">chromosome</a>. Typical molecular systematic analyses require the sequencing of around 1000 <a href="/wiki/Base_pair" title="Base pair">base pairs</a>. At any location within such a sequence, the bases found in a given position may vary between organisms. The particular sequence found in a given organism is referred to as its <a href="/wiki/Haplotype" title="Haplotype">haplotype</a>. In principle, since there are four base types, with 1000 base pairs, we could have 4<sup>1000</sup> distinct haplotypes. However, for organisms within a particular species or in a group of related species, it has been found empirically that only a minority of sites show any variation at all, and most of the variations that are found are correlated, so that the number of distinct haplotypes that are found is relatively small.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Clade_in_Phylogenetic_Tree.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Clade_in_Phylogenetic_Tree.png/400px-Clade_in_Phylogenetic_Tree.png" decoding="async" width="400" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Clade_in_Phylogenetic_Tree.png/600px-Clade_in_Phylogenetic_Tree.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Clade_in_Phylogenetic_Tree.png/800px-Clade_in_Phylogenetic_Tree.png 2x" data-file-width="1182" data-file-height="617" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Clade_in_Phylogenetic_Tree.png" class="internal" title="Enlarge"></a></div>In a phylogenetic tree, numerous groupings (clades) exist. A clade may be defined as a group of organisms having a common ancestor throughout evolution. This figure illustrates how a clade in a phylogenetic tree may be expressed.</div></div></div>
+<p>In a molecular systematic analysis, the haplotypes are determined for a defined area of <a href="/wiki/Genetic_material" class="mw-redirect" title="Genetic material">genetic material</a>; a substantial sample of individuals of the target <a href="/wiki/Species" title="Species">species</a> or other <a href="/wiki/Taxon" title="Taxon">taxon</a> is used; however, many current studies are based on single individuals. Haplotypes of individuals of closely related, yet different, taxa are also determined. Finally, haplotypes from a smaller number of individuals from a definitely different taxon are determined: these are referred to as an <a href="/wiki/Outgroup_(cladistics)" title="Outgroup (cladistics)">outgroup</a>. The base sequences for the haplotypes are then compared. In the simplest case, the difference between two haplotypes is assessed by counting the number of locations where they have different bases: this is referred to as the number of <i>substitutions</i> (other kinds of differences between haplotypes can also occur, for example, the <i>insertion</i> of a section of <a href="/wiki/Nucleic_acid" title="Nucleic acid">nucleic acid</a> in one haplotype that is not present in another). The difference between organisms is usually re-expressed as a <i>percentage divergence</i>, by dividing the number of substitutions by the number of base pairs analysed: the hope is that this measure will be independent of the location and length of the section of DNA that is sequenced.
+</p><p>An older and superseded approach was to determine the divergences between the <a href="/wiki/Genotype" title="Genotype">genotypes</a> of individuals by <a href="/wiki/DNA-DNA_hybridization" class="mw-redirect" title="DNA-DNA hybridization">DNA-DNA hybridization</a>. The advantage claimed for using hybridization rather than gene sequencing was that it was based on the entire genotype, rather than on particular sections of DNA. Modern sequence comparison techniques overcome this objection by the use of multiple sequences.
+</p><p>Once the divergences between all pairs of samples have been determined, the resulting <a href="/wiki/Triangular_matrix" title="Triangular matrix">triangular matrix</a> of differences is submitted to some form of statistical <a href="/wiki/Cluster_analysis" title="Cluster analysis">cluster analysis</a>, and the resulting <a href="/wiki/Dendrogram" title="Dendrogram">dendrogram</a> is examined in order to see whether the samples cluster in the way that would be expected from current ideas about the taxonomy of the group. Any group of haplotypes that are all more similar to one another than any of them is to any other haplotype may be said to constitute a <a href="/wiki/Clade" title="Clade">clade</a>, which may be visually represented as the figure displayed on the right demonstrates. <a href="/wiki/Statistical" class="mw-redirect" title="Statistical">Statistical</a> techniques such as <a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">bootstrapping</a> and <a href="/wiki/Resampling_(statistics)#Jackknife" title="Resampling (statistics)">jackknifing</a> help in providing reliability estimates for the positions of haplotypes within the evolutionary trees.
+</p>
+<h2><span class="mw-headline" id="Techniques_and_applications">Techniques and applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=3" title="Edit section: Techniques and applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Every living <a href="/wiki/Organism" title="Organism">organism</a> contains deoxyribonucleic acid (<a href="/wiki/DNA" title="DNA">DNA</a>), ribonucleic acid (<a href="/wiki/RNA" title="RNA">RNA</a>), and <a href="/wiki/Protein" title="Protein">proteins</a>. In general, closely related organisms have a high degree of similarity in the <a href="/wiki/Molecular_structure" class="mw-redirect" title="Molecular structure">molecular structure</a> of these substances, while the molecules of organisms distantly related often show a pattern of dissimilarity. Conserved sequences, such as mitochondrial DNA, are expected to accumulate mutations over time, and assuming a constant rate of mutation, provide a <a href="/wiki/Molecular_clock" title="Molecular clock">molecular clock</a> for dating divergence. Molecular phylogeny uses such data to build a "relationship tree" that shows the probable <a href="/wiki/Evolution" title="Evolution">evolution</a> of various organisms. With the invention of <a href="/wiki/Sanger_sequencing" title="Sanger sequencing">Sanger sequencing</a> in 1977, it became possible to isolate and identify these molecular structures.<sup id="cite_ref-Sanger75_10-0" class="reference"><a href="#cite_note-Sanger75-10">&#91;10&#93;</a></sup><sup id="cite_ref-Sanger1977_11-0" class="reference"><a href="#cite_note-Sanger1977-11">&#91;11&#93;</a></sup> <a href="/wiki/DNA_sequencing#High-throughput_methods" title="DNA sequencing">High-throughput sequencing</a> may also be used to obtain the <a href="/wiki/Transcriptome" title="Transcriptome">transcriptome</a> of an organism, allowing <a href="/wiki/Phylogenetic_inference_using_transcriptomic_data" title="Phylogenetic inference using transcriptomic data">inference of phylogenetic relationships using transcriptomic data</a>.
+</p><p>The most common approach is the comparison of <a href="/wiki/Homologous_sequence" class="mw-redirect" title="Homologous sequence">homologous sequences</a> for genes using <a href="/wiki/Sequence_alignment" title="Sequence alignment">sequence alignment</a> techniques to identify similarity. Another application of molecular phylogeny is in <a href="/wiki/DNA_barcoding" title="DNA barcoding">DNA barcoding</a>, wherein the species of an individual organism is identified using small sections of <a href="/wiki/Mitochondrial_DNA" title="Mitochondrial DNA">mitochondrial DNA</a> or <a href="/wiki/Chloroplast_DNA" title="Chloroplast DNA">chloroplast DNA</a>. Another application of the techniques that make this possible can be seen in the very limited field of human genetics, such as the ever-more-popular use of <a href="/wiki/Genetic_testing" title="Genetic testing">genetic testing</a> to determine a child's <a href="/wiki/Parent" title="Parent">paternity</a>, as well as the emergence of a new branch of criminal <a href="/wiki/Forensics" class="mw-redirect" title="Forensics">forensics</a> focused on evidence known as <a href="/wiki/Genetic_fingerprinting" class="mw-redirect" title="Genetic fingerprinting">genetic fingerprinting</a>.
+</p>
+<h2><span class="mw-headline" id="Molecular_phylogenetic_analysis">Molecular phylogenetic analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=4" title="Edit section: Molecular phylogenetic analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several methods available for performing a molecular phylogenetic analysis. One method, including a comprehensive step-by-step protocol on constructing a phylogenetic tree, including DNA/Amino Acid contiguous sequence assembly, <a href="/wiki/Multiple_sequence_alignment" title="Multiple sequence alignment">multiple sequence alignment</a>, model-test (testing best-fitting substitution models), and phylogeny reconstruction using Maximum Likelihood and Bayesian Inference, is available at Nature Protocol.<sup id="cite_ref-Bast_12-0" class="reference"><a href="#cite_note-Bast-12">&#91;12&#93;</a></sup>
+</p><p>Another molecular phylogenetic analysis technique has been described by Pevsner and shall be summarized in the sentences to follow (Pevsner, 2015). A phylogenetic analysis typically consists of five major steps. The first stage comprises sequence acquisition. The following step consists of performing a multiple sequence alignment, which is the fundamental basis of constructing a phylogenetic tree. The third stage includes different models of DNA and amino acid substitution. Several models of substitution exist. A few examples include <a href="/wiki/Hamming_distance" title="Hamming distance">Hamming distance</a>, the Jukes and Cantor one-parameter model, and the Kimura two-parameter model (see <a href="/wiki/Models_of_DNA_evolution" title="Models of DNA evolution">Models of DNA evolution</a>). The fourth stage consists of various methods of tree building, including distance-based and character-based methods. The normalized Hamming distance and the Jukes-Cantor correction formulas provide the degree of divergence and the probability that a nucleotide changes to another, respectively. Common tree-building methods include unweighted pair group method using arithmetic mean (<a href="/wiki/UPGMA" title="UPGMA">UPGMA</a>) and <a href="/wiki/Neighbor_joining" title="Neighbor joining">Neighbor joining</a>, which are distance-based methods, <a href="/wiki/Maximum_parsimony_(phylogenetics)" title="Maximum parsimony (phylogenetics)">Maximum parsimony</a>, which is a character-based method, and <a href="/wiki/Maximum_likelihood_estimation" title="Maximum likelihood estimation">Maximum likelihood estimation</a> and <a href="/wiki/Bayesian_inference_in_phylogeny" title="Bayesian inference in phylogeny">Bayesian inference</a>, which are character-based/model-based methods. UPGMA is a simple method; however, it is less accurate than the neighbor-joining approach. Finally, the last step comprises evaluating the trees. This assessment of accuracy is composed of consistency, efficiency, and robustness.<sup id="cite_ref-Pevsner_13-0" class="reference"><a href="#cite_note-Pevsner-13">&#91;13&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:723px;"><a href="/wiki/File:Five_Stages_of_Molecular_Phylogenetic_Analysis.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Five_Stages_of_Molecular_Phylogenetic_Analysis.png/721px-Five_Stages_of_Molecular_Phylogenetic_Analysis.png" decoding="async" width="721" height="80" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Five_Stages_of_Molecular_Phylogenetic_Analysis.png/1082px-Five_Stages_of_Molecular_Phylogenetic_Analysis.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Five_Stages_of_Molecular_Phylogenetic_Analysis.png/1442px-Five_Stages_of_Molecular_Phylogenetic_Analysis.png 2x" data-file-width="1964" data-file-height="218" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Five_Stages_of_Molecular_Phylogenetic_Analysis.png" class="internal" title="Enlarge"></a></div>Five Stages of Molecular Phylogenetic Analysis</div></div></div>
+<p><a href="/wiki/MEGA,_Molecular_Evolutionary_Genetics_Analysis" class="mw-redirect" title="MEGA, Molecular Evolutionary Genetics Analysis">MEGA (molecular evolutionary genetics analysis)</a> is an analysis software that is user-friendly and free to download and use. This software is capable of analyzing both distance-based and character-based tree methodologies. MEGA also contains several options one may choose to utilize, such as heuristic approaches and bootstrapping. <a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrapping</a> is an approach that is commonly used to measure the robustness of topology in a phylogenetic tree, which demonstrates the percentage each clade is supported after numerous replicates. In general, a value greater than 70% is considered significant. The flow chart displayed on the right visually demonstrates the order of the five stages of Pevsner's molecular phylogenetic analysis technique that have been described.<sup id="cite_ref-Pevsner_13-1" class="reference"><a href="#cite_note-Pevsner-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=5" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Molecular systematics is an essentially <a href="/wiki/Cladistics" title="Cladistics">cladistic</a> approach: it assumes that classification must correspond to phylogenetic descent, and that all valid taxa must be <a href="/wiki/Monophyletic" class="mw-redirect" title="Monophyletic">monophyletic</a>. This is a limitation when attempting to determine the optimal tree(s), which often involves bisecting and reconnecting portions of the phylogenetic tree(s).
+</p><p>The recent discovery of extensive <a href="/wiki/Horizontal_gene_transfer" title="Horizontal gene transfer">horizontal gene transfer</a> among organisms provides a significant complication to molecular systematics, indicating that different genes within the same organism can have different phylogenies.
+</p><p>In addition, molecular phylogenies are sensitive to the assumptions and models that go into making them. Firstly, sequences must be aligned; then, issues such as <a href="/wiki/Long-branch_attraction" class="mw-redirect" title="Long-branch attraction">long-branch attraction</a>, <a href="/wiki/Saturation_(genetic)" title="Saturation (genetic)">saturation</a>, and <a href="/wiki/Taxon" title="Taxon">taxon</a> sampling problems must be addressed. This means that strikingly different results can be obtained by applying different models to the same dataset.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-Philippe2011_15-0" class="reference"><a href="#cite_note-Philippe2011-15">&#91;15&#93;</a></sup>
+</p><p>Moreover, as previously mentioned, UPGMA is a simple approach in which the tree is always rooted. The algorithm assumes a constant molecular clock for sequences in the tree. This is associated with being a limitation in that if unequal substitution rates exist, the result may be an incorrect tree.<sup id="cite_ref-Pevsner_13-2" class="reference"><a href="#cite_note-Pevsner-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Computational_phylogenetics" title="Computational phylogenetics">Computational phylogenetics</a></li>
+<li><a href="/wiki/Microbial_phylogenetics" title="Microbial phylogenetics">Microbial phylogenetics</a></li>
+<li><a href="/wiki/Molecular_clock" title="Molecular clock">Molecular clock</a></li>
+<li><a href="/wiki/Molecular_evolution" title="Molecular evolution">Molecular evolution</a></li>
+<li><a href="/wiki/PhyloCode" title="PhyloCode">PhyloCode</a></li>
+<li><a href="/wiki/Phylogenetic_nomenclature" title="Phylogenetic nomenclature">Phylogenetic nomenclature</a></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=7" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFJones2003" class="citation cs2"><a href="/wiki/Daniel_Jones_(phonetician)" title="Daniel Jones (phonetician)">Jones, Daniel</a> (2003) [1917],  Peter Roach; James Hartmann; Jane Setter (eds.), <i>English Pronouncing Dictionary</i>, Cambridge: Cambridge University Press, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-12-539683-2" title="Special:BookSources/3-12-539683-2"><bdi>3-12-539683-2</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=English+Pronouncing+Dictionary&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2003&amp;rft.isbn=3-12-539683-2&amp;rft.aulast=Jones&amp;rft.aufirst=Daniel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.merriam-webster.com/dictionary/Phylogenetic">"Phylogenetic"</a>. <i><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster Dictionary</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Merriam-Webster+Dictionary&amp;rft.atitle=Phylogenetic&amp;rft_id=https%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2FPhylogenetic&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/Joe_Felsenstein" class="mw-redirect" title="Joe Felsenstein">Felsenstein, J.</a> 2004. <i>Inferring phylogenies</i>. Sinauer Associates Incorporated. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87893-177-5" title="Special:BookSources/0-87893-177-5">0-87893-177-5</a>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Pamela_S._Soltis" title="Pamela S. Soltis">Soltis, P.S.</a>, <a href="/wiki/Douglas_E._Soltis" title="Douglas E. Soltis">Soltis, D.E.</a>, and Doyle, J.J. (1992) <i>Molecular systematics of plants</i>. Chapman &amp; Hall, New York. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-41202-231-1" title="Special:BookSources/0-41202-231-1">0-41202-231-1</a>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Soltis, P.S., Soltis, D.E., and Doyle, J.J. (1998) <i>Molecular Systematics of Plants II: DNA Sequencing</i>. Kluwer Academic Publishers Boston, Dordrecht, London. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-41211-131-4" title="Special:BookSources/0-41211-131-4">0-41211-131-4</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/David_Hillis" title="David Hillis">Hillis, D. M.</a> &amp; Moritz, C. 1996. <i>Molecular systematics</i>. 2nd ed. Sinauer Associates Incorporated. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87893-282-8" title="Special:BookSources/0-87893-282-8">0-87893-282-8</a>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSuárez-Díaz,_EdnaAnaya-Muñoz,_Victor_H.2008" class="citation journal cs1">Suárez-Díaz, Edna &amp; Anaya-Muñoz, Victor H. (2008). "History, objectivity, and the construction of molecular phylogenies". <i>Stud. Hist. Phil. Biol. &amp; Biomed. Sci</i>. <b>39</b> (4): 451–468. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.shpsc.2008.09.002">10.1016/j.shpsc.2008.09.002</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/19026976">19026976</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Stud.+Hist.+Phil.+Biol.+%26+Biomed.+Sci.&amp;rft.atitle=History%2C+objectivity%2C+and+the+construction+of+molecular+phylogenies&amp;rft.volume=39&amp;rft.issue=4&amp;rft.pages=451-468&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1016%2Fj.shpsc.2008.09.002&amp;rft_id=info%3Apmid%2F19026976&amp;rft.au=Su%C3%A1rez-D%C3%ADaz%2C+Edna&amp;rft.au=Anaya-Mu%C3%B1oz%2C+Victor+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFAhlquist,_Jon_E.1999" class="citation journal cs1">Ahlquist, Jon E. (1999). <a rel="nofollow" class="external text" href="http://sora.unm.edu/node/26122">"Charles G. Sibley: A commentary on 30 years of collaboration"</a>. <i>The Auk</i>. <b>116</b> (3): 856–860. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F4089352">10.2307/4089352</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/4089352">4089352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Auk&amp;rft.atitle=Charles+G.+Sibley%3A+A+commentary+on+30+years+of+collaboration&amp;rft.volume=116&amp;rft.issue=3&amp;rft.pages=856-860&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.2307%2F4089352&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F4089352%23id-name%3DJSTOR&amp;rft.au=Ahlquist%2C+Jon+E.&amp;rft_id=http%3A%2F%2Fsora.unm.edu%2Fnode%2F26122&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPageHolmes1998" class="citation book cs1">Page, Roderic D. M.; <a href="/wiki/Edward_C._Holmes" title="Edward C. Holmes">Holmes, Edward C.</a> (1998). <i>Molecular evolution&#160;: a phylogenetic approach</i>. Oxford: <a href="/wiki/Blackwell_Science" class="mw-redirect" title="Blackwell Science">Blackwell Science</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780865428898" title="Special:BookSources/9780865428898"><bdi>9780865428898</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/47011609">47011609</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Molecular+evolution+%3A+a+phylogenetic+approach&amp;rft.place=Oxford&amp;rft.pub=Blackwell+Science&amp;rft.date=1998&amp;rft_id=info%3Aoclcnum%2F47011609&amp;rft.isbn=9780865428898&amp;rft.aulast=Page&amp;rft.aufirst=Roderic+D.+M.&amp;rft.au=Holmes%2C+Edward+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Sanger75-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sanger75_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSangerCoulson1975" class="citation journal cs1">Sanger F, Coulson AR (May 1975). "A rapid method for determining sequences in DNA by primed synthesis with DNA polymerase". <i>J. Mol. Biol</i>. <b>94</b> (3): 441–8. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0022-2836%2875%2990213-2">10.1016/0022-2836(75)90213-2</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/1100841">1100841</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Mol.+Biol.&amp;rft.atitle=A+rapid+method+for+determining+sequences+in+DNA+by+primed+synthesis+with+DNA+polymerase&amp;rft.volume=94&amp;rft.issue=3&amp;rft.pages=441-8&amp;rft.date=1975-05&amp;rft_id=info%3Adoi%2F10.1016%2F0022-2836%2875%2990213-2&amp;rft_id=info%3Apmid%2F1100841&amp;rft.aulast=Sanger&amp;rft.aufirst=F&amp;rft.au=Coulson%2C+AR&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Sanger1977-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sanger1977_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSangerNicklenCoulson1977" class="citation journal cs1">Sanger F, Nicklen S, Coulson AR (December 1977). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC431765">"DNA sequencing with chain-terminating inhibitors"</a>. <i>Proc. Natl. Acad. Sci. U.S.A</i>. <b>74</b> (12): 5463–7. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1977PNAS...74.5463S">1977PNAS...74.5463S</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1073%2Fpnas.74.12.5463">10.1073/pnas.74.12.5463</a></span>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC431765">431765</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/271968">271968</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A.&amp;rft.atitle=DNA+sequencing+with+chain-terminating+inhibitors&amp;rft.volume=74&amp;rft.issue=12&amp;rft.pages=5463-7&amp;rft.date=1977-12&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC431765%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F271968&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.74.12.5463&amp;rft_id=info%3Abibcode%2F1977PNAS...74.5463S&amp;rft.aulast=Sanger&amp;rft.aufirst=F&amp;rft.au=Nicklen%2C+S&amp;rft.au=Coulson%2C+AR&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC431765&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bast-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bast_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBast2013" class="citation journal cs1">Bast, F. (2013). <a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fprotex.2013.065">"Sequence Similarity Search, Multiple Sequence Alignment, Model Selection, Distance Matrix and Phylogeny Reconstruction"</a>. <i>Protoc. Exch</i>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fprotex.2013.065">10.1038/protex.2013.065</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Protoc.+Exch.&amp;rft.atitle=Sequence+Similarity+Search%2C+Multiple+Sequence+Alignment%2C+Model+Selection%2C+Distance+Matrix+and+Phylogeny+Reconstruction&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1038%2Fprotex.2013.065&amp;rft.aulast=Bast&amp;rft.aufirst=F.&amp;rft_id=%2F%2Fdoi.org%2F10.1038%252Fprotex.2013.065&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Pevsner-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pevsner_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pevsner_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pevsner_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPevsner2015" class="citation book cs1">Pevsner, J. (2015). "Chapter 7: Molecular Phylogeny and Evolution". <i>Bioinformatics and Functional Genomics</i> (3rd&#160;ed.). Wiley-Blackwell. pp.&#160;245–295. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-118-58178-0" title="Special:BookSources/978-1-118-58178-0"><bdi>978-1-118-58178-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+7%3A+Molecular+Phylogeny+and+Evolution&amp;rft.btitle=Bioinformatics+and+Functional+Genomics&amp;rft.pages=245-295&amp;rft.edition=3rd&amp;rft.pub=Wiley-Blackwell&amp;rft.date=2015&amp;rft.isbn=978-1-118-58178-0&amp;rft.aulast=Pevsner&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFCabra-GarcíaHormiga2020" class="citation journal cs1">Cabra-García, Jimmy; Hormiga, Gustavo (2020). "Exploring the impact of morphology, multiple sequence alignment and choice of optimality criteria in phylogenetic inference: A case study with the Neotropical orb-weaving spider genus Wagneriana (Araneae: Araneidae)". <i>Zoological Journal of the Linnean Society</i>. <b>188</b> (4): 976–1151. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fzoolinnean%2Fzlz088">10.1093/zoolinnean/zlz088</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zoological+Journal+of+the+Linnean+Society&amp;rft.atitle=Exploring+the+impact+of+morphology%2C+multiple+sequence+alignment+and+choice+of+optimality+criteria+in+phylogenetic+inference%3A+A+case+study+with+the+Neotropical+orb-weaving+spider+genus+Wagneriana+%28Araneae%3A+Araneidae%29&amp;rft.volume=188&amp;rft.issue=4&amp;rft.pages=976-1151&amp;rft.date=2020&amp;rft_id=info%3Adoi%2F10.1093%2Fzoolinnean%2Fzlz088&amp;rft.aulast=Cabra-Garc%C3%ADa&amp;rft.aufirst=Jimmy&amp;rft.au=Hormiga%2C+Gustavo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Philippe2011-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Philippe2011_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFPhilippeBrinkmannLavrovLittlewood2011" class="citation journal cs1">Philippe, H.; Brinkmann, H.; Lavrov, D. V.; Littlewood, D. T. J.; Manuel, M.; Wörheide, G.; Baurain, D. (2011).  Penny, David (ed.). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3057953">"Resolving Difficult Phylogenetic Questions: Why More Sequences Are Not Enough"</a>. <i>PLOS Biology</i>. <b>9</b> (3): e1000602. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1371%2Fjournal.pbio.1000602">10.1371/journal.pbio.1000602</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3057953">3057953</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/21423652">21423652</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLOS+Biology&amp;rft.atitle=Resolving+Difficult+Phylogenetic+Questions%3A+Why+More+Sequences+Are+Not+Enough&amp;rft.volume=9&amp;rft.issue=3&amp;rft.pages=e1000602&amp;rft.date=2011&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3057953%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F21423652&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pbio.1000602&amp;rft.aulast=Philippe&amp;rft.aufirst=H.&amp;rft.au=Brinkmann%2C+H.&amp;rft.au=Lavrov%2C+D.+V.&amp;rft.au=Littlewood%2C+D.+T.+J.&amp;rft.au=Manuel%2C+M.&amp;rft.au=W%C3%B6rheide%2C+G.&amp;rft.au=Baurain%2C+D.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3057953&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSan_MauroAgorreta,_A.2010" class="citation journal cs1">San Mauro, D.; Agorreta, A. (2010). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC6275913">"Molecular systematics: a synthesis of the common methods and the state of knowledge"</a>. <i>Cellular &amp; Molecular Biology Letters</i>. <b>15</b> (2): 311–341. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2478%2Fs11658-010-0010-8">10.2478/s11658-010-0010-8</a></span>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC6275913">6275913</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/20213503">20213503</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cellular+%26+Molecular+Biology+Letters&amp;rft.atitle=Molecular+systematics%3A+a+synthesis+of+the+common+methods+and+the+state+of+knowledge&amp;rft.volume=15&amp;rft.issue=2&amp;rft.pages=311-341&amp;rft.date=2010&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6275913%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F20213503&amp;rft_id=info%3Adoi%2F10.2478%2Fs11658-010-0010-8&amp;rft.aulast=San+Mauro&amp;rft.aufirst=D.&amp;rft.au=Agorreta%2C+A.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC6275913&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBlaxter2004" class="citation journal cs1">Blaxter, M. L. (2004). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1693355">"The promise of a DNA taxonomy"</a>. <i>Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences</i>. <b>359</b> (1444): 669–679. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1098%2Frstb.2003.1447">10.1098/rstb.2003.1447</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1693355">1693355</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/15253352">15253352</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philosophical+Transactions+of+the+Royal+Society+of+London.+Series+B%2C+Biological+Sciences&amp;rft.atitle=The+promise+of+a+DNA+taxonomy&amp;rft.volume=359&amp;rft.issue=1444&amp;rft.pages=669-679&amp;rft.date=2004&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1693355%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F15253352&amp;rft_id=info%3Adoi%2F10.1098%2Frstb.2003.1447&amp;rft.aulast=Blaxter&amp;rft.aufirst=M.+L.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1693355&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+phylogenetics" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/">NCBI – Systematics and Molecular Phylogenetics</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.megasoftware.net/">MEGA Software</a></li>
+<li><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.britannica.com/EBchecked/topic/458573/phylogeny">Molecular phylogenetics</a></span> from <i>Encyclopædia Britannica</i>.</li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Phylogenetics" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Phylogenetics" title="Template:Phylogenetics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Phylogenetics" title="Template talk:Phylogenetics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Phylogenetics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Phylogenetics" style="font-size:114%;margin:0 4em"><a href="/wiki/Phylogenetics" title="Phylogenetics">Phylogenetics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relevant fields</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Computational_phylogenetics" title="Computational phylogenetics">Computational phylogenetics</a></li>
+<li><a class="mw-selflink selflink">Molecular phylogenetics</a></li>
+<li><a href="/wiki/Cladistics" title="Cladistics">Cladistics</a></li>
+<li><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Taxonomy</a></li>
+<li><a href="/wiki/Evolutionary_taxonomy" title="Evolutionary taxonomy">Evolutionary taxonomy</a></li>
+<li><a href="/wiki/Systematics" title="Systematics">Systematics</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="7" style="width:1px;padding:0 0 0 2px"><div><style data-mw-deduplicate="TemplateStyles:r1093669538">.mw-parser-output .portalbox{padding:0}.mw-parser-output .portalborder{border:solid #aaa 1px}.mw-parser-output .portalbox.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalbox.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portalbox>ul{display:table;box-sizing:border-box;max-width:175px;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portalborder>ul{padding:0.1em;background:#f9f9f9}.mw-parser-output .portalbox>ul>li{display:table-row}.mw-parser-output .portalbox>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint plainlist portalbox portalborder tright">
+<ul>
+<li><span><a href="/wiki/File:Tree_of_life.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/32px-Tree_of_life.svg.png" decoding="async" width="32" height="27" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/48px-Tree_of_life.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/64px-Tree_of_life.svg.png 2x" data-file-width="915" data-file-height="760" /></a></span><span><a href="/wiki/Portal:Evolutionary_biology" title="Portal:Evolutionary biology">Evolutionary biology portal</a></span></li></ul></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Basic concepts</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Phylogenesis" title="Phylogenesis">Phylogenesis</a>
+<ul><li><a href="/wiki/Cladogenesis" title="Cladogenesis">Cladogenesis</a></li></ul></li>
+<li><a href="/wiki/Phylogenetic_tree" title="Phylogenetic tree">Phylogenetic tree</a>
+<ul><li><a href="/wiki/Cladogram" title="Cladogram">Cladogram</a></li></ul></li>
+<li><a href="/wiki/Phylogenetic_network" title="Phylogenetic network">Phylogenetic network</a></li>
+<li><a href="/wiki/Long_branch_attraction" title="Long branch attraction">Long branch attraction</a></li>
+<li><a href="/wiki/Clade" title="Clade">Clade</a> vs <a href="/wiki/Evolutionary_grade" title="Evolutionary grade">Grade</a></li>
+<li><a href="/wiki/Lineage_(evolution)" title="Lineage (evolution)">Lineage</a>
+<ul><li><a href="/wiki/Ghost_lineage" title="Ghost lineage">Ghost lineage</a></li></ul></li>
+<li><a href="/wiki/Ghost_population" title="Ghost population">Ghost population</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inference methods</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Maximum_parsimony_(phylogenetics)" title="Maximum parsimony (phylogenetics)">Maximum parsimony</a></li>
+<li>Probabilistic methods
+<ul><li><a href="/wiki/Maximum_likelihood" class="mw-redirect" title="Maximum likelihood">Maximum likelihood</a></li>
+<li><a href="/wiki/Bayesian_inference_in_phylogeny" title="Bayesian inference in phylogeny">Bayesian inference</a></li></ul></li>
+<li><a href="/wiki/Distance_matrices_in_phylogeny" title="Distance matrices in phylogeny">Distance-matrix methods</a>
+<ul><li><a href="/wiki/Neighbor-joining" class="mw-redirect" title="Neighbor-joining">Neighbor-joining</a></li>
+<li><a href="/wiki/UPGMA" title="UPGMA">UPGMA</a></li>
+<li><a href="/wiki/Least_squares_inference_in_phylogeny" title="Least squares inference in phylogeny">Least squares</a></li></ul></li>
+<li><a href="/wiki/Three-taxon_analysis" title="Three-taxon analysis">Three-taxon analysis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current topics</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/PhyloCode" title="PhyloCode">PhyloCode</a></i></li>
+<li><a href="/wiki/DNA_barcoding" title="DNA barcoding">DNA barcoding</a></li>
+<li><a class="mw-selflink selflink">Molecular phylogenetics</a></li>
+<li><a href="/wiki/Phylogenetic_comparative_methods" title="Phylogenetic comparative methods">Phylogenetic comparative methods</a></li>
+<li><a href="/wiki/Phylogenetic_niche_conservatism" title="Phylogenetic niche conservatism">Phylogenetic niche conservatism</a></li>
+<li><a href="/wiki/Phylogenetic_signal" title="Phylogenetic signal">Phylogenetic signal</a></li>
+<li><a href="/wiki/List_of_phylogenetics_software" title="List of phylogenetics software">Phylogenetics software</a></li>
+<li><a href="/wiki/Phylogenomics" title="Phylogenomics">Phylogenomics</a></li>
+<li><a href="/wiki/Phylogeography" title="Phylogeography">Phylogeography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Group traits</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Primitive_(phylogenetics)" title="Primitive (phylogenetics)">Primitive</a>
+<ul><li><a href="/wiki/Plesiomorphy" class="mw-redirect" title="Plesiomorphy">Plesiomorphy</a></li>
+<li><a href="/wiki/Symplesiomorphy" class="mw-redirect" title="Symplesiomorphy">Symplesiomorphy</a></li></ul></li>
+<li>Derived
+<ul><li><a href="/wiki/Synapomorphy" class="mw-redirect" title="Synapomorphy">Apomorphy</a></li>
+<li><a href="/wiki/Synapomorphy" class="mw-redirect" title="Synapomorphy">Synapomorphy</a></li>
+<li><a href="/wiki/Autapomorphy" title="Autapomorphy">Autapomorphy</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Group types</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Monophyly" title="Monophyly">Monophyly</a></li>
+<li><a href="/wiki/Paraphyly" title="Paraphyly">Paraphyly</a></li>
+<li><a href="/wiki/Polyphyly" title="Polyphyly">Polyphyly</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nomenclature</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Phylogenetic_nomenclature" title="Phylogenetic nomenclature">Phylogenetic nomenclature</a></li>
+<li><a href="/wiki/Crown_group" title="Crown group">Crown group</a></li>
+<li><a href="/wiki/Sister_group" title="Sister group">Sister group</a></li>
+<li><a href="/wiki/Basal_(phylogenetics)" title="Basal (phylogenetics)">Basal</a></li>
+<li><a href="/wiki/Supertree" title="Supertree">Supertree</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Phylogenetics" title="Category:Phylogenetics">Category</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Phylogenetics" class="extiw" title="commons:Category:Phylogenetics">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="Bioinformatics" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Bioinformatics" title="Template:Bioinformatics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Bioinformatics" title="Template talk:Bioinformatics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Bioinformatics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Bioinformatics" style="font-size:114%;margin:0 4em"><a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Databases</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Sequence databases: <a href="/wiki/GenBank" title="GenBank">GenBank</a>, <a href="/wiki/European_Nucleotide_Archive" title="European Nucleotide Archive">European Nucleotide Archive</a> and <a href="/wiki/DNA_Data_Bank_of_Japan" title="DNA Data Bank of Japan">DNA Data Bank of Japan</a></li>
+<li>Secondary databases: <a href="/wiki/UniProt" title="UniProt">UniProt</a>, database of protein sequences grouping together <a href="/wiki/UniProt#UniProtKB.2FSwiss-Prot" title="UniProt">Swiss-Prot</a>, <a href="/wiki/UniProt#UniProtKB.2FTrEMBL" title="UniProt">TrEMBL</a> and <a href="/wiki/Protein_Information_Resource" title="Protein Information Resource">Protein Information Resource</a></li>
+<li>Other databases: <a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">Protein Data Bank</a>, <a href="/wiki/Ensembl_genome_database_project" title="Ensembl genome database project">Ensembl</a> and <a href="/wiki/InterPro" title="InterPro">InterPro</a></li>
+<li>Specialised genomic databases: <a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>, <a href="/wiki/Saccharomyces_Genome_Database" title="Saccharomyces Genome Database">Saccharomyces Genome Database</a>, <a href="/wiki/FlyBase" title="FlyBase">FlyBase</a>, <a href="/wiki/VectorBase" title="VectorBase">VectorBase</a>, <a href="/wiki/WormBase" title="WormBase">WormBase</a>, <a href="/wiki/Rat_Genome_Database" title="Rat Genome Database">Rat Genome Database</a>, <a href="/wiki/PHI-base" title="PHI-base">PHI-base</a>, <a href="/wiki/The_Arabidopsis_Information_Resource" title="The Arabidopsis Information Resource">Arabidopsis Information Resource</a> and <a href="/wiki/Zebrafish_Information_Network" title="Zebrafish Information Network">Zebrafish Information Network</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/BLAST" class="mw-redirect" title="BLAST">BLAST</a></li>
+<li><a href="/wiki/Bowtie_(sequence_analysis)" title="Bowtie (sequence analysis)">Bowtie</a></li>
+<li><a href="/wiki/Clustal" title="Clustal">Clustal</a></li>
+<li><a href="/wiki/EMBOSS" title="EMBOSS">EMBOSS</a></li>
+<li><a href="/wiki/HMMER" title="HMMER">HMMER</a></li>
+<li><a href="/wiki/MUSCLE_(alignment_software)" title="MUSCLE (alignment software)">MUSCLE</a></li>
+<li><a href="/wiki/SAMtools" title="SAMtools">SAMtools</a></li>
+<li><a href="/wiki/Short_Oligonucleotide_Analysis_Package" title="Short Oligonucleotide Analysis Package">SOAP suite</a></li>
+<li><a href="/wiki/TopHat_(bioinformatics)" title="TopHat (bioinformatics)">TopHat</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Server: <a href="/wiki/ExPASy" class="mw-redirect" title="ExPASy">ExPASy</a></li>
+<li>Ontology: <a href="/wiki/Gene_ontology" class="mw-redirect" title="Gene ontology">Gene Ontology</a></li>
+<li><a href="/wiki/Rosalind_(education_platform)" title="Rosalind (education platform)">Rosalind (education platform)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Institutions</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/China_National_GeneBank" title="China National GeneBank">China National GeneBank</a> (CNGB)</li>
+<li><a href="/wiki/Computational_Biology_Department" class="mw-redirect" title="Computational Biology Department">Computational Biology Department</a> (CBD)</li>
+<li><a href="/wiki/COSBI" title="COSBI">Microsoft Research - University of Trento Centre for Computational and Systems Biology</a> (COSBI)</li>
+<li><a href="/wiki/Database_Center_for_Life_Science" title="Database Center for Life Science">Database Center for Life Science</a> (DBCLS)</li>
+<li><a href="/wiki/DNA_Data_Bank_of_Japan" title="DNA Data Bank of Japan">DNA Data Bank of Japan</a> (DDBJ)</li>
+<li><a href="/wiki/European_Bioinformatics_Institute" title="European Bioinformatics Institute">European Bioinformatics Institute</a> (EMBL-EBI)</li>
+<li><a href="/wiki/European_Molecular_Biology_Laboratory" title="European Molecular Biology Laboratory">European Molecular Biology Laboratory</a> (EMBL)</li>
+<li><a href="/wiki/Flatiron_Institute" title="Flatiron Institute">Flatiron Institute</a></li>
+<li><a href="/wiki/J._Craig_Venter_Institute" title="J. Craig Venter Institute">J. Craig Venter Institute</a> (JCVI)</li>
+<li><a href="/wiki/Max_Planck_Institute_of_Molecular_Cell_Biology_and_Genetics" title="Max Planck Institute of Molecular Cell Biology and Genetics">Max Planck Institute of Molecular Cell Biology and Genetics</a> (MPI-CBG)</li>
+<li><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">US National Center for Biotechnology Information</a> (NCBI)</li>
+<li><a href="/wiki/National_Institute_of_Genetics" title="National Institute of Genetics">Japanese Institute of Genetics</a></li>
+<li><a href="/wiki/Netherlands_Bioinformatics_Centre" title="Netherlands Bioinformatics Centre">Netherlands Bioinformatics Centre</a> (NBIC)</li>
+<li><a href="/wiki/Philippine_Genome_Center" title="Philippine Genome Center">Philippine Genome Center</a> (PGC)</li>
+<li><a href="/wiki/Scripps_Research" title="Scripps Research">Scripps Research</a></li>
+<li><a href="/wiki/Swiss_Institute_of_Bioinformatics" title="Swiss Institute of Bioinformatics">Swiss Institute of Bioinformatics</a> (SIB)</li>
+<li><a href="/wiki/Wellcome_Sanger_Institute" title="Wellcome Sanger Institute">Wellcome Sanger Institute</a></li>
+<li><a href="/wiki/Whitehead_Institute" title="Whitehead Institute">Whitehead Institute</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/African_Society_for_Bioinformatics_and_Computational_Biology" title="African Society for Bioinformatics and Computational Biology">African Society for Bioinformatics and Computational Biology</a> (ASBCB)</li>
+<li><a href="/wiki/Australia_Bioinformatics_Resource" title="Australia Bioinformatics Resource">Australia Bioinformatics Resource</a> (EMBL-AR)</li>
+<li><a href="/wiki/EMBnet" title="EMBnet">European Molecular Biology network</a> (EMBnet)</li>
+<li><a href="/wiki/International_Nucleotide_Sequence_Database_Collaboration" title="International Nucleotide Sequence Database Collaboration">International Nucleotide Sequence Database Collaboration</a> (INSDC)</li>
+<li><a href="/wiki/International_Society_for_Biocuration" title="International Society for Biocuration">International Society for Biocuration</a> (ISB)</li>
+<li><a href="/wiki/International_Society_for_Computational_Biology" title="International Society for Computational Biology">International Society for Computational Biology</a> (ISCB)
+<ul><li><a href="/wiki/International_Society_for_Computational_Biology_Student_Council" title="International Society for Computational Biology Student Council">Student Council</a> (ISCB-SC)</li></ul></li>
+<li><a href="/wiki/Institute_of_Genomics_and_Integrative_Biology" title="Institute of Genomics and Integrative Biology">Institute of Genomics and Integrative Biology</a> (CSIR-IGIB)</li>
+<li><a href="/wiki/Japanese_Society_for_Bioinformatics" title="Japanese Society for Bioinformatics">Japanese Society for Bioinformatics</a> (JSBi)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Meetings</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Basel_Computational_Biology_Conference" title="Basel Computational Biology Conference">Basel Computational Biology Conference‎</a> ([BC<sup>2</sup>])</li>
+<li><a href="/wiki/European_Conference_on_Computational_Biology" title="European Conference on Computational Biology">European Conference on Computational Biology</a> (ECCB)</li>
+<li><a href="/wiki/Intelligent_Systems_for_Molecular_Biology" title="Intelligent Systems for Molecular Biology">Intelligent Systems for Molecular Biology</a> (ISMB)</li>
+<li><a href="/wiki/International_Conference_on_Bioinformatics" title="International Conference on Bioinformatics">International Conference on Bioinformatics</a> (InCoB)</li>
+<li><a href="/wiki/International_Conference_on_Computational_Intelligence_Methods_for_Bioinformatics_and_Biostatistics" title="International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics">International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics</a> (CIBB)</li>
+<li><a href="/wiki/ISCB_Africa_ASBCB_Conference_on_Bioinformatics" title="ISCB Africa ASBCB Conference on Bioinformatics">ISCB Africa ASBCB Conference on Bioinformatics</a></li>
+<li><a href="/wiki/Pacific_Symposium_on_Biocomputing" title="Pacific Symposium on Biocomputing">Pacific Symposium on Biocomputing</a> (PSB)</li>
+<li><a href="/wiki/Research_in_Computational_Molecular_Biology" title="Research in Computational Molecular Biology">Research in Computational Molecular Biology</a> (RECOMB)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">File formats</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CRAM_(file_format)" title="CRAM (file format)">CRAM format</a></li>
+<li><a href="/wiki/FASTA_format" title="FASTA format">FASTA format</a></li>
+<li><a href="/wiki/FASTQ_format" title="FASTQ format">FASTQ format</a></li>
+<li><a href="/wiki/NeXML_format" title="NeXML format">NeXML format</a></li>
+<li><a href="/wiki/Nexus_file" title="Nexus file">Nexus format</a></li>
+<li><a href="/wiki/Pileup_format" title="Pileup format">Pileup format</a></li>
+<li><a href="/wiki/SAM_(file_format)" title="SAM (file format)">SAM format</a></li>
+<li><a href="/wiki/Stockholm_format" title="Stockholm format">Stockholm format</a></li>
+<li><a href="/wiki/Variant_Call_Format" title="Variant Call Format">VCF format</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/List_of_biobanks" title="List of biobanks">List of biobanks</a></li>
+<li><a href="/wiki/List_of_biological_databases" title="List of biological databases">List of biological databases</a></li>
+<li><a class="mw-selflink selflink">Molecular phylogenetics</a></li>
+<li><a href="/wiki/Sequencing" title="Sequencing">Sequencing</a></li>
+<li><a href="/wiki/Sequence_database" title="Sequence database">Sequence database</a></li>
+<li><a href="/wiki/Sequence_alignment" title="Sequence alignment">Sequence alignment</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Bioinformatics" title="Category:Bioinformatics">Category</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Bioinformatics" class="extiw" title="commons:Category:Bioinformatics">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1453
+Cached time: 20221026141205
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.348 seconds
+Real time usage: 0.447 seconds
+Preprocessor visited node count: 2318/1000000
+Post‐expand include size: 73895/2097152 bytes
+Template argument size: 4179/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 56148/5000000 bytes
+Lua time usage: 0.197/10.000 seconds
+Lua memory usage: 6459686/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  367.525      1 -total
+ 30.07%  110.504      1 Template:Reflist
+ 20.01%   73.552      2 Template:Refn
+ 18.80%   69.100      2 Template:Navbox
+ 17.94%   65.937      1 Template:Phylogenetics
+ 17.30%   63.578      1 Template:Citation
+ 14.87%   54.633      9 Template:Cite_journal
+ 12.84%   47.198      1 Template:Short_description
+ 10.39%   38.181      4 Template:ISBN
+  8.28%   30.427      1 Template:IPAc-en
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:149544-0!canonical and timestamp 20221026141205 and revision id 1109714820.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Molecular_phylogenetics&amp;oldid=1109714820">https://en.wikipedia.org/w/index.php?title=Molecular_phylogenetics&amp;oldid=1109714820</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Phylogenetics" title="Category:Phylogenetics">Phylogenetics</a></li><li><a href="/wiki/Category:Molecular_evolution" title="Category:Molecular evolution">Molecular evolution</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Molecular+phylogenetics" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Molecular+phylogenetics" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Molecular_phylogenetics" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Molecular_phylogenetics" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Molecular_phylogenetics"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Molecular_phylogenetics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Molecular_phylogenetics" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Molecular_phylogenetics&amp;oldid=1109714820" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Molecular_phylogenetics&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Molecular_phylogenetics&amp;id=1109714820&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2007033" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Molecular_phylogenetics&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Molecular_phylogenetics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Molecular_phylogenetics" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B3%D8%A7%D9%84%D8%A9_%D8%AC%D8%B2%D9%8A%D8%A6%D9%8A%D8%A9" title="نسالة جزيئية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Filoxen%C3%A9tica_molecular" title="Filoxenética molecular – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Molekularna_sistematika" title="Molekularna sistematika – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Filog%C3%A8nia_molecular" title="Filogènia molecular – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Filogen%C3%A9tica_molecular" title="Filogenética molecular – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Molekula_filogenetiko" title="Molekula filogenetiko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%DB%8C%DB%8C_%D9%85%D9%88%D9%84%DA%A9%D9%88%D9%84%DB%8C" title="تبارزایی مولکولی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Phylog%C3%A9n%C3%A9tique_mol%C3%A9culaire" title="Phylogénétique moléculaire – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Filoxenia_molecular" title="Filoxenia molecular – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A3%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95_%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BF%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80" title="आण्विक जातिवृत्तिकी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Molekularna_filogenija" title="Molekularna filogenija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Filogenetika_molekuler" title="Filogenetika molekuler – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Filogenesi_molecolare" title="Filogenesi molecolare – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%88%86%E5%AD%90%E7%B3%BB%E7%B5%B1%E5%AD%A6" title="分子系統学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Filogenetyka_molekularna" title="Filogenetyka molekularna – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Filogen%C3%A9tica_molecular" title="Filogenética molecular – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Filogenie_molecular%C4%83" title="Filogenie moleculară – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D1%84%D0%B8%D0%BB%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Молекулярная филогенетика – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Molekularna_filogenija" title="Molekularna filogenija – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Molekularna_filogenija" title="Molekularna filogenija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Molek%C3%BCler_filojeni" title="Moleküler filojeni – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0_%D1%84%D1%96%D0%BB%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Молекулярна філогенетика – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Ph%C3%A1t_sinh_ch%E1%BB%A7ng_lo%E1%BA%A1i_ph%C3%A2n_t%E1%BB%AD" title="Phát sinh chủng loại phân tử – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%88%86%E5%AD%90%E7%B3%BB%E7%BB%9F%E5%8F%91%E7%94%9F%E5%AD%A6" title="分子系统发生学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2007033#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 11 September 2022, at 13:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Molecular_phylogenetics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.447","ppvisitednodes":{"value":2318,"limit":1000000},"postexpandincludesize":{"value":73895,"limit":2097152},"templateargumentsize":{"value":4179,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":56148,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  367.525      1 -total"," 30.07%  110.504      1 Template:Reflist"," 20.01%   73.552      2 Template:Refn"," 18.80%   69.100      2 Template:Navbox"," 17.94%   65.937      1 Template:Phylogenetics"," 17.30%   63.578      1 Template:Citation"," 14.87%   54.633      9 Template:Cite_journal"," 12.84%   47.198      1 Template:Short_description"," 10.39%   38.181      4 Template:ISBN","  8.28%   30.427      1 Template:IPAc-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.197","limit":"10.000"},"limitreport-memusage":{"value":6459686,"limit":52428800}},"cachereport":{"origin":"mw1453","timestamp":"20221026141205","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Molecular phylogenetics","url":"https:\/\/en.wikipedia.org\/wiki\/Molecular_phylogenetics","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2007033","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2007033","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-21T02:54:21Z","dateModified":"2022-09-11T13:39:33Z","headline":"branch of phylogeny that analyzes genetic, hereditary molecular differences"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Molecular phylogenetics","url":"https:\/\/en.wikipedia.org\/wiki\/Molecular_phylogenetics","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2007033","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2007033","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-21T02:54:21Z","dateModified":"2022-09-11T13:39:33Z","headline":"branch of phylogeny that analyzes genetic, hereditary molecular differences"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1354"});});</script>
+</body>
+</html>
