@@ -232,6 +232,80 @@ hing_else_then conspicillum"}
 
   end
 
+=begin
+
+Example to be parse for every LI :)
+
+<ul>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q882918" class="extiw" title="wikidata:Q882918">Q882918</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Xanthichthys_auromarginatus" class="extiw" title="wikispecies:Xanthichthys auromarginatus">Xanthichthys auromarginatus</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Xanthichthys_auromarginatus/">Xanthichthys_auromarginatus</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Australian_Faunal_Directory" title="Australian Faunal Directory">AFD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://biodiversity.org.au/afd/taxa/Xanthichthys_auromarginatus">Xanthichthys_auromarginatus</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Barcode_of_Life_Data_System" title="Barcode of Life Data System">BOLD</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=47146">47146</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Catalogue_of_Life" title="Catalogue of Life">CoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.catalogueoflife.org/data/taxon/7FV3Q">7FV3Q</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/FishBase" title="FishBase">FishBase</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.fishbase.ca/summary/6030">6030</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2407037">2407037</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/244366">244366</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=11283040">11283040</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=173188">173188</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=303701">303701</a></span></span></li>
+<li>
+  <span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>:
+    <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=219897">219897</a></span>
+  </span>
+</li>
+
+FROM:
+
+  <span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>:
+    <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=219897">219897</a></span>
+  </span>
+
+I want to extract:
+  HREF
+  ID
+  TYPE
+=end
+
+  # example from https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  def extract_taxon_identifiers_from_dom(html, opts={})
+    opts_verbose = opts.fetch :verbose, false
+    ret = {'todo' => 'See https://en.wikipedia.org/wiki/Bluethroat_triggerfish'}
+    # Wikidata: Q2425440Wikispecies: Sufflamen albicaudatumCoL: 7B4VGFishBase: 25419GBIF: 2407201iNaturalist: 362290IRMNG: 10145926ITIS: 646176NCBI: 480299WoRMS: 276850
+    # buridone = html.at_css "#mw-content-text > div.mw-parser-output > div.navbox > table > tbody > tr"
+    # puts buridone
+    #
+    # #Taxon_identifiers
+    list_of_taxons = html.at_css( '#mw-content-text > div.mw-parser-output > div.navbox > table > tbody > tr > td > div > ul')
+    #puts list_of_taxons
+    list_of_taxons.children.each_with_index do |li, ix|
+      tmp_hash = {}
+
+      puts "+ LI: #{li}" if opts_verbose
+
+      next unless( li.at_css('span.uid').at_css('a')['href'] rescue nil)
+
+      puts "+ GOOD LI: #{li}" # if opts_verbose
+
+      extracted_part_key = li.at_css('span.uid > span').text rescue nil
+      extracted_part_value = li.at_css('span.uid') #.at_css('a').at_css('href') # ['a']
+
+      puts "  + 📚A '#{extracted_part_value.at_css('a.title')['title'] rescue $!}'"
+
+      #extracted_part_value = li.at_css('span.uid').at_css('a').at_css('href') # ['a']
+      tmp_hash["link"] = li.at_css('span.uid').at_css('a')['href'] rescue nil
+      tmp_hash["text"] = extracted_part_value.text rescue nil
+      tmp_hash["title_TODO"] = extracted_part_value.at_css('a.title') rescue nil
+      #tmp_hash["value"] = extracted_part_value.text rescue nil # extracted_part_key.at_css('span.uid').text rescue nil
+      #puts "  + 📚K '#{extracted_part_key}'"
+      #puts "  + 📚V '#{extracted_part_value}'"
+      pp tmp_hash if opts_verbose
+      next if (tmp_hash["link"].nil?)
+      ret["taxon_TODO_#{ix}"] = tmp_hash
+    end
+    ret
+  end
+
 
   def smart_wiki_parse_fish(fish_url_name, opts = {})
     opts_debug = opts.fetch :debug, false
@@ -350,8 +424,7 @@ hing_else_then conspicillum"}
       #fish_info["taxo"].keys # .keys.join(', ')
 
 
-      fish_info["taxon_identifiers"] = {''}
-
+      fish_info["taxon_identifiers"] = extract_taxon_identifiers_from_dom(html)
 
       # needs to be the LAST THING TO BE CALCULATED
       fish_info["valid"] = fish_valid?(fish_info)
