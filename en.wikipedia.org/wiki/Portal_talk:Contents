@@ -1,0 +1,1308 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia talk:Contents - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7ce9b88a-f41d-4d65-83a6-9bf57aff72d6","wgCSPNonce":false,"wgCanonicalNamespace":"Project_talk","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":5,"wgPageName":"Wikipedia_talk:Contents","wgTitle":"Contents","wgCurRevisionId":1117306554,"wgRevisionId":1117306554,"wgArticleId":14519186,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using the Graph extension","Wikipedia semi-protected talk pages","Old requests for peer review","WikiProject Contents pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia_talk:Contents","wgRelevantArticleId":14519186,
+"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Portal_talk:Contents","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Wikipedia_talk:Contents","wgGraphSpecs":{"b30c9d76d891132e682ab11f3302486f4563dc47":{"version":2,"width":570,"height":200,"data":[{"name":"pageviews","url":
+"wikirest://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/user/Wikipedia%3AContents/daily/2021102800/2022102800","format":{"type":"json","property":"items"},"transform":[{"type":"formula","field":"year","expr":"parseInt(substring(datum.timestamp,0,4))"},{"type":"formula","field":"month","expr":"parseInt(substring(datum.timestamp,4,6))"},{"type":"formula","field":"day","expr":"parseInt(substring(datum.timestamp,6,8))"},{"type":"formula","field":"date","expr":"datetime(datum.year,datum.month-1,datum.day)"}]}],"scales":[{"name":"x","type":"time","range":"width","domain":{"data":"pageviews","field":"date"}},{"name":"y","type":"linear","range":"height","domain":{"data":"pageviews","field":"views"},"clamp":true,"nice":true}],"axes":[{"type":"x","scale":"x","ticks":5,"properties":{"ticks":{"stroke":{"value":"#666666"}},"labels":{"fill":{"value":"#666666"}},"axis":{"stroke":{"value":"#666666"},"strokeWidth":{"value":2}}}},{"type":"y","scale":"y","ticks":5,
+"grid":true,"properties":{"ticks":{"stroke":{"value":"#666666"}},"labels":{"fill":{"value":"#666666"}},"grid":{"stroke":{"value":"#666666"},"strokeWidth":{"value":2}},"axis":{"stroke":{"value":"#666666"},"strokeWidth":{"value":2}}}}],"marks":[{"type":"line","from":{"data":"pageviews"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","field":"views"},"stroke":{"value":"#00f"},"strokeWidth":{"value":3},"interpolate":{"value":"monotone"}}}},{"type":"area","from":{"data":"pageviews"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","value":0},"y2":{"scale":"y","field":"views"},"fill":{"value":"#00f"},"fillOpacity":{"value":0.35},"interpolate":{"value":"monotone"}}}}]}},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgDiscussionToolsFeaturesEnabled":{"replytool":true,"newtopictool":true,"sourcemodetoolbar":true,"topicsubscription":false,"autotopicsub":false,"visualenhancements":false,"visualenhancements_reply":false,
+"visualenhancements_pageframe":false},"wgDiscussionToolsFallbackEditMode":"source","wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.discussionTools.init.styles":"ready","ext.graph.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=[
+"mediawiki.action.view.redirect","ext.graph.vega2","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.discussionTools.init","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.discussionTools.init.styles%7Cext.graph.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.7"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Wikipedia talk:Contents - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Wikipedia_talk:Contents"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia_talk:Contents"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="ext-discussiontools-replytool-enabled ext-discussiontools-newtopictool-enabled ext-discussiontools-sourcemodetoolbar-enabled skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-5 ns-talk page-Wikipedia_talk_Contents rootpage-Wikipedia_talk_Contents skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">Wikipedia talk</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Contents</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Portal_talk:Contents&amp;redirect=no" class="mw-redirect" title="Portal talk:Contents">Portal talk:Contents</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1097618699">.mw-parser-output .tmbox{margin:4px 0;border-collapse:collapse;border:1px solid #c0c090;background-color:#f8eaba;box-sizing:border-box}.mw-parser-output .tmbox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .tmbox-speedy{border:2px solid #b32424;background-color:#fee7e6}.mw-parser-output .tmbox-delete{border:2px solid #b32424}.mw-parser-output .tmbox-content{border:2px solid #f28500}.mw-parser-output .tmbox-style{border:2px solid #fc3}.mw-parser-output .tmbox-move{border:2px solid #9932cc}.mw-parser-output .tmbox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .tmbox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .tmbox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .tmbox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .tmbox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .tmbox{margin:4px 10%}.mw-parser-output .tmbox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}</style><style data-mw-deduplicate="TemplateStyles:r1104947347">.mw-parser-output .talkheader{text-align:center}.mw-parser-output .talkheader-body{display:flex}.mw-parser-output .talkheader-help,.mw-parser-output .talkheader-policies,.mw-parser-output .talkheader-shortcuts{display:flex;align-items:center;padding:0.1em}.mw-parser-output .talkheader-help{flex:2 1 auto;border:1px solid #c0c090;background-color:white}.mw-parser-output .talkheader-policies{flex:1 1 auto}.mw-parser-output .talkheader-policies+.talkheader-policies{border-left:1px solid #c0c090}.mw-parser-output .talkheader-shortcuts{flex:0 1 auto}.mw-parser-output .talkheader-help>*,.mw-parser-output .talkheader-policies>*,.mw-parser-output .talkheader-shortcuts>*{flex:1 1 auto}.mw-parser-output .talkheader-help ul,.mw-parser-output .talkheader-policies ul{margin:0.1em 0.8em 0 1.6em;text-align:left}@media(min-width:720px){.mw-parser-output .talkheader{width:80%}}</style><table role="presentation" class="tmbox tmbox-notice talkheader plainlinks" id="talkheader" style="border-collapse: separate;"><tbody><tr>
+<td style="border-bottom: 1px solid #c0c090; font-weight: bold;">This is the <a href="/wiki/Wikipedia:Talk_page_guidelines" title="Wikipedia:Talk page guidelines">talk page</a> for discussing improvements to the <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Contents</a> page.<br/></td>
+</tr>
+<tr>
+<td>
+<div class="talkheader-body">
+<div class="talkheader-help">
+<ul><li>Put new text under old text. <strong><a href="/wiki/Special:NewSection/Wikipedia_talk:Contents" title="Special:NewSection/Wikipedia talk:Contents">Click here to start a new topic.</a></strong></li>
+<li>New to Wikipedia? Welcome! <a href="/wiki/Help:Introduction" title="Help:Introduction">Learn to edit</a>; <a href="/wiki/Wikipedia:Questions" title="Wikipedia:Questions">get help</a>.</li></ul>
+</div>
+<div class="talkheader-policies">
+<ul><li><a href="/wiki/Wikipedia:Assume_good_faith" title="Wikipedia:Assume good faith">Assume good faith</a></li>
+<li><a href="/wiki/Wikipedia:Civility" title="Wikipedia:Civility">Be polite</a> and <a href="/wiki/Wikipedia:No_personal_attacks" title="Wikipedia:No personal attacks">avoid personal attacks</a></li>
+<li><a href="/wiki/Wikipedia:Please_do_not_bite_the_newcomers" title="Wikipedia:Please do not bite the newcomers">Be welcoming to newcomers</a></li>
+<li>Seek <a href="/wiki/Wikipedia:Dispute_resolution_requests" title="Wikipedia:Dispute resolution requests">dispute resolution</a> if needed</li></ul>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/><table class="plainlinks tmbox tmbox-notice skiptotalk noprint" role="presentation"><tbody><tr><td class="mbox-empty-cell"></td><td class="mbox-text"><style data-mw-deduplicate="TemplateStyles:r1114120499">body.skin-vector-2022 .mw-parser-output .skiptotalk{display:none}.mw-parser-output .skiptotalk a{display:block;text-align:center;font-style:italic;line-height:1.9}.mw-parser-output .skiptotalk a::before,.mw-parser-output .skiptotalk a::after{content:"↓";font-size:larger;line-height:1.6;font-style:normal}.mw-parser-output .skiptotalk a::before{float:left}.mw-parser-output .skiptotalk a::after{float:right}</style><a href="#toc">Skip to table of contents</a></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/><table class="plainlinks tmbox tmbox-protection" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Semi-protection-shackle.svg" class="image" title="Page semi-protected"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/60px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/80px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512"/></a></td><td class="mbox-text"><b>Editing of this page by <a href="/wiki/Wikipedia:User_access_levels#New_users" title="Wikipedia:User access levels">new</a> or <a href="/wiki/Wikipedia:User_access_levels#Unregistered_users" title="Wikipedia:User access levels">unregistered</a> users is currently <a href="/wiki/Help:Protection" title="Help:Protection">disabled</a>.</b><br/>See the <a href="/wiki/Wikipedia:Protection_policy" title="Wikipedia:Protection policy">protection policy</a> and <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special%3ALog&amp;page=Wikipedia+talk%3AContents&amp;type=protect">protection log</a> for more details. If you cannot edit this page and you wish to make a change, you can <a href="/wiki/Wikipedia:Requests_for_page_protection#Current_requests_for_reduction_in_protection_level" title="Wikipedia:Requests for page protection">request unprotection</a>, <a href="/wiki/Special:UserLogin" title="Special:UserLogin">log in</a>, or <a href="/wiki/Special:UserLogin/signup" title="Special:UserLogin/signup">create an account</a>.</td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/><table class="box-Warning plainlinks tmbox tmbox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Emblem-important.svg" class="image" title="Warning"><img alt="Warning" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png" decoding="async" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Emblem-important.svg/120px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Emblem-important.svg/160px-Emblem-important.svg.png 2x" data-file-width="48" data-file-height="48"/></a></td><td class="mbox-text" style="text-align: center;"><div style="font-size: 150%; text-align: center; height: 2em"><b>This is <em>not</em> the page to ask for help or test edits.</b></div>
+<p><big><br/>
+This page is for <a href="/wiki/Wikipedia:Talk_page_guidelines" title="Wikipedia:Talk page guidelines">discussion</a> of the <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Contents</a> page itself. For other help, please go here:</big>
+</p><p><span class="plainlinks clickbutton"><a class="external text" href="https://en.wikipedia.org/wiki/Wikipedia:Teahouse"><span class="mw-ui-button mw-ui-progressive" style="line-height:1.2em; margin-top:10px; margin-bottom:10px; padding:1em 2em; border-radius:4px;"><span style="font-family:sans-serif;font-size:125%;color:white;background-color:transparent;;">Get help at the Teahouse</span></span></a></span>
+</p>
+<big>To make test edits, please use the <a href="/wiki/Wikipedia:Sandbox" title="Wikipedia:Sandbox">Sandbox</a>. For other help, please see our <a href="/wiki/Help:Contents" title="Help:Contents">main help page</a>.</big></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/><style data-mw-deduplicate="TemplateStyles:r1105039179">@media(min-width:720px){.mw-parser-output .article-history{width:80%}}</style><table class="article-history tmbox tmbox-notice"><tbody><tr><td colspan="2" style="width:100%"><table class="article-history-milestones" style="width:100%;background:transparent;font-size:90%"><tbody><tr><th colspan="3" style="font-size:110%">Wikipedia milestones</th></tr><tr style="text-align:left"><th>Date</th><th>Process</th><th>Result</th></tr><tr><td><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents&amp;oldid=188314662">February 5, 2008</a></span></td><td><b><a href="/wiki/Wikipedia:Portal_peer_review/Contents/archive1" title="Wikipedia:Portal peer review/Contents/archive1">Peer review</a></b></td><td>Reviewed</td></tr></tbody></table></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/><table class="plainlinks tmbox tmbox-notice" role="presentation"><tbody><tr><td class="mbox-empty-cell"></td><td class="mbox-text">This page is laid out and designed as part of a set of pages.  To discuss the set as a whole, see <a class="mw-selflink selflink">Wikipedia talk:Contents</a>.  For more information on Wikipedia's contents system as a whole, see <a href="/wiki/Wikipedia:WikiProject_Contents" title="Wikipedia:WikiProject Contents">Wikipedia:WikiProject Contents</a>.</td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/><table class="plainlinks tmbox tmbox-style" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48"/></td><td class="mbox-text"><a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Wikipedia:Contents</a> is a <b><a href="/wiki/Wikipedia:Reader" title="Wikipedia:Reader">reader</a>-facing page</b> intended for viewing by non-editors. Please prioritize their needs when adjusting its design, and move editor-facing elements to other pages.</td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/>
+<table id="archivebox" role="presentation" class="tmbox tmbox-notice mbox-small" style="text-align: center; padding: 1em;">
+<tbody><tr><td class="mbox-text" style="padding:0.6em 0 0.25em;">
+<div style="width:100%; float:left;"><a href="/wiki/File:Replacement_filing_cabinet.svg" class="image"><img alt="Replacement filing cabinet.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2a/Replacement_filing_cabinet.svg/40px-Replacement_filing_cabinet.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/2a/Replacement_filing_cabinet.svg/60px-Replacement_filing_cabinet.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/2a/Replacement_filing_cabinet.svg/80px-Replacement_filing_cabinet.svg.png 2x" data-file-width="200" data-file-height="200"/></a><br/><b> Archives</b></div></td></tr><tr><td class="plainlinks"></td></tr><tr><td class="plainlinks" style="padding:0px 10px; text-align:left;">
+<p>The first four pages of archives for this page, were moved to become archive-subpages of <a href="/wiki/Wikipedia_talk:WikiProject_Contents" title="Wikipedia talk:WikiProject Contents">Wikipedia talk:WikiProject Contents</a>.
+</p>
+<ul><li><a href="/wiki/Portal_talk:Contents/Archive_5" class="mw-redirect" title="Portal talk:Contents/Archive 5">Archive 5</a></li>
+<li><a href="/wiki/Portal_talk:Contents/Archive_6" class="mw-redirect" title="Portal talk:Contents/Archive 6">Archive 6</a></li></ul></td>
+</tr><tr><td style="padding-bottom:11px"><div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search"><input class="mw-inputbox-input mw-searchInput searchboxInput mw-ui-input mw-ui-input-inline" name="search" placeholder="" size="22" dir="ltr"/><input type="hidden" value="Wikipedia talk:Contents/" name="prefix"/><br/><input type="submit" name="fulltext" class="mw-ui-button" value="Search archives"/><input type="hidden" value="Search" name="fulltext"/></form></div>
+</td></tr><tr><td style="padding:0px 10px; font-size:11.9px; text-align:center;">
+<hr/>
+Sections older than <b>60 days</b> may be automatically archived by <span class="nowraplinks"><a href="/wiki/User:MiszaBot_II" class="mw-redirect" title="User:MiszaBot II">MiszaBot II</a></span>.</td></tr>
+
+</tbody></table>
+<p class="mw-empty-elt">
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1"><a href="#Hammad_Ali"><span class="tocnumber">1</span> <span class="toctext">Hammad Ali</span></a></li>
+<li class="toclevel-1"><a href="#The_CodersX"><span class="tocnumber">2</span> <span class="toctext">The CodersX</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Fixed_double_redirects,_but..."><span class="tocnumber">3</span> <span class="toctext">Fixed double redirects, but...</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Page_has_been_edited_and_look_incorrect"><span class="tocnumber">4</span> <span class="toctext">Page has been edited and look incorrect</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Astoundingly_popular_among_readers,_unnoticed_by_editors"><span class="tocnumber">5</span> <span class="toctext">Astoundingly popular among readers, unnoticed by editors</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#How_do_I_adjust_Wikipedia’s_clock_to_local_time_(NYC_as_an_example_or_Iowa_City)"><span class="tocnumber">6</span> <span class="toctext">How do I adjust Wikipedia’s clock to local time (NYC as an example or Iowa City)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Redesigning_this_page"><span class="tocnumber">7</span> <span class="toctext">Redesigning this page</span></a></li>
+</ul>
+</div>
+
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Main_topics_TOC_systems_by_Fundamental_categories" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#CEDFF2;"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Wikipedia_talk:Contents/TopicsByFundamental" title="Wikipedia talk:Contents/TopicsByFundamental"><abbr title="View this template" style=";background:#CEDFF2;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Wikipedia_talk:Contents/TopicsByFundamental" title="Wikipedia talk:Contents/TopicsByFundamental"><abbr title="Discuss this template" style=";background:#CEDFF2;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Contents/TopicsByFundamental&amp;action=edit"><abbr title="Edit this template" style=";background:#CEDFF2;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Main_topics_TOC_systems_by_Fundamental_categories" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedia_talk:Contents/TopicSystems" title="Wikipedia talk:Contents/TopicSystems">Main topics TOC systems</a> by Fundamental categories</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Information" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Information" title="Category:Information">Information</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><i><a href="/wiki/Category:Information" title="Category:Information">Information</a></i> • <a href="/wiki/Category:Knowledge" title="Category:Knowledge">Knowledge</a> • <a href="/wiki/Category:Library_and_information_science" title="Category:Library and information science">Library and information science</a>
+<ul><li><b><a href="/wiki/Category:Reference" title="Category:Reference">Reference</a></b> (c)</li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Nature" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Nature" title="Category:Nature">Nature</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><b><a href="/wiki/Category:Nature" title="Category:Nature">Nature</a></b> (c)
+<ul><li><i><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b></i> (ctK, va) • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a>
+<ul><li><i><b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b></i> (c, ct, v0.5) • <a href="/wiki/Category:Earth" title="Category:Earth">Earth</a> • <b><a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a></b> (c, v1) • <a href="/wiki/Category:Planetary_science" title="Category:Planetary science">Planetary science</a>
+<ul><li><i><a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Earth sciences</a></i> (c) • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> • <b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va) • <a href="/wiki/Category:Structure" title="Category:Structure">Structure</a>
+<ul><li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va)</li></ul></li></ul></li>
+<li><i><b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b></i> (c, ct, v0.5) • <a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a> • <a href="/wiki/Category:Night" title="Category:Night">Night</a> • <a href="/wiki/Category:Space" title="Category:Space">Space</a>: <i><a href="/wiki/Category:Astronomy" title="Category:Astronomy">Astronomy</a>: … <a href="/wiki/Category:Planets_of_the_Solar_System" title="Category:Planets of the Solar System">Planets of the Solar System</a></i>
+<ul><li><b><a href="/wiki/Category:Earth" title="Category:Earth">Earth</a></b> (v1)</li></ul></li>
+<li><i><b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b></i> (c, ct, v0.5) • <a href="/wiki/Category:Life" title="Category:Life">Life</a> • <b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va)
+<ul><li><b>Life science → <a href="/wiki/Category:Biology" title="Category:Biology">Biology</a></b> (fa, v1)</li></ul></li>
+<li><i><b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b></i> (c, ct, v0.5) • <a href="/wiki/Category:Healthcare" title="Category:Healthcare">Healthcare</a> • <b><a href="/wiki/Category:Health" title="Category:Health">Health</a></b> (c, va)
+<ul><li><i><a href="/wiki/Category:Health_sciences" title="Category:Health sciences">Health sciences</a></i> • <a href="/wiki/Category:Biology" title="Category:Biology">Biology</a> (fa, v1) • <a href="/wiki/Category:Humans" title="Category:Humans">Humans</a> • <b><a href="/wiki/Category:Health" title="Category:Health">Health</a></b> (c, va)
+<ul><li><b><a href="/wiki/Category:Medicine" title="Category:Medicine">Medicine</a></b> (fa, v1, va)</li></ul></li></ul></li>
+<li><i><b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b></i> (c, ct, v0.5) • <a href="/wiki/Category:Information" title="Category:Information">Information</a> • <a href="/w/index.php?title=Category:Interdisciplinary_fields&amp;action=edit&amp;redlink=1" class="new" title="Category:Interdisciplinary fields (page does not exist)">Interdisciplinary fields</a>
+<ul><li><i><a href="/wiki/Category:Information_science" title="Category:Information science">Information science</a></i> • <a href="/wiki/Category:Sociology_of_scientific_knowledge" title="Category:Sociology of scientific knowledge">Sociology of scientific knowledge</a> • <a href="/w/index.php?title=Category:Interdisciplinary_fields&amp;action=edit&amp;redlink=1" class="new" title="Category:Interdisciplinary fields (page does not exist)">Interdisciplinary fields</a> • <a href="/wiki/Category:Education" title="Category:Education">Education</a>
+<ul><li><i><a href="/wiki/Category:Library_and_information_science" title="Category:Library and information science">Library and information science</a></i> • <a href="/wiki/Category:Information" title="Category:Information">Information</a> • <a href="/wiki/Category:Knowledge" title="Category:Knowledge">Knowledge</a>
+<ul><li><b><a href="/wiki/Category:Reference" title="Category:Reference">Reference</a></b> (c)</li></ul></li></ul></li></ul></li>
+<li><i><b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b></i> (c, ct, v0.5) •  <a href="/wiki/Category:Humans" title="Category:Humans">Humans</a> • <b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va)
+<ul><li><b><a href="/wiki/Category:Technology" title="Category:Technology">Technology</a></b> (c, ctK, fa, v0.5, va)</li></ul></li></ul></li>
+<li><i><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b></i> (ctK, va) • <a href="/wiki/Category:Matter" title="Category:Matter">Matter</a>
+<ul><li><i><b><a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a></b></i> (c, v1) • <b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b> (c, ct, v0.5)
+<ul><li><b><a href="/wiki/Category:Chemistry" title="Category:Chemistry">Chemistry</a></b> (fa) • <a href="/wiki/Category:Atoms" title="Category:Atoms">Atoms</a> • <a href="/wiki/Category:Chemical_substances" title="Category:Chemical substances">Chemical substances</a> • <a href="/wiki/Category:Matter" title="Category:Matter">Matter</a>
+<ul><li><b><a href="/wiki/Category:Chemical_elements" title="Category:Chemical elements">Chemical elements</a></b> (ctK)</li></ul></li></ul></li></ul></li>
+<li><i><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b></i> (ctK, va) • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> • <a href="/wiki/Human_sciences" class="mw-redirect" title="Human sciences"> Human sciences</a> • <b><a href="/wiki/Society" title="Society">Society</a></b> (c, v1)
+<ul><li><b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va)</li></ul></li>
+<li><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va) • <a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a> • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> •  <a href="/wiki/Category:Structure" title="Category:Structure">Structure</a>
+<ul><li><i><b><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a></b></i> (c, ct, ctK, fa, v0.5, v1, va) • <a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a> • <a href="/wiki/Category:Branches_of_philosophy" title="Category:Branches of philosophy">Branches of philosophy</a> • <a href="/wiki/Category:Intelligence" title="Category:Intelligence">Intelligence</a> • <a href="/w/index.php?title=Category:Interdisciplinary_fields&amp;action=edit&amp;redlink=1" class="new" title="Category:Interdisciplinary fields (page does not exist)">Interdisciplinary fields</a>
+<ul><li><b><a href="/wiki/Category:Logic" title="Category:Logic">Logic</a></b> (c)</li></ul></li></ul></li>
+<li><i><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b></i> (ctK, va) • <a href="/wiki/Category:Observation" title="Category:Observation">Observation</a> • <a href="/wiki/Category:Data_collection" title="Category:Data collection">Data collection</a>
+<ul><li><i><a href="/wiki/Category:Scientific_observation" title="Category:Scientific observation">Scientific observation</a></i> • <b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b> (c, ct, v0.5) • <a href="/wiki/Category:Engineering" title="Category:Engineering">Engineering</a> • <a href="/wiki/Category:Experimental_physics" title="Category:Experimental physics">Experimental physics</a> • <a href="/wiki/Category:Manufacturing" title="Category:Manufacturing">Manufacturing</a> • <a href="/w/index.php?title=Category:Physical_property&amp;action=edit&amp;redlink=1" class="new" title="Category:Physical property (page does not exist)">Physical property</a>
+<ul><li><b><a href="/wiki/Category:Measurement" title="Category:Measurement">Measurement</a></b> (va)</li></ul></li></ul></li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Society" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Society" title="Category:Society">Society</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va)
+<ul><li><i><b><a href="/wiki/Category:Culture" title="Category:Culture">Culture</a></b></i> (c, ctK, fa, v1) • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> • <a href="/w/index.php?title=Category:Interdisciplinary_fields&amp;action=edit&amp;redlink=1" class="new" title="Category:Interdisciplinary fields (page does not exist)">Interdisciplinary fields</a>
+<ul><li><i><b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b></i> (ct, ctK, v1) • <a href="/wiki/Category:Creativity" title="Category:Creativity">Creativity</a> •  <b><a href="/wiki/Category:Culture" title="Category:Culture">Culture</a></b> (c, ctK, fa, v1) • <b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va)
+<ul><li><i><b><a href="/wiki/Category:Arts" title="Category:Arts">Arts</a></b></i> (c, v0.5, va) • <a href="/wiki/Category:Documents" title="Category:Documents">Documents</a> • <a href="/wiki/Category:Creative_works" title="Category:Creative works">Creative works</a> • <b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1) • <a href="/wiki/Category:Writing" title="Category:Writing">Writing</a>
+<ul><li><b><a href="/wiki/Category:Literature" title="Category:Literature">Literature</a></b> (fa, v0.5)</li></ul></li></ul></li></ul></li></ul></li></ul>
+<ul><li><i><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b></i> (c, fa, v0.5, v1, va) • <a href="/wiki/Category:Behavior" title="Category:Behavior">Behavior</a> • <a href="/wiki/Category:Information" title="Category:Information">Information</a> • <b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1) • <a href="/wiki/Category:Communication" title="Category:Communication">Communication</a> • <a href="/wiki/Category:Human_communication" title="Category:Human communication">Human communication</a>
+<ul><li><b><a href="/wiki/Category:Language" title="Category:Language">Language</a></b> (fa, v0.5)</li></ul></li></ul></li></ul>
+<ul><li><i><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b></i> (c, fa, v0.5, v1, va) • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> • <a href="/wiki/Category:Human_sciences" title="Category:Human sciences">Human sciences</a> • <b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va)
+<ul><li><i><b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b></i> (c, ct, ctK, v0.5, va) • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> • <a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Earth sciences</a> • <a href="/wiki/Category:Structure" title="Category:Structure">Structure</a>
+<ul><li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va)
+<ul><li><i><a href="/wiki/Category:Branches_of_geography" title="Category:Branches of geography">Branches of geography</a></i> • <a href="/wiki/Category:Politics" title="Category:Politics">Politics</a> • <a href="/wiki/Category:Human_geography" title="Category:Human geography">Human geography</a> • <a href="/wiki/Category:Subfields_of_political_science" title="Category:Subfields of political science">Subfields of political science</a> • <a href="/w/index.php?title=Category:Administration&amp;action=edit&amp;redlink=1" class="new" title="Category:Administration (page does not exist)">Administration</a>
+<ul><li><i><a href="/wiki/Category:Political_geography" title="Category:Political geography">Political geography</a></i> • <b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Countries" title="Category:Countries">Countries</a></b> (ctK)</li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>
+<ul><li><i><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b></i> (c, fa, v0.5, v1, va) • <a href="/w/index.php?title=Category:Interdisciplinary_fields&amp;action=edit&amp;redlink=1" class="new" title="Category:Interdisciplinary fields (page does not exist)">Interdisciplinary fields</a> • <a href="/wiki/Category:Life" title="Category:Life">Life</a> • <b>Everyday life</b> → <b><a href="/wiki/Category:Personal_life" title="Category:Personal life">Personal life</a></b> (ct, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Health" title="Category:Health">Health</a></b> (c, va)
+<ul><li><a href="/w/index.php?title=Category:Health_specialties&amp;action=edit&amp;redlink=1" class="new" title="Category:Health specialties (page does not exist)">Health specialties</a>: <a href="/wiki/Category:Health_promotion" title="Category:Health promotion">Health promotion</a>: <a href="/w/index.php?title=Category:Health_effectors&amp;action=edit&amp;redlink=1" class="new" title="Category:Health effectors (page does not exist)">Health effectors</a>: <a href="/wiki/Category:Prevention" title="Category:Prevention">Prevention</a>: <a href="/wiki/Physical_fitness" title="Physical fitness">Physical <b>fitness</b></a> (c) (article)</li></ul></li></ul></li></ul>
+<ul><li><i><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b></i> (c, fa, v0.5, v1, va) •  <b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1) • <a href="/w/index.php?title=Category:Interdisciplinary_fields&amp;action=edit&amp;redlink=1" class="new" title="Category:Interdisciplinary fields (page does not exist)">Interdisciplinary fields</a> • <b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va)
+<ul><li><i><b><a href="/wiki/Category:History" title="Category:History">History</a></b></i> (c, fa, v0.5, va) • <a href="/wiki/Category:Planning" title="Category:Planning">Planning</a> •  <b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va)  •  <a href="/wiki/Category:Time" title="Category:Time">Time</a>
+<ul><li><i><b><a href="/wiki/Category:Events" title="Category:Events">Events</a></b></i> (c) • <a href="/wiki/Category:2007" title="Category:2007">2007</a> • <a href="/wiki/Category:News" title="Category:News">News</a>
+<ul><li><b><a href="/wiki/Category:Current_events" title="Category:Current events">Current events</a></b> (ce)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><i><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b></i> (c, fa, v0.5, v1, va) •  <a href="/wiki/Category:Humans" title="Category:Humans">Humans</a>
+<ul><li><i><b><a href="/wiki/Category:People" title="Category:People">People</a></b></i> (c, va) • <a href="/wiki/Category:Genres" title="Category:Genres">Genres</a> • <b><a href="/wiki/Category:History" title="Category:History">History</a></b> (c, fa, v0.5, va) • <a href="/w/index.php?title=Category:History_publications&amp;action=edit&amp;redlink=1" class="new" title="Category:History publications (page does not exist)">History publications</a>
+<ul><li><b><a href="/w/index.php?title=Category:Biography&amp;action=edit&amp;redlink=1" class="new" title="Category:Biography (page does not exist)">Biography</a></b> (ctK)</li></ul></li></ul></li></ul>
+<ul><li><i><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b></i> (c, fa, v0.5, v1, va) •  <a href="/wiki/Category:Apes" title="Category:Apes">Apes</a>
+<ul><li><i><a href="/wiki/Category:Humans" title="Category:Humans">Humans</a></i> • <a href="/wiki/Category:Metaphysics" title="Category:Metaphysics">Metaphysics</a> • <a href="/wiki/Category:Psychology" title="Category:Psychology">Psychology</a> • <a href="/wiki/Category:Sociology" title="Category:Sociology">Sociology</a>
+<ul><li><b><a href="/wiki/Category:Self" title="Category:Self">Self</a></b> (c)</li></ul></li></ul></li></ul>
+<ul><li><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va)
+<ul><li><i><a href="/wiki/Category:Humans" title="Category:Humans">Humans</a></i> • <a href="/wiki/Category:Personality" title="Category:Personality">Personality</a> • <b><a href="/wiki/Category:Self" title="Category:Self">Self</a></b> (c) • <a href="/wiki/Category:Human_behavior" title="Category:Human behavior">Human behavior</a>
+<ul><li><b>Everyday life</b> → <b><a href="/wiki/Category:Personal_life" title="Category:Personal life">Personal life</a></b> (ct, v0.5, va)</li></ul></li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Structure" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Structure" title="Category:Structure">Structure</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><i><a href="/wiki/Category:Structure" title="Category:Structure">Structure</a></i> • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> • <a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Earth sciences</a> • <b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va)</li></ul></li></ul>
+<ul><li><i><a href="/wiki/Category:Structure" title="Category:Structure">Structure</a></i> • <a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a> • <a href="/wiki/Category:Academic_disciplines" title="Category:Academic disciplines">Academic disciplines</a> • <b><a href="/wiki/Category:Science" title="Category:Science">Category:Science</a></b> (ctK)
+<ul><li><i><b><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a></b></i> (c, ct, ctK, fa, v0.5, v1, va) • <a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a> • <a href="/wiki/Category:Branches_of_philosophy" title="Category:Branches of philosophy">Branches of philosophy</a> • <a href="/wiki/Category:Intelligence" title="Category:Intelligence">Intelligence</a> • <a href="/w/index.php?title=Category:Interdisciplinary_fields&amp;action=edit&amp;redlink=1" class="new" title="Category:Interdisciplinary fields (page does not exist)">Interdisciplinary fields</a>
+<ul><li><b><a href="/wiki/Category:Logic" title="Category:Logic">Logic</a></b> (c)</li></ul></li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Thought" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><b><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></b> (c)
+<ul><li><i><a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a></i> • <a href="/wiki/Category:Belief" title="Category:Belief">Belief</a> • <b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1)
+<ul><li><b><a href="/wiki/Category:Philosophy" title="Category:Philosophy">Philosophy</a></b> (c, ct, fa, v0.5, va)</li></ul></li></ul></li></ul>
+<ul><li><i><b><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></b></i> (c) •  <a href="/wiki/Category:Cognition" title="Category:Cognition">Cognition</a>
+<ul><li><i><b><a href="/wiki/Category:Belief" title="Category:Belief">Belief</a></b></i> (c) •  <a href="/wiki/Category:Spirituality" title="Category:Spirituality">Spirituality</a>
+<ul><li><b><a href="/wiki/Category:Religion" title="Category:Religion">Religion</a></b> (c, fa, v0.5, va)</li></ul></li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Full_outline" style="font-size:114%;margin:0 4em">Full outline</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><b><a href="/wiki/Category:Nature" title="Category:Nature">Nature</a></b> (c)
+<ul><li><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va)
+<ul><li><b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b> (c, ct, v0.5)
+<ul><li><b><a href="/wiki/Category:Architecture" title="Category:Architecture">Architecture</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Computing" title="Category:Computing">Computing</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Engineering" title="Category:Engineering">Engineering</a></b> (fa)</li>
+<li><i><a href="/wiki/Category:Health_sciences" title="Category:Health sciences">Health sciences</a></i>
+<ul><li><b><a href="/wiki/Category:Medicine" title="Category:Medicine">Medicine</a></b> (fa, v1, va)</li></ul></li>
+<li><i><a href="/wiki/Category:Information_science" title="Category:Information science">Information science</a></i>
+<ul><li><i><a href="/wiki/Category:Library_and_information_science" title="Category:Library and information science">Library and information science</a></i>
+<ul><li><b><a href="/wiki/Category:Reference" title="Category:Reference">Reference</a></b> (c)</li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Technology" title="Category:Technology">Technology</a></b> (c, ctK, fa, v0.5, va)
+<ul><li><b>Transport</b> → <b><a href="/wiki/Category:Transportation" title="Category:Transportation">Transportation</a></b> (fa)</li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b> (c, ct, v0.5)
+<ul><li><b>Life science → <a href="/wiki/Category:Biology" title="Category:Biology">Biology</a></b> (fa, v1)</li>
+<li><b><a href="/wiki/Category:Earth" title="Category:Earth">Earth</a></b> (v1)
+<ul><li><i><a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Earth sciences</a></i>
+<ul><li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va)</li>
+<li><b><a href="/wiki/Category:Geology" title="Category:Geology">Geology</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Geophysics" title="Category:Geophysics">Geophysics</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Meteorology" title="Category:Meteorology">Meteorology</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Mineralogy" title="Category:Mineralogy">Mineralogy</a></b> (fa)</li></ul></li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a></b> (c, v1)
+<ul><li><b><a href="/wiki/Category:Astronomy" title="Category:Astronomy">Astronomy</a></b> (fa)</li>
+<li><b> <a href="/wiki/Category:Chemistry" title="Category:Chemistry">Chemistry</a></b> (fa)
+<ul><li><b><a href="/wiki/Category:Chemical_elements" title="Category:Chemical elements">Chemical elements</a></b> (ctK)</li></ul></li>
+<li><b><a href="/wiki/Category:Physics" title="Category:Physics">Physics</a></b> (fa)</li></ul></li>
+<li><b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va)</li>
+<li><b><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a></b> (c, ct, ctK, fa, v0.5, v1, va)
+<ul><li><b><a href="/wiki/Category:Logic" title="Category:Logic">Logic</a></b> (c)</li></ul></li>
+<li><i><a href="/wiki/Category:Scientific_observation" title="Category:Scientific observation">Scientific observation</a></i>
+<ul><li><b><a href="/wiki/Category:Measurement" title="Category:Measurement">Measurement</a></b> (va)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va)
+<ul><li><b><a href="/wiki/Category:Business" title="Category:Business">Business</a></b> (fa)
+<ul><li><b><a href="/wiki/Category:Finance" title="Category:Finance">Finance</a></b> (fa)</li></ul></li>
+<li><b><a href="/wiki/Category:Culture" title="Category:Culture">Culture</a></b> (c, ctK, fa, v1)
+<ul><li><b><a href="/wiki/Category:Awards" title="Category:Awards">Awards</a> and decorations</b> (fa)</li>
+<li><b><a href="/wiki/Category:Food_and_drink" title="Category:Food and drink">Food and drink</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1)
+<ul><li><b><a href="/wiki/Category:Arts" title="Category:Arts">Arts</a></b> (c, v0.5, va)
+<ul><li><b>Art</b> → <b><a href="/wiki/Category:Visual_Arts" title="Category:Visual Arts">Visual Arts</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Literature" title="Category:Literature">Literature</a></b> (fa, v0.5)</li>
+<li><b><a href="/wiki/Category:Music" title="Category:Music">Music</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Theatre" title="Category:Theatre">Theatre</a></b> (fa)</li></ul></li>
+<li><b><a href="/wiki/Category:Language" title="Category:Language">Language</a></b> (fa, v0.5)
+<ul><li><b><a href="/wiki/Category:Linguistics" title="Category:Linguistics">Linguistics</a></b> (fa)*** <b><a href="/wiki/Category:Vexillology" title="Category:Vexillology">Vexillology</a></b> (fa)</li></ul></li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Education" title="Category:Education">Education</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Health" title="Category:Health">Health</a></b> (c, va)
+<ul><li><a href="/w/index.php?title=Category:Health_specialties&amp;action=edit&amp;redlink=1" class="new" title="Category:Health specialties (page does not exist)">Health specialties</a>: <a href="/wiki/Category:Health_promotion" title="Category:Health promotion">Health promotion</a>: <a href="/w/index.php?title=Category:Health_effectors&amp;action=edit&amp;redlink=1" class="new" title="Category:Health effectors (page does not exist)">Health effectors</a>: <a href="/wiki/Category:Prevention" title="Category:Prevention">Prevention</a>: <a href="/wiki/Physical_fitness" title="Physical fitness">Physical <b>fitness</b></a> (c) (article)</li></ul></li>
+<li><b><a href="/wiki/Category:History" title="Category:History">History</a></b> (c, fa, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Archaeology" title="Category:Archaeology">Archaeology</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Events" title="Category:Events">Events</a></b> (c)
+<ul><li><b><a href="/wiki/Category:Current_events" title="Category:Current events">Current events</a></b> (ce)</li></ul></li>
+<li><b><a href="/wiki/Category:Heraldry" title="Category:Heraldry">Heraldry</a></b> (fa)</li></ul></li>
+<li><i><a href="/wiki/Category:Humans" title="Category:Humans">Humans</a></i>
+<ul><li><b>Everyday life</b> → <b><a href="/wiki/Category:Personal_life" title="Category:Personal life">Personal life</a></b> (ct, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Recreation" title="Category:Recreation">Recreation</a></b> (fa)
+<ul><li><b><a href="/wiki/Category:Sports" title="Category:Sports">Sports</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Video_games" title="Category:Video games">Video games</a></b> (fa)</li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Self" title="Category:Self">Self</a></b> (c)</li></ul></li>
+<li><b><a href="/wiki/Category:Law" title="Category:Law">Law</a></b> (fa)</li>
+<li><b>Media → <a href="/wiki/Category:Mass_media" title="Category:Mass media">Mass media</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:People" title="Category:People">People</a></b> (c, va)
+<ul><li><b><a href="/w/index.php?title=Category:Biography&amp;action=edit&amp;redlink=1" class="new" title="Category:Biography (page does not exist)">Biography</a></b> (ctK)</li>
+<li><b><a href="/wiki/Category:Nobility" title="Category:Nobility">Nobility</a></b> (fa)
+<ul><li><b><a href="/wiki/Category:Royalty" title="Category:Royalty">Royalty</a></b> (fa)</li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Politics" title="Category:Politics">Politics</a></b> (fa)
+<ul><li><b><a href="/wiki/Category:Government" title="Category:Government">Government</a></b> (fa)</li></ul></li>
+<li><b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5)
+<ul><li><b><a href="/wiki/Category:Economics" title="Category:Economics">Economics</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va)
+<ul><li><i><a href="/wiki/Category:Political_geography" title="Category:Political geography">Political geography</a></i>
+<ul><li><b><a href="/wiki/Category:Countries" title="Category:Countries">Countries</a></b> (ctK)</li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Psychology" title="Category:Psychology">Psychology</a></b> (fa)</li></ul></li>
+<li><b>Warfare</b> → <b><a href="/wiki/Category:Warfare_by_type" title="Category:Warfare by type">Warfare by type</a></b> (fa)</li></ul></li></ul>
+<ul><li><b><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></b> (c)
+<ul><li><i><a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a></i>
+<ul><li><b><a href="/wiki/Category:Philosophy" title="Category:Philosophy">Philosophy</a></b> (c, ct, fa, v0.5, va)</li></ul></li>
+<li><b><a href="/wiki/Category:Belief" title="Category:Belief">Belief</a></b> (c)
+<ul><li><b><a href="/wiki/Category:Mysticism" title="Category:Mysticism">Mysticism</a></b> (fa)</li>
+<li><b><a href="/wiki/Category:Religion" title="Category:Religion">Religion</a></b> (c, fa, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Mythology" title="Category:Mythology">Mythology</a></b> (fa)</li></ul></li></ul></li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Basic_outline" style="font-size:114%;margin:0 4em">Basic outline</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><b><a href="/wiki/Category:Nature" title="Category:Nature">Nature</a></b> (c) – (nps)
+<ul><li><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va) – (nps)
+<ul><li><b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b> (c, ct, v0.5) – (tas)
+<ul><li><i><a href="/wiki/Category:Health_sciences" title="Category:Health sciences">Health sciences</a></i> – (hf)
+<ul><li><b><a href="/wiki/Category:Medicine" title="Category:Medicine">Medicine</a></b> (fa, v1, va) – (hf)</li></ul></li>
+<li><i><a href="/wiki/Category:Information_science" title="Category:Information science">Information science</a></i> – (r)
+<ul><li><i><a href="/wiki/Category:Library_and_information_science" title="Category:Library and information science">Library and information science</a></i> – (r)
+<ul><li><b><a href="/wiki/Category:Reference" title="Category:Reference">Reference</a></b> (c) – (r)</li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Technology" title="Category:Technology">Technology</a></b> (c, ctK, fa, v0.5, va) – (tas)</li></ul></li>
+<li><b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b> (c, ct, v0.5) – (nps)
+<ul><li><b>Life science → <a href="/wiki/Category:Biology" title="Category:Biology">Biology</a></b> (fa, v1) – (nps)</li>
+<li><b><a href="/wiki/Category:Earth" title="Category:Earth">Earth</a></b> (v1) – (nps)
+<ul><li><i><a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Earth sciences</a></i> – (nps)
+<ul><li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va) – (gp)</li></ul></li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a></b> (c, v1) – (nps)
+<ul><li><b><a href="/wiki/Category:Chemical_elements" title="Category:Chemical elements">Chemical elements</a></b> (ctK) – (nps)</li></ul></li>
+<li><b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va) – (sss)</li>
+<li><b><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a></b> (c, ct, ctK, fa, v0.5, v1, va) – (ml)
+<ul><li><b><a href="/wiki/Category:Logic" title="Category:Logic">Logic</a></b> (c) – (ml)</li></ul></li>
+<li><i><a href="/wiki/Category:Scientific_observation" title="Category:Scientific observation">Scientific observation</a></i> – (ml)
+<ul><li><b><a href="/wiki/Category:Measurement" title="Category:Measurement">Measurement</a></b> (va) – (ml)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va) – (sss)
+<ul><li><b><a href="/wiki/Category:Culture" title="Category:Culture">Culture</a></b> (c, ctK, fa, v1) – (ca)
+<ul><li><b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1) – (ca)
+<ul><li><b><a href="/wiki/Category:Arts" title="Category:Arts">Arts</a></b> (c, v0.5, va) – (ca)
+<ul><li><b><a href="/wiki/Category:Literature" title="Category:Literature">Literature</a></b> (fa, v0.5) – (ca)</li></ul></li>
+<li><b><a href="/wiki/Category:Language" title="Category:Language">Language</a></b> (fa, v0.5) – (ca)</li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Health" title="Category:Health">Health</a></b> (c, va) – (hf)
+<ul><li><a href="/w/index.php?title=Category:Health_specialties&amp;action=edit&amp;redlink=1" class="new" title="Category:Health specialties (page does not exist)">Health specialties</a>: <a href="/wiki/Category:Health_promotion" title="Category:Health promotion">Health promotion</a>: <a href="/w/index.php?title=Category:Health_effectors&amp;action=edit&amp;redlink=1" class="new" title="Category:Health effectors (page does not exist)">Health effectors</a>: <a href="/wiki/Category:Prevention" title="Category:Prevention">Prevention</a>: <a href="/wiki/Physical_fitness" title="Physical fitness">Physical <b>fitness</b></a> (c) (article) – (hf)</li></ul></li>
+<li><b><a href="/wiki/Category:History" title="Category:History">History</a></b> (c, fa, v0.5, va) – (he)
+<ul><li><b><a href="/wiki/Category:Events" title="Category:Events">Events</a></b> (c) – (he)
+<ul><li><b><a href="/wiki/Category:Current_events" title="Category:Current events">Current events</a></b> (ce) – (he)</li></ul></li></ul></li>
+<li><i><a href="/wiki/Category:Humans" title="Category:Humans">Humans</a></i> – (ps)
+<ul><li><b>Everyday life</b> → <b><a href="/wiki/Category:Personal_life" title="Category:Personal life">Personal life</a></b> (ct, v0.5, va) – (ps)</li>
+<li><b><a href="/wiki/Category:Self" title="Category:Self">Self</a></b> (c) – (ps)</li></ul></li>
+<li><b><a href="/wiki/Category:People" title="Category:People">People</a></b> (c, va) – (ps)
+<ul><li><b><a href="/w/index.php?title=Category:Biography&amp;action=edit&amp;redlink=1" class="new" title="Category:Biography (page does not exist)">Biography</a></b> (ctK) – (ps)</li></ul></li>
+<li><b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5) – (sss)
+<ul><li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va) – (gp)
+<ul><li><i><a href="/wiki/Category:Political_geography" title="Category:Political geography">Political geography</a></i> – (gp)
+<ul><li><b><a href="/wiki/Category:Countries" title="Category:Countries">Countries</a></b> (ctK) – (gp)</li></ul></li></ul></li></ul></li></ul></li></ul>
+<ul><li><b><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></b> (c) – (pt)
+<ul><li><i><a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a></i> – (pt)
+<ul><li><b><a href="/wiki/Category:Philosophy" title="Category:Philosophy">Philosophy</a></b> (c, ct, fa, v0.5, va) – (pt)</li></ul></li>
+<li><b><a href="/wiki/Category:Belief" title="Category:Belief">Belief</a></b> (c) – (rbs)
+<ul><li><b><a href="/wiki/Category:Religion" title="Category:Religion">Religion</a></b> (c, fa, v0.5, va) – (rbs)</li></ul></li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Portals_outline" style="font-size:114%;margin:0 4em">Portals outline</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<ul><li><b>Culture and the arts (Arts)</b> – (ca)
+<ul><li><b><a href="/wiki/Category:Culture" title="Category:Culture">Culture</a></b> (c, ctK, fa, v1)
+<ul><li><b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1)
+<ul><li><b><a href="/wiki/Category:Arts" title="Category:Arts">Arts</a></b> (c, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Literature" title="Category:Literature">Literature</a></b> (fa, v0.5)</li></ul></li>
+<li><b><a href="/wiki/Category:Language" title="Category:Language">Language</a></b> (fa, v0.5)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><b>Geography and places (Geography)</b> – (gp)
+<ul><li><b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va)
+<ul><li><i><a href="/wiki/Category:Political_geography" title="Category:Political geography">Political geography</a></i>
+<ul><li><b><a href="/wiki/Category:Countries" title="Category:Countries">Countries</a></b> (ctK)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><b>Health and fitness (Health)</b> – (hf)
+<ul><li><i><a href="/wiki/Category:Health_sciences" title="Category:Health sciences">Health sciences</a></i>
+<ul><li><b><a href="/wiki/Category:Medicine" title="Category:Medicine">Medicine</a></b> (fa, v1, va)</li></ul></li>
+<li><b><a href="/wiki/Category:Health" title="Category:Health">Health</a></b> (c, va)
+<ul><li><a href="/w/index.php?title=Category:Health_specialties&amp;action=edit&amp;redlink=1" class="new" title="Category:Health specialties (page does not exist)">Health specialties</a>: <a href="/wiki/Category:Health_promotion" title="Category:Health promotion">Health promotion</a>: <a href="/w/index.php?title=Category:Health_effectors&amp;action=edit&amp;redlink=1" class="new" title="Category:Health effectors (page does not exist)">Health effectors</a>: <a href="/wiki/Category:Prevention" title="Category:Prevention">Prevention</a>: <a href="/wiki/Physical_fitness" title="Physical fitness">Physical <b>fitness</b></a> (c) (article)</li></ul></li></ul></li></ul>
+<ul><li><b>History and events (History)</b> – (he)
+<ul><li><b><a href="/wiki/Category:History" title="Category:History">History</a></b> (c, fa, v0.5, va)
+<ul><li><b><a href="/wiki/Category:Events" title="Category:Events">Events</a></b> (c)
+<ul><li><b><a href="/wiki/Category:Current_events" title="Category:Current events">Current events</a></b> (ce)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><b>Mathematics and logic (Mathematics)</b> – (ml)
+<ul><li><b><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a></b> (c, ct, ctK, fa, v0.5, v1, va)
+<ul><li><b><a href="/wiki/Category:Logic" title="Category:Logic">Logic</a></b> (c)</li></ul></li>
+<li><i><a href="/wiki/Category:Scientific_observation" title="Category:Scientific observation">Scientific observation</a></i>
+<ul><li><b><a href="/wiki/Category:Measurement" title="Category:Measurement">Measurement</a></b> (va)</li></ul></li></ul></li></ul>
+<ul><li><b>Natural and physical sciences (Nature)</b> – (nps)
+<ul><li><b><a href="/wiki/Category:Nature" title="Category:Nature">Nature</a></b> (c)
+<ul><li><b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va)
+<ul><li><b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b> (c, ct, v0.5)
+<ul><li><b>Life science → <a href="/wiki/Category:Biology" title="Category:Biology">Biology</a></b> (fa, v1)</li>
+<li><b><a href="/wiki/Category:Earth" title="Category:Earth">Earth</a></b> (v1)
+<ul><li><i><a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Earth sciences</a></i></li></ul></li></ul></li>
+<li><b><a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a></b> (c, v1)
+<ul><li><b> <a href="/wiki/Category:Chemistry" title="Category:Chemistry">Chemistry</a></b> (fa)
+<ul><li><b><a href="/wiki/Category:Chemical_elements" title="Category:Chemical elements">Chemical elements</a></b> (ctK)</li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>
+<ul><li><b>People and self (People)</b> – (ps)
+<ul><li><i><a href="/wiki/Category:Humans" title="Category:Humans">Humans</a></i>
+<ul><li><b>Everyday life</b> → <b><a href="/wiki/Category:Personal_life" title="Category:Personal life">Personal life</a></b> (ct, v0.5, va)</li>
+<li><b><a href="/wiki/Category:People" title="Category:People">People</a></b> (c, va)
+<ul><li><b><a href="/w/index.php?title=Category:Biography&amp;action=edit&amp;redlink=1" class="new" title="Category:Biography (page does not exist)">Biography</a></b> (ctK)</li></ul></li>
+<li><b><a href="/wiki/Category:Self" title="Category:Self">Self</a></b> (c)</li></ul></li></ul></li></ul>
+<ul><li><b>Philosophy and thinking (Philosophy)</b> – (pt)
+<ul><li><b><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></b> (c)
+<ul><li><i><a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a></i>
+<ul><li><b><a href="/wiki/Category:Philosophy" title="Category:Philosophy">Philosophy</a></b> (c, ct, fa, v0.5, va)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><b>Reference (Reference)</b> – (r)
+<ul><li><i><a href="/wiki/Category:Information_science" title="Category:Information science">Information science</a></i>
+<ul><li><i><a href="/wiki/Category:Library_and_information_science" title="Category:Library and information science">Library and information science</a></i>
+<ul><li><b><a href="/wiki/Category:Reference" title="Category:Reference">Reference</a></b> (c)</li></ul></li></ul></li></ul></li></ul>
+<ul><li><b>Religion and belief systems (Religion)</b> – (rbs)
+<ul><li><b><a href="/wiki/Category:Belief" title="Category:Belief">Belief</a></b> (c)
+<ul><li><b><a href="/wiki/Category:Religion" title="Category:Religion">Religion</a></b> (c, fa, v0.5, va)</li></ul></li></ul></li></ul>
+<ul><li><b>Social sciences and society (Society)</b> – (sss)
+<ul><li><b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va)
+<ul><li><b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5, va)</li></ul></li></ul></li></ul>
+<ul><li><b>Technology and applied sciences (Technology)</b> – (tas)
+<ul><li><b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b> (c, ct, v0.5)
+<ul><li><b><a href="/wiki/Category:Technology" title="Category:Technology">Technology</a></b> (c, ctK, fa, v0.5, va)</li></ul></li></ul></li></ul>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Basic_list" style="font-size:114%;margin:0 4em">Basic list</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<p><b><a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a></b> (c, ct, v0.5) • 
+<b><a href="/wiki/Category:Arts" title="Category:Arts">Arts</a></b> (c, v0.5, va) • 
+<b><a href="/wiki/Category:Belief" title="Category:Belief">Belief</a></b> (c) • 
+<b><a href="/w/index.php?title=Category:Biography&amp;action=edit&amp;redlink=1" class="new" title="Category:Biography (page does not exist)">Biography</a></b> (ctK) • 
+<b><a href="/wiki/Category:Chemical_elements" title="Category:Chemical elements">Chemical elements</a></b> (ctK) • 
+<b><a href="/wiki/Category:Countries" title="Category:Countries">Countries</a></b> (ctK) • 
+<b><a href="/wiki/Category:Culture" title="Category:Culture">Culture</a></b> (c, ctK, fa, v1) • 
+<b><a href="/wiki/Category:Current_events" title="Category:Current events">Current events</a></b> (ce) • 
+<b><a href="/wiki/Category:Earth" title="Category:Earth">Earth</a></b> (v1) • 
+<b><a href="/wiki/Category:Events" title="Category:Events">Events</a></b> (c) • 
+<b>Everyday life</b> → <b><a href="/wiki/Category:Personal_life" title="Category:Personal life">Personal life</a></b> (ct, v0.5, va) • 
+<b>Fitness</b> → <b><a href="/wiki/Physical_fitness" title="Physical fitness">Physical fitness</a></b> (c) (article) • 
+<b><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></b> (c, ctK, fa, v0.5, va) • 
+<b><a href="/wiki/Category:Health" title="Category:Health">Health</a></b> (c, va) • 
+<b><a href="/wiki/Category:History" title="Category:History">History</a></b> (c, fa, v0.5, va) • 
+<b><a href="/wiki/Category:Humanities" title="Category:Humanities">Humanities</a></b> (ct, ctK, v1) • 
+<b><a href="/wiki/Category:Language" title="Category:Language">Language</a></b> (fa, v0.5) • 
+<b>Life science → <a href="/wiki/Category:Biology" title="Category:Biology">Biology</a></b> (fa, v1) • 
+<b><a href="/wiki/Category:Literature" title="Category:Literature">Literature</a></b> (fa, v0.5) • 
+<b><a href="/wiki/Category:Logic" title="Category:Logic">Logic</a></b> (c) • 
+<b><a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a></b> (c, ct, ctK, fa, v0.5, v1, va) • 
+<b><a href="/wiki/Category:Measurement" title="Category:Measurement">Measurement</a></b> (va) • 
+<b><a href="/wiki/Category:Medicine" title="Category:Medicine">Medicine</a></b> (fa, v1, va) • 
+<b><a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a></b> (c, ct, v0.5) • 
+<b><a href="/wiki/Category:Nature" title="Category:Nature">Nature</a></b> (c) • 
+<b><a href="/wiki/Category:People" title="Category:People">People</a></b> (c, va) • 
+<b><a href="/wiki/Category:Philosophy" title="Category:Philosophy">Philosophy</a></b> (c, ct, fa, v0.5, va) • 
+<b><a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a></b> (c, v1) • 
+<b><a href="/wiki/Category:Reference" title="Category:Reference">Reference</a></b> (c) • 
+<b><a href="/wiki/Category:Religion" title="Category:Religion">Religion</a></b> (c, fa, v0.5, va) • 
+<b><a href="/wiki/Category:Science" title="Category:Science">Science</a></b> (ctK, va) • 
+<b><a href="/wiki/Category:Self" title="Category:Self">Self</a></b> (c) • 
+<b><a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a></b> (c, ct, ctK, v0.5) • 
+<b><a href="/wiki/Category:Society" title="Category:Society">Society</a></b> (c, fa, v0.5, v1, va) • 
+<b><a href="/wiki/Category:Technology" title="Category:Technology">Technology</a></b> (c, ctK, fa, v0.5, va) • 
+<b><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a></b> (c)
+</p>
+</div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#E6F2FF;"><div id="Notes" style="font-size:114%;margin:0 4em">Notes</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div style="text-align:left;">
+<p>This table represents the network of <a href="/wiki/Category:Articles" title="Category:Articles">articles category</a> classification systems as they relate to a number of high-level <a href="/wiki/Portal_talk:Contents/TopicSystems" class="mw-redirect" title="Portal talk:Contents/TopicSystems">main topic TOC systems</a>. Specifically, these TOC main topics are traced back to the <a href="/w/index.php?title=Category:Fundamental_categories&amp;action=edit&amp;redlink=1" class="new" title="Category:Fundamental categories (page does not exist)">fundamental categories</a> that form the core of the <a href="/wiki/Category:Main_topic_classifications" title="Category:Main topic classifications">main topic classifications group of categories</a>. Only the fundamental articles categories are <i>not</i> subcategories of broader main topic classifications themselves.
+</p><p>To create the network of classification systems, each TOC main topic was placed under all of its own topical parent categories.  This process was repeated until a fundamental category was reached. When more than one parent was present, those one or two most related to other TOC topics were selected for the next higher level. The result is a hierarchical article topics classification system that includes references to the network of parents for a topic while also describing a clearer tree structure from each TOC topic to the fundamental categories. Because the <a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Featured articles</a> TOC amounts to an alphabetical index, those topics unique to it are included only under a previously existing Basic outline category, without adding any intervening categories. 
+</p><p>A basic outline that includes only the main tree elements was constructed from the more detailed outlines. It includes several TOC topics and a few placeholders. That outline then was cross-referenced with the set of <a href="/wiki/Wikipedia:Contents/Types_TOC" title="Wikipedia:Contents/Types TOC">Portal TOC headers</a> and <a href="/wiki/Template:Browsebar" class="mw-redirect" title="Template:Browsebar">Browsebar labels</a>. The topics from the basic outline then were rearranged to create the portals outline. A few of the characteristics of the basic and portals outlines are listed below.
+</p>
+<ul><li>Excluding items only in the TOC of <a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Featured articles</a>, 36 unique main topics were found. They are included in a separate list.</li>
+<li>All main topics under <a href="/wiki/Category:Information" title="Category:Information">Information</a> and <a href="/wiki/Category:Structure" title="Category:Structure">Structure</a> also are listed under one of the other fundamental categories, making these two categories unnecessary for completing the basic network of classification systems.</li></ul>
+<ul><li><a href="/wiki/Category:Nature" title="Category:Nature">Nature</a> includes 16 main topics, one a 2nd-level topic – <a href="/wiki/Category:Science" title="Category:Science">Science</a>. It includes five subdivisions: <a href="/wiki/Category:Applied_sciences" title="Category:Applied sciences">Applied sciences</a>, <a href="/wiki/Category:Natural_sciences" title="Category:Natural sciences">Natural sciences</a>, <a href="/wiki/Category:Physical_sciences" title="Category:Physical sciences">Physical sciences</a>, <a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a>, and <a href="/wiki/Category:Mathematics" title="Category:Mathematics">Mathematics</a>. Each field of science is divided into additional subfields as well (Social sciences and Geography are repeated in the following section).</li></ul>
+<ul><li><a href="/wiki/Category:Society" title="Category:Society">Society</a> includes 18 main topics, six of which are 2nd-level with subtopics. These 2nd-level main topics include: <a href="/wiki/Category:Culture" title="Category:Culture">Culture</a>, <a href="/wiki/Category:Health" title="Category:Health">Health</a>, <a href="/wiki/Category:History" title="Category:History">History</a>, the <a href="/wiki/Category:Humans" title="Category:Humans">Humans</a> placeholder,  <a href="/wiki/Category:People" title="Category:People">People</a>, and <a href="/wiki/Category:Social_sciences" title="Category:Social sciences">Social sciences</a>.</li></ul>
+<ul><li><a href="/wiki/Category:Thought" title="Category:Thought">Thought</a> includes four main topics under two 2nd-level groups. The <a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a> placeholder includes <a href="/wiki/Category:Philosophy" title="Category:Philosophy">Philosophy</a>. <a href="/wiki/Category:Belief" title="Category:Belief">Belief</a> includes <a href="/wiki/Category:Religion" title="Category:Religion">Religion</a>.</li></ul>
+<ul><li>The twelve <a href="/wiki/Wikipedia:Contents/Types_TOC" title="Wikipedia:Contents/Types TOC">Portal TOC headers</a> (with <a href="/wiki/Template:Browsebar" class="mw-redirect" title="Template:Browsebar">Browsebar labels</a>) were used to organize each of the 36 unique main topics and related placeholders under exactly one heading. This means the existing set of Portal TOC sections is sufficient to uniquely organize each topic under <i>all</i> <a href="/wiki/Portal_talk:Contents/TopicSystems" class="mw-redirect" title="Portal talk:Contents/TopicSystems">Main topic TOC systems</a>. This was accomplished by placing a topic under the <i>lowest</i> available heading in a topical classification tree.</li></ul>
+<ul><li>The terms used in <a href="/wiki/Wikipedia:Contents/Types_TOC" title="Wikipedia:Contents/Types TOC">Portal TOC headers</a> and <a href="/wiki/Template:Browsebar" class="mw-redirect" title="Template:Browsebar">Browsebar labels</a> do not always reflect the highest topics included in their respective classifications. Adjustments to some of these terms merit further discussion.</li></ul>
+<p>The following notations are used to help describe how the outlines were formed.
+</p>
+<ul><li><b>Bold</b> categories are included in at least one Main topic TOC system.</li>
+<li><i>Italic</i> categories are used as the parent/child in the tree when more than one is present on a line.</li>
+<li>Applicable main topic TOC systems: (c) = <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Contents</a>; (ce) = <a href="/wiki/Wikipedia:Current_events" class="mw-redirect" title="Wikipedia:Current events">Current events</a>; (ct) = <a href="/wiki/Wikipedia:Core_topics,_inner_levels" title="Wikipedia:Core topics, inner levels">Core topics</a>; (ctK) = <a href="/wiki/Wikipedia:Core_topics_-_1,000" class="mw-redirect" title="Wikipedia:Core topics - 1,000">Core topics - 1,000</a>; (fa) = <a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Featured articles</a>; (v0.5) = <a href="/wiki/Wikipedia:Version_0.5" title="Wikipedia:Version 0.5">Version 0.5</a>; (v1) = <a href="/wiki/Wikipedia:Version_1.0_Editorial_Team/Core_topics" title="Wikipedia:Version 1.0 Editorial Team/Core topics">Version 1.0 Editorial Team/Core topics</a>, <a href="/wiki/Wikipedia:Version_1.0_Editorial_Team/Core_topics/Supplement" title="Wikipedia:Version 1.0 Editorial Team/Core topics/Supplement">Version 1.0 Editorial Team/Core topics/Supplement</a>; (va) = <a href="/wiki/Wikipedia:Vital_articles" title="Wikipedia:Vital articles">Vital articles</a>, <a href="/wiki/Wikipedia:Vital_articles/Expanded" class="mw-redirect" title="Wikipedia:Vital articles/Expanded">Vital articles/Expanded</a></li>
+<li>Codes for each portal section header are included with the portals outline.</li></ul>
+<p>For more discussions about Wikipedia's categories as a network of classification systems (a thesaurus), see <a href="/wiki/Talk:Library_of_Congress_Classification#Using_LC_to_organize_category_pages" title="Talk:Library of Congress Classification">Talk:Library of Congress Classification#Using LC to organize category pages</a> and <a rel="nofollow" class="external text" href="http://arxiv.org/abs/cs/0604036">Collaborative thesaurus tagging the Wikipedia way</a>.
+</p>
+</div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<table class="wikitable collapsible collapsed" width="98%" style="padding:0.3em; border:1px solid #A3B1BF; text-align:left; background:#f5faff; font-size:95%;">
+
+<tbody><tr>
+<th colspan="7" style="background:#CEDFF2; padding:0.3em;">Main topics classification systems – Update as changes are made
+</th></tr>
+<tr>
+<th style="background:#E6F2FF; padding:0.3em; text-align:left; font-size:95%;">Topics
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Wikipedia:Contents</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia_talk:Contents#Megaportals" title="Wikipedia talk:Contents">Megaportals</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Core_topics,_inner_levels" title="Wikipedia:Core topics, inner levels">Wikipedia:Core topics, inner levels</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Version_1.0_Editorial_Team/Core_topics" title="Wikipedia:Version 1.0 Editorial Team/Core topics">Wikipedia:Version 1.0 Editorial Team/Core topics</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Version_1.0_Editorial_Team/Core_topics/Supplement" title="Wikipedia:Version 1.0 Editorial Team/Core topics/Supplement">Wikipedia:Version 1.0 Editorial Team/Core topics/Supplement</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:1,000_core_topics" title="Wikipedia:1,000 core topics">Wikipedia:1,000 core topics </a>
+</th></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Arts and culture</td>
+<td>Arts and culture</td>
+<td><a href="/wiki/Portal:Arts" class="mw-redirect" title="Portal:Arts">Arts</a>, <a href="/w/index.php?title=Portal:Culture&amp;action=edit&amp;redlink=1" class="new" title="Portal:Culture (page does not exist)">Culture</a></td>
+<td>Humanities, 15</td>
+<td>Culture; Humanities, 24</td>
+<td>Cultural topics (120)</td>
+<td>Culture; Humanities, 162
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Geography and places</td>
+<td>Geography and places</td>
+<td><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Geography, 65; Countries
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Health and fitness</td>
+<td>Health and fitness</td>
+<td><a href="/w/index.php?title=Portal:Health&amp;action=edit&amp;redlink=1" class="new" title="Portal:Health (page does not exist)">Health</a></td>
+<td> </td>
+<td>Medicine</td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">History and events</td>
+<td>History and events</td>
+<td><a href="/wiki/Portal:History" title="Portal:History">History</a>, <a href="/wiki/Portal:Current_events" title="Portal:Current events">Current events</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Mathematics and logic</td>
+<td>Mathematics and logic</td>
+<td><a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics</a>, <a href="/w/index.php?title=Portal:Logic&amp;action=edit&amp;redlink=1" class="new" title="Portal:Logic (page does not exist)">Logic</a></td>
+<td>Mathematics</td>
+<td>Mathematics, 5</td>
+<td> </td>
+<td>Math
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Natural and physical sciences</td>
+<td>Natural and physical sciences</td>
+<td><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></td>
+<td>Natural Science</td>
+<td>Earth, 16; Life science; Physical science, 29</td>
+<td> </td>
+<td>Science; Chemical elements, 118
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">People and self</td>
+<td>People and self</td>
+<td><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography</a>, <a href="/w/index.php?title=Portal:Personal_life&amp;action=edit&amp;redlink=1" class="new" title="Portal:Personal life (page does not exist)">Personal life</a></td>
+<td>Everyday life, 9</td>
+<td> </td>
+<td> </td>
+<td>Biographies, 201
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Philosophy and thinking</td>
+<td>Philosophy and thinking</td>
+<td><a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy</a>, <a href="/w/index.php?title=Portal:Thinking&amp;action=edit&amp;redlink=1" class="new" title="Portal:Thinking (page does not exist)">Thinking</a></td>
+<td>Philosophy</td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Religion and belief systems</td>
+<td>Religion</td>
+<td><a href="/wiki/Portal:Religion" title="Portal:Religion">Religion</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Reference</td>
+<td>Reference</td>
+<td><a href="/w/index.php?title=Portal:Library_and_information_science&amp;action=edit&amp;redlink=1" class="new" title="Portal:Library and information science (page does not exist)">Library and information science</a></td>
+<td> </td>
+<td> </td>
+<td><s>Miscellaneous (50)</s></td>
+<td><s>Miscellaneous, 1</s>
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Social sciences and society</td>
+<td>Social sciences and society</td>
+<td><a href="/wiki/Portal:Science" title="Portal:Science">Science</a>, <a href="/wiki/Portal:Society" title="Portal:Society">Society</a></td>
+<td>Social Sciences, 10</td>
+<td>Social science, 22; society, 15</td>
+<td> </td>
+<td>Social sciences, 173
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Technology and applied sciences</td>
+<td>Technology and applied sciences</td>
+<td><a href="/wiki/Portal:Technology_and_applied_sciences" class="mw-redirect" title="Portal:Technology and applied sciences">Technology and applied sciences</a></td>
+<td>Applied Arts and Sciences, 14</td>
+<td>Technology, 18</td>
+<td>Technical topics (135)</td>
+<td>Technology
+</td></tr>
+<tr>
+<th style="background:#E6F2FF; padding:0.3em; text-align:left; font-size:95%;">Topics
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Version_0.5" title="Wikipedia:Version 0.5">Wikipedia:Version 0.5</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Vital_articles" title="Wikipedia:Vital articles">Wikipedia:Vital articles</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Vital_articles/Expanded" class="mw-redirect" title="Wikipedia:Vital articles/Expanded">Wikipedia:Vital articles/Expanded</a>
+</th>
+<th colspan="3" width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Wikipedia:Featured articles</a>
+</th></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Arts and culture</td>
+<td>Arts, Language and literature</td>
+<td>Arts</td>
+<td>Arts</td>
+<td colspan="3">Art; Awards, decorations and vexillology; Culture; Food and drink; Language and linguistics; Literature and theatre; Music
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Geography and places</td>
+<td>Geography</td>
+<td>Geography</td>
+<td>Geography</td>
+<td colspan="3">Geography and places
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Health and fitness</td>
+<td> </td>
+<td>Health, Medicine</td>
+<td>Health, Medicine</td>
+<td colspan="3">Medicine
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">History and events</td>
+<td>History</td>
+<td>History</td>
+<td>History</td>
+<td colspan="3">Archaeology, History, Heraldry
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Mathematics and logic</td>
+<td>Mathematics</td>
+<td>Mathematics, Measurement</td>
+<td>Mathematics, Measurement</td>
+<td colspan="3">Mathematics
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Natural and physical sciences</td>
+<td>Natural sciences</td>
+<td>Science</td>
+<td>Science</td>
+<td colspan="3">Biology; Chemistry and mineralogy; Geology, geophysics and meteorology; Physics and astronomy
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">People and self</td>
+<td>Everyday life</td>
+<td>People, Everyday life</td>
+<td>People, Everyday life</td>
+<td colspan="3">Royalty and nobility; Sport and recreation, Video games
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Philosophy and thinking</td>
+<td>Philosophy</td>
+<td>Philosophy</td>
+<td>Philosophy</td>
+<td colspan="3">Philosophy
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Religion and belief systems</td>
+<td>Religion</td>
+<td>Religion</td>
+<td>Religion</td>
+<td colspan="3">Religion, mysticism and mythology
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Reference</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td colspan="3"> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Social sciences and society</td>
+<td>Society and social sciences</td>
+<td>Society and social sciences</td>
+<td>Society and social sciences</td>
+<td colspan="3">Business and finance, Economics, Education, Law, Media, Politics and government, Psychology, Society, Warfare
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Technology and applied sciences</td>
+<td>Applied sciences and technology</td>
+<td>Technology</td>
+<td>Technology</td>
+<td colspan="3">Architecture, Computing, Engineering and technology, Transport
+</td></tr>
+<tr>
+<th style="background:#E6F2FF; padding:0.3em; text-align:left; font-size:95%;"><a href="/w/index.php?title=Category:Fundamental_categories&amp;action=edit&amp;redlink=1" class="new" title="Category:Fundamental categories (page does not exist)">Category:Fundamental categories</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;">Topics
+</th>
+<th colspan="3" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Category:Main_topic_classifications" title="Category:Main topic classifications">Category:Main topic classifications</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Category:Wikipedia_core_topics" title="Category:Wikipedia core topics">Category:Wikipedia core topics</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Category:Top-importance_articles" title="Category:Top-importance articles">Category:Top-importance articles</a>
+</th></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Information</td>
+<td> </td>
+<td colspan="3"> </td>
+<td> </td>
+<td><s>766 Subcats</s>
+</td></tr>
+<tr>
+<td rowspan="4" valign="top">Nature
+</td>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Mathematics and logic</td>
+<td colspan="3">Mathematics</td>
+<td>Math</td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Natural and physical sciences</td>
+<td colspan="3">Astronomy, Biology, Chemistry, Earth sciences, Environment, Geology, Nature, Physics, Science</td>
+<td>Ecology, Science</td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Reference</td>
+<td colspan="3"> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Technology and applied sciences</td>
+<td colspan="3">Agriculture, Applied sciences, Architecture, Computing, Technology</td>
+<td>Construction, Technology</td>
+<td> 
+</td></tr>
+<tr>
+<td rowspan="6" valign="top">Society</td>
+<td>Arts and culture</td>
+<td colspan="3">Arts, Crafts, Culture, Film, Language, Literature, Music, Visual arts</td>
+<td>Culture, Film</td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Geography and places</td>
+<td colspan="3">Geography</td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Health and fitness</td>
+<td colspan="3">Health, Medicine</td>
+<td>Health sciences, Nutrition</td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">History and events</td>
+<td colspan="3">Archaeology, Events, History</td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">People and self</td>
+<td colspan="3">Entertainment, People, Radio</td>
+<td>Biography</td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Social sciences and society</td>
+<td colspan="3">Business, Economics, Education, Law, Military, Politics, Psychology, Society</td>
+<td>Society</td>
+<td> 
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Structure</td>
+<td> </td>
+<td colspan="3"> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td rowspan="2" align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Thought</td>
+<td>Philosophy and thinking</td>
+<td colspan="3">Philosophy, Thought</td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td>Religion and belief systems</td>
+<td colspan="3">Religion</td>
+<td> </td>
+<td> 
+</td></tr></tbody></table>
+<h2 class="ext-discussiontools-init-section"><!--__DTSUBSCRIBEBUTTONDESKTOP__h-Sardarhammadali21-20221015215800--><!--__DTSUBSCRIBELINK__h-Sardarhammadali21-20221015215800--><span class="mw-headline" id="Hammad_Ali" data-mw-comment="{&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-Sardarhammadali21-20221015215800&quot;,&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-Hammad_Ali-20221015215800&quot;,&quot;replies&quot;:[&quot;c-Sardarhammadali21-20221015215800-Hammad_Ali&quot;]}"><span data-mw-comment-start="" id="h-Hammad_Ali-20221015215800"></span>Hammad Ali<span data-mw-comment-end="h-Hammad_Ali-20221015215800"></span></span><!--__DTELLIPSISBUTTON__--><div class="ext-discussiontools-init-section-bar"><div class="ext-discussiontools-init-section-metadata"><!--__DTLATESTCOMMENTTHREAD__{"id":"c-Sardarhammadali21-20221015215800-Hammad_Ali","timestamp":"20221015215800"}__--><!--__DTCOMMENTCOUNT__1__--><!--__DTAUTHORCOUNT__1__--></div><div class="ext-discussiontools-init-section-actions"><!--__DTSUBSCRIBEBUTTONMOBILE__h-Sardarhammadali21-20221015215800--></div></div></h2>
+<p><a rel="nofollow" class="external text" href="https://hammad.thecodersx.com"><span data-mw-comment-start="" id="c-Sardarhammadali21-20221015215800-Hammad_Ali"></span>Hammad Ali</a> owner <a rel="nofollow" class="external text" href="https://thecodersx.com">thecodersx</a>
+My name is <a rel="nofollow" class="external text" href="https://hammad.thecodersx.com">Hammad Ali</a> and I am a cybersecurity specialist. I invest my time and skills to help people protect their business from Cybercriminals. I'm experienced in Vulnerability Assessment, Penetration Testing, Cyber Security Consultant, Web Server Pen-testing. I can penetration any website. I'm experienced in malware removal of WordPress sites and conduct security audits. I can customize a WordPress site. I am experienced with Windows and Linux platforms. I am looking forward to working with buyers that will require my services.
+Abbottabad, Pakistan
+<b><a rel="nofollow" class="external text" href="https://thecodersx.com">the codersx</a></b>
+thecodersx
+Hammad Ali <a href="/w/index.php?title=User:Sardarhammadali21&amp;action=edit&amp;redlink=1" class="new" title="User:Sardarhammadali21 (page does not exist)">Sardarhammadali21</a> (<a href="/w/index.php?title=User_talk:Sardarhammadali21&amp;action=edit&amp;redlink=1" class="new" title="User talk:Sardarhammadali21 (page does not exist)">talk</a>) 21:58, 15 October 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;20221015215800&quot;,&quot;author&quot;:&quot;Sardarhammadali21&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:1,&quot;id&quot;:&quot;c-Sardarhammadali21-20221015215800-Hammad_Ali&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-1" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Sardarhammadali21-20221015215800-Hammad_Ali"></span>
+</p>
+<h2 class="ext-discussiontools-init-section"><!--__DTSUBSCRIBEBUTTONDESKTOP__h-Sardarhammadali21-20221015220400--><!--__DTSUBSCRIBELINK__h-Sardarhammadali21-20221015220400--><span class="mw-headline" id="The_CodersX" data-mw-comment="{&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-Sardarhammadali21-20221015220400&quot;,&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-The_CodersX-20221015220400&quot;,&quot;replies&quot;:[&quot;c-Sardarhammadali21-20221015220400-The_CodersX&quot;]}"><span data-mw-comment-start="" id="h-The_CodersX-20221015220400"></span>The CodersX<span data-mw-comment-end="h-The_CodersX-20221015220400"></span></span><!--__DTELLIPSISBUTTON__--><div class="ext-discussiontools-init-section-bar"><div class="ext-discussiontools-init-section-metadata"><!--__DTLATESTCOMMENTTHREAD__{"id":"c-Sardarhammadali21-20221015220400-The_CodersX","timestamp":"20221015220400"}__--><!--__DTCOMMENTCOUNT__1__--><!--__DTAUTHORCOUNT__1__--></div><div class="ext-discussiontools-init-section-actions"><!--__DTSUBSCRIBEBUTTONMOBILE__h-Sardarhammadali21-20221015220400--></div></div></h2>
+<p><b><a rel="nofollow" class="external text" href="https://thecodersx.com/"><span data-mw-comment-start="" id="c-Sardarhammadali21-20221015220400-The_CodersX"></span>The CodersX</a></b> owner <a rel="nofollow" class="external text" href="https://hammad.thecodersx.com/">Hammad Ali</a>
+We have one of the most comprehensive programs for training students in coding and hacking. We offer courses that are designed to make every student feel confident and ready to take on any challenge. We provide courses that allow our students to learn practical skills needed for their day-to-day lives. We teach them how they can create beautiful designs, develop websites, and work with robots. Our online courses are designed to open up a world of opportunities for our students who are looking to kick start a career in programming or hacking.
+<a rel="nofollow" class="external text" href="https://hammad.thecodersx.com/">Hammad Ali</a> <a href="/w/index.php?title=User:Sardarhammadali21&amp;action=edit&amp;redlink=1" class="new" title="User:Sardarhammadali21 (page does not exist)">Sardarhammadali21</a> (<a href="/w/index.php?title=User_talk:Sardarhammadali21&amp;action=edit&amp;redlink=1" class="new" title="User talk:Sardarhammadali21 (page does not exist)">talk</a>) 22:04, 15 October 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;20221015220400&quot;,&quot;author&quot;:&quot;Sardarhammadali21&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:1,&quot;id&quot;:&quot;c-Sardarhammadali21-20221015220400-The_CodersX&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-2" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Sardarhammadali21-20221015220400-The_CodersX"></span>
+</p>
+<table class="wikitable collapsible collapsed" width="98%" style="padding:0.3em; border:1px solid #A3B1BF; text-align:center; background:#f5faff; font-size:95%;">
+
+<tbody><tr>
+<th colspan="7" style="background:#CEDFF2; padding:0.3em;">Names in TOCs – Update as changes are made
+</th></tr>
+<tr>
+<th style="background:#E6F2FF; padding:0.3em; text-align:left; font-size:95%;"><a href="/wiki/Wikipedia:Contents/TOC" title="Wikipedia:Contents/TOC">Topics</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Portal:Overviews" class="mw-redirect" title="Portal:Overviews">Overviews</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Lists_of_topics" class="mw-redirect" title="Wikipedia:Lists of topics">Topics</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Lists_of_basic_topics" class="mw-redirect" title="Wikipedia:Lists of basic topics">Basic topics</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:List_of_glossaries" class="mw-redirect" title="Wikipedia:List of glossaries">Glossaries</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Portals" class="mw-redirect" title="Wikipedia:Portals">Portals</a>
+</th>
+<th width="14%" style="background:#E6F2FF; padding:0.3em; font-size:95%;"><a href="/wiki/Wikipedia:Categorical_index" class="mw-redirect" title="Wikipedia:Categorical index">Categories</a>
+</th></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Reference</td>
+<td>Reference</td>
+<td>Reference</td>
+<td><img alt="Red X" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/13px-Red_x.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/20px-Red_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/26px-Red_x.svg.png 2x" data-file-width="600" data-file-height="600"/><span style="display: none;">N</span></td>
+<td><img alt="Red X" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/13px-Red_x.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/20px-Red_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/26px-Red_x.svg.png 2x" data-file-width="600" data-file-height="600"/><span style="display: none;">N</span></td>
+<td><img alt="Red X" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/13px-Red_x.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/20px-Red_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/26px-Red_x.svg.png 2x" data-file-width="600" data-file-height="600"/><span style="display: none;">N</span></td>
+<td>Reference
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Arts and culture</td>
+<td>Arts and culture</td>
+<td>Arts and culture</td>
+<td>Arts and culture</td>
+<td>Arts and culture</td>
+<td>Arts and culture</td>
+<td>Arts and culture
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Geography and places</td>
+<td>Geography and places</td>
+<td>Geography and places</td>
+<td>Geography and places</td>
+<td>Geography and places</td>
+<td>Geography and places</td>
+<td>Geography and places
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Health and fitness</td>
+<td>Health and fitness</td>
+<td>Health and health science</td>
+<td>Health and fitness</td>
+<td>Health</td>
+<td>Health</td>
+<td>Health and fitness
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">History and events</td>
+<td>History and events</td>
+<td>History and events</td>
+<td>History and events</td>
+<td>History and events</td>
+<td>History and Current events</td>
+<td>History and events
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Mathematics and logic</td>
+<td>Mathematics and logic</td>
+<td>Mathematics and logic</td>
+<td>Mathematics and logic</td>
+<td>Mathematics and logic</td>
+<td>Mathematics and Logic</td>
+<td>Mathematics and logic
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Natural and physical sciences</td>
+<td>Natural sciences and nature</td>
+<td>Natural and physical sciences</td>
+<td>Natural sciences and nature
+</td>
+<td>Natural sciences and nature</td>
+<td>Natural and physical sciences</td>
+<td>Natural sciences and nature
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">People and self</td>
+<td>People and self</td>
+<td>People and self</td>
+<td>People and self</td>
+<td><img alt="Red X" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/13px-Red_x.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/20px-Red_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/26px-Red_x.svg.png 2x" data-file-width="600" data-file-height="600"/><span style="display: none;">N</span></td>
+<td><img alt="Red X" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/13px-Red_x.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/20px-Red_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Red_x.svg/26px-Red_x.svg.png 2x" data-file-width="600" data-file-height="600"/><span style="display: none;">N</span></td>
+<td>People and self
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Philosophy and thinking
+</td>
+<td>Philosophy and thinking</td>
+<td>Philosophy</td>
+<td>Philosophy and thinking</td>
+<td rowspan="2">Philosophy, religion, and spirituality</td>
+<td rowspan="2">Philosophy, religion, and spirituality</td>
+<td>Philosophy and thinking
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Religion and belief systems
+</td>
+<td>Religion and belief systems</td>
+<td>Religion and spirituality</td>
+<td>Religion and spirituality</td>
+<td>Religion and belief systems
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Social sciences and society
+</td>
+<td>Social sciences and society</td>
+<td>Social sciences and society</td>
+<td>Social sciences and society</td>
+<td>Social sciences and society</td>
+<td>Social sciences and Society</td>
+<td>Social sciences and society
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Technology and applied sciences</td>
+<td>Technology and applied sciences</td>
+<td>Technology and applied sciences</td>
+<td>Technology and applied sciences</td>
+<td>Technology and applied sciences</td>
+<td>Technology and Engineering</td>
+<td>Technology and applied sciences
+</td></tr></tbody></table>
+<table class="wikitable collapsible collapsed" width="98%" style="padding:0.3em; border:1px solid #A3B1BF; text-align:left; background:#f5faff; font-size:95%;">
+
+<tbody><tr>
+<th colspan="2" style="background:#CEDFF2; padding:0.3em;">Topic Names &amp; Labels – Update as changes are made
+</th></tr>
+<tr>
+<th style="background:#E6F2FF; padding:0.3em; text-align:left; font-size:95%;"><a href="/wiki/Wikipedia:Contents/TOC" title="Wikipedia:Contents/TOC">Subpages, TOCs, Sections</a>
+</th>
+<th style="background:#E6F2FF; padding:0.3em; text-align:left; font-size:95%;"><a href="/wiki/Wikipedia:Main_page_alternative_(portals)" class="mw-redirect" title="Wikipedia:Main page alternative (portals)">Main Page</a>, Browse bars
+</th></tr>
+<tr>
+<td align="left" style="width:50%; padding:0.3em; text-align:left; font-size:95%; line-height:1.3em;">Reference</td>
+<td>Reference
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Culture and the arts</td>
+<td>Culture, arts
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Geography and places</td>
+<td>Geography
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Health and fitness</td>
+<td>Health
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">History and events</td>
+<td>History
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Mathematics and logic</td>
+<td>Mathematics
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Natural and physical sciences</td>
+<td>Nature
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">People and self</td>
+<td>People
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Philosophy and thinking
+</td>
+<td>Philosophy
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Religion and belief systems
+</td>
+<td>Religion
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Social sciences and society
+</td>
+<td>Society
+</td></tr>
+<tr>
+<td align="left" style="padding:0.3em; font-size:95%; line-height:1.3em;">Technology and applied sciences</td>
+<td>Technology
+</td></tr></tbody></table>
+<h2 class="ext-discussiontools-init-section"><!--__DTSUBSCRIBEBUTTONDESKTOP__h-Dcljr-2019-11-13T10:58:00.000Z--><!--__DTSUBSCRIBELINK__h-Dcljr-2019-11-13T10:58:00.000Z--><span id="Fixed_double_redirects.2C_but..."></span><span class="mw-headline" id="Fixed_double_redirects,_but..." data-mw-comment="{&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-Dcljr-2019-11-13T10:58:00.000Z&quot;,&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-Fixed_double_redirects,_but...-2019-11-13T10:58:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Dcljr-2019-11-13T10:58:00.000Z-Fixed_double_redirects,_but...&quot;]}"><span data-mw-comment-start="" id="h-Fixed_double_redirects,_but...-2019-11-13T10:58:00.000Z"></span>Fixed double redirects, but...<span data-mw-comment-end="h-Fixed_double_redirects,_but...-2019-11-13T10:58:00.000Z"></span></span><!--__DTELLIPSISBUTTON__--><div class="ext-discussiontools-init-section-bar"><div class="ext-discussiontools-init-section-metadata"><!--__DTLATESTCOMMENTTHREAD__{"id":"c-Dcljr-2019-11-18T04:03:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z","timestamp":"2019-11-18T04:03:00.000Z"}__--><!--__DTCOMMENTCOUNT__6__--><!--__DTAUTHORCOUNT__2__--></div><div class="ext-discussiontools-init-section-actions"><!--__DTSUBSCRIBEBUTTONMOBILE__h-Dcljr-2019-11-13T10:58:00.000Z--></div></div></h2>
+<p><span class="template-ping"><span data-mw-comment-start="" id="c-Dcljr-2019-11-13T10:58:00.000Z-Fixed_double_redirects,_but..."></span>@<a href="/wiki/User:Wugapodes" title="User:Wugapodes">Wugapodes</a> and <a href="/wiki/User:El_C" title="User:El C">El C</a>:</span> After the move of <a href="/wiki/Portal:Contents" class="mw-redirect" title="Portal:Contents">Portal:Contents</a> (and its subpages) to <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Wikipedia:Contents</a> (and subpages), several double redirects were causing <a href="/wiki/Wikipedia:Contents/Overviews" title="Wikipedia:Contents/Overviews">Wikipedia:Contents/Overviews</a> to be broken (showing transcluded redirect messages rather than the intended content). I have just <a class="external text" href="https://en.wikipedia.org/w/index.php?target=Dcljr&amp;namespace=100&amp;tagfilter=&amp;start=&amp;end=2019-11-13&amp;limit=100&amp;title=Special%3AContributions">fixed those double redirects</a>. (There may be other double redirects I have not noticed.)
+</p><p>The reason this was happening was that the pages named "Portal:Contents/Overviews/*" were all moved to "Portal:Contents/Overview/*" back in 2011, following the reasoning that the "overview of health and fitness", for example, should be called "Portal:Contents/Overview/Health and fitness" rather than "Portal:Contents/Overviews/Health and fitness". This ignored the fact that "Portal:Contents/Overviews/Health and fitness" (and the like) was a <i>subpage</i> of "Portal:Contents/Overviews", which was <i>not</i> moved.
+</p><p>I would make a formal proposal to move <a href="/wiki/Special:PrefixIndex/Wikipedia:Contents/Overview/" title="Special:PrefixIndex/Wikipedia:Contents/Overview/">those "Overview" subpages</a> back to "Wikipedia:Contents/Overviews/*" (which will require moving them over redirects, and will cause other double redirects that will need to be fixed), but I don't have time to write that up right now. Someone else can, though (in a new section). - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 10:58, 13 November 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-11-13T10:58:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:1,&quot;id&quot;:&quot;c-Dcljr-2019-11-13T10:58:00.000Z-Fixed_double_redirects,_but...&quot;,&quot;replies&quot;:[&quot;c-Dcljr-2019-11-13T11:06:00.000Z-Dcljr-2019-11-13T10:58:00.000Z&quot;]}"><span id="ooui-php-3" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2019-11-13T10:58:00.000Z-Fixed_double_redirects,_but..."></span>
+</p>
+<dl><dd><span data-mw-comment-start="" id="c-Dcljr-2019-11-13T11:06:00.000Z-Dcljr-2019-11-13T10:58:00.000Z"></span>Oh, and <a href="/w/index.php?title=Category:Contents_portal&amp;action=edit&amp;redlink=1" class="new" title="Category:Contents portal (page does not exist)">Category:Contents portal</a> should probably be renamed (its subpages recategorized) now that this is not in portalspace anymore. Also, I've changed all the mentions of "Portal:Contents" (in visible page text) that I noticed in the immediate subpages of <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Wikipedia:Contents</a>. I'm sure there are other instances around that should be changed. - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 11:06, 13 November 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-11-13T11:06:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:2,&quot;id&quot;:&quot;c-Dcljr-2019-11-13T11:06:00.000Z-Dcljr-2019-11-13T10:58:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Wugapodes-2019-11-13T17:51:00.000Z-Dcljr-2019-11-13T11:06:00.000Z&quot;]}"><span id="ooui-php-4" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2019-11-13T11:06:00.000Z-Dcljr-2019-11-13T10:58:00.000Z"></span>
+<dl><dd><span class="template-ping"><span data-mw-comment-start="" id="c-Wugapodes-2019-11-13T17:51:00.000Z-Dcljr-2019-11-13T11:06:00.000Z"></span>@<a href="/wiki/User:Dcljr" title="User:Dcljr">Dcljr</a>:</span> I've tagged the category for speedy renaming. Following <a href="/wiki/Category:Wikipedia_outlines" title="Category:Wikipedia outlines">Category:Wikipedia outlines</a> I suggested <a href="/wiki/Category:Wikipedia_contents" title="Category:Wikipedia contents">Category:Wikipedia contents</a>. <a href="/wiki/User:Wugapodes" title="User:Wugapodes">Wug·</a><a href="/wiki/User_talk:Wugapodes" title="User talk:Wugapodes">a·po·des</a>​ 17:51, 13 November 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-11-13T17:51:00.000Z&quot;,&quot;author&quot;:&quot;Wugapodes&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:3,&quot;id&quot;:&quot;c-Wugapodes-2019-11-13T17:51:00.000Z-Dcljr-2019-11-13T11:06:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Dcljr-2019-11-17T00:43:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z&quot;,&quot;c-Dcljr-2019-11-17T02:05:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z&quot;,&quot;c-Dcljr-2019-11-18T04:03:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z&quot;]}"><span id="ooui-php-5" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Wugapodes-2019-11-13T17:51:00.000Z-Dcljr-2019-11-13T11:06:00.000Z"></span>
+<dl><dd><span data-mw-comment-start="" id="c-Dcljr-2019-11-17T00:43:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z"></span>Somehow in the move of <a href="/w/index.php?title=Category:Contents_portal&amp;action=edit&amp;redlink=1" class="new" title="Category:Contents portal (page does not exist)">Category:Contents portal</a> to <a href="/wiki/Category:Wikipedia_contents" title="Category:Wikipedia contents">Category:Wikipedia contents</a>, the category got almost completely depopulated. I have just readded the topmost subpages (<a href="/wiki/Wikipedia:Contents/Overviews" title="Wikipedia:Contents/Overviews">Wikipedia:Contents/Overviews</a>, etc.) to the category. Do we want to place all the deeper-level subpages there, as well (e.g., <a href="/wiki/Wikipedia:Contents/Overview/Reference" title="Wikipedia:Contents/Overview/Reference">Wikipedia:Contents/Overview/Reference</a>, etc.)? I think that's how it was before. - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 00:43, 17 November 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-11-17T00:43:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:4,&quot;id&quot;:&quot;c-Dcljr-2019-11-17T00:43:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-6" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2019-11-17T00:43:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z"></span></dd>
+<dd><span data-mw-comment-start="" id="c-Dcljr-2019-11-17T02:05:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z"></span>Oh, heh… at least some of the pages are still in <a href="/w/index.php?title=Category:Contents_portal&amp;action=edit&amp;redlink=1" class="new" title="Category:Contents portal (page does not exist)">Category:Contents portal</a>. I saw a bot edit that made me assume that the move was already completed. - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 02:05, 17 November 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-11-17T02:05:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:4,&quot;id&quot;:&quot;c-Dcljr-2019-11-17T02:05:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-7" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2019-11-17T02:05:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z"></span></dd>
+<dd><span data-mw-comment-start="" id="c-Dcljr-2019-11-18T04:03:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z"></span>OK, now it's completed. I see that it (for the most part) only contains the immediate subpages of <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Wikipedia:Contents</a>, including the pages split by type (<a href="/wiki/Wikipedia:Contents/Overviews" title="Wikipedia:Contents/Overviews">Wikipedia:Contents/Overviews</a>, <a href="/wiki/Wikipedia:Contents/Outlines" title="Wikipedia:Contents/Outlines">Wikipedia:Contents/Outlines</a>, etc.) and those split by topic (<a href="/wiki/Wikipedia:Contents/Reference" title="Wikipedia:Contents/Reference">Wikipedia:Contents/Reference</a>, <a href="/wiki/Wikipedia:Contents/Culture_and_the_arts" title="Wikipedia:Contents/Culture and the arts">Wikipedia:Contents/Culture and the arts</a>, etc.). I guess that's how it was before. There's over 200 deeper subpages. Do we want to categorize those into a subcategory of <a href="/wiki/Category:Wikipedia_contents" title="Category:Wikipedia contents">Category:Wikipedia contents</a>? - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 04:03, 18 November 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-11-18T04:03:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:4,&quot;id&quot;:&quot;c-Dcljr-2019-11-18T04:03:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-8" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2019-11-18T04:03:00.000Z-Wugapodes-2019-11-13T17:51:00.000Z"></span></dd></dl></dd></dl></dd></dl>
+<h2 class="ext-discussiontools-init-section"><!--__DTSUBSCRIBEBUTTONDESKTOP__h-The_Original_Filfi-2019-12-21T10:51:00.000Z--><!--__DTSUBSCRIBELINK__h-The_Original_Filfi-2019-12-21T10:51:00.000Z--><span class="mw-headline" id="Page_has_been_edited_and_look_incorrect" data-mw-comment="{&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-The_Original_Filfi-2019-12-21T10:51:00.000Z&quot;,&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-Page_has_been_edited_and_look_incorrect-2019-12-21T10:51:00.000Z&quot;,&quot;replies&quot;:[&quot;c-The_Original_Filfi-2019-12-21T10:51:00.000Z-Page_has_been_edited_and_look_incorrect&quot;]}"><span data-mw-comment-start="" id="h-Page_has_been_edited_and_look_incorrect-2019-12-21T10:51:00.000Z"></span>Page has been edited and look incorrect<span data-mw-comment-end="h-Page_has_been_edited_and_look_incorrect-2019-12-21T10:51:00.000Z"></span></span><!--__DTELLIPSISBUTTON__--><div class="ext-discussiontools-init-section-bar"><div class="ext-discussiontools-init-section-metadata"><!--__DTLATESTCOMMENTTHREAD__{"id":"c-Dcljr-2019-12-22T04:03:00.000Z-The_Original_Filfi-2019-12-21T10:51:00.000Z","timestamp":"2019-12-22T04:03:00.000Z"}__--><!--__DTCOMMENTCOUNT__2__--><!--__DTAUTHORCOUNT__2__--></div><div class="ext-discussiontools-init-section-actions"><!--__DTSUBSCRIBEBUTTONMOBILE__h-The_Original_Filfi-2019-12-21T10:51:00.000Z--></div></div></h2>
+<p><span data-mw-comment-start="" id="c-The_Original_Filfi-2019-12-21T10:51:00.000Z-Page_has_been_edited_and_look_incorrect"></span>This looks wrong but the contents may need to be kept in its own article, not sure how to proceed
+</p><p><a href="/wiki/User:The_Original_Filfi" title="User:The Original Filfi">The Original Filfi</a> (<a href="/wiki/User_talk:The_Original_Filfi" title="User talk:The Original Filfi">talk</a>) 10:51, 21 December 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-12-21T10:51:00.000Z&quot;,&quot;author&quot;:&quot;The Original Filfi&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:1,&quot;id&quot;:&quot;c-The_Original_Filfi-2019-12-21T10:51:00.000Z-Page_has_been_edited_and_look_incorrect&quot;,&quot;replies&quot;:[&quot;c-Dcljr-2019-12-22T04:03:00.000Z-The_Original_Filfi-2019-12-21T10:51:00.000Z&quot;]}"><span id="ooui-php-9" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-The_Original_Filfi-2019-12-21T10:51:00.000Z-Page_has_been_edited_and_look_incorrect"></span>
+</p>
+<dl><dd><span data-mw-comment-start="" id="c-Dcljr-2019-12-22T04:03:00.000Z-The_Original_Filfi-2019-12-21T10:51:00.000Z"></span>No one can help with this unless you are more specific. I assume you are talking about <a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Wikipedia:Contents</a>, since you <a href="/wiki/Special:Diff/931807606" title="Special:Diff/931807606">copied the entire contents of the page</a> into your personal sandbox before posting here. What about the page seems wrong to you? Can you point to <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents&amp;action=history">a specific edit</a> that changed something in a way that you don't like? - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 04:03, 22 December 2019 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2019-12-22T04:03:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:2,&quot;id&quot;:&quot;c-Dcljr-2019-12-22T04:03:00.000Z-The_Original_Filfi-2019-12-21T10:51:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-10" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2019-12-22T04:03:00.000Z-The_Original_Filfi-2019-12-21T10:51:00.000Z"></span></dd></dl>
+<h2 class="ext-discussiontools-init-section"><!--__DTSUBSCRIBEBUTTONDESKTOP__h-Bluerasberry-2020-09-21T11:12:00.000Z--><!--__DTSUBSCRIBELINK__h-Bluerasberry-2020-09-21T11:12:00.000Z--><span id="Astoundingly_popular_among_readers.2C_unnoticed_by_editors"></span><span class="mw-headline" id="Astoundingly_popular_among_readers,_unnoticed_by_editors" data-mw-comment="{&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-Bluerasberry-2020-09-21T11:12:00.000Z&quot;,&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-Astoundingly_popular_among_readers,_unnoticed_by_editors-2020-09-21T11:12:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Bluerasberry-2020-09-21T11:12:00.000Z-Astoundingly_popular_among_readers,_unnoticed_by_editors&quot;]}"><span data-mw-comment-start="" id="h-Astoundingly_popular_among_readers,_unnoticed_by_editors-2020-09-21T11:12:00.000Z"></span>Astoundingly popular among readers, unnoticed by editors<span data-mw-comment-end="h-Astoundingly_popular_among_readers,_unnoticed_by_editors-2020-09-21T11:12:00.000Z"></span></span><!--__DTELLIPSISBUTTON__--><div class="ext-discussiontools-init-section-bar"><div class="ext-discussiontools-init-section-metadata"><!--__DTLATESTCOMMENTTHREAD__{"id":"c-Dcljr-2020-09-28T02:39:00.000Z-Bluerasberry-2020-09-27T15:23:00.000Z","timestamp":"2020-09-28T02:39:00.000Z"}__--><!--__DTCOMMENTCOUNT__6__--><!--__DTAUTHORCOUNT__3__--></div><div class="ext-discussiontools-init-section-actions"><!--__DTSUBSCRIBEBUTTONMOBILE__h-Bluerasberry-2020-09-21T11:12:00.000Z--></div></div></h2>
+<p><span data-mw-comment-start="" id="c-Bluerasberry-2020-09-21T11:12:00.000Z-Astoundingly_popular_among_readers,_unnoticed_by_editors"></span>This is a super high traffic page but it does not have much Wikipedia editor development.
+</p><p>I wish we had an easy way to get traffic reports for all the help pages so that we could identify where readers are going, and prioritize the development of those pages. <a href="/wiki/User:Bluerasberry" title="User:Bluerasberry"><span style="background:#cedff2;color:#11e"><b> Blue Rasberry </b></span></a><a href="/wiki/User_talk:Bluerasberry" title="User talk:Bluerasberry"><span style="background:#cedff2;color:#11e">(talk)</span></a> 11:12, 21 September 2020 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2020-09-21T11:12:00.000Z&quot;,&quot;author&quot;:&quot;Bluerasberry&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:1,&quot;id&quot;:&quot;c-Bluerasberry-2020-09-21T11:12:00.000Z-Astoundingly_popular_among_readers,_unnoticed_by_editors&quot;,&quot;replies&quot;:[&quot;c-Dcljr-2020-09-21T19:26:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z&quot;,&quot;c-Sdkb-2020-09-27T05:51:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z&quot;]}"><span id="ooui-php-11" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Bluerasberry-2020-09-21T11:12:00.000Z-Astoundingly_popular_among_readers,_unnoticed_by_editors"></span>
+</p>
+<dl><dd><span data-mw-comment-start="" id="c-Dcljr-2020-09-21T19:26:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z"></span>Well… there is {{<a href="/wiki/Template:Annual_readership" title="Template:Annual readership">Annual readership</a>}}:</dd></dl>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097618699"/><table class="plainlinks tmbox tmbox-notice" role="presentation" style="border-spacing:4px"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Open_data_small_color_(vector).svg" class="image"><img alt="Open data small color (vector).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Open_data_small_color_%28vector%29.svg/32px-Open_data_small_color_%28vector%29.svg.png" decoding="async" width="32" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Open_data_small_color_%28vector%29.svg/48px-Open_data_small_color_%28vector%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Open_data_small_color_%28vector%29.svg/64px-Open_data_small_color_%28vector%29.svg.png 2x" data-file-width="93" data-file-height="96"/></a></td><td class="mbox-text"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;font-size: 100%;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;font-weight: bold;"><span class="plainlinks"><a class="external text" href="https://pageviews.toolforge.org/?project=en.wikipedia.org&amp;platform=all-access&amp;agent=user&amp;range=latest-365&amp;pages=Wikipedia%3AContents">Daily pageviews</a></span> of Wikipedia:Contents</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;background:#fffaef; border:1px dotted gray; padding:2px 4px; text-align: center;">
+<div class="mw-graph mw-graph-always mw-graph-nofallback" style="min-width:570px;min-height:200px" data-graph-id="b30c9d76d891132e682ab11f3302486f4563dc47"></div></div></div></td></tr></tbody></table>
+<dl><dd>which can be used on each individual (talk) page, or even used multiple times for different targets on a single page — although I'm not sure how many instances you could put on a page before problems start happening. But it sounds like what you really want is the <a class="external text" href="https://pageviews.toolforge.org/massviews/">Massviews Analysis</a> tool at Toolforge. (<b>Note:</b> Don't just point it at Category:Help and use "Include all subcategories", because it will try to pull in tens of thousands of irrelevant pages!) - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 19:26, 21 September 2020 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2020-09-21T19:26:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:2,&quot;id&quot;:&quot;c-Dcljr-2020-09-21T19:26:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-12" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2020-09-21T19:26:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z"></span></dd></dl>
+<ul><li><a href="/wiki/User:Bluerasberry" title="User:Bluerasberry"><span data-mw-comment-start="" id="c-Sdkb-2020-09-27T05:51:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z"></span>Bluerasberry</a>, yep, this and <a href="/wiki/Wikipedia:About" title="Wikipedia:About">WP:About</a> are both sorely in need of attention. One task that needs to be done here, following up from the removal of <a href="/wiki/Wikipedia:Featured_content" title="Wikipedia:Featured content">WP:Featured content</a> from the sidebar, is to place a little more emphasis on featured content here. I'd also like to see addition of things like a button to go to a random vital article at a given level. <span style="color:#AAA"><small>{{u|</small><span style="border-radius:9em;padding:0 5px;background:#088"><a href="/wiki/User:Sdkb" title="User:Sdkb"><span style="color:#FFF"><b>Sdkb</b></span></a></span><small>}}</small></span> <sup><a href="/wiki/User_talk:Sdkb" title="User talk:Sdkb"><b>talk</b></a></sup> 05:51, 27 September 2020 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2020-09-27T05:51:00.000Z&quot;,&quot;author&quot;:&quot;Sdkb&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:2,&quot;id&quot;:&quot;c-Sdkb-2020-09-27T05:51:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Sdkb-2020-09-27T12:48:00.000Z-Sdkb-2020-09-27T05:51:00.000Z&quot;,&quot;c-Bluerasberry-2020-09-27T15:23:00.000Z-Sdkb-2020-09-27T05:51:00.000Z&quot;]}"><span id="ooui-php-13" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Sdkb-2020-09-27T05:51:00.000Z-Bluerasberry-2020-09-21T11:12:00.000Z"></span></li></ul>
+<dl><dd><dl><dd><span data-mw-comment-start="" id="c-Sdkb-2020-09-27T12:48:00.000Z-Sdkb-2020-09-27T05:51:00.000Z"></span>We could run <a href="/wiki/Wikipedia:Help_Project/page_statistics" title="Wikipedia:Help Project/page statistics">Wikipedia:Help Project/page statistics</a> again. Best not use buttons in this manner as per  <a rel="nofollow" class="external text" href="http://web-accessibility.carnegiemuseums.org/content/buttons/">very basic in accessibility Guidelines</a>. Most will avoid buttons because they think an action will take place. --<span style="font-weight:bold;color:darkblue"><a href="/wiki/User_talk:Sdkb" title="User talk:Sdkb">Moxy</a></span> <span style="color:red">🍁</span> 12:48, 27 September 2020 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2020-09-27T12:48:00.000Z&quot;,&quot;author&quot;:&quot;Sdkb&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:3,&quot;id&quot;:&quot;c-Sdkb-2020-09-27T12:48:00.000Z-Sdkb-2020-09-27T05:51:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-14" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Sdkb-2020-09-27T12:48:00.000Z-Sdkb-2020-09-27T05:51:00.000Z"></span></dd>
+<dd><span class="template-ping"><span data-mw-comment-start="" id="c-Bluerasberry-2020-09-27T15:23:00.000Z-Sdkb-2020-09-27T05:51:00.000Z"></span>@<a href="/wiki/User:Dcljr" title="User:Dcljr">Dcljr</a> and <a href="/wiki/User:Sdkb" title="User:Sdkb">Sdkb</a>:</span> Okay, several issues here:
+<ol><li>If anyone were to improve this page, then what should be done</li>
+<li>This is one of several high-traffic neglected pages. How can we identify such pages, perhaps with a process for listing high traffic pages?</li>
+<li>Suppose we identify high traffic neglected pages. Is a demographic of editors who would prefer to develop high-impact pages if they could find them, and if so, how do we communicate to them?</li></ol></dd>
+<dd>Massviews is one aspect of the Pageviews suite. There is also "Topviews", which right now presents the top articles in all of Wikipedia. I think what I really want is Topviews for arbitrary categories, like "topviews for each WikiProject" or in this case Topviews for all the Wikipedia help pages. I also would like some interpretation, like to know in a given year what amount of traffic puts an article in the top 1% or 10% of all articles in that category, just to help understand what the numbers mean.</dd>
+<dd>I do not have answers for any of this. I am just puzzling over how it came to be that pages can be super popular and also unnoticed in the editor community.</dd>
+<dd>About accessibility - I made a request for the WMF to build out recommendations. <a href="/wiki/Wikipedia:Village_pump_(WMF)#Request_for_accessibility_specifications" title="Wikipedia:Village pump (WMF)">Wikipedia:Village_pump_(WMF)#Request_for_accessibility_specifications</a>. I use buttons on some kinds of pages to increase accessibility, but if there were expert guidance to not do so, then I would quit. It is nice that Moxy found the recommendation, but that text is off-wiki and we have no easy to find in-house guidance.</dd>
+<dd>Thanks for the chat and the annual readership template. <a href="/wiki/User:Bluerasberry" title="User:Bluerasberry"><span style="background:#cedff2;color:#11e"><b> Blue Rasberry </b></span></a><a href="/wiki/User_talk:Bluerasberry" title="User talk:Bluerasberry"><span style="background:#cedff2;color:#11e">(talk)</span></a> 15:23, 27 September 2020 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2020-09-27T15:23:00.000Z&quot;,&quot;author&quot;:&quot;Bluerasberry&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:3,&quot;id&quot;:&quot;c-Bluerasberry-2020-09-27T15:23:00.000Z-Sdkb-2020-09-27T05:51:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Dcljr-2020-09-28T02:39:00.000Z-Bluerasberry-2020-09-27T15:23:00.000Z&quot;]}"><span id="ooui-php-15" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Bluerasberry-2020-09-27T15:23:00.000Z-Sdkb-2020-09-27T05:51:00.000Z"></span>
+<dl><dd><span data-mw-comment-start="" id="c-Dcljr-2020-09-28T02:39:00.000Z-Bluerasberry-2020-09-27T15:23:00.000Z"></span>This thread seems to be based on the premise that a page that's read a lot but not edited a lot is somehow a problem, indicating that it has "fallen through the cracks". I'm not sure that is necessarily true. What if the page seems to not be "noticed" by the editor community simply because everyone is satisfied with the way it is (well… except for Sdkb ;)? Note that, as I type this, <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Contents&amp;action=info#8,586_users_are_watching_this_project_page">8,586 users are watching this project page</a></span>, which seems to me to be a pretty high number. Not all of those will be editors, but I assume a large proportion of them are. - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 02:39, 28 September 2020 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2020-09-28T02:39:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:4,&quot;id&quot;:&quot;c-Dcljr-2020-09-28T02:39:00.000Z-Bluerasberry-2020-09-27T15:23:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-16" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2020-09-28T02:39:00.000Z-Bluerasberry-2020-09-27T15:23:00.000Z"></span></dd></dl></dd></dl></dd></dl>
+<h2 class="ext-discussiontools-init-section"><!--__DTSUBSCRIBEBUTTONDESKTOP__h-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z--><!--__DTSUBSCRIBELINK__h-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z--><span id="How_do_I_adjust_Wikipedia.E2.80.99s_clock_to_local_time_.28NYC_as_an_example_or_Iowa_City.29"></span><span class="mw-headline" id="How_do_I_adjust_Wikipedia’s_clock_to_local_time_(NYC_as_an_example_or_Iowa_City)" data-mw-comment="{&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z&quot;,&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-How_do_I_adjust_Wikipedia\u2019s_clock_to_local_time_(NYC_as_an_example_or_Iowa_Cit-2022-03-17T18:16:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z-How_do_I_adjust_Wikipedia\u2019s_clock_to_local_time_(NYC_as_an_example_or_Iowa_Cit&quot;]}"><span data-mw-comment-start="" id="h-How_do_I_adjust_Wikipedia’s_clock_to_local_time_(NYC_as_an_example_or_Iowa_Cit-2022-03-17T18:16:00.000Z"></span>How do I adjust Wikipedia’s clock to local time (NYC as an example or Iowa City)<span data-mw-comment-end="h-How_do_I_adjust_Wikipedia’s_clock_to_local_time_(NYC_as_an_example_or_Iowa_Cit-2022-03-17T18:16:00.000Z"></span></span><!--__DTELLIPSISBUTTON__--><div class="ext-discussiontools-init-section-bar"><div class="ext-discussiontools-init-section-metadata"><!--__DTLATESTCOMMENTTHREAD__{"id":"c-Dcljr-2022-03-18T02:44:00.000Z-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z","timestamp":"2022-03-18T02:44:00.000Z"}__--><!--__DTCOMMENTCOUNT__2__--><!--__DTAUTHORCOUNT__2__--></div><div class="ext-discussiontools-init-section-actions"><!--__DTSUBSCRIBEBUTTONMOBILE__h-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z--></div></div></h2>
+<p><span data-mw-comment-start="" id="c-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z-How_do_I_adjust_Wikipedia’s_clock_to_local_time_(NYC_as_an_example_or_Iowa_Cit"></span>I’m wanting to change Wikipedia’s clock to my time areas. How is that possible. Can somebody please clarify? <a href="/wiki/User:Tropical_Storm_Angela" title="User:Tropical Storm Angela"><span style="color:purple">Angela Kate Maureen</span></a> <a href="/wiki/User_talk:Tropical_Storm_Angela" title="User talk:Tropical Storm Angela"><span style="color:purple">Pears</span></a> 18:16, 17 March 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2022-03-17T18:16:00.000Z&quot;,&quot;author&quot;:&quot;Tropical Storm Angela&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:1,&quot;id&quot;:&quot;c-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z-How_do_I_adjust_Wikipedia\u2019s_clock_to_local_time_(NYC_as_an_example_or_Iowa_Cit&quot;,&quot;replies&quot;:[&quot;c-Dcljr-2022-03-18T02:44:00.000Z-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z&quot;]}"><span id="ooui-php-17" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z-How_do_I_adjust_Wikipedia’s_clock_to_local_time_(NYC_as_an_example_or_Iowa_Cit"></span>
+</p>
+<dl><dd><span data-mw-comment-start="" id="c-Dcljr-2022-03-18T02:44:00.000Z-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z"></span>This question should be asked at <a href="/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Wikipedia:Help desk</a>. When you ask it there, you should clarify what you mean by "Wikipedia's clock". - <a href="/wiki/User:Dcljr" title="User:Dcljr">dcljr</a> (<a href="/wiki/User_talk:Dcljr" title="User talk:Dcljr">talk</a>) 02:44, 18 March 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;2022-03-18T02:44:00.000Z&quot;,&quot;author&quot;:&quot;Dcljr&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:2,&quot;id&quot;:&quot;c-Dcljr-2022-03-18T02:44:00.000Z-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-18" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Dcljr-2022-03-18T02:44:00.000Z-Tropical_Storm_Angela-2022-03-17T18:16:00.000Z"></span></dd></dl>
+<h2 class="ext-discussiontools-init-section"><!--__DTSUBSCRIBEBUTTONDESKTOP__h-Interstellarity-20220811192300--><!--__DTSUBSCRIBELINK__h-Interstellarity-20220811192300--><span class="mw-headline" id="Redesigning_this_page" data-mw-comment="{&quot;headingLevel&quot;:2,&quot;name&quot;:&quot;h-Interstellarity-20220811192300&quot;,&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-Redesigning_this_page-20220811192300&quot;,&quot;replies&quot;:[&quot;c-Interstellarity-20220811192300-Redesigning_this_page&quot;]}"><span data-mw-comment-start="" id="h-Redesigning_this_page-20220811192300"></span>Redesigning this page<span data-mw-comment-end="h-Redesigning_this_page-20220811192300"></span></span><!--__DTELLIPSISBUTTON__--><div class="ext-discussiontools-init-section-bar"><div class="ext-discussiontools-init-section-metadata"><!--__DTLATESTCOMMENTTHREAD__{"id":"c-Interstellarity-20220816184000-Sdkb-20220812000900","timestamp":"20220816184000"}__--><!--__DTCOMMENTCOUNT__3__--><!--__DTAUTHORCOUNT__2__--></div><div class="ext-discussiontools-init-section-actions"><!--__DTSUBSCRIBEBUTTONMOBILE__h-Interstellarity-20220811192300--></div></div></h2>
+<p><span data-mw-comment-start="" id="c-Interstellarity-20220811192300-Redesigning_this_page"></span>I think that this page should be redesigned to look more like a table of contents page. This page is more about a table of contents for multiple tables of contents and I would like to see it look more like a list of articles. Pinging <a href="/wiki/User:Sdkb" title="User:Sdkb">Sdkb</a> to see if he/she has some ideas on what we do to improve the page. Other editors are welcome to comment as well. <a href="/wiki/User:Interstellarity" title="User:Interstellarity">Interstellarity</a> (<a href="/wiki/User_talk:Interstellarity" title="User talk:Interstellarity">talk</a>) 19:23, 11 August 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;20220811192300&quot;,&quot;author&quot;:&quot;Interstellarity&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:1,&quot;id&quot;:&quot;c-Interstellarity-20220811192300-Redesigning_this_page&quot;,&quot;replies&quot;:[&quot;c-Sdkb-20220812000900-Interstellarity-20220811192300&quot;]}"><span id="ooui-php-19" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Interstellarity-20220811192300-Redesigning_this_page"></span>
+</p>
+<dl><dd><span data-mw-comment-start="" id="c-Sdkb-20220812000900-Interstellarity-20220811192300"></span>What you're describing sounds more like <a href="/wiki/Wikipedia:Contents/Overviews" title="Wikipedia:Contents/Overviews">Wikipedia:Contents/Overviews</a>. Overall, it's tricky to ascertain who is ending up at the contents page and how they might best be served. People just don't browse Wikipedia via a table of contents; they almost always have a topic in mind and search for it. <span style="color:#AAA"><small>{{u|</small><span style="border-radius:9em;padding:0 5px;background:#088"><a href="/wiki/User:Sdkb" title="User:Sdkb"><span style="color:#FFF"><b>Sdkb</b></span></a></span><small>}}</small></span> <sup><a href="/wiki/User_talk:Sdkb" title="User talk:Sdkb"><b>talk</b></a></sup> 00:09, 12 August 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;20220812000900&quot;,&quot;author&quot;:&quot;Sdkb&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:2,&quot;id&quot;:&quot;c-Sdkb-20220812000900-Interstellarity-20220811192300&quot;,&quot;replies&quot;:[&quot;c-Interstellarity-20220816184000-Sdkb-20220812000900&quot;]}"><span id="ooui-php-20" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Sdkb-20220812000900-Interstellarity-20220811192300"></span>
+<dl><dd><span data-mw-comment-start="" id="c-Interstellarity-20220816184000-Sdkb-20220812000900"></span>@<a href="/wiki/User:Sdkb" title="User:Sdkb">Sdkb</a>: I have made some changes to the contents page. I have put the vital articles on top since they are Wikipedia's most important articles. What do you think of the design so far? Do you think it could be improved to serve most readers? You said that readers come here for all different reasons and was wondering how we could improve the page. Thanks, <a href="/wiki/User:Interstellarity" title="User:Interstellarity">Interstellarity</a> (<a href="/wiki/User_talk:Interstellarity" title="User talk:Interstellarity">talk</a>) 18:40, 16 August 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons" data-mw-comment="{&quot;timestamp&quot;:&quot;20220816184000&quot;,&quot;author&quot;:&quot;Interstellarity&quot;,&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:3,&quot;id&quot;:&quot;c-Interstellarity-20220816184000-Sdkb-20220812000900&quot;,&quot;replies&quot;:[]}"><span id="ooui-php-21" class="ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget" data-ooui='{"_":"OO.ui.ButtonWidget","rel":["nofollow"],"framed":false,"label":"Reply","flags":["progressive"],"classes":["ext-discussiontools-init-replybutton"]}'><a role="button" tabindex="0" rel="nofollow" class="oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive"></span><span class="oo-ui-labelElement-label">Reply</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive"></span></a></span><span class="ext-discussiontools-init-replylink-bracket">[</span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" href="">reply</a><span class="ext-discussiontools-init-replylink-bracket">]</span></span><span data-mw-comment-end="c-Interstellarity-20220816184000-Sdkb-20220812000900"></span></dd></dl></dd></dl><!--__DTLATESTCOMMENTPAGE__{"id":"c-Sardarhammadali21-20221015220400-The_CodersX","timestamp":"20221015220400","author":"Sardarhammadali21","heading":{"headingLevel":2,"name":"h-Sardarhammadali21-20221015220400","type":"heading","level":0,"id":"h-The_CodersX-20221015220400","replies":["c-Sardarhammadali21-20221015220400-The_CodersX"],"text":"The CodersX","linkableTitle":"The CodersX"}}__-->
+<!-- 
+NewPP limit report
+Parsed by mw1371
+Cached time: 20221028161437
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [show‐toc]
+DiscussionTools time usage: 0.073 seconds
+CPU time usage: 0.480 seconds
+Real time usage: 0.625 seconds
+Preprocessor visited node count: 1535/1000000
+Post‐expand include size: 160065/2097152 bytes
+Template argument size: 3506/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15802/5000000 bytes
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 3050398/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  343.478      1 -total
+ 20.34%   69.852      1 Wikipedia_talk:Contents/TopicsByFundamental
+ 18.03%   61.913      1 Template:Navbox_with_collapsible_groups
+ 16.99%   58.370      1 Template:Pp-vandalism
+ 14.59%   50.115      1 Template:Talk_header
+  7.11%   24.430      3 Template:Tmbox
+  6.84%   23.497      2 Template:Mbox
+  6.57%   22.550      1 Template:Annual_readership
+  5.84%   20.072      1 Template:Archive_box
+  5.64%   19.389      1 Template:Hidden
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14519186-0!canonical and timestamp 20221028161436 and revision id 1117306554.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Contents&amp;oldid=1117306554">https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:Contents&amp;oldid=1117306554</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Old_requests_for_peer_review" title="Category:Old requests for peer review">Old requests for peer review</a></li><li><a href="/wiki/Category:WikiProject_Contents_pages" title="Category:WikiProject Contents pages">WikiProject Contents pages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_the_Graph_extension" title="Category:Pages using the Graph extension">Pages using the Graph extension</a></li><li><a href="/wiki/Category:Wikipedia_semi-protected_talk_pages" title="Category:Wikipedia semi-protected talk pages">Wikipedia semi-protected talk pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia+talk%3AContents" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia+talk%3AContents" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-project" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="View the project page [c]" accesskey="c"><span>Project page</span></a></li><li id="ca-talk" class="selected mw-list-item"><a href="/wiki/Wikipedia_talk:Contents" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Wikipedia_talk:Contents"><span>Read</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/w/index.php?title=Wikipedia_talk:Contents&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Wikipedia_talk:Contents&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Wikipedia_talk:Contents" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Wikipedia_talk:Contents" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Wikipedia_talk:Contents&amp;oldid=1117306554" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Wikipedia_talk:Contents&amp;action=info" title="More information about this page"><span>Page information</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Wikipedia_talk%3AContents&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Wikipedia_talk:Contents&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 21 October 2022, at 00:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia_talk:Contents&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"discussiontools":{"limitreport-timeusage":"0.073"},"limitreport":{"cputime":"0.480","walltime":"0.625","ppvisitednodes":{"value":1535,"limit":1000000},"postexpandincludesize":{"value":160065,"limit":2097152},"templateargumentsize":{"value":3506,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15802,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  343.478      1 -total"," 20.34%   69.852      1 Wikipedia_talk:Contents/TopicsByFundamental"," 18.03%   61.913      1 Template:Navbox_with_collapsible_groups"," 16.99%   58.370      1 Template:Pp-vandalism"," 14.59%   50.115      1 Template:Talk_header","  7.11%   24.430      3 Template:Tmbox","  6.84%   23.497      2 Template:Mbox","  6.57%   22.550      1 Template:Annual_readership","  5.84%   20.072      1 Template:Archive_box","  5.64%   19.389      1 Template:Hidden"]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":3050398,"limit":52428800}},"cachereport":{"origin":"mw1371","timestamp":"20221028161437","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1420"});});</script>
+</body>
+</html>

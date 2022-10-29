@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Web widget - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2451e6d6-6959-4bbe-a62a-5880e71d4c8f","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Web_widget","wgTitle":"Web widget","wgCurRevisionId":1098947647,"wgRevisionId":1098947647,"wgArticleId":6725861,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: url-status","Articles with short description","Short description matches Wikidata","Wikipedia articles with style issues from April 2016","All articles with style issues","Articles needing additional references from September 2013","All articles needing additional references",
+"Articles with multiple maintenance issues","Widget engines","Blogs","Internet terminology"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Web_widget","wgRelevantArticleId":6725861,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q901543",
+"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.7"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Web widget - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Web_widget"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Web_widget&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Web_widget"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Web_widget rootpage-Web_widget skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Web widget</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Applet intended to be used within web pages</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><style data-mw-deduplicate="TemplateStyles:r1086701767">.mw-parser-output .multiple-issues-text{width:95%;margin:0.2em 0}.mw-parser-output .multiple-issues-text>.mw-collapsible-content{margin-top:0.3em}.mw-parser-output .compact-ambox .ambox{border:none;border-collapse:collapse;background-color:transparent;margin:0 0 0 1.6em!important;padding:0!important;width:auto;display:block}body.mediawiki .mw-parser-output .compact-ambox .ambox.mbox-small-left{font-size:100%;width:auto;margin:0}.mw-parser-output .compact-ambox .ambox .mbox-text{padding:0!important;margin:0!important}.mw-parser-output .compact-ambox .ambox .mbox-text-span{display:list-item;line-height:1.5em;list-style-type:disc}.mw-parser-output .compact-ambox .ambox .mbox-image,.mw-parser-output .compact-ambox .ambox .mbox-imageright,.mw-parser-output .compact-ambox .ambox .mbox-empty-cell,.mw-parser-output .compact-ambox .hide-when-compact{display:none}</style><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="multiple-issues-text mw-collapsible"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_widget&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Web_widget" title="Talk:Web widget">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content">
+      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"/><table class="box-Manual plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#GUIDE" title="Wikipedia:What Wikipedia is not">a manual or guidebook</a>.</b><span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_widget&amp;action=edit">rewrite this article</a> from a descriptive, <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>, and remove advice or instruction.</span>  <span class="date-container"><i>(<span class="date">April 2016</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1097763485"/><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_widget&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Web+widget%22">"Web widget"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Web+widget%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Web+widget%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Web+widget%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Web+widget%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Web+widget%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">September 2013</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+    </div>
+</div><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<p>A <b>web widget</b> is a <a href="/wiki/Web_page" title="Web page">web page</a> or <a href="/wiki/Web_application" title="Web application">web application</a> that is embedded as an element of a host web page but which is substantially independent of the host page, having limited or no interaction with the host.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> A web widget commonly provides users of the host page access to resources from another web site, content that the host page may be prevented from accessing itself by the  browser's <a href="/wiki/Same-origin_policy" title="Same-origin policy">same-origin policy</a> or the content provider's <a href="/wiki/Cross-origin_resource_sharing" title="Cross-origin resource sharing">CORS</a> policy. That content includes advertising (<a href="/wiki/Google" title="Google">Google</a>'s <a href="/wiki/AdSense" class="mw-redirect" title="AdSense">AdSense</a>), sponsored external links (<a href="/wiki/Taboola" title="Taboola">Taboola</a>),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> user comments (<a href="/wiki/Disqus" title="Disqus">Disqus</a>),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> social media buttons (<a href="/wiki/Twitter" title="Twitter">Twitter</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> <a href="/wiki/Facebook_like_button#Plug-in" title="Facebook like button">Facebook</a>), news (<a href="/wiki/USA_Today" title="USA Today">USA Today</a>),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and weather (<a href="/wiki/AccuWeather" title="AccuWeather">AccuWeather</a>).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Some web widgets though serve as user-selectable customizations of the host page itself (<a href="/w/index.php?title=My_Google!&amp;action=edit&amp;redlink=1" class="new" title="My Google! (page does not exist)">My Google!</a>).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Technology"><span class="tocnumber">1</span> <span class="toctext">Technology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Usage_in_social_media"><span class="tocnumber">2</span> <span class="toctext">Usage in social media</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Security_considerations"><span class="tocnumber">3</span> <span class="toctext">Security considerations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#SEO_considerations"><span class="tocnumber">4</span> <span class="toctext">SEO considerations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Accessibility_considerations"><span class="tocnumber">5</span> <span class="toctext">Accessibility considerations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Widget_management_systems"><span class="tocnumber">6</span> <span class="toctext">Widget management systems</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Mobile_Web_widget"><span class="tocnumber">7</span> <span class="toctext">Mobile Web widget</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Standards"><span class="tocnumber">8</span> <span class="toctext">Standards</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Technology">Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=1" title="Edit section: Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Widgets may be considered as downloadable applications which look and act like traditional apps but are implemented using web technologies including <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>,  <a href="/wiki/HTML" title="HTML">HTML</a> and <a href="/wiki/CSS" title="CSS">CSS</a>.  Widgets use and depend on web <a href="/wiki/API" title="API">APIs</a> exposed either by the browser or by a widget engine such as Akamai, <a href="/wiki/Clearspring" class="mw-redirect" title="Clearspring">Clearspring</a>, <a href="/wiki/KickApps" title="KickApps">KickApps</a>, MassPublisher, <a href="/wiki/NewsGator" class="mw-redirect" title="NewsGator">NewsGator</a> or many others.
+</p><p>Sites such as FormLoop allow users to easily create widgets from their own content with no coding knowledge necessary.
+</p>
+<h2><span class="mw-headline" id="Usage_in_social_media">Usage in social media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=2" title="Edit section: Usage in social media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>End users primarily use widgets to enhance their personal web experiences, or the web experiences of visitors to their personal sites.
+</p><p>The use of widgets has proven increasingly popular, where users of social media are able to add stand-alone applications to blogs, profiles and community pages. Widgets add utility in the same way that an iPhone application does. The developers of these widgets are often offering them as a form of sponsored content, which can pay for the cost of the development when the widgets' utility maps to the user's needs in a way where both parties gain. For example, a sports news brand might gain awareness and increased audience share in exchange for the utility of current game scores being instantly and dynamically available - the blog which posted the Sports score widget might gain in having a stickier site.
+</p><p><a href="/wiki/Online_video_platform" title="Online video platform">Video platforms</a> such as <a href="/wiki/YouTube" title="YouTube">YouTube</a> and <a href="/wiki/Dailymotion" title="Dailymotion">Dailymotion</a> support <a href="/wiki/HTML_element#Frames" title="HTML element">iframe</a>-based video embedding.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Security_considerations">Security considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=3" title="Edit section: Security considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As any program code, widgets can be used for malicious purposes. One example is the <a href="/wiki/Facebook" title="Facebook">Facebook</a> "Secret Crush" widget, reported in early 2008 by <a href="/wiki/Fortinet" title="Fortinet">Fortinet</a> as luring users to install <a href="/wiki/Zango_(company)" title="Zango (company)">Zango</a> <a href="/wiki/Adware" title="Adware">adware</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>One important factor with client-side widgets is that often the host can not control the content. The content or the functionality it provides cannot be modified by the host. The content is pre-published by the publisher/author/service provider and the host can either accept that content or not use the widget.  The host does, however, control the placement of the Widget. Because the host can always take the Widget down, it assures a large degree of mutual advantage and satisfaction with performance and content.
+</p>
+<h2><span class="mw-headline" id="SEO_considerations">SEO considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=4" title="Edit section: SEO considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Web widgets can affect page rank in two ways. First, links generated by client-side widgets won't be seen by search engines that don't "run" the widget code before analysing the page. Those links won't contribute to page rank.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>  Second, pages may be penalized for hosting widgets that automatically place links into the page, thereby manipulating page rank.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Accessibility_considerations">Accessibility considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=5" title="Edit section: Accessibility considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Web widgets are complex UI controls. WAI-ARIA<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> is a technology that can improve the Usability and Accessibility of such widgets by adding in further semantics that browsers and assistive technologies can recognize and use to facilitate users' interactions. For example, a tabpanel widget must contain a specific set of roles (i.e. tablist, tab, tabpanel, etc.)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> and must follow specific interactions (i.e. keyboard navigation).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Widget_management_systems">Widget management systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=6" title="Edit section: Widget management systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Widget_engine" class="mw-redirect" title="Widget engine">Widget engine</a></div>
+<p>Widget management systems offer a method of managing widgets that works on any web page, such as a blog or social networking home page. Many blog systems come with built-in widget management systems as plug-ins. Users can obtain widgets and other widget management tools from various widget companies.
+</p>
+<h2><span class="mw-headline" id="Mobile_Web_widget">Mobile Web widget</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=7" title="Edit section: Mobile Web widget">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A Mobile Web widget has the same purpose and function as a web widget, but it is made for use on a <a href="/wiki/Mobile_device" title="Mobile device">mobile device</a> such as mobile phone or tablet. In contrast, a web widget is on a personal computer or laptop computer
+</p>
+<h2><span class="mw-headline" id="Standards">Standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=8" title="Edit section: Standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The W3C is creating a set of standards for web widgets.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFBrad_at_CD_Baby2012" class="citation web cs1">Brad at CD Baby (August 28, 2012). <a rel="nofollow" class="external text" href="http://blog.hostbaby.com/2012/08/website-widgets-what-are-they-and-why-do-i-need-them/">"Website Widgets: What Are They and Why Do I Need Them?"</a>. <i>The HostBaby Blog</i>. <q>Widgets: They’re those little doo-dads you see on websites, often in the sidebar, that perform one simple function and don’t take up much room while they’re doing it.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+HostBaby+Blog&amp;rft.atitle=Website+Widgets%3A+What+Are+They+and+Why+Do+I+Need+Them%3F&amp;rft.date=2012-08-28&amp;rft.au=Brad+at+CD+Baby&amp;rft_id=http%3A%2F%2Fblog.hostbaby.com%2F2012%2F08%2Fwebsite-widgets-what-are-they-and-why-do-i-need-them%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://pubhelp.taboola.com/hc/en-us/articles/360003205033-Widgets">"Widgets - Taboola Publisher Help Center"</a>. <i>taboola.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=taboola.com&amp;rft.atitle=Widgets+-+Taboola+Publisher+Help+Center&amp;rft_id=https%3A%2F%2Fpubhelp.taboola.com%2Fhc%2Fen-us%2Farticles%2F360003205033-Widgets&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://help.disqus.com/developer/web-integration">"Web Integration"</a>. <i>disqus.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=disqus.com&amp;rft.atitle=Web+Integration&amp;rft_id=https%3A%2F%2Fhelp.disqus.com%2Fdeveloper%2Fweb-integration&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://help.twitter.com/en/using-twitter/add-twitter-share-button">"How to add the Tweet button to your website"</a>. <i>twitter.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=twitter.com&amp;rft.atitle=How+to+add+the+Tweet+button+to+your+website&amp;rft_id=https%3A%2F%2Fhelp.twitter.com%2Fen%2Fusing-twitter%2Fadd-twitter-share-button&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://usatoday30.usatoday.com/community/widgets/">"USATODAY.com Widgets"</a>. <i>usatoday.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=usatoday.com&amp;rft.atitle=USATODAY.com+Widgets&amp;rft_id=https%3A%2F%2Fusatoday30.usatoday.com%2Fcommunity%2Fwidgets%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.accuweather.com/en/free-weather-widgets/current">"Free Current Weather Widget"</a>. <i>accuweather.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=accuweather.com&amp;rft.atitle=Free+Current+Weather+Widget&amp;rft_id=https%3A%2F%2Fwww.accuweather.com%2Fen%2Ffree-weather-widgets%2Fcurrent&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://support.google.com/youtube/answer/171780?hl=en">"Embed videos &amp; playlists - YouTube Help"</a>. <i>support.google.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=support.google.com&amp;rft.atitle=Embed+videos+%26+playlists+-+YouTube+Help&amp;rft_id=https%3A%2F%2Fsupport.google.com%2Fyoutube%2Fanswer%2F171780%3Fhl%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://faq.dailymotion.com/hc/en-us/articles/115008959787-Embedding-videos">"Embedding videos"</a>. <i>Dailymotion Help Center</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dailymotion+Help+Center&amp;rft.atitle=Embedding+videos&amp;rft_id=https%3A%2F%2Ffaq.dailymotion.com%2Fhc%2Fen-us%2Farticles%2F115008959787-Embedding-videos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: url-status (<a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">link</a>)</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130605112311/http://blog.anta.net/2008/01/05/widget-inflicts-malware-facebook-ignores-advisory/">"Internetworking, security, safety and more"</a>. Blog.anta.net. Archived from <a rel="nofollow" class="external text" href="http://blog.anta.net/2008/01/05/widget-inflicts-malware-facebook-ignores-advisory/">the original</a> on 5 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Internetworking%2C+security%2C+safety+and+more&amp;rft.pub=Blog.anta.net&amp;rft_id=http%3A%2F%2Fblog.anta.net%2F2008%2F01%2F05%2Fwidget-inflicts-malware-facebook-ignores-advisory%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFTroshchey" class="citation web cs1">Troshchey, Yarry. <a rel="nofollow" class="external text" href="http://www.southcoastweb.co.uk/how-web-widgets-affect-seo">"How Web Widgets Affect SEO"</a>. <i>South Coast Web Design Ltd</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=South+Coast+Web+Design+Ltd&amp;rft.atitle=How+Web+Widgets+Affect+SEO&amp;rft.aulast=Troshchey&amp;rft.aufirst=Yarry&amp;rft_id=http%3A%2F%2Fwww.southcoastweb.co.uk%2Fhow-web-widgets-affect-seo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://webmasters.googleblog.com/2016/09/a-reminder-about-widget-links.html">"A reminder about widget links"</a>. <i>Official Google Webmaster Central Blog</i>. September 8, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Google+Webmaster+Central+Blog&amp;rft.atitle=A+reminder+about+widget+links&amp;rft.date=2016-09-08&amp;rft_id=https%3A%2F%2Fwebmasters.googleblog.com%2F2016%2F09%2Fa-reminder-about-widget-links.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics">"WAI-ARIA Basics"</a>. <i>MDN Web Docs</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MDN+Web+Docs&amp;rft.atitle=WAI-ARIA+Basics&amp;rft_id=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FLearn%2FAccessibility%2FWAI-ARIA_basics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Tab_Role">"ARIA: tab role"</a>. <i>MDN Web Docs</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MDN+Web+Docs&amp;rft.atitle=ARIA%3A+tab+role&amp;rft_id=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FAccessibility%2FARIA%2FRoles%2FTab_Role&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.w3.org/wiki/TabPanel#Keyboard_Interaction">"Keyboard Interaction"</a>. <i>W3.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=W3.org&amp;rft.atitle=Keyboard+Interaction&amp;rft_id=https%3A%2F%2Fwww.w3.org%2Fwiki%2FTabPanel%23Keyboard_Interaction&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.w3.org/2008/webapps/wiki/WidgetSpecs">"Web Application Working Group's Widgets: Family of Specifications"</a>. W3C<span class="reference-accessdate">. Retrieved <span class="nowrap">27 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Application+Working+Group%27s+Widgets%3A+Family+of+Specifications&amp;rft.pub=W3C&amp;rft_id=http%3A%2F%2Fwww.w3.org%2F2008%2Fwebapps%2Fwiki%2FWidgetSpecs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+widget" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_widget&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Rajesh Lal; <i><a rel="nofollow" class="external text" href="http://widgets-gadgets.com/?page_id=2">Developing Web Widget with HTML, CSS, JSON, and AJAX</a></i> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781450502283" title="Special:BookSources/9781450502283">9781450502283</a>)</li>
+<li>Soylu, A., Wild, F., Mödritscher, F., Desmet, P., Verlinde, S., De Causmaecker, P. (2011). <a rel="nofollow" class="external text" href="https://lirias.kuleuven.be/bitstream/123456789/318478/2/50.pdf">Mashups and Widget Orchestration.</a> The International Conference on Management of Emergent Digital EcoSystems, MEDES 2011. San Francisco, California, USA, 21–24 November 2011. ACM.</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1351
+Cached time: 20221026152132
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.287 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 1298/1000000
+Post‐expand include size: 55057/2097152 bytes
+Template argument size: 9407/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49581/5000000 bytes
+Lua time usage: 0.178/10.000 seconds
+Lua memory usage: 6997394/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  342.069      1 -total
+ 45.71%  156.365      3 Template:Ambox
+ 38.68%  132.311      1 Template:Reflist
+ 33.24%  113.713     15 Template:Cite_web
+ 31.02%  106.110      1 Template:Multiple_issues
+ 14.37%   49.169      1 Template:Short_description
+ 11.46%   39.195      1 Template:Manual
+ 10.43%   35.680      1 Template:More_citations_needed
+  8.09%   27.657      2 Template:Pagetype
+  7.49%   25.621      1 Template:ISBN
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6725861-0!canonical and timestamp 20221026152131 and revision id 1098947647.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Web_widget&amp;oldid=1098947647">https://en.wikipedia.org/w/index.php?title=Web_widget&amp;oldid=1098947647</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Widget_engines" title="Category:Widget engines">Widget engines</a></li><li><a href="/wiki/Category:Blogs" title="Category:Blogs">Blogs</a></li><li><a href="/wiki/Category:Internet_terminology" title="Category:Internet terminology">Internet terminology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">CS1 maint: url-status</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_April_2016" title="Category:Wikipedia articles with style issues from April 2016">Wikipedia articles with style issues from April 2016</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2013" title="Category:Articles needing additional references from September 2013">Articles needing additional references from September 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Web+widget" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Web+widget" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Web_widget" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Web_widget" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Web_widget"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Web_widget&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Web_widget&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Web_widget" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Web_widget" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Web_widget&amp;oldid=1098947647" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Web_widget&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Web_widget&amp;id=1098947647&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q901543" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Web_widget&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Web_widget&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%86%D8%B5%D8%B1_%D8%AA%D8%AD%D9%83%D9%85_%D9%88%D9%8A%D8%A8" title="عنصر تحكم ويب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%A8_%D9%88%DB%8C%D8%AC%D8%AA" title="وب ویجت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Web_widget" title="Web widget – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%91%E3%83%BC%E3%83%84" title="ブログパーツ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Web_Widget" title="Web Widget – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q901543#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 18 July 2022, at 07:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Web_widget&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.287","walltime":"0.374","ppvisitednodes":{"value":1298,"limit":1000000},"postexpandincludesize":{"value":55057,"limit":2097152},"templateargumentsize":{"value":9407,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49581,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  342.069      1 -total"," 45.71%  156.365      3 Template:Ambox"," 38.68%  132.311      1 Template:Reflist"," 33.24%  113.713     15 Template:Cite_web"," 31.02%  106.110      1 Template:Multiple_issues"," 14.37%   49.169      1 Template:Short_description"," 11.46%   39.195      1 Template:Manual"," 10.43%   35.680      1 Template:More_citations_needed","  8.09%   27.657      2 Template:Pagetype","  7.49%   25.621      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.178","limit":"10.000"},"limitreport-memusage":{"value":6997394,"limit":52428800}},"cachereport":{"origin":"mw1351","timestamp":"20221026152132","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Web widget","url":"https:\/\/en.wikipedia.org\/wiki\/Web_widget","sameAs":"http:\/\/www.wikidata.org\/entity\/Q901543","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q901543","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-28T02:09:56Z","dateModified":"2022-07-18T07:24:57Z","headline":"applet intended to be used within web pages"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Web widget","url":"https:\/\/en.wikipedia.org\/wiki\/Web_widget","sameAs":"http:\/\/www.wikidata.org\/entity\/Q901543","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q901543","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-28T02:09:56Z","dateModified":"2022-07-18T07:24:57Z","headline":"applet intended to be used within web pages"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1366"});});</script>
+</body>
+</html>

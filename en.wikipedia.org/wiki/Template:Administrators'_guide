@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Template:Administrators' guide - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"249a3bf2-ecf3-493b-b706-22095276d224","wgCSPNonce":false,"wgCanonicalNamespace":"Template","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":10,"wgPageName":"Template:Administrators'_guide","wgTitle":"Administrators' guide","wgCurRevisionId":770593732,"wgRevisionId":770593732,"wgArticleId":16379759,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected templates","Wikipedia Administrators' guide","Wikipedia help navigation"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Template:Administrators'_guide","wgRelevantArticleId":16379759,
+"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":2000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q10818101","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Template:Administrators&#039; guide - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Template:Administrators%27_guide"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Template:Administrators%27_guide"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-10 ns-subject page-Template_Administrators_guide rootpage-Template_Administrators_guide skin-vector action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-legacy-toc-disabled vector-feature-visual-enhancement-next-disabled vector-feature-article-tools-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This high-risk template is permanently semi-protected to prevent vandalism"><img alt="Permanently protected template" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">Template</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Administrators' guide</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Administrators&amp;#039;_guide" style="padding:3px"><table class="nowraplinks hlist mw-collapsible &#123;&#123;&#123;state&#125;&#125;&#125; navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a class="mw-selflink selflink"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Administrators%27_guide" title="Template talk:Administrators&#39; guide"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Administrators&amp;#039;_guide" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedia:Administrators%27_guide" title="Wikipedia:Administrators&#39; guide">Administrators' guide</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Articles</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Advice_for_new_administrators" title="Wikipedia:Advice for new administrators">Advice for new administrators</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Blocking" title="Wikipedia:Administrators&#39; guide/Blocking">Blocking</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Cleaning_backlogs" title="Wikipedia:Administrators&#39; guide/Cleaning backlogs">Cleaning backlogs</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Dealing_with_disputes" title="Wikipedia:Administrators&#39; guide/Dealing with disputes">Dealing with disputes</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Dealing_with_spam" title="Wikipedia:Administrators&#39; guide/Dealing with spam">Dealing with spam</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Deleting" title="Wikipedia:Administrators&#39; guide/Deleting">Deleting</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Edit_filters" title="Wikipedia:Administrators&#39; guide/Edit filters">Edit filters</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Fixing_cut-and-paste_moves" title="Wikipedia:Administrators&#39; guide/Fixing cut-and-paste moves">Fixing cut-and-paste moves</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Granting_and_revoking_user_rights" title="Wikipedia:Administrators&#39; guide/Granting and revoking user rights">Granting and revoking user rights</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Protecting" title="Wikipedia:Administrators&#39; guide/Protecting">Protecting</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_reading_list" title="Wikipedia:Administrators&#39; reading list">Reading list</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Rollback" title="Wikipedia:Administrators&#39; guide/Rollback">Rollback</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Tools" title="Wikipedia:Administrators&#39; guide/Tools">Tools, scripts and gadgets</a></li>
+<li><a href="/wiki/Wikipedia:Administrators%27_guide/Viewing_deleted_pages" title="Wikipedia:Administrators&#39; guide/Viewing deleted pages">Viewing deleted pages and contributions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Policies</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Administrators" title="Wikipedia:Administrators">Administrator policy</a> (WP:ADMIN)</li>
+<li><a href="/wiki/Wikipedia:Banning_policy" title="Wikipedia:Banning policy">Banning policy</a> (WP:BAN)</li>
+<li><a href="/wiki/Wikipedia:Blocking_policy" title="Wikipedia:Blocking policy">Blocking policy</a> (WP:BLOCK)</li>
+<li><a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">Deletion policy</a> (WP:DEL)</li>
+<li><a href="/wiki/Wikipedia:Protection_policy" title="Wikipedia:Protection policy">Protection policy</a> (WP:PROTECT)</li>
+<li><a href="/wiki/Wikipedia:Revision_deletion" title="Wikipedia:Revision deletion">Revision deletion policy</a> (WP:REVDEL)</li></ul>
+</div></td></tr></tbody></table></div><style data-mw-deduplicate="TemplateStyles:r989579069">.mw-parser-output .documentation,.mw-parser-output .documentation-metadata{border:1px solid #a2a9b1;background-color:#ecfcf4;clear:both}.mw-parser-output .documentation{margin:1em 0 0 0;padding:1em}.mw-parser-output .documentation-metadata{margin:0.2em 0;font-style:italic;padding:0.4em 1em}.mw-parser-output .documentation-startbox{padding-bottom:3px;border-bottom:1px solid #aaa;margin-bottom:1ex}.mw-parser-output .documentation-heading{font-weight:bold;font-size:125%}.mw-parser-output .documentation-clear{clear:both}.mw-parser-output .documentation-toolbar{font-style:normal;font-size:85%}</style><div class="documentation-container" role="complementary" aria-labelledby="documentation-heading">
+<div class="documentation">
+<div class="documentation-startbox">
+<span class="documentation-heading" id="documentation-heading"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Test_Template_Info-Icon_-_Version_%282%29.svg/50px-Test_Template_Info-Icon_-_Version_%282%29.svg.png" decoding="async" width="50" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Test_Template_Info-Icon_-_Version_%282%29.svg/75px-Test_Template_Info-Icon_-_Version_%282%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Test_Template_Info-Icon_-_Version_%282%29.svg/100px-Test_Template_Info-Icon_-_Version_%282%29.svg.png 2x" data-file-width="1792" data-file-height="800" /> Template documentation</span><span class="mw-editsection-like plainlinks">&#91;<a href="/wiki/Template:Administrators%27_guide/doc" title="Template:Administrators&#39; guide/doc">view</a>&#93; &#91;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide/doc&amp;action=edit">edit</a>&#93; &#91;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide/doc&amp;action=history">history</a>&#93; &#91;<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide&amp;action=purge">purge</a>&#93;</span></div>
+<style data-mw-deduplicate="TemplateStyles:r1109926852">.mw-parser-output .module-shortcutboxplain{float:right;margin:0 0 0 1em;border:1px solid #aaa;background:#fff;padding:0.3em 0.6em 0.2em 0.6em;text-align:center;font-size:85%}.mw-parser-output .module-shortcutboxleft{float:left;margin:0 1em 0 0}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:0.2em}.mw-parser-output .module-shortcutboxplain>ul{font-weight:bold}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}.mw-parser-output li .module-shortcutanchordiv{float:right}.mw-parser-output .mbox-imageright .module-shortcutboxplain{padding:0.4em 1em 0.4em 1em;line-height:1.3;margin:0}</style><div class="module-shortcutanchordiv"><span id="admin_guide"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li>&#123;&#123;<span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Admin_guide&amp;redirect=no">admin guide</a></span>&#125;&#125;</li></ul></div>
+<p>Use <code> {{Administrators' guide|state=collapsed}} </code> to show this template in its collapsed (hidden) state. <br />
+Use  <code>{{Administrators' guide|state=expanded}} </code> to show this template in its expanded (uncollapsed) state. (This is the default.) <br />
+Use  <code>{{Administrators' guide|state=autocollapse}} </code> to show this template in its collapsed (hidden) state only if there is another template of the same type on the page.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="navbox-styles nomobile"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"/></div><div role="navigation" class="navbox" aria-labelledby="Wikipedia_editor_navigation_templates" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Wikipedia_editor_navigation_templates" title="Template:Wikipedia editor navigation templates"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia_editor_navigation_templates" title="Template talk:Wikipedia editor navigation templates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Wikipedia_editor_navigation_templates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Wikipedia_editor_navigation_templates" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedia:Wikipedians" title="Wikipedia:Wikipedians">Wikipedia editor</a> <a href="/wiki/Wikipedia:Navigation_template" title="Wikipedia:Navigation template">navigation templates</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Help page navboxes</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:Wikipedia_accounts" title="Template:Wikipedia accounts">Accounts</a></li>
+<li><a class="mw-selflink selflink">Administrators' guide</a></li>
+<li><a href="/wiki/Template:Basic_information" title="Template:Basic information">Basic information</a></li>
+<li><a href="/wiki/Template:Wikipedia_categorization_navbox" title="Template:Wikipedia categorization navbox">Categorization</a></li>
+<li><a href="/wiki/Template:Citation_metadata_navbox" title="Template:Citation metadata navbox">Citation metadata</a></li>
+<li><a href="/wiki/Template:CSS_and_JS_MediaWiki_messages" title="Template:CSS and JS MediaWiki messages">CSS and JS files</a></li>
+<li><a href="/wiki/Template:Wikipedia_directories" title="Template:Wikipedia directories">Directories and indexes</a></li>
+<li><a href="/wiki/Template:Wikipedia_dos_and_don%27ts" title="Template:Wikipedia dos and don&#39;ts">Dos and don'ts</a></li>
+<li><a href="/wiki/Template:Wikipedia_essays" title="Template:Wikipedia essays">Essays</a></li>
+<li><a href="/wiki/Template:Handling_miscellanea" title="Template:Handling miscellanea">Handling miscellanea</a></li>
+<li><a href="/wiki/Template:Help_desk_searches" title="Template:Help desk searches">Help desk searches</a></li>
+<li><a href="/wiki/Template:Wikipedia_help_pages" title="Template:Wikipedia help pages">Help pages</a></li>
+<li><a href="/wiki/Template:IPA_keys" title="Template:IPA keys">IPA keys</a></li>
+<li><a href="/wiki/Template:List_navbox" title="Template:List navbox">Lists</a></li>
+<li><a href="/wiki/Template:Manual_of_Style" title="Template:Manual of Style">Manual of Style</a></li>
+<li><a href="/wiki/Template:MediaWiki_messages" title="Template:MediaWiki messages">MediaWiki messages</a></li>
+<li><a href="/wiki/Template:Wikipedia_principles" title="Template:Wikipedia principles">Principles</a></li>
+<li><a href="/wiki/Template:Wikipedia_policies_and_guidelines" title="Template:Wikipedia policies and guidelines">Policies and guidelines</a></li>
+<li><a href="/wiki/Template:Wikipedia_referencing" title="Template:Wikipedia referencing">Referencing</a></li>
+<li><a href="/wiki/Template:Relevance_and_scope" title="Template:Relevance and scope">Relevance and scope</a></li>
+<li><a href="/wiki/Template:Rule_summaries" title="Template:Rule summaries">Rule summaries</a></li>
+<li><a href="/wiki/Template:Wikipedia_sockpuppetry" title="Template:Wikipedia sockpuppetry">Sock puppetry</a></li>
+<li><a href="/wiki/Template:Speedy_deletion_navbox" title="Template:Speedy deletion navbox">Speedy deletion navbox</a></li>
+<li><a href="/wiki/Template:Wikipedia_technical_help" title="Template:Wikipedia technical help">Technical help</a></li>
+<li><a href="/wiki/Template:Wikipedia_templates" title="Template:Wikipedia templates">Templates</a>
+<ul><li><a href="/wiki/Template:Quicktemplates" title="Template:Quicktemplates">Quick templates</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:User_scripts/Navbox" title="Wikipedia:User scripts/Navbox">User scripts</a></li>
+<li><a href="/wiki/Template:Writing_guides" title="Template:Writing guides">Writing guides</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Community navboxes</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:Active_Wiki_Fixup_Projects" title="Template:Active Wiki Fixup Projects">Active Wiki Fixup Projects</a></li>
+<li><a href="/wiki/Template:Arbitration_Committee_Elections" title="Template:Arbitration Committee Elections">ArbCom Elections</a></li>
+<li><a href="/wiki/Template:Wikipedia_community" title="Template:Wikipedia community">Community</a></li>
+<li><a href="/wiki/Template:Core_topics" title="Template:Core topics">Core topics</a></li>
+<li><a href="/wiki/Template:Deletion_debates_navbar" title="Template:Deletion debates navbar">Deletion debates</a></li>
+<li><a href="/wiki/Template:Goings-on" title="Template:Goings-on">Goings-on</a></li>
+<li><a href="/wiki/Template:History_of_Wikipedia" title="Template:History of Wikipedia">History of Wikipedia</a></li>
+<li><a href="/wiki/Template:Wikipedia_in_the_media" title="Template:Wikipedia in the media">In the media</a></li>
+<li><a href="/wiki/Template:AbuseNavigation" title="Template:AbuseNavigation">Long term abuse</a></li>
+<li><a href="/wiki/Template:Noticeboard_links" title="Template:Noticeboard links">Noticeboards</a>
+<ul><li><a href="/wiki/Template:Regional_Wikipedian_notice_boards" title="Template:Regional Wikipedian notice boards">Regional notice boards</a></li></ul></li>
+<li><a href="/wiki/Template:Main_Page_topics" title="Template:Main Page topics">Main Page topics</a></li>
+<li><a href="/wiki/Wikipedia:Meetup_Box" title="Wikipedia:Meetup Box">Meetups</a></li>
+<li><a href="/wiki/Template:Orders,_decorations,_and_medals_of_Wikipedia" title="Template:Orders, decorations, and medals of Wikipedia">Orders, decorations, and medals</a></li>
+<li><a href="/wiki/Template:Requested_content" title="Template:Requested content">Requested articles</a>
+<ul><li><a href="/wiki/Template:Requested_articles_navbox" title="Template:Requested articles navbox">Requested articles by country</a></li></ul></li>
+<li><a href="/wiki/Template:Requests_for_permissions" title="Template:Requests for permissions">Requests for permissions</a></li>
+<li><a href="/wiki/Template:RfA_Navigation" title="Template:RfA Navigation">RfA</a>
+<ul><li><a href="/wiki/Template:Requests_for_adminship_by_year" title="Template:Requests for adminship by year">RfA by year</a></li></ul></li>
+<li><a href="/wiki/Template:RFC_list_footer" title="Template:RFC list footer">RFC list</a></li>
+<li><a href="/wiki/Template:BJAODN" title="Template:BJAODN">Silly things</a></li>
+<li><a href="/wiki/Wikipedia:Teahouse/Host_navigation" title="Wikipedia:Teahouse/Host navigation">Teahouse host pages</a></li>
+<li><a href="/wiki/Template:Transwiki_maintenance" title="Template:Transwiki maintenance">Transwiki maintenance</a></li>
+<li><a href="/wiki/Template:WikiFauna" title="Template:WikiFauna">WikiFauna</a></li>
+<li><a href="/wiki/Template:Wikipediholism" title="Template:Wikipediholism">Wikipediholism</a></li>
+<li><a href="/wiki/Template:WikiProject_Footer" title="Template:WikiProject Footer">WikiProjects</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other navboxes</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:Help_desk_searches" title="Template:Help desk searches">Help desk searches</a></li>
+<li><a href="/wiki/Template:User_toolbox" title="Template:User toolbox">User toolbox</a>
+<ul><li><a href="/wiki/Template:RfA_toolbox" title="Template:RfA toolbox">RfA/RfB</a></li></ul></li>
+<li><a href="/wiki/Template:Wikipedia" title="Template:Wikipedia">Wikipedia</a>
+<ul><li><a href="/wiki/Template:Wikipedias" title="Template:Wikipedias">Languages</a></li></ul></li>
+<li><a href="/wiki/Template:Wikimedia_Foundation" title="Template:Wikimedia Foundation">Wikimedia Foundation</a></li>
+<li><a href="/wiki/Template:TWLJ" title="Template:TWLJ">The Wikipedia Library resources</a>
+<ul><li><a href="/wiki/Wikipedia:The_Wikipedia_Library/Navbox" title="Wikipedia:The Wikipedia Library/Navbox">The Wikipedia Library Navbox</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">All-in-one navboxes</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:Wikipedia_editor_navigation" title="Template:Wikipedia editor navigation">Editor navigation</a></li>
+<li><a href="/wiki/Template:Useful_links" title="Template:Useful links">Useful links</a></li>
+<li><a href="/wiki/Template:Tools" title="Template:Tools">Tools</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Rule sidebars</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:Guideline_list" title="Template:Guideline list">Guideline list</a>
+<ul><li><a href="/wiki/Template:Style" title="Template:Style">Manual of Style</a></li>
+<li><a href="/wiki/Template:Notability_guide" title="Template:Notability guide">Notability guide</a></li></ul></li>
+<li><a href="/wiki/Template:Policy_list" title="Template:Policy list">Policy list</a>
+<ul><li><a href="/wiki/Template:Naming_conventions" title="Template:Naming conventions">Naming conventions</a></li>
+<li><a href="/wiki/Template:Conduct_policy_list" title="Template:Conduct policy list">Conduct policy</a></li>
+<li><a href="/wiki/Template:Content_policy_list" title="Template:Content policy list">Content policy</a></li>
+<li><a href="/wiki/Template:Deletion_policy_list" title="Template:Deletion policy list">Deletion policy</a></li>
+<li><a href="/wiki/Template:Enforcement_policy_list" title="Template:Enforcement policy list">Enforcement policy</a></li>
+<li><a href="/wiki/Template:Legal_policy_list" title="Template:Legal policy list">Legal policy</a></li>
+<li><a href="/wiki/Template:Wikipedia_vandalism" title="Template:Wikipedia vandalism">Vandalism</a></li></ul></li>
+<li><a href="/wiki/Template:Wikipedia_content" title="Template:Wikipedia content">Content</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other help sidebars</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:About_Wikipedia" title="Template:About Wikipedia">About Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Accessibility/Navigation_menu" title="Wikipedia:WikiProject Accessibility/Navigation menu">Accessibility</a></li>
+<li><a href="/wiki/Template:Article_creation" title="Template:Article creation">Article creation</a></li>
+<li><a href="/wiki/Template:Article_resources" title="Template:Article resources">Article resources</a></li>
+<li><a href="/wiki/Template:Wikipedia_categorization" title="Template:Wikipedia categorization">Categorization</a></li>
+<li><a href="/wiki/Template:Wikipedia_copyright" title="Template:Wikipedia copyright">Copyright</a></li>
+<li><a href="/wiki/Template:Contributing_to_Wikipedia" title="Template:Contributing to Wikipedia">Contributing to Wikipedia</a></li>
+<li><a href="/wiki/Template:Dabnav" title="Template:Dabnav">Disambiguation</a></li>
+<li><a href="/wiki/Template:Arguments" title="Template:Arguments">Discussions</a></li>
+<li><a href="/wiki/Template:Editor_toc" title="Template:Editor toc">Editing</a></li>
+<li><a href="/wiki/Template:Essay_list" title="Template:Essay list">Essay</a></li>
+<li><a href="/wiki/Template:FAPath" title="Template:FAPath">Featured article path</a></li>
+<li><a href="/wiki/Template:Glossaries" title="Template:Glossaries">Glossaries</a></li>
+<li><a href="/wiki/Template:Linking_and_page_manipulation" title="Template:Linking and page manipulation">Linking and page manipulation</a></li>
+<li><a href="/wiki/Template:Namespaces" title="Template:Namespaces">Namespaces</a></li>
+<li><a href="/wiki/Wikipedia:Processes/Wikipedia_processes" title="Wikipedia:Processes/Wikipedia processes">Processes</a></li>
+<li><a href="/wiki/Template:Reader_help" title="Template:Reader help">Reader help</a></li>
+<li><a href="/wiki/Template:Tutorials" title="Template:Tutorials">Tutorials</a></li>
+<li><a href="/wiki/Template:Wikimedia_user_access_levels" title="Template:Wikimedia user access levels">User access levels</a></li>
+<li><a href="/wiki/Template:VisualEditor_navbox" title="Template:VisualEditor navbox">VisualEditor</a></li>
+<li><a href="/wiki/Template:Wikitext_navbox" title="Template:Wikitext navbox">Wiki markup</a></li>
+<li><a href="/wiki/Wikipedia:User_page_design_center/Navigation_aids/Nav_header_editing/Wikipedian_philosophies" title="Wikipedia:User page design center/Navigation aids/Nav header editing/Wikipedian philosophies">Wikipedian philosophies</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Community sidebars</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:MiniAWFP" title="Template:MiniAWFP">Active Wiki Fixup Projects</a></li>
+<li><a href="/wiki/Template:AFMPbox" title="Template:AFMPbox">April Fool's Day Main Page</a></li>
+<li><a href="/wiki/Template:ArbCom_sidebar" title="Template:ArbCom sidebar">Arbitration Committee</a></li>
+<li><a href="/wiki/Template:Wikipedia_Awards" title="Template:Wikipedia Awards">Awards</a></li>
+<li><a href="/wiki/Template:COTWs" title="Template:COTWs">Collaborations</a></li>
+<li><a href="/wiki/Template:Precedents" title="Template:Precedents">Common decisions and arguments</a></li>
+<li><a href="/wiki/Template:CSD-categories" title="Template:CSD-categories">CSD-categories</a></li>
+<li><a href="/wiki/Template:Deletion_debates" title="Template:Deletion debates">Deletion debates</a>
+<ul><li><a href="/wiki/Template:Deletion_tools" title="Template:Deletion tools">Deletion tools</a></li></ul></li>
+<li><a href="/wiki/Template:Dispute-resolution" title="Template:Dispute-resolution">Dispute resolution</a></li>
+<li><a href="/wiki/Template:Newpagesbox" title="Template:Newpagesbox">New Page Patrol</a></li>
+<li><a href="/wiki/Template:Rewardboardpages" title="Template:Rewardboardpages">Reward Board</a></li>
+<li><a href="/wiki/Template:Resources_for_collaboration" title="Template:Resources for collaboration">Resources for maintenance and collaboration</a></li>
+<li><a href="/wiki/Template:SPI_navigation" title="Template:SPI navigation">Sockpuppet investigations</a></li>
+<li><a href="/wiki/Template:Wikipedia_Signpost/Templates/Navigation" title="Template:Wikipedia Signpost/Templates/Navigation">Signpost</a></li>
+<li><a href="/wiki/Template:Translation_department" title="Template:Translation department">Translation department</a></li>
+<li><a href="/wiki/Template:WikiStats" title="Template:WikiStats">WikiStats</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Directory/Links" title="Wikipedia:WikiProject Council/Directory/Links">WikiProjects</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Bar-style headers</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Template:Botnav" title="Template:Botnav">Bots</a></li>
+<li><a href="/wiki/Template:Header_navbar_community" title="Template:Header navbar community">Community</a></li>
+<li><a href="/wiki/Template:Edit_filter_navigation" title="Template:Edit filter navigation">Edit filter</a></li>
+<li><a href="/wiki/Template:Help_pages_header" title="Template:Help pages header">Help pages</a></li>
+<li><a href="/wiki/Template:Medcom_menu" title="Template:Medcom menu">Mediation Committee</a></li>
+<li><a href="/wiki/Template:Wikipedia_programs" title="Template:Wikipedia programs">Programs</a></li>
+<li><a href="/wiki/Template:Header_navbar_WikiProjects" title="Template:Header navbar WikiProjects">WikiProjects</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>For navboxes that link mostly to templates see the <a href="/wiki/Template:Wikipedia_templates" title="Template:Wikipedia templates">template navbox</a>. See also <a href="/wiki/Category:WikiProject_navigational_templates" title="Category:WikiProject navigational templates">WikiProject navigation</a> and <a href="/wiki/Category:Wikipedia_meetups_navigation_templates" title="Category:Wikipedia meetups navigation templates">meetup</a> categories.</div></td></tr></tbody></table></div>
+<div class="documentation-clear"></div>
+</div>
+<div role="note" class="documentation-metadata plainlinks">The above <a href="/wiki/Wikipedia:Template_documentation" title="Wikipedia:Template documentation">documentation</a> is <a href="/wiki/Help:Transclusion" title="Help:Transclusion">transcluded</a> from <a href="/wiki/Template:Administrators%27_guide/doc" title="Template:Administrators&#39; guide/doc">Template:Administrators' guide/doc</a>. <span class="documentation-toolbar">(<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide/doc&amp;action=edit">edit</a> &#124; <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide/doc&amp;action=history">history</a>)</span><br />Editors can experiment in this template's sandbox <span class="documentation-toolbar">(<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide/sandbox&amp;action=edit&amp;preload=Template%3ADocumentation%2Fpreload-sandbox">create</a> &#124; <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide/sandbox&amp;preload=Template%3ADocumentation%2Fmirror&amp;action=edit&amp;summary=Create+sandbox+version+of+%5B%5BTemplate%3AAdministrators%27+guide%5D%5D">mirror</a>)</span> and testcases <span class="documentation-toolbar">(<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide/testcases&amp;action=edit&amp;preload=Template%3ADocumentation%2Fpreload-testcases">create</a>)</span> pages.<br />Add categories to the <a href="/wiki/Template:Administrators%27_guide/doc" title="Template:Administrators&#39; guide/doc">/doc</a> subpage. <a href="/wiki/Special:PrefixIndex/Template:Administrators%27_guide/" title="Special:PrefixIndex/Template:Administrators&#39; guide/">Subpages of this template</a>.</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20221021091810
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.137 seconds
+Real time usage: 0.189 seconds
+Preprocessor visited node count: 251/1000000
+Post‐expand include size: 72579/2097152 bytes
+Template argument size: 91/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7403/5000000 bytes
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 1891979/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.013      1 -total
+ 59.84%   87.370      1 Template:Documentation
+ 42.59%   62.191      2 Template:Navbox
+ 22.33%   32.606      1 Template:Administrators'_guide/doc
+ 11.55%   16.861      1 Template:Template_shortcut
+  4.06%    5.927      1 Template:Sandbox_other
+  3.88%    5.666      1 Template:Wikipedia_editor_navigation_templates
+  1.18%    1.716      1 Template:Documentation_subpage
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16379759-0!canonical and timestamp 20221021091810 and revision id 770593732.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide&amp;oldid=770593732">https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide&amp;oldid=770593732</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_Administrators%27_guide" title="Category:Wikipedia Administrators&#039; guide">Wikipedia Administrators' guide</a></li><li><a href="/wiki/Category:Wikipedia_help_navigation" title="Category:Wikipedia help navigation">Wikipedia help navigation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_templates" title="Category:Wikipedia semi-protected templates">Wikipedia semi-protected templates</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Template%3AAdministrators%27+guide" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Template%3AAdministrators%27+guide" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-template" class="selected mw-list-item"><a href="/wiki/Template:Administrators%27_guide" title="View the template [c]" accesskey="c"><span>Template</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Template_talk:Administrators%27_guide" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Template:Administrators%27_guide"><span>Read</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Template:Administrators%27_guide&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Template:Administrators%27_guide&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Template:Administrators%27_guide" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Template:Administrators%27_guide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Template:Administrators%27_guide&amp;oldid=770593732" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Template:Administrators%27_guide&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10818101" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu-portal portal" aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" role="navigation"  >
+	<h3
+		id="p-electronpdfservice-sidebar-portlet-heading-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Template%3AAdministrators%27_guide&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%81%E0%A6%9A:New_admin_school" title="সাঁচ:New admin school – Assamese" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9F:%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B0_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE" title="টেমপ্লেট:প্রশাসকের নির্দেশিকা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88:%D9%85%D8%AF%DB%8C%D8%B1_%D8%AA%D8%A7%D8%B2%D9%87" title="الگو:مدیر تازه – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D1%88%D0%BA%D0%B0:%D0%A3%D1%87%D0%B8%D0%BB%D0%B8%D1%88%D1%82%D0%B5_%D0%B7%D0%B0_%D0%BD%D0%BE%D0%B2%D0%B8_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8" title="Предлошка:Училиште за нови администратори – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B4%B2%E0%B4%95%E0%B4%82:%E0%B4%AA%E0%B5%81%E0%B4%A4%E0%B4%BF%E0%B4%AF_%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B4%BF%E0%B5%BC%E0%B4%B5%E0%B4%BE%E0%B4%B9%E0%B4%95%E0%B4%B0%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%AA%E0%B4%BE%E0%B4%A0%E0%B4%B6%E0%B4%BE%E0%B4%B2" title="ഫലകം:പുതിയ കാര്യനിർവാഹകരുടെ പാഠശാല – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mt mw-list-item"><a href="https://mt.wikipedia.org/wiki/Mudell:Skola_tal-amministraturi" title="Mudell:Skola tal-amministraturi – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target"><span>Malti</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%A2%E0%A4%BE%E0%A4%81%E0%A4%9A%E0%A4%BE:New_admin_school" title="ढाँचा:New admin school – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AC%9B%E0%AC%BE%E0%AC%9E%E0%AD%8D%E0%AC%9A:New_admin_school" title="ଛାଞ୍ଚ:New admin school – Odia" lang="or" hreflang="or" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%90%E0%B6%9A%E0%B7%92%E0%B6%BD%E0%B7%8A%E0%B6%BD:New_admin_school" title="සැකිල්ල:New admin school – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8B%D0%BF:%D0%AF%D2%A3%D0%B0_%D0%B8%D0%B4%D0%B0%D1%80%D3%99%D1%87%D0%B5_%D0%BC%D3%99%D0%BA%D1%82%D3%99%D0%B1%D0%B5" title="Калып:Яңа идарәче мәктәбе – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча/tatarça</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%AE%E0%B1%82%E0%B0%B8:New_admin" title="మూస:New admin – Telugu" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%DA%86%DB%81:%D8%B1%DB%81%D9%86%D9%85%D8%A7%D8%A6%DB%92_%D9%85%D9%86%D8%AA%D8%B8%D9%85%DB%8C%D9%86" title="سانچہ:رہنمائے منتظمین – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:H%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_d%C3%A0nh_cho_b%E1%BA%A3o_qu%E1%BA%A3n_vi%C3%AAn" title="Bản mẫu:Hướng dẫn dành cho bảo quản viên – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10818101#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 16 March 2017, at 11:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Template:Administrators%27_guide&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.137","walltime":"0.189","ppvisitednodes":{"value":251,"limit":1000000},"postexpandincludesize":{"value":72579,"limit":2097152},"templateargumentsize":{"value":91,"limit":2097152},"expansiondepth":{"value":9,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7403,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  146.013      1 -total"," 59.84%   87.370      1 Template:Documentation"," 42.59%   62.191      2 Template:Navbox"," 22.33%   32.606      1 Template:Administrators'_guide/doc"," 11.55%   16.861      1 Template:Template_shortcut","  4.06%    5.927      1 Template:Sandbox_other","  3.88%    5.666      1 Template:Wikipedia_editor_navigation_templates","  1.18%    1.716      1 Template:Documentation_subpage"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":1891979,"limit":52428800}},"cachereport":{"origin":"mw1395","timestamp":"20221021091810","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1330"});});</script>
+</body>
+</html>
