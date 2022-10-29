@@ -59,6 +59,7 @@ $DEBUG = false
 Version = "1.3"
 MAX_IMPORTS = ENV.fetch("MAX_IMPORTS", "5").to_i
 VERBOSE = ENV.fetch("VERBOSE", "FALSE").to_s.downcase == "true"
+DEBUG = ENV.fetch("DEBUG", "FALSE").to_s.downcase == "true"
 
 class String
   def trim
@@ -535,6 +536,7 @@ def main()
 
   puts "ENV[MAX_IMPORTS]=#{MAX_IMPORTS}"
   puts "ENV[VERBOSE]=#{VERBOSE}"
+  puts "ENV[DEBUG]=#{DEBUG}"
 
   # if online?
   #   smart_morgan_freeman('Morgan Freeman') if online?
@@ -548,32 +550,12 @@ def main()
     verbose: VERBOSE,
     max_imports: MAX_IMPORTS
   )
-  iterate_through_files_in_directory(
-    "en.wikipedia.org/wiki/",
-    "out/fish-from-wiki-crawl.yaml",
-    verbose: VERBOSE,
-    max_imports: MAX_IMPORTS
-  )
-  #puts fishnames_from_yaml("fish-sample.yaml")
-  #puts fishnames_from_yaml("fish-from-wiki-crawl.yaml")
-
-  # puts "2. ok. Now with fish..."
-  # # this doesnt require onlinity :)
-  # offline_pages = BaseOfflinePages +  list_of_animal_files()
-  # offline_pages.each_with_index do |page, ix|
-  #   puts "👀 Inspecting: '#{page.colorize(:white)}' 👀"
-  #   ret = fish_page_get_info(page, :limit_entries => 2) # if you :dont_mind
-  #   puts ret.inspect if $DEBUG
-  #   puts "🐠 HABEMUS PESCEM: '#{ret[:noko_title]}'" if ret[:looks_like_an_animal] # == 'true'
-  #   dump_fish_info_into_yaml_file(ret, 'wikipedia-slurp.yaml', ix==0) if ret[:looks_like_an_animal] == true
-
-  #   break if ix > (MAX_IMPORTS > 0 ? MAX_IMPORTS : 1000000) # never if 0 or less
-  # end
-  # #prova_uri() if online?
-  # # parse_noble_prizes_DO_NOT_TOUCH(NOBEL_LIST_URL)
-  # FISH_URLS.each do |fish_url|
-  #   x = parse_fish_riccardo(fish_url) if online?
-  # end
+  # iterate_through_files_in_directory(
+  #   "en.wikipedia.org/wiki/",
+  #   "out/fish-from-wiki-crawl.yaml",
+  #   verbose: VERBOSE,
+  #   max_imports: MAX_IMPORTS
+  # )
 
   # END / finally
   unless online?

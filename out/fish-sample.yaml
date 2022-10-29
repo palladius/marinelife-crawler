@@ -1,4 +1,4 @@
-# initialized on 2022-10-29 07:48:36 +0200 from ./crawl-wikipedia.rb v1.3
+# initialized on 2022-10-29 08:09:51 +0200 from ./crawl-wikipedia.rb v1.3
 
 ################################################################################
 # useful_but_commented_debug_info:
@@ -14,7 +14,6 @@ WikiCrawler v0.9 - Clown triggerfish:
     Family: Balistidae
     Genus: Balistoides
     Species: B. conspicillum
-    RICCFIXED_Species: Fixing WIP.. Bsomething_else_then conspicillum
   fish_url_name: samples//Clown_triggerfish
   wiki: https://en.wikipedia.org/wiki/Clown_triggerfish
   name: Clown triggerfish
@@ -23,6 +22,8 @@ WikiCrawler v0.9 - Clown triggerfish:
   simple_description_p4: The clown triggerfish (Balistoides conspicillum), also known
     as the bigspotted triggerfish, is a demersal marine fish belonging to the family
     Balistidae, or commonly called triggerfish.
+  name_with_short_taxo: Clown triggerfish (Animalia > Chordata > Actinopterygii >
+    Tetraodontiformes > Balistidae > Balistoides > B. conspicillum)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -38,13 +39,14 @@ WikiCrawler v0.9 - Gilded triggerfish:
     Family: Balistidae
     Genus: Xanthichthys
     Species: X. auromarginatus
-    RICCFIXED_Species: Fixing WIP.. Xsomething_else_then auromarginatus
   fish_url_name: samples//Gilded_triggerfish
   wiki: https://en.wikipedia.org/wiki/Gilded_triggerfish
   name: Gilded triggerfish
   picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gilded_Triggerfish%2C_male_-_Xanthichthys_auromarginatus.jpg/220px-Gilded_Triggerfish%2C_male_-_Xanthichthys_auromarginatus.jpg
   binomial_name: Xanthichthys auromarginatus
   simple_description_p4: ''
+  name_with_short_taxo: Gilded triggerfish (Animalia > Chordata > Actinopterygii >
+    Tetraodontiformes > Balistidae > Xanthichthys > X. auromarginatus)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -60,7 +62,6 @@ WikiCrawler v0.9 - Grey triggerfish:
     Family: Balistidae
     Genus: Balistes
     Species: B. capriscus
-    RICCFIXED_Species: Fixing WIP.. Bsomething_else_then capriscus
   fish_url_name: samples//Grey_triggerfish
   wiki: https://en.wikipedia.org/wiki/Grey_triggerfish
   name: Grey triggerfish
@@ -70,6 +71,8 @@ WikiCrawler v0.9 - Grey triggerfish:
     is a ray-finned fish in the triggerfish family. The species is native to shallow
     parts of the western Atlantic from Nova Scotia to Argentina and also the eastern
     Atlantic, the Mediterranean Sea and off Angola on the west coast of Africa.
+  name_with_short_taxo: Grey triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes
+    > Balistidae > Balistes > B. capriscus)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -85,7 +88,6 @@ WikiCrawler v0.9 - Lagoon triggerfish:
     Family: Balistidae
     Genus: Rhinecanthus
     Species: R. aculeatus
-    RICCFIXED_Species: Fixing WIP.. Rsomething_else_then aculeatus
   fish_url_name: samples//Lagoon_triggerfish
   wiki: https://en.wikipedia.org/wiki/Lagoon_triggerfish
   name: Lagoon triggerfish
@@ -94,6 +96,8 @@ WikiCrawler v0.9 - Lagoon triggerfish:
   simple_description_p4: The lagoon triggerfish (Rhinecanthus aculeatus), also known
     as the blackbar triggerfish, the Picasso triggerfish, or the Picassofish, is a
     triggerfish, up to 30 cm in length, found on reefs in the Indo-Pacific region.[1]
+  name_with_short_taxo: Lagoon triggerfish (Animalia > Chordata > Actinopterygii >
+    Tetraodontiformes > Balistidae > Rhinecanthus > R. aculeatus)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -115,6 +119,8 @@ WikiCrawler v0.9 - Canthidermis:
   binomial_name: "-"
   simple_description_p4: Canthidermis  is a genus of triggerfishes commonly known
     as Ocean triggerfishes.
+  name_with_short_taxo: Canthidermis (Animalia > Chordata > Actinopterygii > Tetraodontiformes
+    > Balistidae > CanthidermisSwainson, 1839)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -130,13 +136,14 @@ WikiCrawler v0.9 - Orange-lined triggerfish:
     Family: Balistidae
     Genus: BalistapusTilesius, 1820
     Species: B. undulatus
-    RICCFIXED_Species: Fixing WIP.. Bsomething_else_then undulatus
   fish_url_name: samples//Orange-lined_triggerfish
   wiki: https://en.wikipedia.org/wiki/Orange-lined_triggerfish
   name: Orange-lined triggerfish
   picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Balistapus_undulatus_%28Nausica%C3%A4%29.jpg/220px-Balistapus_undulatus_%28Nausica%C3%A4%29.jpg
   binomial_name: Balistapus undulatus
   simple_description_p4: no P4 description
+  name_with_short_taxo: Orange-lined triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > BalistapusTilesius, 1820 > B. undulatus)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -152,7 +159,6 @@ WikiCrawler v0.9 - Balistes vetula:
     Family: Balistidae
     Genus: Balistes
     Species: B. vetula
-    RICCFIXED_Species: Fixing WIP.. Bsomething_else_then vetula
   fish_url_name: samples//Queen_triggerfish
   wiki: https://en.wikipedia.org/wiki/Balistes_vetula
   name: Balistes vetula
@@ -161,6 +167,8 @@ WikiCrawler v0.9 - Balistes vetula:
   simple_description_p4: Balistes vetula, the queen triggerfish or old wife, is a
     reef dwelling triggerfish found in the Atlantic Ocean. It is occasionally caught
     as a gamefish, and sometimes kept in very large marine aquaria.
+  name_with_short_taxo: Balistes vetula (Animalia > Chordata > Actinopterygii > Tetraodontiformes
+    > Balistidae > Balistes > B. vetula)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -176,7 +184,6 @@ WikiCrawler v0.9 - Redtoothed triggerfish:
     Family: Balistidae
     Genus: OdonusGistel, 1848
     Species: O. niger
-    RICCFIXED_Species: Fixing WIP.. Osomething_else_then niger
   fish_url_name: samples//Redtoothed_triggerfish
   wiki: https://en.wikipedia.org/wiki/Redtoothed_triggerfish
   name: Redtoothed triggerfish
@@ -186,6 +193,8 @@ WikiCrawler v0.9 - Redtoothed triggerfish:
     of the tropical Indo-Pacific area, and the sole member of its genus.[1] Some other
     common names include blue triggerfish, redfang triggerfish, redtoothed filefish,
     and Niger triggerfish.
+  name_with_short_taxo: Redtoothed triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > OdonusGistel, 1848 > O. niger)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -201,13 +210,14 @@ WikiCrawler v0.9 - Reef triggerfish:
     Family: Balistidae
     Genus: Rhinecanthus
     Species: R. rectangulus
-    RICCFIXED_Species: Fixing WIP.. Rsomething_else_then rectangulus
   fish_url_name: samples//Reef_triggerfish
   wiki: https://en.wikipedia.org/wiki/Reef_triggerfish
   name: Reef triggerfish
   picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/FMIB_42657_Balistapus_rectangulus_%28Bloch_%26_Schneider%29_Humuhumu_Nukunuku_Apua%27a.jpeg/220px-FMIB_42657_Balistapus_rectangulus_%28Bloch_%26_Schneider%29_Humuhumu_Nukunuku_Apua%27a.jpeg
   binomial_name: Rhinecanthus rectangulus
   simple_description_p4: ''
+  name_with_short_taxo: Reef triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes
+    > Balistidae > Rhinecanthus > R. rectangulus)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -223,7 +233,6 @@ WikiCrawler v0.9 - Xanthichthys ringens:
     Family: Balistidae
     Genus: Xanthichthys
     Species: X. ringens
-    RICCFIXED_Species: Fixing WIP.. Xsomething_else_then ringens
   fish_url_name: samples//Sargassum_triggerfish
   wiki: https://en.wikipedia.org/wiki/Xanthichthys_ringens
   name: Xanthichthys ringens
@@ -232,6 +241,8 @@ WikiCrawler v0.9 - Xanthichthys ringens:
   simple_description_p4: Xanthichthys ringens, the Sargassum triggerfish, is a species
     of triggerfish  from the Western Atlantic, ranging from North Carolina (USA) to
     Brazil.
+  name_with_short_taxo: Xanthichthys ringens (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Xanthichthys > X. ringens)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -250,6 +261,7 @@ WikiCrawler v0.9 - Shark:
   picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TDpGUipa.jpg/220px-TDpGUipa.jpg
   binomial_name: "-"
   simple_description_p4: ''
+  name_with_short_taxo: Shark (Animalia > Chordata > Chondrichthyes > )
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -269,6 +281,8 @@ WikiCrawler v0.9 - Starfish:
   picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fromia_monilis_%28Seastar%29.jpg/220px-Fromia_monilis_%28Seastar%29.jpg
   binomial_name: "-"
   simple_description_p4: no P4 description
+  name_with_short_taxo: Starfish (Animalia > Echinodermata > Asterozoa > AsteroideaBlainville,
+    1830 > )
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -284,7 +298,6 @@ WikiCrawler v0.9 - Stone triggerfish:
     Family: Balistidae
     Genus: Pseudobalistes
     Species: P. naufragium
-    RICCFIXED_Species: Fixing WIP.. Psomething_else_then naufragium
   fish_url_name: samples//Stone_triggerfish
   wiki: https://en.wikipedia.org/wiki/Stone_triggerfish
   name: Stone triggerfish
@@ -292,6 +305,8 @@ WikiCrawler v0.9 - Stone triggerfish:
   binomial_name: Pseudobalistes naufragium
   simple_description_p4: 'The stone triggerfish (Pseudobalistes naufragium) is the
     largest species of triggerfish. '
+  name_with_short_taxo: Stone triggerfish (Animalia > Chordata > Actinopterygii >
+    Tetraodontiformes > Balistidae > Pseudobalistes > P. naufragium)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -307,7 +322,6 @@ WikiCrawler v0.9 - Titan triggerfish:
     Family: Balistidae
     Genus: Balistoides
     Species: B. viridescens
-    RICCFIXED_Species: Fixing WIP.. Bsomething_else_then viridescens
   fish_url_name: samples//Titan_triggerfish
   wiki: https://en.wikipedia.org/wiki/Titan_triggerfish
   name: Titan triggerfish
@@ -319,6 +333,8 @@ WikiCrawler v0.9 - Titan triggerfish:
     absent from Hawaii. With a length of up to 75 centimetres (30 in),[1] it is the
     largest species of triggerfish in its range (the stone triggerfish, Pseudobalistes
     naufragium, from the east Pacific is larger).[2]
+  name_with_short_taxo: Titan triggerfish (Animalia > Chordata > Actinopterygii >
+    Tetraodontiformes > Balistidae > Balistoides > B. viridescens)
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
@@ -339,4 +355,6 @@ WikiCrawler v0.9 - Triggerfish:
   picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Picasso.triggerfish.arp.jpg/220px-Picasso.triggerfish.arp.jpg
   binomial_name: "-"
   simple_description_p4: ''
+  name_with_short_taxo: Triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes
+    > BalistidaeA. Risso, 1810 > )
 ################################################################################

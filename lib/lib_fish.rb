@@ -142,10 +142,17 @@ hing_else_then conspicillum"}
 =end
 
   def fishnames_from_yaml(yaml_file)
-    hash = YAML.load(File.read(yaml_file))
     ret = []
-    hash.each do |fish, fish_info|
-      ret << fish_info['name']
+
+    #hash =
+    YAML.load_stream(File.read(yaml_file)).each do |document|
+      #puts document.keys
+      sub_hash = document[document.keys.first]
+      ret << sub_hash['name_with_short_taxo']
+#      puts sub_hash['taxo']
+      # hash.each do |fish, fish_info|
+      #   ret << fish_info['name']
+      # end
     end
     ret
   end
@@ -158,6 +165,8 @@ hing_else_then conspicillum"}
     fish_info["taxo"] = {}
     fish_info["fish_url_name"] = fish_url_name
     fish_info["taxo_removeme_debug"] = {}
+    fish_info["taxo_removeme_debug"]["arrkeys"] = []
+    fish_info["taxo_removeme_debug"]["arrvals"] = []
     html = nokogiri_parse_offline_or_online(fish_url_name)
     #html = Nokogiri::HTML(URI.open("https://en.wikipedia.org/wiki/" + fish_url_name.gsub(' ','_')))
 
@@ -217,6 +226,8 @@ hing_else_then conspicillum"}
         linked_taxo_value,
         taxorow.to_s.gsub(/\n/, "")
       ] # if opts_verbose
+      fish_info["taxo_removeme_debug"]["arrkeys"] << taxo_key
+      fish_info["taxo_removeme_debug"]["arrvals"] << linked_taxo_value
 
       #fish_info["taxo_byindex_#{ix}"] = [taxo_key, linked_taxo_value]
       fish_info["taxo_removeme_debug"]["taxo_byindex_#{ix}"] = [
@@ -236,11 +247,15 @@ hing_else_then conspicillum"}
           fish_info["Genus"].nil? ? "something_else_then" : fish_info["Genus"]
         new_taxo_value =
           "Fixing WIP.. " + taxo_value.gsub(".", substitute_dot_with_previous)
-        fish_info["taxo"]["RICCFIXED_#{taxo_key}"] = new_taxo_value
+        fish_info["taxo_removeme_debug"]["RICCFIXED_#{taxo_key}"] = new_taxo_value
         if opts_debug
           puts "Semi-fixed (still WIP). New value is #{new_taxo_value.colorize(:green)}"
         end
       end
+
+      short_taxo = fish_info["taxo_removeme_debug"]["arrvals"].join(' > ')
+      #fish_info["taxo"].keys # .keys.join(', ')
+      fish_info["name_with_short_taxo"] = "#{fish_info['name']} (#{short_taxo})"
 
       # found a bug in Starfish To be fixed
       if taxo_value == "AsteroideaBlainville"

@@ -1,4 +1,4 @@
-# initialized on 2022-10-29 07:48:36 +0200 from ./crawl-wikipedia.rb v1.3
+# initialized on 2022-10-29 07:54:46 +0200 from ./crawl-wikipedia.rb v1.3
 
 ################################################################################
 # useful_but_commented_debug_info:
@@ -3244,6 +3244,28 @@ WikiCrawler v0.9 - Mollusca:
     '': ''
     See text.: ''
     " ": Whether characteristic is found in these classes of Molluscs
+  fish_url_name: en.wikipedia.org/wiki//Mollusc
+  wiki: https://en.wikipedia.org/wiki/Mollusca
+  name: Mollusca
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mollusk_collage.jpg/260px-Mollusk_collage.jpg
+  binomial_name: "-"
+  simple_description_p4: ''
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Mollusca:
+  taxo:
+    Kingdom: Animalia
+    Subkingdom: Eumetazoa
+    Clade: Nephrozoa
+    Superphylum: Lophotrochozoa
+    Phylum: MolluscaLinnaeus, 1758
+    '': ''
+    See text.: ''
+    " ": Whether characteristic is found in these classes of Molluscs
   fish_url_name: en.wikipedia.org/wiki//Mollusca
   wiki: https://en.wikipedia.org/wiki/Mollusca
   name: Mollusca
@@ -5392,33 +5414,6 @@ WikiCrawler v0.9 - Southern dogfish:
   picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Southern_Dogfish_Range.png/220px-Southern_Dogfish_Range.png
   binomial_name: Centrophorus zeehaani
   simple_description_p4: no P4 description
-################################################################################
-################################################################################
-# useful_but_commented_debug_info:
-#DEBI# ---
-
----
-WikiCrawler v0.9 - Southern Mandarin dogfish:
-  taxo:
-    Kingdom: Animalia
-    Phylum: Chordata
-    Class: Chondrichthyes
-    Order: Squaliformes
-    Family: Squalidae
-    Genus: Cirrhigaleus
-    Species: C. australis
-    RICCFIXED_Species: Fixing WIP.. Csomething_else_then australis
-  fish_url_name: en.wikipedia.org/wiki//Southern_mandarin_dogfish
-  wiki: https://en.wikipedia.org/wiki/Southern_Mandarin_dogfish
-  name: Southern Mandarin dogfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cirrhigaleus_barbifer_and_australis_distmap.png/220px-Cirrhigaleus_barbifer_and_australis_distmap.png
-  binomial_name: Cirrhigaleus australis
-  simple_description_p4: The southern Mandarin dogfish (Cirrhigaleus australis) is
-    a species of Mandarin dogfish shark in the genus Cirrhigaleus.  It was distinguished
-    from Cirrhigaleus barbifer, which lives in the North Pacific, on an expedition
-    in the coral reefs near Australia in 2007.  It is now known to live in the temperate
-    waters in south-eastern Australia and from the Bay of Plenty region in New Zealand,
-    at depths of 146–640 metres.[3][4]
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:

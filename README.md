@@ -4,6 +4,29 @@ Crawls websites for Marine life (fancy for "fish") and collects latin name and t
 
 It's implemented in Ruby and currently cralws Wikipedia for fish info.
 
+## Result
+
+Look how awsome the parsing results:
+
+```
+$ ./crawl-wikipedia.rb
+📊 YAML file contains these:
+🍣 Clown triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Balistoides > B. conspicillum)
+🍣 Gilded triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Xanthichthys > X. auromarginatus)
+🍣 Grey triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Balistes > B. capriscus)
+🍣 Lagoon triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Rhinecanthus > R. aculeatus)
+🍣 Canthidermis (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > CanthidermisSwainson, 1839)
+🍣 Orange-lined triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > BalistapusTilesius, 1820 > B. undulatus)
+🍣 Balistes vetula (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Balistes > B. vetula)
+🍣 Redtoothed triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > OdonusGistel, 1848 > O. niger)
+🍣 Reef triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Rhinecanthus > R. rectangulus)
+🍣 Xanthichthys ringens (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Xanthichthys > X. ringens)
+🍣 Shark (Animalia > Chordata > Chondrichthyes > )
+🍣 Starfish (Animalia > Echinodermata > Asterozoa > AsteroideaBlainville, 1830 > )
+🍣 Stone triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Pseudobalistes > P. naufragium)
+🍣 Titan triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Balistoides > B. viridescens)
+🍣 Triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > BalistidaeA. Risso, 1810 > )
+```
 
 ## LICENSING
 
