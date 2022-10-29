@@ -24,6 +24,9 @@ wget-crawl-triggerfish:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Triggerfish'
 wget-crawl-shark:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Shark'
+wget-crawl-chromodoris:
+	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Chromodoris'
+
 
 single-wgets:
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Whale
