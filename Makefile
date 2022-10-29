@@ -1,4 +1,6 @@
 
+SHELL := /bin/bash
+
 # downloads under en.wikipedia.org/wiki/
 WGET_COMMAND = wget  -r -e robots=off --no-parent --continue --wait=2 --limit-rate=100K
 
@@ -8,7 +10,7 @@ install:
 	bundle install
 
 ruby-crawl:
-	./crawl-wikipedia.rb
+	VERBOSE=TRUE MAX_IMPORTS=15 ./crawl-wikipedia.rb
 
 install:
 	gem install nokogiri open-uri colorize
