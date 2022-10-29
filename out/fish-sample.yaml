@@ -1,23 +1,328 @@
-# initialized on 2022-10-29 11:47:43 +0200 from ./crawl-wikipedia.rb v1.3
+# initialized on 2022-10-29 15:59:11 +0200 from ./crawl-wikipedia.rb v1.3
 
 ################################################################################
 # useful_but_commented_debug_info:
 #DEBI# ---
 
 ---
-WikiCrawler v0.9 - Starfish:
+WikiCrawler v0.9 - Clown triggerfish:
   taxo:
     Kingdom: Animalia
-    Phylum: Echinodermata
-    Superclass: Asterozoa
-    Class: Asteroidea
-    '': ''
-  fish_url_name: buggy-samples//Starfish
-  wiki: https://en.wikipedia.org/wiki/Starfish
-  name: Starfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fromia_monilis_%28Seastar%29.jpg/220px-Fromia_monilis_%28Seastar%29.jpg
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Balistoides
+    Species: B. conspicillum
+  fish_url_name: samples//Clown_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Clown_triggerfish
+  latin_name: ''
+  proper-description: "The clown triggerfish (Balistoides conspicillum), also known
+    as the bigspotted triggerfish, is a demersal marine fish belonging to the family
+    Balistidae, or commonly called triggerfish.\n\n"
+  name: Clown triggerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Balistoides_conspicillum_2607.jpg/220px-Balistoides_conspicillum_2607.jpg
+  binomial_name: Balistoides conspicillum
+  simple_description_p4: The clown triggerfish (Balistoides conspicillum), also known
+    as the bigspotted triggerfish, is a demersal marine fish belonging to the family
+    Balistidae, or commonly called triggerfish.
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Balistoides > B. conspicillum
+  valid: true
+  name_with_short_taxo: "[true] Clown triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Balistoides > B. conspicillum)"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Gilded triggerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Xanthichthys
+    Species: X. auromarginatus
+  fish_url_name: samples//Gilded_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Gilded_triggerfish
+  latin_name: ''
+  proper-description: "The gilded triggerfish or blue-throated triggerfish, Xanthichthys
+    auromarginatus, is a spotted gray triggerfish. Males of the species have blue
+    cheeks and yellow-bordered, white fins. It is widely, but locally, distributed
+    at islands in the Indo-Pacific.\n\n"
+  name: Gilded triggerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gilded_Triggerfish%2C_male_-_Xanthichthys_auromarginatus.jpg/220px-Gilded_Triggerfish%2C_male_-_Xanthichthys_auromarginatus.jpg
+  binomial_name: Xanthichthys auromarginatus
+  simple_description_p4: ''
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Xanthichthys > X. auromarginatus
+  valid: true
+  name_with_short_taxo: "[true] Gilded triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Xanthichthys > X. auromarginatus)"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Grey triggerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Balistes
+    Species: B. capriscus
+  fish_url_name: samples//Grey_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Grey_triggerfish
+  latin_name: ''
+  proper-description: |+
+    The grey triggerfish (Balistes capriscus) or gray triggerfish, is a ray-finned fish in the triggerfish family. The species is native to shallow parts of the western Atlantic from Nova Scotia to Argentina and also the eastern Atlantic, the Mediterranean Sea and off Angola on the west coast of Africa.
+
+    In its appearance and habits, the grey triggerfish is a typical member of the genus Balistes except for its drab, uniformly grey colouration. It is a relatively small fish, usually less than 2.3 kg (5.1 lb) in weight. It is fished recreationally and despite its tough skin, is an excellent food-fish.
+
+  name: Grey triggerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pez_ballesta_%28Balistes_capriscus%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_24.jpg/220px-Pez_ballesta_%28Balistes_capriscus%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_24.jpg
+  binomial_name: Balistes capriscus
+  simple_description_p4: The grey triggerfish (Balistes capriscus) or gray triggerfish,
+    is a ray-finned fish in the triggerfish family. The species is native to shallow
+    parts of the western Atlantic from Nova Scotia to Argentina and also the eastern
+    Atlantic, the Mediterranean Sea and off Angola on the west coast of Africa.
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Balistes > B. capriscus
+  valid: true
+  name_with_short_taxo: "[true] Grey triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Balistes > B. capriscus)"
+...
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Lagoon triggerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Rhinecanthus
+    Species: R. aculeatus
+  fish_url_name: samples//Lagoon_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Lagoon_triggerfish
+  latin_name: ''
+  proper-description: |+
+    The lagoon triggerfish (Rhinecanthus aculeatus), also known as the blackbar triggerfish, the Picasso triggerfish, or the Picassofish, is a triggerfish, up to 30 cm in length, found on reefs in the Indo-Pacific region.[1]
+
+    The Hawaiian name for the fish, humuhumunukunukuāpuaʻa (pronounced [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə]), also spelled humuhumu-nukunuku-a-puaʻa or just humuhumu for short (meaning "triggerfish with a snout like a pig"[2]) is shared with the reef triggerfish (R. rectangulus), the state fish of Hawaii.
+
+    This species has been studied in a range of research contexts, from locomotion to color vision research.
+
+  name: Lagoon triggerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Picasso.triggerfish.arp.jpg/220px-Picasso.triggerfish.arp.jpg
+  binomial_name: Rhinecanthus aculeatus
+  simple_description_p4: The lagoon triggerfish (Rhinecanthus aculeatus), also known
+    as the blackbar triggerfish, the Picasso triggerfish, or the Picassofish, is a
+    triggerfish, up to 30 cm in length, found on reefs in the Indo-Pacific region.[1]
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Rhinecanthus > R. aculeatus
+  valid: true
+  name_with_short_taxo: "[true] Lagoon triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Rhinecanthus > R. aculeatus)"
+...
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Canthidermis:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Canthidermis
+  fish_url_name: samples//Oceanic_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Canthidermis
+  latin_name: 'Canthidermis '
+  proper-description: "Canthidermis  is a genus of triggerfishes commonly known as
+    Ocean triggerfishes.\n\n"
+  name: Canthidermis
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/XRF-Canthidermis_maculata.png/220px-XRF-Canthidermis_maculata.png
   binomial_name: "-"
+  simple_description_p4: Canthidermis  is a genus of triggerfishes commonly known
+    as Ocean triggerfishes.
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Canthidermis
+  valid: true
+  name_with_short_taxo: "[true] Canthidermis (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Canthidermis)"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Orange-lined triggerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: ''
+    Species: B. undulatus
+  fish_url_name: samples//Orange-lined_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Orange-lined_triggerfish
+  latin_name: ''
+  proper-description: "The orange-lined triggerfish (Balistapus undulatus) is a demersal
+    triggerfish.  Although Balistapus is a monotypic genus, it is closely related
+    to the genus Balistoides.[1]\n\n"
+  name: Orange-lined triggerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Balistapus_undulatus_%28Nausica%C3%A4%29.jpg/220px-Balistapus_undulatus_%28Nausica%C3%A4%29.jpg
+  binomial_name: Balistapus undulatus
   simple_description_p4: no P4 description
-  name_with_short_taxo: Starfish (Animalia > Echinodermata > Asterozoa > Asteroidea
-    > )
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    >  > B. undulatus
+  valid: false
+  name_with_short_taxo: "[false] Orange-lined triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae >  > B. undulatus)"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Balistes vetula:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Balistes
+    Species: B. vetula
+  fish_url_name: samples//Queen_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Balistes_vetula
+  latin_name: Balistes vetula
+  proper-description: "Balistes vetula, the queen triggerfish or old wife, is a reef
+    dwelling triggerfish found in the Atlantic Ocean. It is occasionally caught as
+    a gamefish, and sometimes kept in very large marine aquaria.\n\n"
+  name: Balistes vetula
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/4987_aquaimages.jpg/220px-4987_aquaimages.jpg
+  binomial_name: Balistes vetula
+  simple_description_p4: Balistes vetula, the queen triggerfish or old wife, is a
+    reef dwelling triggerfish found in the Atlantic Ocean. It is occasionally caught
+    as a gamefish, and sometimes kept in very large marine aquaria.
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Balistes > B. vetula
+  valid: true
+  name_with_short_taxo: "[true] Balistes vetula (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Balistes > B. vetula)"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Redtoothed triggerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: ''
+    Species: O. niger
+  fish_url_name: samples//Redtoothed_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Redtoothed_triggerfish
+  latin_name: ''
+  proper-description: "The Redtoothed triggerfish (Odonus niger) is a triggerfish
+    of the tropical Indo-Pacific area, and the sole member of its genus.[1] Some other
+    common names include blue triggerfish, redfang triggerfish, redtoothed filefish,
+    and Niger triggerfish.\n\n"
+  name: Redtoothed triggerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Redtoothed_triggerfish.jpg/220px-Redtoothed_triggerfish.jpg
+  binomial_name: Odonus niger
+  simple_description_p4: The Redtoothed triggerfish (Odonus niger) is a triggerfish
+    of the tropical Indo-Pacific area, and the sole member of its genus.[1] Some other
+    common names include blue triggerfish, redfang triggerfish, redtoothed filefish,
+    and Niger triggerfish.
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    >  > O. niger
+  valid: false
+  name_with_short_taxo: "[false] Redtoothed triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae >  > O. niger)"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Reef triggerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Rhinecanthus
+    Species: R. rectangulus
+  fish_url_name: samples//Reef_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Reef_triggerfish
+  latin_name: ''
+  proper-description: |+
+    The reef triggerfish (Rhinecanthus rectangulus), also known as the rectangular triggerfish, wedgetail triggerfish[1] or by its Hawaiian name humuhumunukunukuāpuaʻa (pronounced [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə], meaning 'triggerfish with a snout like a pig',[2] also spelled humuhumunukunukuapua'a or just humuhumu for short), is one of several species of triggerfish. It is found at reefs in the Indo-Pacific[3] and is the state fish of Hawaii.
+
+    The name humuhumunukunukuāpuaʻa serves for both singular and plural descriptions. The fish shares its Hawaiian name with the lagoon triggerfish (R. aculeatus), another fish also found in the Indo-Pacific.
+
+  name: Reef triggerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/FMIB_42657_Balistapus_rectangulus_%28Bloch_%26_Schneider%29_Humuhumu_Nukunuku_Apua%27a.jpeg/220px-FMIB_42657_Balistapus_rectangulus_%28Bloch_%26_Schneider%29_Humuhumu_Nukunuku_Apua%27a.jpeg
+  binomial_name: Rhinecanthus rectangulus
+  simple_description_p4: ''
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Rhinecanthus > R. rectangulus
+  valid: true
+  name_with_short_taxo: "[true] Reef triggerfish (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Rhinecanthus > R. rectangulus)"
+...
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Xanthichthys ringens:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Tetraodontiformes
+    Family: Balistidae
+    Genus: Xanthichthys
+    Species: X. ringens
+  fish_url_name: samples//Sargassum_triggerfish
+  wiki: https://en.wikipedia.org/wiki/Xanthichthys_ringens
+  latin_name: Xanthichthys ringens
+  proper-description: "Xanthichthys ringens, the Sargassum triggerfish, is a species
+    of triggerfish  from the Western Atlantic, ranging from North Carolina (USA) to
+    Brazil.\n\n"
+  name: Xanthichthys ringens
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Xanthichthys_ringens_-_pone.0010676.g191.png/220px-Xanthichthys_ringens_-_pone.0010676.g191.png
+  binomial_name: Xanthichthys ringens
+  simple_description_p4: Xanthichthys ringens, the Sargassum triggerfish, is a species
+    of triggerfish  from the Western Atlantic, ranging from North Carolina (USA) to
+    Brazil.
+  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
+    > Xanthichthys > X. ringens
+  valid: true
+  name_with_short_taxo: "[true] Xanthichthys ringens (Animalia > Chordata > Actinopterygii
+    > Tetraodontiformes > Balistidae > Xanthichthys > X. ringens)"
 ################################################################################

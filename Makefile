@@ -9,7 +9,7 @@ SIMPLE_WGET_COMMAND_THERE = cd  en.wikipedia.org/wiki && wget
 install:
 	bundle install
 
-ruby-crawl:
+fish-crawl-wikipedia:
 	MAX_IMPORTS=15 ./crawl-wikipedia.rb
 
 fish-crawl-buggysamples:
@@ -25,6 +25,8 @@ wget-crawl-starfish:
 
 wget-crawl-triggerfish:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Triggerfish'
+wget-crawl-triggerfishCategory:
+	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Category:Balistidae'
 wget-crawl-shark:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Shark'
 wget-crawl-chromodoris:

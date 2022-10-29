@@ -52,7 +52,7 @@ module LibFish
       if smells_like_fish?(file_content)
         puts "🐠 We have a FISH: #{filename}" if opts_verbose
         ret = smart_wiki_parse_fish(filename, opts)
-        write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0) # i cant use the each with index, in case first wiki file is nOT a fish :)
+        write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
         n_fishes += 1
       else
         n_nay += 1
@@ -71,18 +71,13 @@ module LibFish
 
   # dumps a hash into a yaml. Since you can write MANY hashes into a yaml, also has a boolean which says if you need to
   # initialize it or not.
-  def write_fish_info_to_yaml_file(
-    fish_hash,
-    filename,
-    initialize_too = false,
-    opts = {}
-  )
-  opts_verbose = opts.fetch :verbose, false
-  opts_debug = opts.fetch :debug, true
+  def write_fish_info_to_yaml_file( fish_hash, filename, initialize_too = false, opts = {} )
+    opts_verbose = opts.fetch :verbose, false
+    opts_debug = opts.fetch :debug, true
 
     # initialize if needed
-    if opts_verbose
-      puts "# Dumping cleanedup_fish_hash info into this file '#{filename}'. If first time (#{initialize_too}) im gonna also delete it first"
+    if opts_verbose or opts_debug
+      puts "# Dumping cleanedup_fish_hash info into this file '#{filename}'. If first time (#{initialize_too}) im gonna also delete it first. opts=#{opts}"
     end
     # remove debug info unless debug set up.
     #cleanedup_fish_hash = opts_debug ? fish_hash : fish_hash.except("taxo_removeme_debug")
@@ -157,6 +152,7 @@ hing_else_then conspicillum"}
     YAML.load_stream(File.read(yaml_file)).each do |document|
       #puts document.keys
       sub_hash = document[document.keys.first]
+      #ret << sub_hash["taxo_removeme_debug"]['name_with_short_taxo']
       ret << sub_hash['name_with_short_taxo']
 #      puts sub_hash['taxo']
       # hash.each do |fish, fish_info|
@@ -165,6 +161,77 @@ hing_else_then conspicillum"}
     end
     ret
   end
+
+
+  ## core of extraction where bugs are.
+
+  def extract_taxonomy_value_from_dom(taxoclass, taxorow, opts={})
+    opts_debug = opts.fetch :debug, false
+
+    #puts("DEB taxoclass=#{taxoclass}")
+    link_with_whole_td = taxorow.css("td:nth-child(2)").text.trim()
+    #puts "[DEB] OHNE A:   #{link_with_whole_td}"
+    if link_with_whole_td =~ /\d\d\d\d/
+      # i think ive fixed it by adding " > a "
+      puts "[ERR] Something smells fishy lets fix it.. try BEFORE BR or firs A value" if opts_debug
+      puts "TAXO AS IS: #{ taxorow.css("td:nth-child(2)").to_s.colorize :red }" if opts_debug
+      link_with_sub_div =  taxorow.css("td:nth-child(2)").css("div:nth-child(1)")
+      puts "TAXO FIXED: #{link_with_sub_div.to_s.colorize :green } => #{link_with_sub_div.text.trim()}" if opts_debug
+      # you can trying using the class="$TAXOCLASS" selector, its SO META!
+      return  link_with_sub_div.text.trim()
+    end
+    #return linked_part if linked_part.to_s != ""
+    # taxorow.css("td:nth-child(2) > a").text.trim()
+    #puts "BUG: EMPTY STUFF. I'll return A-less (#{link_with_whole_td.colorize :green})"
+    return link_with_whole_td
+  end
+
+
+  def extract_description(document, opts={})
+    #initial_part = document.at_css("p:nth-child(6)") rescue document
+    # initial_part = document
+    # #puts document
+    # initial_part.at_css('p').each_with_index do |paragraph, ix|
+    #   puts "+ #{ix} #{paragraph}"
+    # end
+
+    wiki_page_skeleton = document.css("#mw-content-text > div.mw-parser-output > *")
+    #puts(wiki_page_skeleton)
+    latin_name = ''
+    proper_description = "" # 'TODO(ricc): verifica che vadi beno, per ora qui ho aggiunto anche il paragraph number.. togli quando va bene\n\n'
+    #proper_description_with_troubleshooting_info = ''
+    #puts "🔟 wiki_page_skeleton.count = #{wiki_page_skeleton.count}"
+    wiki_page_skeleton.each_with_index do |heterogeneous_elem, ix| # can be div, p, table, h2, ..
+      #puts "#DEB# ix=#{ix} -> name='#{heterogeneous_elem.name}' # lets try to simplify with noko"
+      istoc_div = heterogeneous_elem.to_s.match(/<div id="toc"/) # we need to stop here!
+      is_a_div = heterogeneous_elem.to_s.match(/<div /)
+      is_a_h2 = heterogeneous_elem.name == "h2"
+      is_a_p = heterogeneous_elem.to_s.match(/<p/)
+      is_a_empty_p = heterogeneous_elem.to_s.match(/<p class="mw-empty-elt"/)
+      is_a_table = heterogeneous_elem.to_s.match(/<table /)
+      # inutile solo per abbellire il codice:
+      #possible_p = heterogeneous_elem.css('p')
+      #puts "\n [possible_p[#{ix}]] ", possible_p.class # .text
+      next if is_a_div or is_a_table or is_a_empty_p # do next
+      break if (istoc_div or is_a_h2) # finish the game. TOC or H2 indicates end of high description.
+
+      if is_a_p
+        proper_description << "#{heterogeneous_elem.text}\n"
+      end
+
+      possible_latin_name = heterogeneous_elem.css("i b").text
+      #puts "possible_latin_name: '#{possible_latin_name}'"
+      latin_name = possible_latin_name if possible_latin_name != ""
+
+      #latin_name
+      #puts "DIV" if heterogeneous_elem.is_a?('div')
+      #puts "DIV" if heterogeneous_elem.is_a?('p')
+    end
+
+    return [latin_name, proper_description]
+
+  end
+
 
   def smart_wiki_parse_fish(fish_url_name, opts = {})
     opts_debug = opts.fetch :debug, false
@@ -187,6 +254,9 @@ hing_else_then conspicillum"}
       # HTMLEntities.new.decode(
       fish_info["wiki"].gsub("https://en.wikipedia.org/wiki/", "")
     ).gsub("_", " ")
+
+    fish_info["latin_name"], fish_info["proper-description"] = extract_description(html) #  # "TODO(ricc): pull from other script"
+
 
     # not only taxo.. :)
     fish_info["name"] = html.at_css("#firstHeading").text # gets the name
@@ -229,16 +299,19 @@ hing_else_then conspicillum"}
         # check its ok
         if taxo_value =~ /\d\d\d\d/
           # i think ive fixed it by adding " > a "
-          puts "Soemthing smells fishy lets fix it.. try BEFORE BR or firs A value"
+          puts "[ERR] Something smells fishy lets fix it.. try BEFORE BR or firs A value"
           puts "[TAXOVAL] #{taxo_value}" if opts_debug
           puts "[TAXO_OBJ] #{taxorow.css("td:nth-child(2)").to_s.colorize( :yellow)}" if opts_debug
           # selector: #mw-content-text > div.mw-parser-output > table.infobox.biota > tbody > tr:nth-child(8) > td:nth-child(2) > a
           puts "[TAXO_OBJ] #{taxorow.css("td:nth-child(2) > a").to_s.colorize( :green)}" if opts_debug
+          taxo_value =           taxorow.css("td:nth-child(2) > a").text.trim()
         end
         # should fix the bug of this example: I want  "Actinopterygii", not  "ActinopterygiiKlein, 1885"
       #  + taxo_byindex_6: [6, "Class", "ActinopterygiiKlein, 1885", "<tr><td>Class:</td><td><a class=\"mw-selflink selflink\">Actinopterygii</a><br><small><a href=\"/w/index.php?title=Adolf_von_Kl
       #   ein&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Adolf von Klein (page does not exist)\">Klein</a>, 1885</small></td></tr>"]
-      linked_taxo_value = taxorow.css("td:nth-child(2) > a").text.trim()
+      # if I do > a doesnt work either damn.
+
+      linked_taxo_value =  extract_taxonomy_value_from_dom(taxo_key, taxorow)
       fish_info["taxo_removeme_debug"]["taxo_byindex_verbose_#{ix}"] = [
         ix,
         taxo_key,
@@ -273,15 +346,24 @@ hing_else_then conspicillum"}
       end
 
       short_taxo = fish_info["taxo_removeme_debug"]["arrvals"].join(' > ')
+      fish_info["short_taxo"] = short_taxo
       #fish_info["taxo"].keys # .keys.join(', ')
-      fish_info["name_with_short_taxo"] = "#{fish_info['name']} (#{short_taxo})"
 
-      # found a bug in Starfish To be fixed
-      if taxo_value =~ /, [12][6789]\d\d/ # == "AsteroideaBlainville, 1830"
-        raise(
-          "2BFIXED_BUG (date inside taxo by mistake, eg for Starfish). Maybe you stop at first TBODY or better parse the TD TR penso che devi fermarti al primo tbody cosi non fa gli altri..."
-        )
-      end
+
+      fish_info["taxon_identifiers"] = {''}
+
+
+      # needs to be the LAST THING TO BE CALCULATED
+      fish_info["valid"] = fish_valid?(fish_info)
+      #fish_info["taxo_removeme_debug"]["name_with_short_taxo"] = "[#{fish_info["valid"]}] #{fish_info['name']} (#{short_taxo})"
+      fish_info["name_with_short_taxo"] = "[#{fish_info["valid"]}] #{fish_info['name']} (#{short_taxo})"
+
+      # # found a bug in Starfish To be fixed
+      # if taxo_value =~ /, [12][6789]\d\d/ # == "AsteroideaBlainville, 1830"
+      #   raise(
+      #     "2BFIXED_BUG (date inside taxo by mistake, eg for Starfish). Maybe you stop at first TBODY or better parse the TD TR penso che devi fermarti al primo tbody cosi non fa gli altri..."
+      #   )
+      # end
     end
 
     # visualize output which is pretty cool
@@ -293,5 +375,13 @@ hing_else_then conspicillum"}
     end
 
     fish_info
+  end
+
+  # compute validity
+  def fish_valid?(fish_info)
+    #puts fish_info["short_taxo"]
+    return false if fish_info["short_taxo"] =~ /> >/
+    return false if fish_info["taxo"]['Genus'] == ''
+    return true
   end
 end

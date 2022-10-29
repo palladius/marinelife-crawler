@@ -566,7 +566,7 @@ def main()
   #   true,
   #   verbose: VERBOSE,
   #   max_imports: MAX_IMPORTS
-  # ) if
+  # )
 
   # END / finally
   unless online?
