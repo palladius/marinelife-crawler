@@ -10,7 +10,10 @@ install:
 	bundle install
 
 ruby-crawl:
-	VERBOSE=TRUE MAX_IMPORTS=15 ./crawl-wikipedia.rb
+	MAX_IMPORTS=15 ./crawl-wikipedia.rb
+
+fish-crawl-buggysamples:
+	FISH_FOLDER=buggy-samples/ VERBOSE=false DEBUG=true MAX_IMPORTS=2 ./crawl-wikipedia.rb
 
 install:
 	gem install nokogiri open-uri colorize

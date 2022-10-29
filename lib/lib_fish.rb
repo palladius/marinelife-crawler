@@ -25,10 +25,11 @@ module LibFish
       ) # rescue nil
   end
 
-  def iterate_through_files_in_directory(path, target_yaml, output_yaml_list=true, opts = {})
+  def iterate_through_files_in_directory(path, target_yaml, output_yaml_list, opts = {})
     opts_max_imports = opts.fetch :max_imports, 1_000_000
     opts_verbose = opts.fetch :verbose, false
     opts_debug = opts.fetch :debug, false
+    #puts("iterate_through_files_in_directory opts: #{opts}")
 
     files_to_iterate_upon = Dir.glob("#{path}/**/*").first(opts_max_imports)
     puts "🤟 iterate_through_files_in_directory(path='#{path.colorize(:cyan)}', write_to='#{target_yaml.colorize(:cyan)}', max=#{opts_max_imports})"
@@ -50,7 +51,7 @@ module LibFish
       file_content = File.read(File.expand_path filename)
       if smells_like_fish?(file_content)
         puts "🐠 We have a FISH: #{filename}" if opts_verbose
-        ret = smart_wiki_parse_fish(filename)
+        ret = smart_wiki_parse_fish(filename, opts)
         write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0) # i cant use the each with index, in case first wiki file is nOT a fish :)
         n_fishes += 1
       else
@@ -76,12 +77,15 @@ module LibFish
     initialize_too = false,
     opts = {}
   )
-    opts_verbose = opts.fetch :verbose, false
+  opts_verbose = opts.fetch :verbose, false
+  opts_debug = opts.fetch :debug, true
 
     # initialize if needed
     if opts_verbose
       puts "# Dumping cleanedup_fish_hash info into this file '#{filename}'. If first time (#{initialize_too}) im gonna also delete it first"
     end
+    # remove debug info unless debug set up.
+    #cleanedup_fish_hash = opts_debug ? fish_hash : fish_hash.except("taxo_removeme_debug")
     cleanedup_fish_hash = fish_hash.except("taxo_removeme_debug")
     pp(cleanedup_fish_hash) if opts_verbose
 
@@ -101,7 +105,6 @@ module LibFish
 
     indented_object = {
       "WikiCrawler v#{WikiCrawlerVersion} - #{fish_hash["name"]}" =>
-        #fish_hash.except(:taxo_removeme_debug)
         cleanedup_fish_hash
     }
     useful_but_commented_debug_info =
@@ -119,6 +122,7 @@ module LibFish
       #pp fish_obj_to_dump_to_file.inspect
       f.write(indented_object.to_yaml)
       puts indented_object.to_yaml if opts_verbose
+      pp(fish_hash["taxo_removeme_debug"]) if opts_debug
       f.write("#" * 80 + "\n")
     end
 
@@ -138,6 +142,11 @@ hing_else_then conspicillum"}
  + taxo_byindex_8: [8, "Family", "Balistidae", "<tr><td>Family:</td><td><a href=\"/wiki/Triggerfish\" title=\"Triggerfish\">Balistidae</a></td></tr>"]
  + taxo_byindex_9: [9, "Genus", "Balistoides", "<tr><td>Genus:</td><td><a href=\"/wiki/Balistoides\" title=\"Balistoides\"><i>Balistoides</i></a></td></tr>"]
  + taxo_byindex_10: [10, "Species", "B. conspicillum", "<tr><td>Species:</td><td><div style=\"display:inline\" class=\"species\"><i><b>B. conspicillum</b></i></div></td></tr>"]
+
+ A PROBLEMATIC ONE:
+
+   "<tr><td>Class:</td><td><a class=\"mw-selflink selflink\">Asteroidea</a><br><small><a href=\"/wiki/Henri_Marie_Ducrotay_de_Blainville\" title=\"Henri Marie Ducrotay de Blainville\">Blainville</a>, 1830</small></td></tr>"],
+ "taxo_byindex_7"=>["Class", "AsteroideaBlainville, 1830"],
 
 =end
 
@@ -212,14 +221,24 @@ hing_else_then conspicillum"}
       taxo_key = taxorow.css("td:first").text.trim().gsub(/:$/, "") # remove trailing colon
       taxo_value =
         begin
-          taxorow.css("td:nth-child(2)").text.trim()
+          taxorow.css("td:nth-child(2) > a").text.trim()
         rescue StandardError
           $!
         end
-      # should fix the bug of this example: I want  "Actinopterygii", not  "ActinopterygiiKlein, 1885"
+
+        # check its ok
+        if taxo_value =~ /\d\d\d\d/
+          # i think ive fixed it by adding " > a "
+          puts "Soemthing smells fishy lets fix it.. try BEFORE BR or firs A value"
+          puts "[TAXOVAL] #{taxo_value}" if opts_debug
+          puts "[TAXO_OBJ] #{taxorow.css("td:nth-child(2)").to_s.colorize( :yellow)}" if opts_debug
+          # selector: #mw-content-text > div.mw-parser-output > table.infobox.biota > tbody > tr:nth-child(8) > td:nth-child(2) > a
+          puts "[TAXO_OBJ] #{taxorow.css("td:nth-child(2) > a").to_s.colorize( :green)}" if opts_debug
+        end
+        # should fix the bug of this example: I want  "Actinopterygii", not  "ActinopterygiiKlein, 1885"
       #  + taxo_byindex_6: [6, "Class", "ActinopterygiiKlein, 1885", "<tr><td>Class:</td><td><a class=\"mw-selflink selflink\">Actinopterygii</a><br><small><a href=\"/w/index.php?title=Adolf_von_Kl
       #   ein&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Adolf von Klein (page does not exist)\">Klein</a>, 1885</small></td></tr>"]
-      linked_taxo_value = taxorow.css("td:nth-child(2)").text.trim()
+      linked_taxo_value = taxorow.css("td:nth-child(2) > a").text.trim()
       fish_info["taxo_removeme_debug"]["taxo_byindex_verbose_#{ix}"] = [
         ix,
         taxo_key,
@@ -258,9 +277,9 @@ hing_else_then conspicillum"}
       fish_info["name_with_short_taxo"] = "#{fish_info['name']} (#{short_taxo})"
 
       # found a bug in Starfish To be fixed
-      if taxo_value == "AsteroideaBlainville"
+      if taxo_value =~ /, [12][6789]\d\d/ # == "AsteroideaBlainville, 1830"
         raise(
-          "2BFIXED_BUG for Starfish penso che devi fermarti al primo tbody cosi non fa gli altri..."
+          "2BFIXED_BUG (date inside taxo by mistake, eg for Starfish). Maybe you stop at first TBODY or better parse the TD TR penso che devi fermarti al primo tbody cosi non fa gli altri..."
         )
       end
     end

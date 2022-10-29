@@ -57,9 +57,12 @@ BASE_WIKIPEDIA_URL = "https://en.wikipedia.org"
 NOBEL_LIST_URL = "#{BASE_WIKIPEDIA_URL}/wiki/List_of_Nobel_laureates"
 $DEBUG = false
 Version = "1.3"
-MAX_IMPORTS = ENV.fetch("MAX_IMPORTS", "5").to_i
-VERBOSE = ENV.fetch("VERBOSE", "FALSE").to_s.downcase == "true"
-DEBUG = ENV.fetch("DEBUG", "FALSE").to_s.downcase == "true"
+
+# ENV STUFF
+ENV_MAX_IMPORTS = ENV.fetch("MAX_IMPORTS", "5").to_i
+ENV_VERBOSE = ENV.fetch("VERBOSE", "FALSE").to_s.downcase == "true"
+ENV_DEBUG = ENV.fetch("DEBUG", "FALSE").to_s.downcase == "true"
+ENV_FISH_FOLDER = ENV.fetch("FISH_FOLDER", "samples/") # .t o_s.downcase == "true"
 
 class String
   def trim
@@ -151,11 +154,15 @@ def nokogiri_parse_offline_or_online(path)
 end
 
 # can be remote or local
-def fish_page_get_info(path, opts = {})
+def fish_page_get_info_OBSOLETE(path, opts = {})
   opts_debug_links = opts.fetch :debug_links, false
   opts_debug_images = opts.fetch :images_links, false
   opts_download_images = opts.fetch :download_images, true
   opts_limit_entries = opts.fetch :limit_entries, 5
+
+  puts(
+    "please use the one in lib_fish.rb instead. USe this only to study the multi-paragraph descirption which is amazing."
+  )
 
   #path_type = path.match(/^http/) ? 'webpage' : 'local_file'
   h = {
@@ -534,9 +541,10 @@ def main()
 
   puts "#{$0} v#{Version} START on #{Time.now}"
 
-  puts "ENV[MAX_IMPORTS]=#{MAX_IMPORTS}"
-  puts "ENV[VERBOSE]=#{VERBOSE}"
-  puts "ENV[DEBUG]=#{DEBUG}"
+  puts "ENV[MAX_IMPORTS]=#{ENV_MAX_IMPORTS}"
+  puts "ENV[VERBOSE]=#{ENV_VERBOSE}"
+  puts "ENV[DEBUG]=#{ENV_DEBUG}"
+  puts "ENV[FISH_FOLDER]=#{ENV_FISH_FOLDER}"
 
   # if online?
   #   smart_morgan_freeman('Morgan Freeman') if online?
@@ -545,17 +553,20 @@ def main()
   # end
   #puts "1. iterate_through_files_in_directory:"
   iterate_through_files_in_directory(
-    "samples/",
+    ENV_FISH_FOLDER, # "samples/",
     "out/fish-sample.yaml",
-    verbose: VERBOSE,
-    max_imports: MAX_IMPORTS
+    true,
+    verbose: ENV_VERBOSE,
+    max_imports: ENV_MAX_IMPORTS,
+    debug: ENV_DEBUG
   )
   # iterate_through_files_in_directory(
   #   "en.wikipedia.org/wiki/",
   #   "out/fish-from-wiki-crawl.yaml",
+  #   true,
   #   verbose: VERBOSE,
   #   max_imports: MAX_IMPORTS
-  # )
+  # ) if
 
   # END / finally
   unless online?
