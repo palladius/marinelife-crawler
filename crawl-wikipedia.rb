@@ -63,6 +63,8 @@ ENV_MAX_IMPORTS = ENV.fetch("MAX_IMPORTS", "5").to_i
 ENV_VERBOSE = ENV.fetch("VERBOSE", "FALSE").to_s.downcase == "true"
 ENV_DEBUG = ENV.fetch("DEBUG", "FALSE").to_s.downcase == "true"
 ENV_FISH_FOLDER = ENV.fetch("FISH_FOLDER", "samples/") # .t o_s.downcase == "true"
+ENV_OUTPUT_YAML = ENV.fetch('OUTPUT_YAML', "out/fish-sample.yaml")
+
 
 class String
   def trim
@@ -554,7 +556,7 @@ def main()
   #puts "1. iterate_through_files_in_directory:"
   iterate_through_files_in_directory(
     ENV_FISH_FOLDER, # "samples/",
-    "out/fish-sample.yaml",
+    ENV_OUTPUT_YAML,
     true,
     verbose: ENV_VERBOSE,
     max_imports: ENV_MAX_IMPORTS,

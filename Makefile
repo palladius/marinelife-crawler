@@ -15,6 +15,9 @@ fish-crawl-wikipedia:
 fish-crawl-buggysamples:
 	FISH_FOLDER=buggy-samples/ VERBOSE=false DEBUG=true MAX_IMPORTS=2 ./crawl-wikipedia.rb
 
+fish-crawl-super-duper:
+	OUTPUT_YAML=out/fish-from-wiki-crawl.yaml MAX_IMPORTS=1215  FISH_FOLDER=en.wikipedia.org/wiki/ ./crawl-wikipedia.rb
+
 install:
 	gem install nokogiri open-uri colorize
 
