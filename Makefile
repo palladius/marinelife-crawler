@@ -11,6 +11,8 @@ install:
 
 fish-crawl-wikipedia:
 	MAX_IMPORTS=15 ./crawl-wikipedia.rb
+fish-crawl-wikipedia-dabon:
+	MAX_IMPORTS=100000 ./crawl-wikipedia.rb
 
 fish-crawl-buggysamples:
 	FISH_FOLDER=buggy-samples/ VERBOSE=false DEBUG=true MAX_IMPORTS=2 ./crawl-wikipedia.rb
