@@ -43,3 +43,6 @@ single-wgets:
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Dolphin
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Manta_Ray
 
+test:
+#	FISH_FOLDER=buggy-samples/ VERBOSE=true DEBUG=true MAX_IMPORTS=1 RUN_TESTS=true ./crawl-wikipedia.rb
+	ruby wiki_fish_test.rb

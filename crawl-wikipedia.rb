@@ -51,6 +51,7 @@ require "pp"
 require "pry" # for debuggging
 require "colorize"
 require_relative "lib/lib_fish"
+require_relative "lib/strings_on_steroids"
 #require_relative './wiki_fish'
 
 BASE_WIKIPEDIA_URL = "https://en.wikipedia.org"
@@ -62,15 +63,16 @@ Version = "1.3"
 ENV_MAX_IMPORTS = ENV.fetch("MAX_IMPORTS", "5").to_i
 ENV_VERBOSE = ENV.fetch("VERBOSE", "FALSE").to_s.downcase == "true"
 ENV_DEBUG = ENV.fetch("DEBUG", "FALSE").to_s.downcase == "true"
+ENV_RUN_TESTS = ENV.fetch("RUN_TESTS", "FALSE").to_s.downcase == "true"
 ENV_FISH_FOLDER = ENV.fetch("FISH_FOLDER", "samples/") # .t o_s.downcase == "true"
 ENV_OUTPUT_YAML = ENV.fetch('OUTPUT_YAML', "out/fish-sample.yaml")
 
 
-class String
-  def trim
-    self.gsub(/^\s+/, "").gsub(/\s+$/, "")
-  end
-end
+# class String
+#   def trim
+#     self.gsub(/^\s+/, "").gsub(/\s+$/, "")
+#   end
+# end
 
 FISH_URLS = [
   "https://en.wikipedia.org/wiki/Valentin%27s_sharpnose_puffer",
@@ -546,14 +548,14 @@ def main()
   puts "ENV[MAX_IMPORTS]=#{ENV_MAX_IMPORTS}"
   puts "ENV[VERBOSE]=#{ENV_VERBOSE}"
   puts "ENV[DEBUG]=#{ENV_DEBUG}"
-  puts "ENV[FISH_FOLDER]=#{ENV_FISH_FOLDER}"
+  puts "ENV[FISH_FOLDER]=#{ENV_FISH_FOLDER}"  
+  puts "ENV[RUN_TESTS]=#{ENV_RUN_TESTS}"
 
   # if online?
   #   smart_morgan_freeman('Morgan Freeman') if online?
   #   smart_morgan_freeman('Tom Cruise') if online?
   #   smart_morgan_freeman('Mike Myers') if online?
   # end
-  #puts "1. iterate_through_files_in_directory:"
   iterate_through_files_in_directory(
     ENV_FISH_FOLDER, # "samples/",
     ENV_OUTPUT_YAML,
@@ -562,13 +564,6 @@ def main()
     max_imports: ENV_MAX_IMPORTS,
     debug: ENV_DEBUG
   )
-  # iterate_through_files_in_directory(
-  #   "en.wikipedia.org/wiki/",
-  #   "out/fish-from-wiki-crawl.yaml",
-  #   true,
-  #   verbose: VERBOSE,
-  #   max_imports: MAX_IMPORTS
-  # )
 
   # END / finally
   unless online?

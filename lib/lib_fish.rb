@@ -1,6 +1,20 @@
 #require "htmlentities"
+require 'nokogiri'
+require "open-uri"
+
+#require_relative './string_on_steroids'
+
+class String
+  def trim
+      self.gsub(/^\s+/, "").gsub(/\s+$/, "")
+  end
+end
+#include StringOnSteroids
+
 
 module LibFish
+  
+
   # carlessian module to parse wikipedia fish...
   #  TaxonomyCompleExtractionRegex = /^[ ]+(Kingdom|Subkingdom|Phylum|Superclass|Class|Family|Clade|Order|Index|Genus|Species|Superphylum):( )+([\w ]+)$/
   TaxonomyRegex =
@@ -470,5 +484,51 @@ I want to extract:
     return false if fish_info["short_taxo"] =~ /> >/
     return false if fish_info["taxo"]['Genus'] == ''
     return true
+  end
+
+  
+
+def get_taxonomy_for_fish(fishname, taxokey, opts={})
+  opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
+  opts_verbose = opts.fetch :verbose, true 
+
+  filename = "#{opts_default_dir}/#{fishname}"
+
+  puts "🚧 WIP get_taxonomy_for_fish(#{fishname}, #{taxokey})" if opts_verbose
+  file_content = File.read(File.expand_path filename)
+
+  if smells_like_fish?(file_content)
+    puts "🐠 We have a FISH: #{filename}" if opts_verbose
+    ret = smart_wiki_parse_fish(filename, opts)
+    #puts ret['taxo'][taxokey]
+    return ret['taxo'][taxokey] #== expected_taxoval
+    #write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
+    #n_fishes += 1
+  end
+  puts "ERROR Doesnt smell like fish so I say no"
+  raise Exception("Not a fish: #{fishname} (or doesnt smell like one)")
+  # TODO raise NotAFishException
+  return nil
+end
+
+  def REMOVEME_test_taxonomy_for_fish_should_be(fishname, taxokey, expected_taxoval, opts={})
+    opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
+    opts_verbose = opts.fetch :verbose, true 
+
+    filename = "#{opts_default_dir}/#{fishname}"
+
+    puts "🚧 WIP test_taxonomy_for_fish_should_be(#{fishname}, #{taxokey} -> #{expected_taxoval})" if opts_verbose
+    file_content = File.read(File.expand_path filename)
+
+    if smells_like_fish?(file_content)
+      puts "🐠 We have a FISH: #{filename}" if opts_verbose
+      ret = smart_wiki_parse_fish(filename, opts)
+      #puts ret['taxo'][taxokey]
+      return ret['taxo'][taxokey] == expected_taxoval
+      #write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
+      #n_fishes += 1
+    end
+    puts "Doesnt smell like fish so I say no"
+    return false
   end
 end
