@@ -46,4 +46,26 @@ include StringOnSteroids
         Class:      :Asteroidea,
     })
 
+#     Kingdom:	Animalia
+# Phylum:	Mollusca
+# Class:	Gastropoda
+# Subclass:	Heterobranchia
+# Order:	Nudibranchia
+# Suborder:	Cladobranchia
+# Family:	Glaucidae
+# Genus:	Glaucus
+# Species:	G. atlanticus
+
+    assert_fish_has_taxonomy('Glaucus_atlanticus', {
+        Kingdom:    :Animalia, 
+        Phylum:     :Mollusca, 
+        Class:      :Gastropoda,
+        Subclass:	:Heterobranchia,
+        Order:	    :Nudibranchia,
+        Suborder:	:Cladobranchia,
+        Family:	:Glaucidae,
+        Genus:	:Glaucus,
+        #Species:	G. atlanticus
+    })
+
 #end

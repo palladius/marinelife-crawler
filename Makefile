@@ -8,6 +8,8 @@ SIMPLE_WGET_COMMAND_THERE = cd  en.wikipedia.org/wiki && wget
 
 install:
 	bundle install
+	if_mac brew install wget
+	gem install nokogiri open-uri colorize
 
 fish-crawl-wikipedia:
 	MAX_IMPORTS=15 ./crawl-wikipedia.rb
@@ -20,8 +22,6 @@ fish-crawl-buggysamples:
 fish-crawl-super-duper:
 	OUTPUT_YAML=out/fish-from-wiki-crawl.yaml MAX_IMPORTS=1215  FISH_FOLDER=en.wikipedia.org/wiki/ ./crawl-wikipedia.rb
 
-install:
-	gem install nokogiri open-uri colorize
 
 wget-crawl-holothuria:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Holothuria'
@@ -36,6 +36,8 @@ wget-crawl-shark:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Shark'
 wget-crawl-chromodoris:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Chromodoris'
+wget-crawl-bluedragon: # Glaucus_atlanticus
+	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Glaucus_atlanticus'
 
 
 single-wgets:
