@@ -494,11 +494,11 @@ def get_taxonomy_for_fish(fishname, taxokey, opts={})
 
   filename = "#{opts_default_dir}/#{fishname}"
 
-  puts "🚧 WIP get_taxonomy_for_fish(#{fishname}, #{taxokey})" if opts_verbose
+  puts "🚧 WIP get_taxonomy_for_fish(#{fishname}, #{taxokey}) to check quality of smart_wiki_parse_fish()" if opts_verbose
   file_content = File.read(File.expand_path filename)
 
   if smells_like_fish?(file_content)
-    puts "🐠 We have a FISH: #{filename}" if opts_verbose
+    puts "🐠 YAY! We have a FISH: #{filename}" if opts_verbose
     ret = smart_wiki_parse_fish(filename, opts)
     #puts ret['taxo'][taxokey]
     return ret['taxo'][taxokey] #== expected_taxoval
@@ -511,24 +511,24 @@ def get_taxonomy_for_fish(fishname, taxokey, opts={})
   return nil
 end
 
-  def REMOVEME_test_taxonomy_for_fish_should_be(fishname, taxokey, expected_taxoval, opts={})
-    opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
-    opts_verbose = opts.fetch :verbose, true 
+  # def REMOVEME_test_taxonomy_for_fish_should_be(fishname, taxokey, expected_taxoval, opts={})
+  #   opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
+  #   opts_verbose = opts.fetch :verbose, true 
 
-    filename = "#{opts_default_dir}/#{fishname}"
+  #   filename = "#{opts_default_dir}/#{fishname}"
 
-    puts "🚧 WIP test_taxonomy_for_fish_should_be(#{fishname}, #{taxokey} -> #{expected_taxoval})" if opts_verbose
-    file_content = File.read(File.expand_path filename)
+  #   puts "🚧 WIP test_taxonomy_for_fish_should_be(#{fishname}, #{taxokey} -> #{expected_taxoval})" if opts_verbose
+  #   file_content = File.read(File.expand_path filename)
 
-    if smells_like_fish?(file_content)
-      puts "🐠 We have a FISH: #{filename}" if opts_verbose
-      ret = smart_wiki_parse_fish(filename, opts)
-      #puts ret['taxo'][taxokey]
-      return ret['taxo'][taxokey] == expected_taxoval
-      #write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
-      #n_fishes += 1
-    end
-    puts "Doesnt smell like fish so I say no"
-    return false
-  end
+  #   if smells_like_fish?(file_content)
+  #     puts "🐠 We have a FISH: #{filename}" if opts_verbose
+  #     ret = smart_wiki_parse_fish(filename, opts)
+  #     #puts ret['taxo'][taxokey]
+  #     return ret['taxo'][taxokey] == expected_taxoval
+  #     #write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
+  #     #n_fishes += 1
+  #   end
+  #   puts "Doesnt smell like fish so I say no"
+  #   return false
+  # end
 end

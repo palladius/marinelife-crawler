@@ -26,7 +26,7 @@ include StringOnSteroids
     # this should pass already
     assert_taxonomy_for_fish_should_be('Gnomefish', 'Kingdom', 'Animalia') # correct
     # this should pass when I fix the test
-    assert_taxonomy_for_fish_should_be('Gnomefish', 'Family', 'Scombropidae') # wrong
+    assert_taxonomy_for_fish_should_be('Gnomefish', 'Family', 'Scombropidae', :verbose => true) # unfortunaterly we get it wrong
     #test_taxonomy_for_fish_should_be('Gnomefish', 'Genus', 'Scombrops') # wrong
     assert_taxonomy_for_fish_should_be('Gnomefish', 'Genus', 'Scombrops') # wrong
 
@@ -46,16 +46,7 @@ include StringOnSteroids
         Class:      :Asteroidea,
     })
 
-#     Kingdom:	Animalia
-# Phylum:	Mollusca
-# Class:	Gastropoda
-# Subclass:	Heterobranchia
-# Order:	Nudibranchia
-# Suborder:	Cladobranchia
-# Family:	Glaucidae
-# Genus:	Glaucus
-# Species:	G. atlanticus
-
+    # Blue Dragon
     assert_fish_has_taxonomy('Glaucus_atlanticus', {
         Kingdom:    :Animalia, 
         Phylum:     :Mollusca, 
