@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 
 # downloads under en.wikipedia.org/wiki/
-WGET_COMMAND = wget  -r -e robots=off --no-parent --continue --wait=2 --limit-rate=100K
+WGET_COMMAND = wget  -r -e robots=off --no-parent --continue --wait=2 --limit-rate=100K --no-clobber
 
 SIMPLE_WGET_COMMAND_THERE = cd  en.wikipedia.org/wiki && wget
 

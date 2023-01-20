@@ -599,4 +599,107 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Molecular phylogenetics","url":"https:\/\/en.wikipedia.org\/wiki\/Molecular_phylogenetics","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2007033","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2007033","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-21T02:54:21Z","dateModified":"2022-09-11T13:39:33Z","headline":"branch of phylogeny that analyzes genetic, hereditary molecular differences"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Molecular phylogenetics","url":"https:\/\/en.wikipedia.org\/wiki\/Molecular_phylogenetics","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2007033","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2007033","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-21T02:54:21Z","dateModified":"2022-09-11T13:39:33Z","headline":"branch of phylogeny that analyzes genetic, hereditary molecular differences"}</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1354"});});</script>
 </body>
+</html> Computational Molecular Biology</a> (RECOMB)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">File formats</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/CRAM_(file_format)" title="CRAM (file format)">CRAM format</a></li>
+<li><a href="/wiki/FASTA_format" title="FASTA format">FASTA format</a></li>
+<li><a href="/wiki/FASTQ_format" title="FASTQ format">FASTQ format</a></li>
+<li><a href="/wiki/NeXML_format" title="NeXML format">NeXML format</a></li>
+<li><a href="/wiki/Nexus_file" title="Nexus file">Nexus format</a></li>
+<li><a href="/wiki/Pileup_format" title="Pileup format">Pileup format</a></li>
+<li><a href="/wiki/SAM_(file_format)" title="SAM (file format)">SAM format</a></li>
+<li><a href="/wiki/Stockholm_format" title="Stockholm format">Stockholm format</a></li>
+<li><a href="/wiki/Variant_Call_Format" title="Variant Call Format">VCF format</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a></li>
+<li><a href="/wiki/List_of_biobanks" title="List of biobanks">List of biobanks</a></li>
+<li><a href="/wiki/List_of_biological_databases" title="List of biological databases">List of biological databases</a></li>
+<li><a class="mw-selflink selflink">Molecular phylogenetics</a></li>
+<li><a href="/wiki/Sequencing" title="Sequencing">Sequencing</a></li>
+<li><a href="/wiki/Sequence_database" title="Sequence database">Sequence database</a></li>
+<li><a href="/wiki/Sequence_alignment" title="Sequence alignment">Sequence alignment</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Bioinformatics" title="Category:Bioinformatics">Category</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Bioinformatics" class="extiw" title="commons:Category:Bioinformatics">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1387
+Cached time: 20230114152211
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.376 seconds
+Real time usage: 0.480 seconds
+Preprocessor visited node count: 2146/1000000
+Post‐expand include size: 72469/2097152 bytes
+Template argument size: 2682/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 63140/5000000 bytes
+Lua time usage: 0.230/10.000 seconds
+Lua memory usage: 6608786/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.378      1 -total
+ 27.61%  112.218      1 Template:Reflist
+ 22.43%   91.170      2 Template:Navbox
+ 21.53%   87.495      1 Template:Phylogenetics
+ 20.03%   81.388      2 Template:Refn
+ 17.17%   69.778      1 Template:Citation
+ 14.87%   60.430      1 Template:Short_description
+ 13.78%   55.981      9 Template:Cite_journal
+  9.41%   38.251      2 Template:Pagetype
+  8.24%   33.496      4 Template:ISBN
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:149544-0!canonical and timestamp 20230114152211 and revision id 1109714820.
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Molecular_phylogenetics&amp;oldid=1109714820">https://en.wikipedia.org/w/index.php?title=Molecular_phylogenetics&amp;oldid=1109714820</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Phylogenetics" title="Category:Phylogenetics">Phylogenetics</a></li><li><a href="/wiki/Category:Molecular_evolution" title="Category:Molecular evolution">Molecular evolution</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li></ul></div></div>
+					
+				</div>
+				
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 11 September 2022, at 13:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Molecular_phylogenetics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.480","ppvisitednodes":{"value":2146,"limit":1000000},"postexpandincludesize":{"value":72469,"limit":2097152},"templateargumentsize":{"value":2682,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":63140,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  406.378      1 -total"," 27.61%  112.218      1 Template:Reflist"," 22.43%   91.170      2 Template:Navbox"," 21.53%   87.495      1 Template:Phylogenetics"," 20.03%   81.388      2 Template:Refn"," 17.17%   69.778      1 Template:Citation"," 14.87%   60.430      1 Template:Short_description"," 13.78%   55.981      9 Template:Cite_journal","  9.41%   38.251      2 Template:Pagetype","  8.24%   33.496      4 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.230","limit":"10.000"},"limitreport-memusage":{"value":6608786,"limit":52428800}},"cachereport":{"origin":"mw1387","timestamp":"20230114152211","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Molecular phylogenetics","url":"https:\/\/en.wikipedia.org\/wiki\/Molecular_phylogenetics","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2007033","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2007033","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-21T02:54:21Z","dateModified":"2022-09-11T13:39:33Z","headline":"branch of phylogeny that analyzes genetic, hereditary molecular differences"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Molecular phylogenetics","url":"https:\/\/en.wikipedia.org\/wiki\/Molecular_phylogenetics","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2007033","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2007033","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-21T02:54:21Z","dateModified":"2022-09-11T13:39:33Z","headline":"branch of phylogeny that analyzes genetic, hereditary molecular differences"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1429"});});</script>
+</body>
 </html>
