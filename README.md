@@ -1,8 +1,10 @@
 # marinelife-crawler
 
-Crawls websites for Marine life (fancy for "fish") and collects latin name and taxonomy to create a DB of 🐠 fish
+Crawls websites for Marine life (fancy for "fish") and collects latin name and taxonomy to create a DB of 🐠 fish.
 
 It's implemented in Ruby and currently cralws Wikipedia for fish info.
+
+I'm investigating alternative tools like Ruby crawlers.
 
 ## Result
 
@@ -42,7 +44,7 @@ If I'm doing something wrong, please open an issue and suggest a solution and I'
 Before details...
 
 <details>
-  <summary>Commentary on Step 16</summary>
+  <summary>This is a fake thing Im using in another repo</summary>
 
   ## blah blah
   1. Foo

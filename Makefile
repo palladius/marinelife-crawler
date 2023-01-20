@@ -4,7 +4,7 @@ SHELL := /bin/bash
 # downloads under en.wikipedia.org/wiki/
 WGET_COMMAND = wget  -r -e robots=off --no-parent --continue --wait=2 --limit-rate=100K --no-clobber
 
-SIMPLE_WGET_COMMAND_THERE = cd  en.wikipedia.org/wiki && wget
+SIMPLE_WGET_COMMAND_THERE = cd en.wikipedia.org/wiki && wget
 
 install:
 	bundle install
@@ -44,6 +44,8 @@ single-wgets:
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Whale
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Dolphin
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Manta_Ray
+
+.PHONY: test 
 
 test:
 #	FISH_FOLDER=buggy-samples/ VERBOSE=true DEBUG=true MAX_IMPORTS=1 RUN_TESTS=true ./crawl-wikipedia.rb

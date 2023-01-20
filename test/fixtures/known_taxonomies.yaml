@@ -1,0 +1,42 @@
+
+# added manually
+KnownTaxonomisFromWikipedia:
+  Gnomefish:
+    Kingdom:	Animalia
+    Phylum:	Chordata
+    Class:	Actinopterygii
+    Order:	Perciformes
+    Family:	Scombropidae
+    #Gill, 1862[3]
+    Genus:	Scombrops
+    #Temminck & Schlegel, 1845 [2]
+    
+    #assert_taxonomy_for_fish_should_be('Gnomefish', 'Kingdom', 'Animalia') # correct
+    #assert_taxonomy_for_fish_should_be('Gnomefish', 'Family', 'Scombropidae', :verbose => true) # unfortunaterly we get it wrong
+    #test_taxonomy_for_fish_should_be('Gnomefish', 'Genus', 'Scombrops') # wrong
+    #assert_taxonomy_for_fish_should_be('Gnomefish', 'Genus', 'Scombrops') # wrong
+  Scombrops_boops:
+    Kingdom:	Animalia
+    Phylum:	Chordata
+    Class:	Actinopterygii
+    Order:	Perciformes
+    Family:	Scombropidae
+    Genus:	Scombrops
+    Species:	S. boops
+  Manta Ray:
+    Kingdom:	Animalia
+    Phylum:	Chordata
+    Class:	Chondrichthyes
+    Order:	Myliobatiformes
+    Family:	Mobulidae
+    Genus:	Manta
+  Oceanic dolphin:
+    Kingdom:	Animalia
+    Phylum:	Chordata
+    Class:	Mammalia
+    Order:	Artiodactyla
+    Infraorder:	Cetacea
+    Superfamily:	Delphinoidea
+    Family:	Delphinidae
+
+  

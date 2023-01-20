@@ -4,6 +4,7 @@
 
 require_relative "lib/lib_fish"
 require_relative 'lib/string_on_steroids'
+require 'yaml'
 
 #require 'minitest'
 require 'test/unit/assertions'
@@ -15,22 +16,37 @@ include StringOnSteroids
 
 #module WikiFishTest
 
-    def assert_taxonomy_for_fish_should_be(fish, taxokey, taxoval)
-        result = get_taxonomy_for_fish(fish, taxokey).encode('UTF-8') # .to_s.unicode_normalize
+    def assert_taxonomy_for_fish_should_be(fish, taxokey, taxoval, opts={})
+        opts_verbose = opts.fetch :verbose, false
+        opts_exit_after_fail = opts.fetch :exit_after_fail, true
+
+        result = get_taxonomy_for_fish(fish, taxokey).encode('UTF-8') rescue '' # .to_s.unicode_normalize
         #taxoval = taxoval.encode('UTF-8')
         
-        puts "DEB #{fish}::#{taxokey} -> '#{taxoval}' vs '#{result}'"
+        puts "DEB #{fish}::#{taxokey} -> '#{taxoval}' vs '#{result}'" if opts_verbose
         assert_equal(result, taxoval, "Fish #{fish} should have #{taxokey}=#{taxoval}, instead I found '#{result}")
     end
 
+    #myopts = {:exit_after_fail => false,  :verbose => false}
     # this should pass already
-    assert_taxonomy_for_fish_should_be('Gnomefish', 'Kingdom', 'Animalia') # correct
+    #assert_taxonomy_for_fish_should_be('Gnomefish', 'Kingdom', 'Animalia') # correct
     # this should pass when I fix the test
-    assert_taxonomy_for_fish_should_be('Gnomefish', 'Family', 'Scombropidae', :verbose => true) # unfortunaterly we get it wrong
+    #assert_taxonomy_for_fish_should_be('Gnomefish', 'Family', 'Scombropidae', :verbose => true) # unfortunaterly we get it wrong
     #test_taxonomy_for_fish_should_be('Gnomefish', 'Genus', 'Scombrops') # wrong
-    assert_taxonomy_for_fish_should_be('Gnomefish', 'Genus', 'Scombrops') # wrong
+    #assert_taxonomy_for_fish_should_be('Gnomefish', 'Genus', 'Scombrops') # wrong
 
-    # stargish
+    # Gnomefish_tests
+#     Kingdom:	Animalia
+# Phylum:	Chordata
+# Class:	Actinopterygii
+# Order:	Perciformes
+# Family:	Scombropidae
+# Gill, 1862[3]
+# Genus:	Scombrops
+# Temminck & Schlegel, 1845 [2]
+
+def test_on_taxonomy()
+    # starfish
     {Kingdom:    :Animalia, 
      Phylum:     :Echinodermata, 
      Superclass: :Asterozoa, 
@@ -54,9 +70,33 @@ include StringOnSteroids
         Subclass:	:Heterobranchia,
         Order:	    :Nudibranchia,
         Suborder:	:Cladobranchia,
-        Family:	:Glaucidae,
-        Genus:	:Glaucus,
-        #Species:	G. atlanticus
+        Family:	    :Glaucidae,
+        Genus:	    :Glaucus,
+        #Species:	G. atlanticus,
     })
 
-#end
+end
+
+def assert_fish_has_taxonomy(fishname, taxo_keyvals, opts={})
+    puts "== assert_fish_has_taxonomy(#{fishname.colorize :yellow}) =="
+    taxo_keyvals.each do |k,v|
+        puts "Testing: #{k}: #{v}"
+        taxonomy_for_fish_should_be(fishname, k.to_s, v.to_s, opts) # wrong
+    end
+
+end
+
+def testFixturesElegantly()
+    fixtures = YAML.load(File.read 'test/fixtures/known_taxonomies.yaml')
+    
+    myopts = {:exit_after_fail => false,  :verbose => false}
+
+    fixtures['KnownTaxonomisFromWikipedia'].each do |fish_name, fish_buridone|
+        #puts fish_name.colorize :yellow # serialization
+        #puts fish_buridone
+        #puts '--'
+        assert_taxonomy_for_fish_should_be(fish_name, fish_buridone, myopts)
+    end
+end
+
+testFixturesElegantly

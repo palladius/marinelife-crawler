@@ -1,6 +1,7 @@
 #require "htmlentities"
 require 'nokogiri'
 require "open-uri"
+require 'colorize'
 
 #require_relative './string_on_steroids'
 
@@ -498,14 +499,14 @@ def get_taxonomy_for_fish(fishname, taxokey, opts={})
   file_content = File.read(File.expand_path filename)
 
   if smells_like_fish?(file_content)
-    puts "🐠 YAY! We have a FISH: #{filename}" if opts_verbose
+    puts "🐠 YAY! We have a FISH: #{filename.colorize :green}" if opts_verbose
     ret = smart_wiki_parse_fish(filename, opts)
     #puts ret['taxo'][taxokey]
     return ret['taxo'][taxokey] #== expected_taxoval
     #write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
     #n_fishes += 1
   end
-  puts "ERROR Doesnt smell like fish so I say no"
+  puts "🚃 ERROR Doesnt smell like fish so I say no: #{filename.colorize :red}"
   raise Exception("Not a fish: #{fishname} (or doesnt smell like one)")
   # TODO raise NotAFishException
   return nil
