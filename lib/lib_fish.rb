@@ -14,7 +14,7 @@ end
 
 
 module LibFish
-  
+
 
   # carlessian module to parse wikipedia fish...
   #  TaxonomyCompleExtractionRegex = /^[ ]+(Kingdom|Subkingdom|Phylum|Superclass|Class|Family|Clade|Order|Index|Genus|Species|Superphylum):( )+([\w ]+)$/
@@ -336,18 +336,20 @@ I want to extract:
   end
 
 
-  def smart_wiki_parse_fish(fish_url_name, opts = {})
+  def smart_wiki_parse_fish(fish_local_url_name, opts = {})
     opts_debug = opts.fetch :debug, false
     opts_verbose = opts.fetch :verbose, false
+    # Filename autodetected
+    ops_write_to_file = opts.fetch :write_to_file, true
 
     fish_info = {}
     fish_info["taxo"] = {}
-    fish_info["fish_url_name"] = fish_url_name
+    fish_info["fish_local_url_name"] = fish_local_url_name
     fish_info["taxo_removeme_debug"] = {}
     fish_info["taxo_removeme_debug"]["arrkeys"] = []
     fish_info["taxo_removeme_debug"]["arrvals"] = []
-    html = nokogiri_parse_offline_or_online(fish_url_name)
-    #html = Nokogiri::HTML(URI.open("https://en.wikipedia.org/wiki/" + fish_url_name.gsub(' ','_')))
+    html = nokogiri_parse_offline_or_online(fish_local_url_name)
+    #html = Nokogiri::HTML(URI.open("https://en.wikipedia.org/wiki/" + fish_local_url_name.gsub(' ','_')))
 
     fish_info["wiki"] = html.at_css("head > link[rel=canonical]")["href"]
     # useless, i have NAME which is better...
@@ -470,10 +472,19 @@ I want to extract:
 
     # visualize output which is pretty cool
     if opts_verbose
-      puts "== smart_wiki_parse_fish(#{fish_url_name.to_s.colorize(:azure)}) == "
+      puts "== smart_wiki_parse_fish(#{fish_local_url_name.to_s.colorize(:azure)}) == "
       fish_info.each do |k, v|
         puts " + #{k.to_s.white}: #{v.to_s.colorize(:blue)}"
       end
+    end
+
+    # eg, buggy-samples//Gnomefish => XXX.yaml
+    if ops_write_to_file
+      dest_file = File.expand_path(fish_local_url_name + ".ric.yaml")
+      puts "TODO write to #{ops_write_to_file} fopr #{fish_local_url_name}"
+      File.write(dest_file, fish_info.to_yaml)
+      #File.write('movies.yml', movies.to_yaml)
+      #raise "TODO #{fish_local_url_name}"
     end
 
     fish_info
@@ -487,54 +498,31 @@ I want to extract:
     return true
   end
 
-  
 
-def get_taxonomy_for_fish(fishname, taxokey, opts={})
-  opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
-  opts_verbose = opts.fetch :verbose, false 
 
-  filename = "#{opts_default_dir}/#{fishname}"
+  def get_taxonomy_for_fish(fishname, taxokey, opts={})
+    opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
+    opts_verbose = opts.fetch :verbose, false
 
-  puts "🚧 WIP  get_taxonomy_for_fish(#{fishname}, #{taxokey}) to check quality of smart_wiki_parse_fish()" if opts_verbose
-  
-  unless File.exist?(File.expand_path filename)
-    puts "File not found: #{filename.colorize :red}"
-    raise "File not found: #{filename}"
+    filename = "#{opts_default_dir}/#{fishname}"
+
+    puts "🚧 WIP  get_taxonomy_for_fish(#{fishname}, #{taxokey}) to check quality of smart_wiki_parse_fish()" if opts_verbose
+
+    unless File.exist?(File.expand_path filename)
+      puts "File not found: #{filename.colorize :red}"
+      raise "File not found: #{filename}"
+    end
+    file_content = File.read(File.expand_path filename)
+
+    if smells_like_fish?(file_content)
+      puts "🐠 YAY! We have a FISH: #{filename.colorize :green}" if opts_verbose
+      ret = smart_wiki_parse_fish(filename, opts)
+      return ret['taxo'][taxokey] #== expected_taxoval
+    end
+    puts "🚃 ERROR Doesnt smell like fish so I say no: #{filename.colorize :red}"
+    raise Exception("Not a fish: #{fishname} (or doesnt smell like one)")
+    # TODO raise NotAFishException
+    return nil
   end
-  file_content = File.read(File.expand_path filename)
 
-  if smells_like_fish?(file_content)
-    puts "🐠 YAY! We have a FISH: #{filename.colorize :green}" if opts_verbose
-    ret = smart_wiki_parse_fish(filename, opts)
-    #puts ret['taxo'][taxokey]
-    return ret['taxo'][taxokey] #== expected_taxoval
-    #write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
-    #n_fishes += 1
-  end
-  puts "🚃 ERROR Doesnt smell like fish so I say no: #{filename.colorize :red}"
-  raise Exception("Not a fish: #{fishname} (or doesnt smell like one)")
-  # TODO raise NotAFishException
-  return nil
-end
-
-  # def REMOVEME_test_taxonomy_for_fish_should_be(fishname, taxokey, expected_taxoval, opts={})
-  #   opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
-  #   opts_verbose = opts.fetch :verbose, true 
-
-  #   filename = "#{opts_default_dir}/#{fishname}"
-
-  #   puts "🚧 WIP test_taxonomy_for_fish_should_be(#{fishname}, #{taxokey} -> #{expected_taxoval})" if opts_verbose
-  #   file_content = File.read(File.expand_path filename)
-
-  #   if smells_like_fish?(file_content)
-  #     puts "🐠 We have a FISH: #{filename}" if opts_verbose
-  #     ret = smart_wiki_parse_fish(filename, opts)
-  #     #puts ret['taxo'][taxokey]
-  #     return ret['taxo'][taxokey] == expected_taxoval
-  #     #write_fish_info_to_yaml_file(ret, target_yaml, n_fishes == 0, opts) # i cant use the each with index, in case first wiki file is nOT a fish :)
-  #     #n_fishes += 1
-  #   end
-  #   puts "Doesnt smell like fish so I say no"
-  #   return false
-  # end
 end
