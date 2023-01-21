@@ -62,3 +62,7 @@ Before details...
 </details>
 
 After detail.
+
+# Awesome
+
+* i've just learnt I can use Ruby vscode to get to method definition :) See [stackoverflow](https://stackoverflow.com/questions/60658665/navigate-to-ruby-function-definition-in-vs-code).

@@ -1,5 +1,5 @@
-puts 'REMOVEME StringOnSteroids ruby file being included'
-
+# puts 'REMOVEME StringOnSteroids ruby file being included'
+# include me with "require relative + include "
 module StringOnSteroids
 
     class String

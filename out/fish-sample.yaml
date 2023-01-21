@@ -1,367 +1,314 @@
-# initialized on 2022-10-29 16:51:43 +0200 from ./crawl-wikipedia.rb v1.3
+# initialized on 2023-01-21 22:09:36 +0100 from ./crawl-wikipedia-local-samples.rb v1.4
 
 ################################################################################
 # useful_but_commented_debug_info:
 #DEBI# ---
 
 ---
-WikiCrawler v0.9 - Clown triggerfish:
+WikiCrawler v0.9 - African butter catfish:
   taxo:
     Kingdom: Animalia
     Phylum: Chordata
     Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Balistoides
-    Species: B. conspicillum
-  fish_url_name: samples//Clown_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Clown_triggerfish
+    Order: Siluriformes
+    Family: Schilbeidae
+    Genus: Schilbe
+    Species: S. mystus
+  fish_local_url_name: samples//African_butter_catfish
+  wiki: https://en.wikipedia.org/wiki/African_butter_catfish
   latin_name: ''
-  proper-description: "The clown triggerfish (Balistoides conspicillum), also known
-    as the bigspotted triggerfish, is a demersal marine fish belonging to the family
-    Balistidae, or commonly called triggerfish.\n\n"
-  name: Clown triggerfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Balistoides_conspicillum_2607.jpg/220px-Balistoides_conspicillum_2607.jpg
-  binomial_name: Balistoides conspicillum
-  simple_description_p4: The clown triggerfish (Balistoides conspicillum), also known
-    as the bigspotted triggerfish, is a demersal marine fish belonging to the family
-    Balistidae, or commonly called triggerfish.
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Balistoides > B. conspicillum
+  proper-description: "The African butter catfish (Schilbe mystus) is a species of
+    fish in the family Schilbeidae. It is native to many major river systems in Africa.[3]
+    \  Other common names for the fish include butter fish, butter barbel, African
+    glass catfish, lubangu, mystus catfish, silver barbel, and silver catfish.[1][3]
+    \  It was originally described as Silurus mystus by Carl Linnaeus in 1758.[4][3]\n\n"
+  name: African butter catfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schilbe_mystus_1923.jpg/220px-Schilbe_mystus_1923.jpg
+  binomial_name: Schilbe mystus
+  simple_description_p4: The African butter catfish (Schilbe mystus) is a species
+    of fish in the family Schilbeidae. It is native to many major river systems in
+    Africa.[3]   Other common names for the fish include butter fish, butter barbel,
+    African glass catfish, lubangu, mystus catfish, silver barbel, and silver catfish.[1][3]   It
+    was originally described as Silurus mystus by Carl Linnaeus in 1758.[4][3]
+  short_taxo: Animalia > Chordata > Actinopterygii > Siluriformes > Schilbeidae >
+    Schilbe > S. mystus
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
     Wikidata:
-      link: https://www.wikidata.org/wiki/Q973548
-      text: Q973548
-      title_BROKEN_TODO:
+      link: https://www.wikidata.org/wiki/Q134992
+      text: Q134992
       title: Wikidata
     Wikispecies:
-      link: https://species.wikimedia.org/wiki/Balistoides_conspicillum
-      text: Balistoides conspicillum
-      title_BROKEN_TODO:
+      link: https://species.wikimedia.org/wiki/Schilbe_mystus
+      text: Schilbe mystus
       title: Wikispecies
-    Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Balistoides_conspicillum/
-      text: Balistoides_conspicillum
-      title_BROKEN_TODO:
-      title: Animal Diversity Web
-    Australian Faunal Directory:
-      link: https://biodiversity.org.au/afd/taxa/Balistoides_conspicillum
-      text: Balistoides_conspicillum
-      title_BROKEN_TODO:
-      title: Australian Faunal Directory
     Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=47249
-      text: '47249'
-      title_BROKEN_TODO:
+      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=158230
+      text: '158230'
       title: Barcode of Life Data System
     Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/KH7P
-      text: KH7P
-      title_BROKEN_TODO:
-      title: Catalogue of Life
-    FishBase:
-      link: https://www.fishbase.ca/summary/2300
-      text: '2300'
-      title_BROKEN_TODO:
-      title: FishBase
-    Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407129
-      text: '2407129'
-      title_BROKEN_TODO:
-      title: Global Biodiversity Information Facility
-    INaturalist:
-      link: https://www.inaturalist.org/taxa/154282
-      text: '154282'
-      title_BROKEN_TODO:
-      title: INaturalist
-    Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10841239
-      text: '10841239'
-      title_BROKEN_TODO:
-      title: Interim Register of Marine and Nonmarine Genera
-    Invasive Species Compendium:
-      link: https://www.cabi.org/isc/datasheet/112650
-      text: '112650'
-      title_BROKEN_TODO:
-      title: Invasive Species Compendium
-    Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173225
-      text: '173225'
-      title_BROKEN_TODO:
-      title: Integrated Taxonomic Information System
-    ! '':
-      link: http://www.ubio.org/browser/details.php?namebankID=7035172
-      text: '7035172'
-      title_BROKEN_TODO:
-      title:
-    National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303689
-      text: '303689'
-      title_BROKEN_TODO:
-      title: National Center for Biotechnology Information
-    World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219876
-      text: '219876'
-      title_BROKEN_TODO:
-      title: World Register of Marine Species
-  valid: true
-  name_with_short_taxo: "[true] Clown triggerfish (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Balistoides > B. conspicillum)"
-################################################################################
-################################################################################
-# useful_but_commented_debug_info:
-#DEBI# ---
-
----
-WikiCrawler v0.9 - Gilded triggerfish:
-  taxo:
-    Kingdom: Animalia
-    Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Xanthichthys
-    Species: X. auromarginatus
-  fish_url_name: samples//Gilded_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Gilded_triggerfish
-  latin_name: ''
-  proper-description: "The gilded triggerfish or blue-throated triggerfish, Xanthichthys
-    auromarginatus, is a spotted gray triggerfish. Males of the species have blue
-    cheeks and yellow-bordered, white fins. It is widely, but locally, distributed
-    at islands in the Indo-Pacific.\n\n"
-  name: Gilded triggerfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gilded_Triggerfish%2C_male_-_Xanthichthys_auromarginatus.jpg/220px-Gilded_Triggerfish%2C_male_-_Xanthichthys_auromarginatus.jpg
-  binomial_name: Xanthichthys auromarginatus
-  simple_description_p4: ''
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Xanthichthys > X. auromarginatus
-  taxon_identifiers:
-    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    Wikidata:
-      link: https://www.wikidata.org/wiki/Q882918
-      text: Q882918
-      title_BROKEN_TODO:
-      title: Wikidata
-    Wikispecies:
-      link: https://species.wikimedia.org/wiki/Xanthichthys_auromarginatus
-      text: Xanthichthys auromarginatus
-      title_BROKEN_TODO:
-      title: Wikispecies
-    Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Xanthichthys_auromarginatus/
-      text: Xanthichthys_auromarginatus
-      title_BROKEN_TODO:
-      title: Animal Diversity Web
-    Australian Faunal Directory:
-      link: https://biodiversity.org.au/afd/taxa/Xanthichthys_auromarginatus
-      text: Xanthichthys_auromarginatus
-      title_BROKEN_TODO:
-      title: Australian Faunal Directory
-    Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=47146
-      text: '47146'
-      title_BROKEN_TODO:
-      title: Barcode of Life Data System
-    Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/7FV3Q
-      text: 7FV3Q
-      title_BROKEN_TODO:
-      title: Catalogue of Life
-    FishBase:
-      link: https://www.fishbase.ca/summary/6030
-      text: '6030'
-      title_BROKEN_TODO:
-      title: FishBase
-    Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407037
-      text: '2407037'
-      title_BROKEN_TODO:
-      title: Global Biodiversity Information Facility
-    INaturalist:
-      link: https://www.inaturalist.org/taxa/244366
-      text: '244366'
-      title_BROKEN_TODO:
-      title: INaturalist
-    Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=11283040
-      text: '11283040'
-      title_BROKEN_TODO:
-      title: Interim Register of Marine and Nonmarine Genera
-    Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173188
-      text: '173188'
-      title_BROKEN_TODO:
-      title: Integrated Taxonomic Information System
-    National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303701
-      text: '303701'
-      title_BROKEN_TODO:
-      title: National Center for Biotechnology Information
-    World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219897
-      text: '219897'
-      title_BROKEN_TODO:
-      title: World Register of Marine Species
-  valid: true
-  name_with_short_taxo: "[true] Gilded triggerfish (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Xanthichthys > X. auromarginatus)"
-################################################################################
-################################################################################
-# useful_but_commented_debug_info:
-#DEBI# ---
-
----
-WikiCrawler v0.9 - Grey triggerfish:
-  taxo:
-    Kingdom: Animalia
-    Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Balistes
-    Species: B. capriscus
-  fish_url_name: samples//Grey_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Grey_triggerfish
-  latin_name: ''
-  proper-description: |+
-    The grey triggerfish (Balistes capriscus) or gray triggerfish, is a ray-finned fish in the triggerfish family. The species is native to shallow parts of the western Atlantic from Nova Scotia to Argentina and also the eastern Atlantic, the Mediterranean Sea and off Angola on the west coast of Africa.
-
-    In its appearance and habits, the grey triggerfish is a typical member of the genus Balistes except for its drab, uniformly grey colouration. It is a relatively small fish, usually less than 2.3 kg (5.1 lb) in weight. It is fished recreationally and despite its tough skin, is an excellent food-fish.
-
-  name: Grey triggerfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pez_ballesta_%28Balistes_capriscus%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_24.jpg/220px-Pez_ballesta_%28Balistes_capriscus%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-23%2C_DD_24.jpg
-  binomial_name: Balistes capriscus
-  simple_description_p4: The grey triggerfish (Balistes capriscus) or gray triggerfish,
-    is a ray-finned fish in the triggerfish family. The species is native to shallow
-    parts of the western Atlantic from Nova Scotia to Argentina and also the eastern
-    Atlantic, the Mediterranean Sea and off Angola on the west coast of Africa.
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Balistes > B. capriscus
-  taxon_identifiers:
-    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-  valid: true
-  name_with_short_taxo: "[true] Grey triggerfish (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Balistes > B. capriscus)"
-...
-################################################################################
-################################################################################
-# useful_but_commented_debug_info:
-#DEBI# ---
-
----
-WikiCrawler v0.9 - Lagoon triggerfish:
-  taxo:
-    Kingdom: Animalia
-    Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Rhinecanthus
-    Species: R. aculeatus
-  fish_url_name: samples//Lagoon_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Lagoon_triggerfish
-  latin_name: ''
-  proper-description: |+
-    The lagoon triggerfish (Rhinecanthus aculeatus), also known as the blackbar triggerfish, the Picasso triggerfish, or the Picassofish, is a triggerfish, up to 30 cm in length, found on reefs in the Indo-Pacific region.[1]
-
-    The Hawaiian name for the fish, humuhumunukunukuāpuaʻa (pronounced [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə]), also spelled humuhumu-nukunuku-a-puaʻa or just humuhumu for short (meaning "triggerfish with a snout like a pig"[2]) is shared with the reef triggerfish (R. rectangulus), the state fish of Hawaii.
-
-    This species has been studied in a range of research contexts, from locomotion to color vision research.
-
-  name: Lagoon triggerfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Picasso.triggerfish.arp.jpg/220px-Picasso.triggerfish.arp.jpg
-  binomial_name: Rhinecanthus aculeatus
-  simple_description_p4: The lagoon triggerfish (Rhinecanthus aculeatus), also known
-    as the blackbar triggerfish, the Picasso triggerfish, or the Picassofish, is a
-    triggerfish, up to 30 cm in length, found on reefs in the Indo-Pacific region.[1]
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Rhinecanthus > R. aculeatus
-  taxon_identifiers:
-    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    Wikidata:
-      link: https://www.wikidata.org/wiki/Q1331593
-      text: Q1331593
-      title_BROKEN_TODO:
-      title: Wikidata
-    Wikispecies:
-      link: https://species.wikimedia.org/wiki/Rhinecanthus_aculeatus
-      text: Rhinecanthus aculeatus
-      title_BROKEN_TODO:
-      title: Wikispecies
-    Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Rhinecanthus_aculeatus/
-      text: Rhinecanthus_aculeatus
-      title_BROKEN_TODO:
-      title: Animal Diversity Web
-    Australian Faunal Directory:
-      link: https://biodiversity.org.au/afd/taxa/Rhinecanthus_aculeatus
-      text: Rhinecanthus_aculeatus
-      title_BROKEN_TODO:
-      title: Australian Faunal Directory
-    ! '':
-      link: http://www.ubio.org/browser/details.php?namebankID=137358
-      text: '137358'
-      title_BROKEN_TODO:
-      title:
-    Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=34230
-      text: '34230'
-      title_BROKEN_TODO:
-      title: Barcode of Life Data System
-    Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/4S7KL
-      text: 4S7KL
-      title_BROKEN_TODO:
+      link: https://www.catalogueoflife.org/data/taxon/4V883
+      text: 4V883
       title: Catalogue of Life
     Encyclopedia of Life:
-      link: https://eol.org/pages/218605
-      text: '218605'
-      title_BROKEN_TODO:
+      link: https://eol.org/pages/223144
+      text: '223144'
       title: Encyclopedia of Life
     FishBase:
-      link: https://www.fishbase.ca/summary/5839
-      text: '5839'
-      title_BROKEN_TODO:
+      link: https://www.fishbase.ca/summary/2447
+      text: '2447'
       title: FishBase
     Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407235
-      text: '2407235'
-      title_BROKEN_TODO:
+      link: https://www.gbif.org/species/2341732
+      text: '2341732'
       title: Global Biodiversity Information Facility
     INaturalist:
-      link: https://www.inaturalist.org/taxa/83884
-      text: '83884'
-      title_BROKEN_TODO:
+      link: https://www.inaturalist.org/taxa/112204
+      text: '112204'
       title: INaturalist
     Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10663138
-      text: '10663138'
-      title_BROKEN_TODO:
+      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10850149
+      text: '10850149'
       title: Interim Register of Marine and Nonmarine Genera
     Invasive Species Compendium:
-      link: https://www.cabi.org/isc/datasheet/116706
-      text: '116706'
-      title_BROKEN_TODO:
+      link: https://www.cabi.org/isc/datasheet/120107
+      text: '120107'
       title: Invasive Species Compendium
     Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173203
-      text: '173203'
-      title_BROKEN_TODO:
+      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=164087
+      text: '164087'
       title: Integrated Taxonomic Information System
+    IUCN Red List:
+      link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/60385
+      text: '60385'
+      title: IUCN Red List
     National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=245705
-      text: '245705'
-      title_BROKEN_TODO:
+      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=69930
+      text: '69930'
       title: National Center for Biotechnology Information
     World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219890
-      text: '219890'
-      title_BROKEN_TODO:
+      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=1019298
+      text: '1019298'
       title: World Register of Marine Species
   valid: true
-  name_with_short_taxo: "[true] Lagoon triggerfish (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Rhinecanthus > R. aculeatus)"
+  name_with_short_taxo: "[true] African butter catfish (Animalia > Chordata > Actinopterygii
+    > Siluriformes > Schilbeidae > Schilbe > S. mystus)"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Protopterus:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Order: Dipnoi
+    Family: Lepidosirenidae
+    Genus: ''
+    '': ''
+  fish_local_url_name: samples//African_lungfish
+  wiki: https://en.wikipedia.org/wiki/Protopterus
+  latin_name: Protopterus
+  proper-description: "Protopterus is the genus of four species of lungfish found
+    in Africa. Protopterus was formerly thought to be the sole genus in the family
+    Protopteridae, but more recent studies have classified it with Lepidosiren in
+    the family Lepidosirenidae.\n\n"
+  name: Protopterus
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/G%C5%91tehal-2.jpg/220px-G%C5%91tehal-2.jpg
+  binomial_name: "-"
+  simple_description_p4: Protopterus is the genus of four species of lungfish found
+    in Africa. Protopterus was formerly thought to be the sole genus in the family
+    Protopteridae, but more recent studies have classified it with Lepidosiren in
+    the family Lepidosirenidae.
+  short_taxo: 'Animalia > Chordata > Dipnoi > Lepidosirenidae >  > '
+  taxon_identifiers:
+    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+    Wikidata:
+      link: https://www.wikidata.org/wiki/Q386335
+      text: Q386335
+      title: Wikidata
+    Wikispecies:
+      link: https://species.wikimedia.org/wiki/Protopterus
+      text: Protopterus
+      title: Wikispecies
+    Animal Diversity Web:
+      link: https://animaldiversity.org/accounts/Protopteridae/
+      text: Protopteridae
+      title: Animal Diversity Web
+    ! '':
+      link: https://www.biolib.cz/en/taxon/id16182
+      text: '16182'
+      title:
+    Barcode of Life Data System:
+      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=4324
+      text: '4324'
+      title: Barcode of Life Data System
+    Catalogue of Life:
+      link: https://www.catalogueoflife.org/data/taxon/6XX2
+      text: 6XX2
+      title: Catalogue of Life
+    EPPO Code:
+      link: https://gd.eppo.int/taxon/1PTPTG
+      text: 1PTPTG
+      title: EPPO Code
+    Fossilworks:
+      link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=91688
+      text: '91688'
+      title: Fossilworks
+    Global Biodiversity Information Facility:
+      link: https://www.gbif.org/species/2441252
+      text: '2441252'
+      title: Global Biodiversity Information Facility
+    INaturalist:
+      link: https://www.inaturalist.org/taxa/91368
+      text: '91368'
+      title: INaturalist
+    Interim Register of Marine and Nonmarine Genera:
+      link: https://www.irmng.org/aphia.php?p=taxdetails&id=1295830
+      text: '1295830'
+      title: Interim Register of Marine and Nonmarine Genera
+    Integrated Taxonomic Information System:
+      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161044
+      text: '161044'
+      title: Integrated Taxonomic Information System
+    National Center for Biotechnology Information:
+      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=7885
+      text: '7885'
+      title: National Center for Biotechnology Information
+    World Register of Marine Species:
+      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=270544
+      text: '270544'
+      title: World Register of Marine Species
+  valid: false
+  name_with_short_taxo: "[false] Protopterus (Animalia > Chordata > Dipnoi > Lepidosirenidae
+    >  > )"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Anglerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Clade: Percomorpha
+    Order: ''
+  fish_local_url_name: samples//Anglerfish
+  wiki: https://en.wikipedia.org/wiki/Anglerfish
+  latin_name: ''
+  proper-description: "The anglerfish are fish of the teleost order Lophiiformes (/ˌlɒfiɪˈfɔːrmiːz/).[1]
+    They are bony fish named for their characteristic mode of predation, in which
+    a modified luminescent fin ray (the esca or illicium) acts as a lure for other
+    fish. The luminescence comes from symbiotic bacteria, which are thought to be
+    acquired from seawater,[2][3] that dwell in and around the sea. \n\nSome anglerfish
+    are notable for extreme sexual dimorphism and sexual symbiosis of the small male
+    with the much larger female, seen in the suborder Ceratioidei, the deep sea anglerfish.
+    In these species, males may be several orders of magnitude smaller than females.[4]\n\nAnglerfish
+    occur worldwide. Some are pelagic (dwelling away from the sea floor), while others
+    are benthic (dwelling close to the sea floor). Some live in the deep sea (such
+    as the Ceratiidae), while others on the continental shelf, such as the frogfishes
+    and the Lophiidae (monkfish or goosefish). Pelagic forms are most often laterally
+    compressed, whereas the benthic forms are often extremely dorsoventrally compressed
+    (depressed), often with large upward-pointing mouths.[citation needed]\n\n"
+  name: Anglerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Humpback_anglerfish.png/220px-Humpback_anglerfish.png
+  binomial_name: "-"
+  simple_description_p4: no P4 description
+  short_taxo: 'Animalia > Chordata > Actinopterygii > Percomorpha > '
+  taxon_identifiers:
+    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  valid: true
+  name_with_short_taxo: "[true] Anglerfish (Animalia > Chordata > Actinopterygii >
+    Percomorpha > )"
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Archerfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Order: Perciformes
+    Family: ''
+    Genus: ''
+  fish_local_url_name: samples//Archerfish
+  wiki: https://en.wikipedia.org/wiki/Archerfish
+  latin_name: Toxotes
+  proper-description: |+
+    The archerfish (spinner fish or archer fish) form a monotypic family, Toxotidae, of fish known for their habit of preying on land-based insects and other small animals by shooting them down with water droplets from their specialized mouths.  The family is small, consisting of ten species in a single genus Toxotes.  Most species live in fresh water rivers, streams and pools, but two or three are euryhaline, inhabiting both fresh and brackish water habitats such as estuaries and mangroves.[1][2] They can be found from India, Bangladesh and Sri Lanka, through Southeast Asia, to Northern Australia and Melanesia.[3]
+
+    Archerfish or spinnerfish bodies are deep and laterally compressed, with the dorsal fin, and the profile a straight line from dorsal fin to mouth. The mouth is protractile, and the lower jaw juts out. Sizes are fairly small, typically up to about 12–18 cm (5–7 in), but T. chatareus can reach 40 cm (16 in).[3][4]
+
+    Archerfish are popular for aquaria,[5] but difficult to feed since they prefer live prey.
+
+  name: Archerfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toxotes_jaculatrix.jpg/220px-Toxotes_jaculatrix.jpg
+  binomial_name: "-"
+  simple_description_p4: ''
+  short_taxo: 'Animalia > Chordata > Actinopterygii > Perciformes >  > '
+  taxon_identifiers:
+    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+    Wikidata:
+      link: https://www.wikidata.org/wiki/Q732534
+      text: Q732534
+      title: Wikidata
+    Wikispecies:
+      link: https://species.wikimedia.org/wiki/Toxotes
+      text: Toxotes
+      title: Wikispecies
+    Animal Diversity Web:
+      link: https://animaldiversity.org/accounts/Toxotes/
+      text: Toxotes
+      title: Animal Diversity Web
+    Australian Faunal Directory:
+      link: https://biodiversity.org.au/afd/taxa/Toxotes
+      text: Toxotes
+      title: Australian Faunal Directory
+    Barcode of Life Data System:
+      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=191686
+      text: '191686'
+      title: Barcode of Life Data System
+    Catalogue of Life:
+      link: https://www.catalogueoflife.org/data/taxon/7Y6D
+      text: 7Y6D
+      title: Catalogue of Life
+    Fossilworks:
+      link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=36219
+      text: '36219'
+      title: Fossilworks
+    Global Biodiversity Information Facility:
+      link: https://www.gbif.org/species/2369587
+      text: '2369587'
+      title: Global Biodiversity Information Facility
+    INaturalist:
+      link: https://www.inaturalist.org/taxa/92571
+      text: '92571'
+      title: INaturalist
+    Integrated Taxonomic Information System:
+      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=169492
+      text: '169492'
+      title: Integrated Taxonomic Information System
+    National Center for Biotechnology Information:
+      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=270536
+      text: '270536'
+      title: National Center for Biotechnology Information
+    ! '':
+      link: http://www.ubio.org/browser/details.php?namebankID=118068
+      text: '118068'
+      title:
+    World Register of Marine Species:
+      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=271115
+      text: '271115'
+      title: World Register of Marine Species
+  valid: false
+  name_with_short_taxo: "[false] Archerfish (Animalia > Chordata > Actinopterygii
+    > Perciformes >  > )"
 ...
 ################################################################################
 ################################################################################
@@ -369,522 +316,159 @@ WikiCrawler v0.9 - Lagoon triggerfish:
 #DEBI# ---
 
 ---
-WikiCrawler v0.9 - Canthidermis:
+WikiCrawler v0.9 - Arrowhead dogfish:
   taxo:
     Kingdom: Animalia
     Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Canthidermis
-  fish_url_name: samples//Oceanic_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Canthidermis
-  latin_name: 'Canthidermis '
-  proper-description: "Canthidermis  is a genus of triggerfishes commonly known as
-    Ocean triggerfishes.\n\n"
-  name: Canthidermis
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/XRF-Canthidermis_maculata.png/220px-XRF-Canthidermis_maculata.png
-  binomial_name: "-"
-  simple_description_p4: Canthidermis  is a genus of triggerfishes commonly known
-    as Ocean triggerfishes.
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Canthidermis
-  taxon_identifiers:
-    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    Wikidata:
-      link: https://www.wikidata.org/wiki/Q3281065
-      text: Q3281065
-      title_BROKEN_TODO:
-      title: Wikidata
-    Wikispecies:
-      link: https://species.wikimedia.org/wiki/Canthidermis
-      text: Canthidermis
-      title_BROKEN_TODO:
-      title: Wikispecies
-    Australian Faunal Directory:
-      link: https://biodiversity.org.au/afd/taxa/Canthidermis
-      text: Canthidermis
-      title_BROKEN_TODO:
-      title: Australian Faunal Directory
-    Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=88561
-      text: '88561'
-      title_BROKEN_TODO:
-      title: Barcode of Life Data System
-    Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/3GVX
-      text: 3GVX
-      title_BROKEN_TODO:
-      title: Catalogue of Life
-    Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407062
-      text: '2407062'
-      title_BROKEN_TODO:
-      title: Global Biodiversity Information Facility
-    INaturalist:
-      link: https://www.inaturalist.org/taxa/87207
-      text: '87207'
-      title_BROKEN_TODO:
-      title: INaturalist
-    Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=1331920
-      text: '1331920'
-      title_BROKEN_TODO:
-      title: Interim Register of Marine and Nonmarine Genera
-    Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173168
-      text: '173168'
-      title_BROKEN_TODO:
-      title: Integrated Taxonomic Information System
-    National Biodiversity Network:
-      link: https://data.nbn.org.uk/Taxa/NBNSYS0000180138
-      text: NBNSYS0000180138
-      title_BROKEN_TODO:
-      title: National Biodiversity Network
-    National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303690
-      text: '303690'
-      title_BROKEN_TODO:
-      title: National Center for Biotechnology Information
-    ! '':
-      link: http://www.ubio.org/browser/details.php?namebankID=115177
-      text: '115177'
-      title_BROKEN_TODO:
-      title:
-    World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=126229
-      text: '126229'
-      title_BROKEN_TODO:
-      title: World Register of Marine Species
-  valid: true
-  name_with_short_taxo: "[true] Canthidermis (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Canthidermis)"
-################################################################################
-################################################################################
-# useful_but_commented_debug_info:
-#DEBI# ---
-
----
-WikiCrawler v0.9 - Orange-lined triggerfish:
-  taxo:
-    Kingdom: Animalia
-    Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: ''
-    Species: B. undulatus
-  fish_url_name: samples//Orange-lined_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Orange-lined_triggerfish
+    Class: Chondrichthyes
+    Order: Squaliformes
+    Family: Centrophoridae
+    Genus: Deania
+    Species: D. profundorum
+  fish_local_url_name: samples//Arrowhead_dogfish
+  wiki: https://en.wikipedia.org/wiki/Arrowhead_dogfish
   latin_name: ''
-  proper-description: "The orange-lined triggerfish (Balistapus undulatus) is a demersal
-    triggerfish.  Although Balistapus is a monotypic genus, it is closely related
-    to the genus Balistoides.[1]\n\n"
-  name: Orange-lined triggerfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Balistapus_undulatus_%28Nausica%C3%A4%29.jpg/220px-Balistapus_undulatus_%28Nausica%C3%A4%29.jpg
-  binomial_name: Balistapus undulatus
+  proper-description: "The arrowhead dogfish (Deania profundorum) is a small little
+    known deepwater dogfish of the family Centrophoridae.\n\n"
+  name: Arrowhead dogfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Deania_profundorum.JPG/220px-Deania_profundorum.JPG
+  binomial_name: Deania profundorum
   simple_description_p4: no P4 description
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    >  > B. undulatus
+  short_taxo: Animalia > Chordata > Chondrichthyes > Squaliformes > Centrophoridae
+    > Deania > D. profundorum
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    Wikidata:
-      link: https://www.wikidata.org/wiki/Q1139189
-      text: Q1139189
-      title_BROKEN_TODO:
-      title: Wikidata
-    Wikispecies:
-      link: https://species.wikimedia.org/wiki/Balistapus_undulatus
-      text: Balistapus undulatus
-      title_BROKEN_TODO:
-      title: Wikispecies
-    Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Balistapus_undulatus/
-      text: Balistapus_undulatus
-      title_BROKEN_TODO:
-      title: Animal Diversity Web
-    Australian Faunal Directory:
-      link: https://biodiversity.org.au/afd/taxa/Balistapus_undulatus
-      text: Balistapus_undulatus
-      title_BROKEN_TODO:
-      title: Australian Faunal Directory
-    Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=64501
-      text: '64501'
-      title_BROKEN_TODO:
-      title: Barcode of Life Data System
-    Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/KH3B
-      text: KH3B
-      title_BROKEN_TODO:
-      title: Catalogue of Life
-    FishBase:
-      link: https://www.fishbase.ca/summary/6025
-      text: '6025'
-      title_BROKEN_TODO:
-      title: FishBase
-    Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407167
-      text: '2407167'
-      title_BROKEN_TODO:
-      title: Global Biodiversity Information Facility
-    INaturalist:
-      link: https://www.inaturalist.org/taxa/57743
-      text: '57743'
-      title_BROKEN_TODO:
-      title: INaturalist
-    Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10778044
-      text: '10778044'
-      title_BROKEN_TODO:
-      title: Interim Register of Marine and Nonmarine Genera
-    Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173218
-      text: '173218'
-      title_BROKEN_TODO:
-      title: Integrated Taxonomic Information System
-    National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=392899
-      text: '392899'
-      title_BROKEN_TODO:
-      title: National Center for Biotechnology Information
-    ! '':
-      link: http://www.ubio.org/browser/details.php?namebankID=121253
-      text: '121253'
-      title_BROKEN_TODO:
-      title:
-    World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219874
-      text: '219874'
-      title_BROKEN_TODO:
-      title: World Register of Marine Species
-  valid: false
-  name_with_short_taxo: "[false] Orange-lined triggerfish (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae >  > B. undulatus)"
-################################################################################
-################################################################################
-# useful_but_commented_debug_info:
-#DEBI# ---
-
----
-WikiCrawler v0.9 - Balistes vetula:
-  taxo:
-    Kingdom: Animalia
-    Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Balistes
-    Species: B. vetula
-  fish_url_name: samples//Queen_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Balistes_vetula
-  latin_name: Balistes vetula
-  proper-description: "Balistes vetula, the queen triggerfish or old wife, is a reef
-    dwelling triggerfish found in the Atlantic Ocean. It is occasionally caught as
-    a gamefish, and sometimes kept in very large marine aquaria.\n\n"
-  name: Balistes vetula
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/4987_aquaimages.jpg/220px-4987_aquaimages.jpg
-  binomial_name: Balistes vetula
-  simple_description_p4: Balistes vetula, the queen triggerfish or old wife, is a
-    reef dwelling triggerfish found in the Atlantic Ocean. It is occasionally caught
-    as a gamefish, and sometimes kept in very large marine aquaria.
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Balistes > B. vetula
-  taxon_identifiers:
-    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    Wikidata:
-      link: https://www.wikidata.org/wiki/Q302151
-      text: Q302151
-      title_BROKEN_TODO:
-      title: Wikidata
-    Wikispecies:
-      link: https://species.wikimedia.org/wiki/Balistes_vetula
-      text: Balistes vetula
-      title_BROKEN_TODO:
-      title: Wikispecies
-    Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Balistes_vetula/
-      text: Balistes_vetula
-      title_BROKEN_TODO:
-      title: Animal Diversity Web
-    ARKive:
-      link: https://web.archive.org/web/*/www.arkive.org/wd/balistes-vetula/
-      text: balistes-vetula
-      title_BROKEN_TODO:
-      title: ARKive
-    Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=72896
-      text: '72896'
-      title_BROKEN_TODO:
-      title: Barcode of Life Data System
-    Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/KH7G
-      text: KH7G
-      title_BROKEN_TODO:
-      title: Catalogue of Life
-    FishBase:
-      link: https://www.fishbase.ca/summary/19
-      text: '19'
-      title_BROKEN_TODO:
-      title: FishBase
-    Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407103
-      text: '2407103'
-      title_BROKEN_TODO:
-      title: Global Biodiversity Information Facility
-    INaturalist:
-      link: https://www.inaturalist.org/taxa/95066
-      text: '95066'
-      title_BROKEN_TODO:
-      title: INaturalist
-    Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=11379071
-      text: '11379071'
-      title_BROKEN_TODO:
-      title: Interim Register of Marine and Nonmarine Genera
-    Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173139
-      text: '173139'
-      title_BROKEN_TODO:
-      title: Integrated Taxonomic Information System
-    IUCN Red List:
-      link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/2539
-      text: '2539'
-      title_BROKEN_TODO:
-      title: IUCN Red List
-    National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=303687
-      text: '303687'
-      title_BROKEN_TODO:
-      title: National Center for Biotechnology Information
-    ! '':
-      link: http://www.ubio.org/browser/details.php?namebankID=7137381
-      text: '7137381'
-      title_BROKEN_TODO:
-      title:
-    World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=127397
-      text: '127397'
-      title_BROKEN_TODO:
-      title: World Register of Marine Species
-    ZooBank:
-      link: https://zoobank.org/NomenclaturalActs/D0903BF7-6D28-4B82-ADA9-DE33ECCFD0BF
-      text: D0903BF7-6D28-4B82-ADA9-DE33ECCFD0BF
-      title_BROKEN_TODO:
-      title: ZooBank
   valid: true
-  name_with_short_taxo: "[true] Balistes vetula (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Balistes > B. vetula)"
+  name_with_short_taxo: "[true] Arrowhead dogfish (Animalia > Chordata > Chondrichthyes
+    > Squaliformes > Centrophoridae > Deania > D. profundorum)"
 ################################################################################
 ################################################################################
 # useful_but_commented_debug_info:
 #DEBI# ---
 
 ---
-WikiCrawler v0.9 - Redtoothed triggerfish:
+WikiCrawler v0.9 - Australian lungfish:
   taxo:
     Kingdom: Animalia
     Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: ''
-    Species: O. niger
-  fish_url_name: samples//Redtoothed_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Redtoothed_triggerfish
-  latin_name: ''
-  proper-description: "The Redtoothed triggerfish (Odonus niger) is a triggerfish
-    of the tropical Indo-Pacific area, and the sole member of its genus.[1] Some other
-    common names include blue triggerfish, redfang triggerfish, redtoothed filefish,
-    and Niger triggerfish.\n\n"
-  name: Redtoothed triggerfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Redtoothed_triggerfish.jpg/220px-Redtoothed_triggerfish.jpg
-  binomial_name: Odonus niger
-  simple_description_p4: The Redtoothed triggerfish (Odonus niger) is a triggerfish
-    of the tropical Indo-Pacific area, and the sole member of its genus.[1] Some other
-    common names include blue triggerfish, redfang triggerfish, redtoothed filefish,
-    and Niger triggerfish.
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    >  > O. niger
-  taxon_identifiers:
-    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    Wikidata:
-      link: https://www.wikidata.org/wiki/Q1342941
-      text: Q1342941
-      title_BROKEN_TODO:
-      title: Wikidata
-    Wikispecies:
-      link: https://species.wikimedia.org/wiki/Odonus_niger
-      text: Odonus niger
-      title_BROKEN_TODO:
-      title: Wikispecies
-    Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Odonus/
-      text: Odonus
-      title_BROKEN_TODO:
-      title: Animal Diversity Web
-    Australian Faunal Directory:
-      link: https://biodiversity.org.au/afd/taxa/Odonus_niger
-      text: Odonus_niger
-      title_BROKEN_TODO:
-      title: Australian Faunal Directory
-    ARKive:
-      link: https://web.archive.org/web/*/www.arkive.org/wd/odonus-niger/
-      text: odonus-niger
-      title_BROKEN_TODO:
-      title: ARKive
-    Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=18003
-      text: '18003'
-      title_BROKEN_TODO:
-      title: Barcode of Life Data System
-    Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/48SD8
-      text: 48SD8
-      title_BROKEN_TODO:
-      title: Catalogue of Life
-    FishBase:
-      link: https://www.fishbase.ca/summary/911
-      text: '911'
-      title_BROKEN_TODO:
-      title: FishBase
-    Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407210
-      text: '2407210'
-      title_BROKEN_TODO:
-      title: Global Biodiversity Information Facility
-    INaturalist:
-      link: https://www.inaturalist.org/taxa/53669
-      text: '53669'
-      title_BROKEN_TODO:
-      title: INaturalist
-    Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10708698
-      text: '10708698'
-      title_BROKEN_TODO:
-      title: Interim Register of Marine and Nonmarine Genera
-    Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173222
-      text: '173222'
-      title_BROKEN_TODO:
-      title: Integrated Taxonomic Information System
-    National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=392902
-      text: '392902'
-      title_BROKEN_TODO:
-      title: National Center for Biotechnology Information
-    World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219883
-      text: '219883'
-      title_BROKEN_TODO:
-      title: World Register of Marine Species
-  valid: false
-  name_with_short_taxo: "[false] Redtoothed triggerfish (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae >  > O. niger)"
-################################################################################
-################################################################################
-# useful_but_commented_debug_info:
-#DEBI# ---
-
----
-WikiCrawler v0.9 - Reef triggerfish:
-  taxo:
-    Kingdom: Animalia
-    Phylum: Chordata
-    Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Rhinecanthus
-    Species: R. rectangulus
-  fish_url_name: samples//Reef_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Reef_triggerfish
+    Order: Dipnoi
+    Family: Neoceratodontidae
+    Genus: Neoceratodus
+    Species: N. forsteri
+    ? |-
+      Genus
+      Epiceratodus Teller 1891
+      Species
+      Ceratodus forsteri Krefft 1870
+      Epiceratodus forsteri (Krefft 1870)
+      Ceratodus blanchardi Krefft 1870
+      Neoceratodus blanchardi (Krefft 1870)
+      Ceratodus miolepis Günther 1871
+    : ''
+  fish_local_url_name: samples//Australian_lungfish
+  wiki: https://en.wikipedia.org/wiki/Australian_lungfish
   latin_name: ''
   proper-description: |+
-    The reef triggerfish (Rhinecanthus rectangulus), also known as the rectangular triggerfish, wedgetail triggerfish[1] or by its Hawaiian name humuhumunukunukuāpuaʻa (pronounced [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə], meaning 'triggerfish with a snout like a pig',[2] also spelled humuhumunukunukuapua'a or just humuhumu for short), is one of several species of triggerfish. It is found at reefs in the Indo-Pacific[3] and is the state fish of Hawaii.
+    The Australian lungfish (Neoceratodus forsteri), also known as the Queensland lungfish, Burnett salmon and barramunda, is the only surviving member of the family Neoceratodontidae. It is one of only six extant lungfish species in the world. Endemic to Australia,[7] the Neoceratodontidae are an ancient family belonging to the class Sarcopterygii, or lobe-finned fishes.[8]
 
-    The name humuhumunukunukuāpuaʻa serves for both singular and plural descriptions. The fish shares its Hawaiian name with the lagoon triggerfish (R. aculeatus), another fish also found in the Indo-Pacific.
+    Fossil records of this group date back 380 million years, around the time when the higher vertebrate classes were beginning to evolve.[9]  Fossils of lungfish almost identical to this species have been uncovered in northern New South Wales, indicating that Neoceratodus has remained virtually unchanged for well over 100 million years, making it a living fossil and one of the oldest living vertebrate genera on the planet.[9]
 
-  name: Reef triggerfish
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/FMIB_42657_Balistapus_rectangulus_%28Bloch_%26_Schneider%29_Humuhumu_Nukunuku_Apua%27a.jpeg/220px-FMIB_42657_Balistapus_rectangulus_%28Bloch_%26_Schneider%29_Humuhumu_Nukunuku_Apua%27a.jpeg
-  binomial_name: Rhinecanthus rectangulus
-  simple_description_p4: ''
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Rhinecanthus > R. rectangulus
+    It is one of six extant representatives of the ancient air-breathing Dipnoi (lungfishes) that flourished during the Devonian period (about 413–365 million years ago) and is the outgroup to all other members of this lineage.[9][10]
+    The five other freshwater lungfish species, four in Africa and one in South America, are very different morphologically from N. forsteri.[9] The Queensland lungfish can live for several days out of the water, if it is kept moist, but will not survive total water depletion, unlike its African counterparts.[7]
+
+    The small settlement of Ceratodus, Queensland derives its name from that of the Australian lungfish. The species was named in honour of the squatter and politician William Forster.[11]
+
+  name: Australian lungfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Neoceratodus_forsteri%2C_2014-09-19.JPG/220px-Neoceratodus_forsteri%2C_2014-09-19.JPG
+  binomial_name: Neoceratodus forsteri
+  simple_description_p4: no P4 description
+  short_taxo: 'Animalia > Chordata > Dipnoi > Neoceratodontidae > Neoceratodus > N. forsteri
+    > '
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
     Wikidata:
-      link: https://www.wikidata.org/wiki/Q669512
-      text: Q669512
-      title_BROKEN_TODO:
+      link: https://www.wikidata.org/wiki/Q782345
+      text: Q782345
       title: Wikidata
     Wikispecies:
-      link: https://species.wikimedia.org/wiki/Rhinecanthus_rectangulus
-      text: Rhinecanthus rectangulus
-      title_BROKEN_TODO:
+      link: https://species.wikimedia.org/wiki/Neoceratodus_forsteri
+      text: Neoceratodus forsteri
       title: Wikispecies
     Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Rhinecanthus_rectangulus/
-      text: Rhinecanthus_rectangulus
-      title_BROKEN_TODO:
+      link: https://animaldiversity.org/accounts/Neoceratodus_forsteri/
+      text: Neoceratodus_forsteri
       title: Animal Diversity Web
     Australian Faunal Directory:
-      link: https://biodiversity.org.au/afd/taxa/Rhinecanthus_rectangulus
-      text: Rhinecanthus_rectangulus
-      title_BROKEN_TODO:
+      link: https://biodiversity.org.au/afd/taxa/Neoceratodus_forsteri
+      text: Neoceratodus_forsteri
       title: Australian Faunal Directory
     Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=88386
-      text: '88386'
-      title_BROKEN_TODO:
+      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=26203
+      text: '26203'
       title: Barcode of Life Data System
     Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/78TM5
-      text: 78TM5
-      title_BROKEN_TODO:
+      link: https://www.catalogueoflife.org/data/taxon/6S8FM
+      text: 6S8FM
       title: Catalogue of Life
+    Encyclopedia of Life:
+      link: https://eol.org/pages/339109
+      text: '339109'
+      title: Encyclopedia of Life
+    EPPO Code:
+      link: https://gd.eppo.int/taxon/NKERFO
+      text: NKERFO
+      title: EPPO Code
     FishBase:
-      link: https://www.fishbase.ca/summary/5840
-      text: '5840'
-      title_BROKEN_TODO:
+      link: https://www.fishbase.ca/summary/4512
+      text: '4512'
       title: FishBase
+    Fossilworks:
+      link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=194486
+      text: '194486'
+      title: Fossilworks
     Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407244
-      text: '2407244'
-      title_BROKEN_TODO:
+      link: https://www.gbif.org/species/2441266
+      text: '2441266'
       title: Global Biodiversity Information Facility
     INaturalist:
-      link: https://www.inaturalist.org/taxa/52449
-      text: '52449'
-      title_BROKEN_TODO:
+      link: https://www.inaturalist.org/taxa/460249
+      text: '460249'
       title: INaturalist
     Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10937408
-      text: '10937408'
-      title_BROKEN_TODO:
+      link: https://www.irmng.org/aphia.php?p=taxdetails&id=10154085
+      text: '10154085'
       title: Interim Register of Marine and Nonmarine Genera
     Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173206
-      text: '173206'
-      title_BROKEN_TODO:
+      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161037
+      text: '161037'
       title: Integrated Taxonomic Information System
+    IUCN Red List:
+      link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/122899816
+      text: '122899816'
+      title: IUCN Red List
     National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=480297
-      text: '480297'
-      title_BROKEN_TODO:
+      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=7892
+      text: '7892'
       title: National Center for Biotechnology Information
+    CITES:
+      link: https://speciesplus.net/#/taxon_concepts/9765/legal
+      text: '9765'
+      title: CITES
+    Species Profile and Threats Database:
+      link: https://www.environment.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=67620
+      text: '67620'
+      title: Species Profile and Threats Database
     ! '':
-      link: https://www.nzor.org.nz/names/11377374-28d1-4fcb-8f52-1760133bdff1
-      text: 11377374-28d1-4fcb-8f52-1760133bdff1
-      title_BROKEN_TODO:
+      link: http://www.ubio.org/browser/details.php?namebankID=2300188
+      text: '2300188'
       title:
     World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=219886
-      text: '219886'
-      title_BROKEN_TODO:
+      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=1421405
+      text: '1421405'
       title: World Register of Marine Species
   valid: true
-  name_with_short_taxo: "[true] Reef triggerfish (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Rhinecanthus > R. rectangulus)"
+  name_with_short_taxo: "[true] Australian lungfish (Animalia > Chordata > Dipnoi
+    > Neoceratodontidae > Neoceratodus > N. forsteri > )"
 ...
 ################################################################################
 ################################################################################
@@ -892,97 +476,179 @@ WikiCrawler v0.9 - Reef triggerfish:
 #DEBI# ---
 
 ---
-WikiCrawler v0.9 - Xanthichthys ringens:
+WikiCrawler v0.9 - Azores dogfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Chondrichthyes
+    Order: Squaliformes
+    Family: Somniosidae
+    Genus: Scymnodalatias
+    Species: S. garricki
+  fish_local_url_name: samples//Azores_dogfish
+  wiki: https://en.wikipedia.org/wiki/Azores_dogfish
+  latin_name: ''
+  proper-description: |+
+    The Azores dogfish (Scymnodalatias garricki) is a very rare sleeper shark of the family Somniosidae. It is known only from the holotype caught north of the Azores and another caught in 2001.
+
+    The Azores dogfish lives in the northeastern Atlantic Ocean at depths of 300-2000m. Like most sharks, it is ovoviviparous.[2]
+
+  name: Azores dogfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Scymnodalatias_garricki_distmap.png/220px-Scymnodalatias_garricki_distmap.png
+  binomial_name: Scymnodalatias garricki
+  simple_description_p4: no P4 description
+  short_taxo: Animalia > Chordata > Chondrichthyes > Squaliformes > Somniosidae >
+    Scymnodalatias > S. garricki
+  taxon_identifiers:
+    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  valid: true
+  name_with_short_taxo: "[true] Azores dogfish (Animalia > Chordata > Chondrichthyes
+    > Squaliformes > Somniosidae > Scymnodalatias > S. garricki)"
+...
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Bareskin dogfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Chondrichthyes
+    Order: Squaliformes
+    Family: Etmopteridae
+    Genus: Centroscyllium
+    Species: C. kamoharai
+  fish_local_url_name: samples//Bareskin_dogfish
+  wiki: https://en.wikipedia.org/wiki/Bareskin_dogfish
+  latin_name: ''
+  proper-description: |+
+    The bareskin dogfish (Centroscyllium kamoharai) is a little-known, deepwater dogfish shark of the family Etmopteridae.[1][2] This species is found in the western Pacific from southern Japan to western and southeastern Australia as well as in New Zealand waters.[3]
+
+    The bareskin dogfish has no anal fin. It has grooved dorsal spines with the second larger than the first, a smaller first dorsal fin, blunt nose, large eyes, large nostrils, widely spaced and sparse denticles, and is dark in color with white-tipped fins. It is stout and grows to a maximum of 40 cm.[4][5]  Like other species in the family Etmopteridae (lanternsharks), the bareskin dogfish has a bioluminescent organ on the ventral side.  However, perhaps owing to the depth at which the species lives, it has relatively fewer photophores on its ventral skin than others bioluminescent sharks.[6]
+
+  name: Bareskin dogfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bareskin_dogfish.gif/220px-Bareskin_dogfish.gif
+  binomial_name: Centroscyllium kamoharai
+  simple_description_p4: The bareskin dogfish (Centroscyllium kamoharai) is a little-known,
+    deepwater dogfish shark of the family Etmopteridae.[1][2] This species is found
+    in the western Pacific from southern Japan to western and southeastern Australia
+    as well as in New Zealand waters.[3]
+  short_taxo: Animalia > Chordata > Chondrichthyes > Squaliformes > Etmopteridae >
+    Centroscyllium > C. kamoharai
+  taxon_identifiers:
+    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  valid: true
+  name_with_short_taxo: "[true] Bareskin dogfish (Animalia > Chordata > Chondrichthyes
+    > Squaliformes > Etmopteridae > Centroscyllium > C. kamoharai)"
+...
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Beardfish:
   taxo:
     Kingdom: Animalia
     Phylum: Chordata
     Class: Actinopterygii
-    Order: Tetraodontiformes
-    Family: Balistidae
-    Genus: Xanthichthys
-    Species: X. ringens
-  fish_url_name: samples//Sargassum_triggerfish
-  wiki: https://en.wikipedia.org/wiki/Xanthichthys_ringens
-  latin_name: Xanthichthys ringens
-  proper-description: "Xanthichthys ringens, the Sargassum triggerfish, is a species
-    of triggerfish  from the Western Atlantic, ranging from North Carolina (USA) to
-    Brazil.\n\n"
-  name: Xanthichthys ringens
-  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Xanthichthys_ringens_-_pone.0010676.g191.png/220px-Xanthichthys_ringens_-_pone.0010676.g191.png
-  binomial_name: Xanthichthys ringens
-  simple_description_p4: Xanthichthys ringens, the Sargassum triggerfish, is a species
-    of triggerfish  from the Western Atlantic, ranging from North Carolina (USA) to
-    Brazil.
-  short_taxo: Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae
-    > Xanthichthys > X. ringens
+    Order: Polymixiiformes
+    Family: ''
+  fish_local_url_name: samples//Beardfish
+  wiki: https://en.wikipedia.org/wiki/Beardfish
+  latin_name: ''
+  proper-description: |+
+    The beardfishes consist of a single extant genus, Polymixia, of deep-sea marine ray-finned fish named for their pair of long hyoid barbels. They are classified in their own order Polymixiiformes /pɒliˈmɪksi.ɪfɔːrmiːz/.[1] But as Nelson says, "few groups have been shifted back and forth as frequently as this one, and they were recently added to Paracanthoptergii".[2] For instance, they have previously been classified as belonging to the Beryciformes.  They are of little economic importance.[3]
+
+    They are found in tropical and subtropical waters of the Atlantic, Indian and western Pacific Ocean. They are bottom-dwelling fish, found down to about 800 m (2,600 ft) depth. Most are relatively small fish, although one species, Polymixia berndti, is over 40 cm (16 in) in length.[3]
+
+  name: Beardfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Polymixia_nobilis.jpg/220px-Polymixia_nobilis.jpg
+  binomial_name: "-"
+  simple_description_p4: ''
+  short_taxo: 'Animalia > Chordata > Actinopterygii > Polymixiiformes > '
   taxon_identifiers:
     todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
-    Wikidata:
-      link: https://www.wikidata.org/wiki/Q2224916
-      text: Q2224916
-      title_BROKEN_TODO:
-      title: Wikidata
-    Wikispecies:
-      link: https://species.wikimedia.org/wiki/Xanthichthys_ringens
-      text: Xanthichthys ringens
-      title_BROKEN_TODO:
-      title: Wikispecies
-    Animal Diversity Web:
-      link: https://animaldiversity.org/accounts/Xanthichthys_ringens/
-      text: Xanthichthys_ringens
-      title_BROKEN_TODO:
-      title: Animal Diversity Web
-    Barcode of Life Data System:
-      link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=78437
-      text: '78437'
-      title_BROKEN_TODO:
-      title: Barcode of Life Data System
-    Catalogue of Life:
-      link: https://www.catalogueoflife.org/data/taxon/7G73R
-      text: 7G73R
-      title_BROKEN_TODO:
-      title: Catalogue of Life
-    FishBase:
-      link: https://www.fishbase.ca/summary/4285
-      text: '4285'
-      title_BROKEN_TODO:
-      title: FishBase
-    Global Biodiversity Information Facility:
-      link: https://www.gbif.org/species/2407041
-      text: '2407041'
-      title_BROKEN_TODO:
-      title: Global Biodiversity Information Facility
-    INaturalist:
-      link: https://www.inaturalist.org/taxa/131518
-      text: '131518'
-      title_BROKEN_TODO:
-      title: INaturalist
-    Interim Register of Marine and Nonmarine Genera:
-      link: https://www.irmng.org/aphia.php?p=taxdetails&id=11177317
-      text: '11177317'
-      title_BROKEN_TODO:
-      title: Interim Register of Marine and Nonmarine Genera
-    Integrated Taxonomic Information System:
-      link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=173187
-      text: '173187'
-      title_BROKEN_TODO:
-      title: Integrated Taxonomic Information System
-    IUCN Red List:
-      link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/190377
-      text: '190377'
-      title_BROKEN_TODO:
-      title: IUCN Red List
-    National Center for Biotechnology Information:
-      link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=480302
-      text: '480302'
-      title_BROKEN_TODO:
-      title: National Center for Biotechnology Information
-    World Register of Marine Species:
-      link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=159486
-      text: '159486'
-      title_BROKEN_TODO:
-      title: World Register of Marine Species
   valid: true
-  name_with_short_taxo: "[true] Xanthichthys ringens (Animalia > Chordata > Actinopterygii
-    > Tetraodontiformes > Balistidae > Xanthichthys > X. ringens)"
+  name_with_short_taxo: "[true] Beardfish (Animalia > Chordata > Actinopterygii >
+    Polymixiiformes > )"
+...
+################################################################################
+################################################################################
+# useful_but_commented_debug_info:
+#DEBI# ---
+
+---
+WikiCrawler v0.9 - Billfish:
+  taxo:
+    Kingdom: Animalia
+    Phylum: Chordata
+    Class: Actinopterygii
+    Clade: Percomorpha
+    Order: Istiophoriformes
+    '': ''
+    ? |-
+      billfish
+      bonito
+      mackerel
+      salmon
+      shark
+      tuna
+    : ''
+    ? |-
+      anchovy
+      herring
+      menhaden
+      sardine
+      shad
+      sprat
+    : ''
+    ? |-
+      cod
+      eel
+      flatfish
+      pollock
+      ray
+    : ''
+    ? |-
+      carp
+      tilapia
+    : ''
+  fish_local_url_name: samples//Billfish
+  wiki: https://en.wikipedia.org/wiki/Billfish
+  latin_name: ''
+  proper-description: |2+
+
+    .mw-parser-output table.biota-infobox{text-align:center;width:200px;font-size:100%}.mw-parser-output table.biota-infobox th.section-header{text-align:center}.mw-parser-output table.biota-infobox td.section-content{text-align:left;padding:0 0.25em}.mw-parser-output table.biota-infobox td.list-section{text-align:left;padding:0 0.25em}.mw-parser-output table.biota-infobox td.taxon-section{text-align:center;padding:0 0.25em}.mw-parser-output table.biota-infobox td.image-section{text-align:center;font-size:88%}.mw-parser-output table.biota-infobox table.taxonomy{margin:0 auto;text-align:left;background:transparent;padding:2px}.mw-parser-output table.biota-infobox table.taxonomy tr{vertical-align:top}.mw-parser-output table.biota-infobox table.taxonomy td{padding:1px}
+
+    The term billfish refers to a group of saltwater predatory fish characterised by prominent pointed bills (rostra), and by their large size; some are longer than 4 m (13 ft). Extant billfish include sailfish and marlin, which make up the family Istiophoridae; and swordfish, sole member of the family Xiphiidae. They are apex predators which feed on a wide variety of smaller fish, crustaceans and cephalopods. These two families are sometimes classified as belonging to the order Istiophoriformes, a group which originated around 71 million years ago in the Late Cretaceous, with the two families diverging around 15 million years ago in the Late Miocene.[3] However, they are also classified as being closely related to the mackerels and tuna within the suborder Scombroidei of the order Perciformes.[4] However, the 5th edition of the Fishes of the World does recognise the Istiophoriformes as a valid order, albeit including the Sphyraenidae, the barracudas.[5]
+
+    Billfish are pelagic and highly migratory, and are found in all oceans,[6] although they usually inhabit tropical and subtropical waters; swordfish are found in temperate waters, as well.  Billfish use their long spear/sword-like upper beaks to slash at and stun prey during feeding. Their bills can also be used to thrust prey, and have been known to impale boats (probably accidentally), but they are not normally used in that way. They are highly valued as game fish by sports fishermen.
+
+  name: Billfish
+  picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Atlantic_blue_marlin.jpg/220px-Atlantic_blue_marlin.jpg
+  binomial_name: "-"
+  simple_description_p4: The term billfish refers to a group of saltwater predatory
+    fish characterised by prominent pointed bills (rostra), and by their large size;
+    some are longer than 4 m (13 ft). Extant billfish include sailfish and marlin,
+    which make up the family Istiophoridae; and swordfish, sole member of the family
+    Xiphiidae. They are apex predators which feed on a wide variety of smaller fish,
+    crustaceans and cephalopods. These two families are sometimes classified as belonging
+    to the order Istiophoriformes, a group which originated around 71 million years
+    ago in the Late Cretaceous, with the two families diverging around 15 million
+    years ago in the Late Miocene.[3] However, they are also classified as being closely
+    related to the mackerels and tuna within the suborder Scombroidei of the order
+    Perciformes.[4] However, the 5th edition of the Fishes of the World does recognise
+    the Istiophoriformes as a valid order, albeit including the Sphyraenidae, the
+    barracudas.[5]
+  short_taxo: 'Animalia > Chordata > Actinopterygii > Percomorpha > Istiophoriformes
+    >  >  >  >  > '
+  taxon_identifiers:
+    todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  valid: true
+  name_with_short_taxo: "[true] Billfish (Animalia > Chordata > Actinopterygii > Percomorpha
+    > Istiophoriformes >  >  >  >  > )"
+...
 ################################################################################

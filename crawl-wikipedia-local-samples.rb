@@ -51,28 +51,28 @@ require "pp"
 require "pry" # for debuggging
 require "colorize"
 require_relative "lib/lib_fish"
-require_relative "lib/strings_on_steroids"
+#require_relative "lib/strings_on_steroids"
 #require_relative './wiki_fish'
 
 BASE_WIKIPEDIA_URL = "https://en.wikipedia.org"
 NOBEL_LIST_URL = "#{BASE_WIKIPEDIA_URL}/wiki/List_of_Nobel_laureates"
 $DEBUG = false
-Version = "1.3"
+Version = "1.4"
 
 # ENV STUFF
-ENV_MAX_IMPORTS = ENV.fetch("MAX_IMPORTS", "5").to_i
-ENV_VERBOSE = ENV.fetch("VERBOSE", "FALSE").to_s.downcase == "true"
-ENV_DEBUG = ENV.fetch("DEBUG", "FALSE").to_s.downcase == "true"
-ENV_RUN_TESTS = ENV.fetch("RUN_TESTS", "FALSE").to_s.downcase == "true"
+ENV_MAX_IMPORTS = ENV.fetch("MAX_IMPORTS", '10' ).to_i
+ENV_VERBOSE     = ENV.fetch("VERBOSE",     "FALSE").to_s.downcase == "true"
+ENV_DEBUG       = ENV.fetch("DEBUG",       "FALSE").to_s.downcase == "true"
+ENV_RUN_TESTS   = ENV.fetch("RUN_TESTS",   "FALSE").to_s.downcase == "true"
 ENV_FISH_FOLDER = ENV.fetch("FISH_FOLDER", "samples/") # .t o_s.downcase == "true"
 ENV_OUTPUT_YAML = ENV.fetch('OUTPUT_YAML', "out/fish-sample.yaml")
 
 
-# class String
-#   def trim
-#     self.gsub(/^\s+/, "").gsub(/\s+$/, "")
-#   end
-# end
+class String
+  def trim
+    self.gsub(/^\s+/, "").gsub(/\s+$/, "")
+  end
+end
 
 FISH_URLS = [
   "https://en.wikipedia.org/wiki/Valentin%27s_sharpnose_puffer",
@@ -83,7 +83,11 @@ FISH_URLS = [
   "https://en.wikipedia.org/wiki/Chromodoris", # splendido esempio con sia foto che sublinks
   "https://en.wikipedia.org/wiki/Sea_cucumber",
   "https://en.wikipedia.org/wiki/Blacktip_shark",
-  "https://en.wikipedia.org/wiki/Ocean_sunfish" # mai visto, e' enorme!
+  "https://en.wikipedia.org/wiki/Ocean_sunfish", # mai visto, e' enorme!
+  "https://en.wikipedia.org/wiki/Dolphin", # WRONG
+  "https://en.wikipedia.org/wiki/Oceanic_dolphin", # The right dolphin
+  "https://en.wikipedia.org/wiki/Leafy_seadragon", # Sorry, just beautiful
+  "https://en.wikipedia.org/wiki/Great_white_shark",
 ]
 
 BaseOfflinePages = [
@@ -314,29 +318,6 @@ def fish_page_get_info_OBSOLETE(path, opts = {})
   return h
 end
 
-# def parse_noble_prizes_DO_NOT_TOUCH(page_url)
-#   page = Nokogiri::HTML(URI.open(page_url))
-#   sanitized_page_name = page_url.gsub('/','_')
-#   sanitized_page_url = "parser/#{sanitized_page_name}.html"
-#   File.write(sanitized_page_url, page)
-
-#   # da qui si rompe..
-#   rows = page.css('div.mw-content-ltr table.wikitable tr')
-
-#   rows[1..-2].each do |row|
-
-#     hrefs = row.css("td a").map{ |a|
-#       a['href'] if a['href'] =~ /^\/wiki\//
-#     }.compact.uniq
-
-#     hrefs.each do |href|
-#       remote_url = BASE_WIKIPEDIA_URL + href
-#       puts remote_url
-#     end # done: hrefs.each
-
-#   end # done: rows.each
-# end
-
 =begin
 
 SAMPLE:
@@ -488,10 +469,6 @@ def parse_fish_riccardo(page_url, opts = {})
   rows = page.css("div.mw-content-ltr table.wikitable tr")
 end
 
-# ad mentulam canis..
-def prova_uri()
-  URI.open("http://www.ruby-lang.org/") { |f| f.each_line { |line| p line } }
-end
 
 def dump_fish_info_into_yaml_file(
   fish_hash,
@@ -542,33 +519,33 @@ end
 def main()
   # main
   include LibFish
-
-  puts "#{$0} v#{Version} START on #{Time.now}"
+  time_start = Time.now
+  puts "#{$0} v#{Version} START on #{time_start}"
 
   puts "ENV[MAX_IMPORTS]=#{ENV_MAX_IMPORTS}"
   puts "ENV[VERBOSE]=#{ENV_VERBOSE}"
   puts "ENV[DEBUG]=#{ENV_DEBUG}"
-  puts "ENV[FISH_FOLDER]=#{ENV_FISH_FOLDER}"  
+  puts "ENV[FISH_FOLDER]=#{ENV_FISH_FOLDER}"
   puts "ENV[RUN_TESTS]=#{ENV_RUN_TESTS}"
 
-  # if online?
-  #   smart_morgan_freeman('Morgan Freeman') if online?
-  #   smart_morgan_freeman('Tom Cruise') if online?
-  #   smart_morgan_freeman('Mike Myers') if online?
-  # end
+
   iterate_through_files_in_directory(
     ENV_FISH_FOLDER, # "samples/",
     ENV_OUTPUT_YAML,
     true,
-    verbose: ENV_VERBOSE,
-    max_imports: ENV_MAX_IMPORTS,
-    debug: ENV_DEBUG
+    # opts:
+      verbose: ENV_VERBOSE,
+      max_imports: ENV_MAX_IMPORTS,
+      debug: ENV_DEBUG
   )
 
   # END / finally
   unless online?
-    puts "☢️⚠️⛔️ ACTHUNG! Note that ONLINE has been disabled. Lot of juicy stuff wont work, probably cos Riccardo is on a plane"
+    puts "⛔️ ACTHUNG! Note that ONLINE has been disabled. Lot of juicy stuff wont work, probably cos Riccardo is on a plane"
   end
+
+  execution_time = Time.now - time_start
+  puts "#{$0} v#{Version} END on #{Time.now} (after #{execution_time}sec)"
 end
 
-main
+main()

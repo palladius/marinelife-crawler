@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# todo test forse quando hai internet :) 
+# todo test forse quando hai internet :)
 
 require_relative "lib/lib_fish"
 require_relative 'lib/string_on_steroids'
@@ -11,8 +11,7 @@ require 'text-table'
 #require 'minitest'
 require 'test/unit/assertions'
 
-include Test::Unit::Assertions 
-
+include Test::Unit::Assertions
 include LibFish
 include StringOnSteroids
 
@@ -21,7 +20,7 @@ include StringOnSteroids
 $fish_tables = {}
 
 def initialise_fish_table(fishname)
-    if $fish_tables.key?(fishname) 
+    if $fish_tables.key?(fishname)
         #puts "DEB keys already exists"
     else
         $fish_tables[fishname] = Text::Table.new()
@@ -45,9 +44,9 @@ end
 def assert_single_taxonomy_for_fish_should_be(fish, taxokey, taxoval, opts={})
     opts_verbose = opts.fetch :verbose, true
     # opts_print_taxo should be FALSE (unless debug) since you might call the SINGLE many times. You want to print LATER.
-    opts_print_taxo = opts.fetch :verbose, false 
+    opts_print_taxo = opts.fetch :verbose, false
     opts_exit_after_fail = opts.fetch :exit_after_fail, false # TODO true
-    
+
     # This code is far away: in `./lib/lib_fish.rb`
     result = get_taxonomy_for_fish(fish, taxokey).encode('UTF-8') rescue '' # .to_s.unicode_normalize
     #taxoval = taxoval.encode('UTF-8')
@@ -76,25 +75,25 @@ end
 
 def much_better_test_on_taxonomy()
     # starfish
-    {Kingdom:    :Animalia, 
-     Phylum:     :Echinodermata, 
-     Superclass: :Asterozoa, 
+    {Kingdom:    :Animalia,
+     Phylum:     :Echinodermata,
+     Superclass: :Asterozoa,
      Class:      :Asteroidea,
     }.each do |k,v|
-        assert_single_taxonomy_for_fish_should_be('Starfish', k.to_s, v.to_s) 
+        assert_single_taxonomy_for_fish_should_be('Starfish', k.to_s, v.to_s)
         #test_taxonomy_for_fish_should_be('Starfish', k.to_s, v.to_s) # wrong
      end
 
     assert_fish_has_full_taxonomy('Starfish', {
-        Kingdom:    :Animalia, 
-        Phylum:     :Echinodermata, 
-        Superclass: :Asterozoa, 
+        Kingdom:    :Animalia,
+        Phylum:     :Echinodermata,
+        Superclass: :Asterozoa,
         Class:      :Asteroidea,
     })
 
     assert_fish_has_full_taxonomy('Gnomefish', {
-        Kingdom:    :Animalia, 
-        Phylum:     :Scombropidae, 
+        Kingdom:    :Animalia,
+        Phylum:     :Scombropidae,
         Family:     'ti piacerebbe',
         Genus:      'Scombrops',
     })
@@ -105,8 +104,8 @@ def much_better_test_on_taxonomy()
 
     # Blue Dragon
     assert_fish_has_full_taxonomy('Glaucus_atlanticus', {
-        Kingdom:    :Animalia, 
-        Phylum:     :Mollusca, 
+        Kingdom:    :Animalia,
+        Phylum:     :Mollusca,
         Class:      :Gastropoda,
         Subclass:	:Heterobranchia,
         Order:	    :Nudibranchia,
@@ -116,8 +115,8 @@ def much_better_test_on_taxonomy()
         #Species:	G. atlanticus,
     })
     assert_fish_has_full_taxonomy('Oceanic_dolphin', {
-        Kingdom:    :Animalia, 
-        Phylum:     :Chordata, 
+        Kingdom:    :Animalia,
+        Phylum:     :Chordata,
         Class:      :Mammalia,
         Order:	:Artiodactyla,
 # Infraorder:	Cetacea
@@ -149,7 +148,7 @@ end
 def testFixturesElegantly()
     puts "Now testing FIXTURES from file:".colorize :green
     fixtures = YAML.load(File.read 'test/fixtures/known_taxonomies.yaml')
-    
+
     myopts = {:exit_after_fail => false,  :verbose => true}
 
     fixtures['KnownTaxonomisFromWikipedia'].each do |fish_name, fish_buridone|
@@ -173,4 +172,3 @@ main()
     # table.rows = [['a1', 'b1']]
     # table.rows << ['a2', 'b2']
     # puts table.to_s
-    

@@ -44,9 +44,8 @@ module LibFish
     opts_max_imports = opts.fetch :max_imports, 1_000_000
     opts_verbose = opts.fetch :verbose, false
     opts_debug = opts.fetch :debug, false
-    #puts("iterate_through_files_in_directory opts: #{opts}")
 
-    files_to_iterate_upon = Dir.glob("#{path}/**/*").first(opts_max_imports)
+    files_to_iterate_upon = Dir.glob("#{path}/**/*[!.yaml]").first(opts_max_imports)
     puts "🤟 iterate_through_files_in_directory(path='#{path.colorize(:cyan)}', write_to='#{target_yaml.colorize(:cyan)}', max=#{opts_max_imports})"
 
     if opts_verbose
@@ -73,12 +72,13 @@ module LibFish
         n_nay += 1
       end
     end
-    puts "📊 Total fishes: #{n_fishes} (vs #{n_nay} non fishes)"
+    puts "📊 Total fishez: #{n_fishes} (vs #{n_nay} non fishes)"
     if (output_yaml_list)
       puts "📊 YAML file contains these:"
-      fishes = fishnames_from_yaml(target_yaml)
-      fishes.each do |fishname|
-        puts "🍣 #{fishname}"
+      fishes = fish_info_from_yaml(target_yaml)
+      fishes.each do |fish_info|
+        # example: [true] Billfish (Animalia > Chordata > Actinopterygii > Percomorpha > Istiophoriformes >  >  >  >  > )
+        puts "🍣 FISHNAME: #{fish_info}"
       end
     end
 
@@ -124,12 +124,7 @@ module LibFish
       f.write("#" * 80 + "\n")
       #f.write("# Error (should be empty): '#{fish_hash[:error]}'\n")
       #f.write("# LooksLikeNAnimal: #{fish_hash[:looks_like_an_animal]}\n")
-      f.write(
-        "# useful_but_commented_debug_info:\n#{useful_but_commented_debug_info}\n"
-      )
-      #f.write "# todo yaml for #{fish_obj_to_dump_to_file.inspect}\n"
-      #f.write(pp  fish_obj_to_dump_to_file.inspect)
-      #pp fish_obj_to_dump_to_file.inspect
+      f.write( "# useful_but_commented_debug_info:\n#{useful_but_commented_debug_info}\n" )
       f.write(indented_object.to_yaml)
       puts indented_object.to_yaml if opts_verbose
       pp(fish_hash["taxo_removeme_debug"]) if opts_debug
@@ -160,7 +155,7 @@ hing_else_then conspicillum"}
 
 =end
 
-  def fishnames_from_yaml(yaml_file)
+  def fish_info_from_yaml(yaml_file)
     ret = []
 
     #hash =
@@ -351,7 +346,10 @@ I want to extract:
     html = nokogiri_parse_offline_or_online(fish_local_url_name)
     #html = Nokogiri::HTML(URI.open("https://en.wikipedia.org/wiki/" + fish_local_url_name.gsub(' ','_')))
 
-    fish_info["wiki"] = html.at_css("head > link[rel=canonical]")["href"]
+    fish_info["wiki"] = html.at_css("head > link[rel=canonical]")["href"] rescue begin
+      puts "ERROR WIKI not found for #{fish_local_url_name}"
+      x = nil
+    end
     # useless, i have NAME which is better...
     fish_info["taxo_removeme_debug"][
       "title_name"
@@ -481,10 +479,9 @@ I want to extract:
     # eg, buggy-samples//Gnomefish => XXX.yaml
     if ops_write_to_file
       dest_file = File.expand_path(fish_local_url_name + ".ric.yaml")
-      puts "TODO write to #{ops_write_to_file} fopr #{fish_local_url_name}"
+      #puts "[ops_write_to_file] TODO write to #{ops_write_to_file} for #{fish_local_url_name}"
       File.write(dest_file, fish_info.to_yaml)
       #File.write('movies.yml', movies.to_yaml)
-      #raise "TODO #{fish_local_url_name}"
     end
 
     fish_info
