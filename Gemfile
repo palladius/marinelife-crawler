@@ -9,3 +9,7 @@ gem 'lolcat'
 gem 'pry'
 
 gem 'ruby-lsp', '~> 0.3.5', group: :development
+
+# prints TXT tables, like gcloud command in python :)
+# https://github.com/aptinio/text-table
+gem 'text-table'

@@ -491,11 +491,11 @@ I want to extract:
 
 def get_taxonomy_for_fish(fishname, taxokey, opts={})
   opts_default_dir = opts.fetch :default_dir, 'buggy-samples/'
-  opts_verbose = opts.fetch :verbose, true 
+  opts_verbose = opts.fetch :verbose, false 
 
   filename = "#{opts_default_dir}/#{fishname}"
 
-  puts "🚧 WIP get_taxonomy_for_fish(#{fishname}, #{taxokey}) to check quality of smart_wiki_parse_fish()" if opts_verbose
+  puts "🚧 WIP  get_taxonomy_for_fish(#{fishname}, #{taxokey}) to check quality of smart_wiki_parse_fish()" if opts_verbose
   file_content = File.read(File.expand_path filename)
 
   if smells_like_fish?(file_content)
