@@ -38,8 +38,13 @@ wget-crawl-chromodoris:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Chromodoris'
 wget-crawl-bluedragon: # Glaucus_atlanticus
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Glaucus_atlanticus'
+wget-crawl-dolphin: wget-crawl-oceanic-dolphin
+wget-crawl-oceanic-dolphin:
+	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Oceanic_dolphin'
 
-
+wget-crawl-Scombrops_boops:
+	$(WGET_COMMAND) https://en.wikipedia.org/wiki/Scombrops_boops 
+	
 single-wgets:
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Whale
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Dolphin

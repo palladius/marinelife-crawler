@@ -496,6 +496,11 @@ def get_taxonomy_for_fish(fishname, taxokey, opts={})
   filename = "#{opts_default_dir}/#{fishname}"
 
   puts "🚧 WIP  get_taxonomy_for_fish(#{fishname}, #{taxokey}) to check quality of smart_wiki_parse_fish()" if opts_verbose
+  
+  unless File.exist?(File.expand_path filename)
+    puts "File not found: #{filename.colorize :red}"
+    raise "File not found: #{filename}"
+  end
   file_content = File.read(File.expand_path filename)
 
   if smells_like_fish?(file_content)

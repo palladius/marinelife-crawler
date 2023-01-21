@@ -33,9 +33,10 @@ def fish_table_add(fishname, taxokey, taxoval, realval)
     initialise_fish_table(fishname)
     $fish_tables[fishname].rows << [taxokey, taxoval, realval]
 end
-def print_table(fishname)
-    puts "== 🔟📚 #{fishname.colorize :yellow} 📚 =="
-    #puts $fish_tables[fishname].rows.sort_by { |e| -e[0] }
+def print_table(fishname, opts={})
+    opts_skip_title = opts.fetch :skip_title , false
+
+    puts "== 🔟📚 #{fishname.colorize :yellow} 📚 ==" unless opts_skip_title
     $fish_tables[fishname].rows.sort_by! { |e| -e[0] }
     puts $fish_tables[fishname].to_s
 end
@@ -50,17 +51,14 @@ def assert_single_taxonomy_for_fish_should_be(fish, taxokey, taxoval, opts={})
     # This code is far away: in `./lib/lib_fish.rb`
     result = get_taxonomy_for_fish(fish, taxokey).encode('UTF-8') rescue '' # .to_s.unicode_normalize
     #taxoval = taxoval.encode('UTF-8')
-    #table = Text::Table.new
-    # table.head = ['Desired values', 'Current values']
-    # table.rows = [['a1', 'b1']]
-    # table.rows << ['a2', 'b2']
-    #table.rows = [[fish, taxokey, taxoval, result]]
+    if result == ''
+        puts "Empty value for #{fish}::#{taxokey}, let me dig deeper with additioanl verbosity".colorize :red
+        puts get_taxonomy_for_fish(fish, taxokey, :verbose => true)
+    end
+
     fish_table_add(fish, taxokey, taxoval, result)
-    #puts table.to_s
-    print_table(fish) if opts_print_taxo
-    
-    
-    #puts "DEB #{fish}::#{taxokey} -> '#{taxoval}' vs '#{result}'" if opts_verbose
+    #print_table(fish) if opts_print_taxo
+    puts "DEB #{fish}::#{taxokey} -> '#{taxoval}' vs '#{result}'" if opts_verbose
     assert_equal(result, taxoval, "Fish #{fish} should have #{taxokey}=#{taxoval}, instead I found '#{result}") if opts_exit_after_fail
 end
 
@@ -87,15 +85,26 @@ def much_better_test_on_taxonomy()
         #test_taxonomy_for_fish_should_be('Starfish', k.to_s, v.to_s) # wrong
      end
 
-    assert_fish_has_taxonomy('Starfish', {
+    assert_fish_has_full_taxonomy('Starfish', {
         Kingdom:    :Animalia, 
         Phylum:     :Echinodermata, 
         Superclass: :Asterozoa, 
         Class:      :Asteroidea,
     })
 
+    assert_fish_has_full_taxonomy('Gnomefish', {
+        Kingdom:    :Animalia, 
+        Phylum:     :Scombropidae, 
+        Family:     'ti piacerebbe',
+        Genus:      'Scombrops',
+    })
+
+    #assert_single_taxonomy_for_fish_should_be('Gnomefish', 'Kingdom','Animalia') # correct
+    #assert_single_taxonomy_for_fish_should_be('Gnomefish', 'Family', 'Scombropidae', :verbose => true) # unfortunaterly we get it wrong
+
+
     # Blue Dragon
-    assert_fish_has_taxonomy('Glaucus_atlanticus', {
+    assert_fish_has_full_taxonomy('Glaucus_atlanticus', {
         Kingdom:    :Animalia, 
         Phylum:     :Mollusca, 
         Class:      :Gastropoda,
@@ -106,42 +115,52 @@ def much_better_test_on_taxonomy()
         Genus:	    :Glaucus,
         #Species:	G. atlanticus,
     })
+    assert_fish_has_full_taxonomy('Oceanic_dolphin', {
+        Kingdom:    :Animalia, 
+        Phylum:     :Chordata, 
+        Class:      :Mammalia,
+        Order:	:Artiodactyla,
+# Infraorder:	Cetacea
+# Superfamily:	Delphinoidea
+# Family:	Delphinidae
+
+        #Species:	G. atlanticus,
+    })
+
+#     Kingdom:	Animalia
+# Phylum:	Chordata
+# Class:	Mammalia
+# Order:	Artiodactyla
+# Infraorder:	Cetacea
+# Superfamily:	Delphinoidea
+# Family:	Delphinidae
+# Gray, 1821
 
 end
 
-def assert_fish_has_taxonomy(fishname, taxo_keyvals, opts={})
-    puts "== assert_fish_has_taxonomy(#{fishname.colorize :yellow}) =="
+def assert_fish_has_full_taxonomy(fishname, taxo_keyvals, opts={})
+    puts "== assert_fish_has_full_taxonomy(#{fishname.colorize :yellow}) =="
     taxo_keyvals.each do |k,v|
-        #puts "Testing: #{k}: #{v}"
         assert_single_taxonomy_for_fish_should_be(fishname, k.to_s, v.to_s, opts) # wrong
     end
-    print_table(fishname)
+    print_table(fishname, :skip_title => true) # as its already above..
 end
 
 def testFixturesElegantly()
+    puts "Now testing FIXTURES from file:".colorize :green
     fixtures = YAML.load(File.read 'test/fixtures/known_taxonomies.yaml')
     
-    myopts = {:exit_after_fail => false,  :verbose => false}
+    myopts = {:exit_after_fail => false,  :verbose => true}
 
     fixtures['KnownTaxonomisFromWikipedia'].each do |fish_name, fish_buridone|
-        #puts fish_name.colorize :yellow # serialization
-        #puts fish_buridone
-        #puts '--'
-        assert_single_taxonomy_for_fish_should_be(fish_name, fish_buridone, myopts)
+        assert_fish_has_full_taxonomy(fish_name, fish_buridone, myopts)
     end
 end
 
 def main()
-    #testFixturesElegantly()
-
-    # this should pass already
-    assert_single_taxonomy_for_fish_should_be('Gnomefish', 'Kingdom','Animalia') # correct
-    assert_single_taxonomy_for_fish_should_be('Gnomefish', 'Family', 'Scombropidae', :verbose => true) # unfortunaterly we get it wrong
-    #assert_single_taxonomy_for_fish_should_be('Gnomefish', 'Genus',  'Scombrops') # wrong
-
-    much_better_test_on_taxonomy()
-    
-    #extract_info_from_wikipedia_page('Dolphin')
+    testFixturesElegantly()
+    #much_better_test_on_taxonomy()
+    #extract_info_from_wikipedia_page('Oceanic_dolphin')
 end
 
 # main
