@@ -1,0 +1,56 @@
+<%= form_with(model: wiki_animal) do |form| %>
+  <% if wiki_animal.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(wiki_animal.errors.count, "error") %> prohibited this wiki_animal from being saved:</h2>
+
+      <ul>
+        <% wiki_animal.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+  <div class="mb-3">
+    <%= form.label :name, class: 'form-label' %>
+    <%= form.text_field :name, class: 'form-control' %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :latin, class: 'form-label' %>
+    <%= form.text_field :latin, class: 'form-control' %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :title, class: 'form-label' %>
+    <%= form.text_field :title, class: 'form-control' %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :wiki_url, class: 'form-label' %>
+    <%= form.text_field :wiki_url, class: 'form-control' %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :short_taxo, class: 'form-label' %>
+    <%= form.text_field :short_taxo, class: 'form-control' %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :wiki_description, class: 'form-label' %>
+    <%= form.text_area :wiki_description, class: 'form-control' %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :internal_description, class: 'form-label' %>
+    <%= form.text_area :internal_description, class: 'form-control' %>
+  </div>
+
+  <div class="mb-3">
+    <%= form.label :version, class: 'form-label' %>
+    <%= form.text_field :version, class: 'form-control' %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit class: 'btn btn-primary' %>
+  </div>
+<% end %>

@@ -82,7 +82,7 @@ I didnt want to, but  want to visualize the data, so why not :)
 # Time on Mac M1: real    0m30.842s
 time rails new rails7-marinelife-app --css bootstrap
 cd rails7-marinelife-app &&
-  rails g scaffold wiki_animals name:string latin:string title:string wiki_url:string short_taxo:string wiki_description:text internal_description:text version:string
+  rails g scaffold wiki_animals name:string latin:string title:string wiki_url:string short_taxo:string wiki_description:text internal_description:text parse_version:string picture_url:string
 ```
 # Thanks
 

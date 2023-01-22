@@ -1,0 +1,9 @@
+<%= render @wiki_animal %>
+
+<div>
+  <%= link_to "Edit", edit_wiki_animal_path(@wiki_animal) %> |
+  <%= link_to "Destroy", wiki_animal_path(@wiki_animal),
+    "data-turbo-method": :delete,
+    "data-turbo-confirm": "Are you sure?" %> |
+  <%= link_to "Back to wiki animals", wiki_animals_path %>
+</div>
