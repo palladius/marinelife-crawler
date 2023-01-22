@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2023_01_22_142942) do
+ActiveRecord::Schema[7.0].define(version: 2023_01_22_145201) do
   create_table "wiki_animals", force: :cascade do |t|
     t.string "name"
     t.string "latin"
@@ -19,7 +19,8 @@ ActiveRecord::Schema[7.0].define(version: 2023_01_22_142942) do
     t.string "short_taxo"
     t.text "wiki_description"
     t.text "internal_description"
-    t.string "version"
+    t.string "parse_version"
+    t.string "picture_url"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

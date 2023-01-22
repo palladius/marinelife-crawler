@@ -8,7 +8,8 @@ class CreateWikiAnimals < ActiveRecord::Migration[7.0]
       t.string :short_taxo
       t.text :wiki_description
       t.text :internal_description
-      t.string :version
+      t.string :parse_version
+      t.string :picture_url
 
       t.timestamps
     end

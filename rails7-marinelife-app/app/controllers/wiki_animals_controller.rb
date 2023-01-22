@@ -53,6 +53,6 @@ class WikiAnimalsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def wiki_animal_params
-      params.require(:wiki_animal).permit(:name, :latin, :title, :wiki_url, :short_taxo, :wiki_description, :internal_description, :version)
+      params.require(:wiki_animal).permit(:name, :latin, :title, :wiki_url, :short_taxo, :wiki_description, :internal_description, :parse_version, :picture_url)
     end
 end
