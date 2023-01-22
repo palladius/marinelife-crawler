@@ -73,6 +73,17 @@ After detail.
 * Dockerize, execute indefinitely until it fills the disk :)
 * One worker crawls the internet, another parses the info and puts somewhere (possibly a DB with some kind of parsing versioning so same page can have more sophisticated ways of making it thru taxo to the DB: currently taxo is half broken).
 
+# Rails
+
+I didnt want to, but  want to visualize the data, so why not :)
+
+```bash
+# Additional opts: -d postgresql
+# Time on Mac M1: real    0m30.842s
+time rails new rails7-marinelife-app --css bootstrap
+cd rails7-marinelife-app &&
+  rails g scaffold wiki_animals name:string latin:string title:string wiki_url:string short_taxo:string wiki_description:text internal_description:text version:string
+```
 # Thanks
 
 I would like to thank and quote:
