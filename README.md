@@ -29,6 +29,16 @@ $ ./crawl-wikipedia.rb
 🍣 Titan triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Balistoides > B. viridescens)
 🍣 Triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > BalistidaeA. Risso, 1810 > )
 ```
+==> I've created
+
+## RailsApp
+
+I've created a mini app to showcase the parsed results, a=so you can say there are two layers in this app:
+* 🕷️ one worker which can dump the whole wikipedia - which I cna cap in bandwidth and number of results
+* one app to visualize them all 💍.
+
+  <img src="https://github.com/palladius/marinelife-crawler/blob/main/doc/Maritime Life App Screenshot.png" alt="Maritime Life App v1.0" align='right' />
+
 
 ## LICENSING
 
