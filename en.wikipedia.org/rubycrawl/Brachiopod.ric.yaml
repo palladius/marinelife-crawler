@@ -1,0 +1,245 @@
+---
+taxo:
+  Kingdom: Animalia
+  Superphylum: Lophotrochozoa
+  Clade: Brachiozoa
+  Phylum: ''
+  '': ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Brachiopod
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Superphylum
+  - Clade
+  - Clade
+  - Phylum
+  - ''
+  - ''
+  arrvals:
+  - Animalia
+  - Lophotrochozoa
+  - Lophophorata
+  - Brachiozoa
+  - ''
+  - ''
+  - ''
+  title_name: Brachiopod
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Superphylum
+  - Lophotrochozoa
+  - <tr><td>Superphylum:</td><td><a href="/wiki/Lophotrochozoa" title="Lophotrochozoa">Lophotrochozoa</a></td></tr>
+  taxo_byindex_7:
+  - Superphylum
+  - Lophotrochozoa
+  taxo_byindex_verbose_8:
+  - 8
+  - Clade
+  - Lophophorata
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Lophophorata" title="Lophophorata">Lophophorata</a></td></tr>
+  taxo_byindex_8:
+  - Clade
+  - Lophophorata
+  taxo_byindex_verbose_9:
+  - 9
+  - Clade
+  - Brachiozoa
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Brachiozoa" title="Brachiozoa">Brachiozoa</a></td></tr>
+  taxo_byindex_9:
+  - Clade
+  - Brachiozoa
+  taxo_byindex_verbose_10:
+  - 10
+  - Phylum
+  - ''
+  - <tr><td>Phylum:</td><td><a class="mw-selflink selflink">Brachiopoda</a><br><small><a
+    href="/wiki/Andr%C3%A9_Marie_Constant_Dum%C3%A9ril" title="André Marie Constant
+    Duméril">Duméril</a>, 1806<sup id="cite_ref-FOOTNOTEZvyagintsev_etc:_Brachio_fouling(2007)_1-0"
+    class="reference"><a href="#cite_note-FOOTNOTEZvyagintsev_etc:_Brachio_fouling(2007)-1">[1]</a></sup></small></td></tr>
+  taxo_byindex_10:
+  - Phylum
+  - ''
+  taxo_byindex_verbose_17:
+  - 17
+  - ''
+  - ''
+  - <tr style="text-align:center;"><th style="background:#FFFFCC;">Three-part approach<sup
+    id="cite_ref-FOOTNOTEMilsom_etc:_3-part_taxonomy(2009)_35-1" class="reference"><a
+    href="#cite_note-FOOTNOTEMilsom_etc:_3-part_taxonomy(2009)-35">[35]</a></sup><sup
+    id="cite_ref-FOOTNOTEWilliams_etc:_Suprafamilial_Classif(2000)xxxix–xlvPreface_36-1"
+    class="reference"><a href="#cite_note-FOOTNOTEWilliams_etc:_Suprafamilial_Classif(2000)xxxix%E2%80%93xlvPreface-36">[36]</a></sup></th><th
+    style="background:#FFFFCC;" colspan="2"><a href="/wiki/Linguliformea" title="Linguliformea">Linguliformea</a></th><th
+    style="background:#FFFFCC;"><a href="/wiki/Craniformea" class="mw-redirect" title="Craniformea">Craniiformea</a></th><th
+    style="background:#FFFFCC;" colspan="2"><a href="/wiki/Rhynchonelliformea" title="Rhynchonelliformea">Rhynchonelliformea</a></th></tr>
+  taxo_byindex_17:
+  - ''
+  - ''
+  taxo_byindex_verbose_18:
+  - 18
+  - ''
+  - ''
+  - <tr style="text-align:center;"><th><a href="/wiki/Order_(biology)" title="Order
+    (biology)">Orders</a></th><th><a href="/wiki/Lingulida" title="Lingulida">Lingulida</a><sup
+    id='cite_ref-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821–829ch._"Lophophorata"_sect._"Brachiopoda"_10-38'
+    class="reference"><a href="#cite_note-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821%E2%80%93829ch._%22Lophophorata%22_sect._%22Brachiopoda%22-10">[10]</a></sup></th><th><a
+    href="/wiki/Discinida" title="Discinida">Discinida</a><sup id='cite_ref-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821–829ch._"Lophophorata"_sect._"Brachiopoda"_10-39'
+    class="reference"><a href="#cite_note-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821%E2%80%93829ch._%22Lophophorata%22_sect._%22Brachiopoda%22-10">[10]</a></sup></th><th><a
+    href="/wiki/Craniida" class="mw-redirect" title="Craniida">Craniida</a><sup id='cite_ref-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821–829ch._"Lophophorata"_sect._"Brachiopoda"_10-40'
+    class="reference"><a href="#cite_note-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821%E2%80%93829ch._%22Lophophorata%22_sect._%22Brachiopoda%22-10">[10]</a></sup></th><th><a
+    href="/wiki/Terebratulida" title="Terebratulida">Terebratulida</a><sup id='cite_ref-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821–829ch._"Lophophorata"_sect._"Brachiopoda"_10-41'
+    class="reference"><a href="#cite_note-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821%E2%80%93829ch._%22Lophophorata%22_sect._%22Brachiopoda%22-10">[10]</a></sup></th><th><a
+    href="/wiki/Rhynchonellida" title="Rhynchonellida">Rhynchonellida</a><sup id='cite_ref-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821–829ch._"Lophophorata"_sect._"Brachiopoda"_10-42'
+    class="reference"><a href="#cite_note-FOOTNOTERuppert_etc:_Invert_Zoo(2004)821%E2%80%93829ch._%22Lophophorata%22_sect._%22Brachiopoda%22-10">[10]</a></sup></th></tr>
+  taxo_byindex_18:
+  - ''
+  - ''
+wiki: https://en.wikipedia.org/wiki/Brachiopod
+latin_name: ''
+proper-description: "Brachiopods (/ˈbrækioʊˌpɒd/), phylum Brachiopoda, are a phylum
+  of trochozoan animals that have hard \"valves\" (shells) on the upper and lower
+  surfaces, unlike the left and right arrangement in bivalve molluscs. Brachiopod
+  valves are hinged at the rear end, while the front can be opened for feeding or
+  closed for protection. Two major categories are traditionally recognized, articulate
+  and inarticulate brachiopods. The word \"articulate\" is used to describe the tooth-and-groove
+  structures of the valve-hinge which is present in the articulate group, and absent
+  from the inarticulate group. This is the leading diagnostic skeletal feature, by
+  which the two main groups can be readily distinguished as fossils. Articulate brachiopods
+  have toothed hinges and simple, vertically-oriented opening and closing muscles.
+  Conversely, inarticulate brachiopods have weak, untoothed hinges and a more complex
+  system of vertical and oblique (diagonal) muscles used to keep the two valves aligned.
+  In many brachiopods, a stalk-like pedicle projects from an opening near the hinge
+  of one of the valves, known as the pedicle or ventral valve. The pedicle, when present,
+  keeps the animal anchored to the seabed but clear of sediment which would obstruct
+  the opening.\n\nBrachiopod lifespans range from three to over thirty years. Ripe
+  gametes (ova or sperm) float from the gonads into the main coelom and then exit
+  into the mantle cavity. The larvae of inarticulate brachiopods are miniature adults,
+  with lophophores that enable the larvae to feed and swim for months until the animals
+  become heavy enough to settle to the seabed. The planktonic larvae of articulate
+  species do not resemble the adults, but rather look like blobs with yolk sacs, and
+  remain among the plankton for only a few days before leaving the water column upon
+  metamorphosing.\n\nWhile traditional classification of brachiopods separate them
+  into distinct inarticulate and articulate groups, two approaches appeared in the
+  1990s. One approach groups the inarticulate Craniida with articulate brachiopods,
+  since both use layers of calcareous minerals their shell; the other approach considers
+  the Craniida to be a separate third group, as their outer organic layer is distinct
+  from that of both the linguliforms (\"typical\" inarticulates) and rhynchonelliforms
+  (articulates). However, some taxonomists believe it is premature to suggest higher
+  levels of classification such as order and recommend a bottom-up approach that identifies
+  genera and then groups these into intermediate groups. Traditionally, brachiopods
+  have been regarded as members of, or as a sister group to, the deuterostomes, a
+  superphylum that includes chordates and echinoderms. One type of analysis of the
+  evolutionary relationships of brachiopods has always placed brachiopods as protostomes
+  while another type has split between placing brachiopods among the protostomes or
+  the deuterostomes.\n\nIt was suggested in 2003 that brachiopods had evolved from
+  an ancestor similar to Halkieria, a slug-like Cambrian animal with \"chain mail\"
+  on its back and a shell at the front and rear end; it was thought that the ancestral
+  brachiopod converted its shells into a pair of valves by folding the rear part of
+  its body under its front. However, new fossils found in 2007 and 2008 showed that
+  the \"chain mail\" of tommotiids formed the tube of a sessile animal; one tommotiid
+  resembled phoronids, which are close relatives or a subgroup of brachiopods, while
+  the other tommotiid bore two symmetrical plates that might be an early form of brachiopod
+  valves. Lineages of brachiopods that have both fossil and extant taxa appeared in
+  the early Cambrian, Ordovician, and Carboniferous periods, respectively.[3] Other
+  lineages have arisen and then become extinct, sometimes during severe mass extinctions.
+  At their peak in the Paleozoic era, the brachiopods were among the most abundant
+  filter-feeders and reef-builders, and occupied other ecological niches, including
+  swimming in the jet-propulsion style of scallops. Brachiopod fossils have been useful
+  indicators of climate changes during the Paleozoic. However, after the Permian–Triassic
+  extinction event, brachiopods recovered only a third of their former diversity.
+  A study in 2007 concluded the brachiopods were especially vulnerable to the Permian–Triassic
+  extinction, as they built calcareous hard parts (made of calcium carbonate) and
+  had low metabolic rates and weak respiratory systems. It was often thought that
+  brachiopods went into decline after the Permian–Triassic extinction, and were out-competed
+  by bivalves, but a study in 1980 found both brachiopod and bivalve species increased
+  from the Paleozoic to modern times, with bivalves increasing faster; after the Permian–Triassic
+  extinction, brachiopods became for the first time less diverse than bivalves.\n\nBrachiopods
+  live only in the sea, and most species avoid locations with strong currents or waves.
+  The larvae of articulate species settle in quickly and form dense populations in
+  well-defined areas while the larvae of inarticulate species swim for up to a month
+  and have wide ranges. Brachiopods now live mainly in cold water and low light. Fish
+  and crustaceans seem to find brachiopod flesh distasteful and seldom attack them.
+  Among brachiopods, only the lingulids (Lingula sp.[4]) have been fished commercially,
+  on a very small scale. One brachiopod species (Coptothyrus adamsi) may be a measure
+  of environmental conditions around an oil terminal being built in Russia on the
+  shore of the Sea of Japan. The word \"brachiopod\" is formed from the Ancient Greek
+  words brachion (\"arm\") and podos (\"foot\").[5] They are often known as \"lamp
+  shells\", since the curved shells of the class Terebratulida resemble pottery oil-lamps.[2]\n\nBrachiopods
+  are the state fossil of the U.S. state of Kentucky.[6] \n\n"
+name: Brachiopod
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/LingulaanatinaAA.JPG/220px-LingulaanatinaAA.JPG
+binomial_name: "-"
+simple_description_p4: ''
+short_taxo: 'Animalia > Lophotrochozoa > Lophophorata > Brachiozoa >  >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q178272
+    text: Q178272
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Brachiopoda
+    text: Brachiopoda
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Brachiopoda/
+    text: Brachiopoda
+    title: Animal Diversity Web
+  Australian Faunal Directory:
+    link: https://biodiversity.org.au/afd/taxa/Brachiopoda
+    text: Brachiopoda
+    title: Australian Faunal Directory
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=9
+    text: '9'
+    title: Barcode of Life Data System
+  Encyclopedia of Life:
+    link: https://eol.org/pages/1498
+    text: '1498'
+    title: Encyclopedia of Life
+  EPPO Code:
+    link: https://gd.eppo.int/taxon/1BRACP
+    text: 1BRACP
+    title: EPPO Code
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=26322
+    text: '26322'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/110
+    text: '110'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/122158
+    text: '122158'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=107
+    text: '107'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=156755
+    text: '156755'
+    title: Integrated Taxonomic Information System
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=7568
+    text: '7568'
+    title: National Center for Biotechnology Information
+  ! '':
+    link: http://www.ubio.org/browser/details.php?namebankID=230460
+    text: '230460'
+    title:
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=1803
+    text: '1803'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Brachiopod (Animalia > Lophotrochozoa > Lophophorata
+  > Brachiozoa >  >  > )"

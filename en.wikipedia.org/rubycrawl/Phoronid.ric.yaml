@@ -1,0 +1,120 @@
+---
+taxo:
+  Kingdom: Animalia
+  Clade: Brachiozoa
+  Phylum: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Phoronid
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Clade
+  - Phylum
+  arrvals:
+  - Animalia
+  - Brachiozoa
+  - ''
+  title_name: Phoronid
+  taxo_byindex_verbose_3:
+  - 3
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_3:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_4:
+  - 4
+  - Clade
+  - Brachiozoa
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Brachiozoa" title="Brachiozoa">Brachiozoa</a></td></tr>
+  taxo_byindex_4:
+  - Clade
+  - Brachiozoa
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - ''
+  - <tr><td>Phylum:</td><td><a class="mw-selflink selflink">Phoronida</a><br><small><a
+    href="/wiki/Berthold_Hatschek" title="Berthold Hatschek">Hatschek</a>, 1888</small></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - ''
+wiki: https://en.wikipedia.org/wiki/Phoronid
+latin_name: ''
+proper-description: |+
+  Phoronids (scientific name Phoronida, sometimes called horseshoe worms) are a small phylum of marine animals that filter-feed with a lophophore (a "crown" of tentacles), and build upright tubes of chitin to support and protect their soft bodies. They live in most of the oceans and seas, including the Arctic Ocean but excluding the Antarctic Ocean, and between the intertidal zone and about 400 meters down. Most adult phoronids are 2 cm long and about 1.5 mm wide, although the largest are 50 cm long.
+
+  The name of the group comes from its type genus: Phoronis.[2][3]
+
+name: Phoronid
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nur03506.jpg/220px-Nur03506.jpg
+binomial_name: "-"
+simple_description_p4: Phoronids (scientific name Phoronida, sometimes called horseshoe
+  worms) are a small phylum of marine animals that filter-feed with a lophophore (a
+  "crown" of tentacles), and build upright tubes of chitin to support and protect
+  their soft bodies. They live in most of the oceans and seas, including the Arctic
+  Ocean but excluding the Antarctic Ocean, and between the intertidal zone and about
+  400 meters down. Most adult phoronids are 2 cm long and about 1.5 mm wide, although
+  the largest are 50 cm long.
+short_taxo: 'Animalia > Brachiozoa > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q162907
+    text: Q162907
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Phoronida
+    text: Phoronida
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Phoronida/
+    text: Phoronida
+    title: Animal Diversity Web
+  Australian Faunal Directory:
+    link: https://biodiversity.org.au/afd/taxa/Phoronida
+    text: Phoronida
+    title: Australian Faunal Directory
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=370374
+    text: '370374'
+    title: Barcode of Life Data System
+  Encyclopedia of Life:
+    link: https://eol.org/pages/8867
+    text: '8867'
+    title: Encyclopedia of Life
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=67152
+    text: '67152'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/19
+    text: '19'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/48051
+    text: '48051'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=248
+    text: '248'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155456
+    text: '155456'
+    title: Integrated Taxonomic Information System
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=120557
+    text: '120557'
+    title: National Center for Biotechnology Information
+  ! '':
+    link: http://www.ubio.org/browser/details.php?namebankID=230459
+    text: '230459'
+    title:
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=1789
+    text: '1789'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Phoronid (Animalia > Brachiozoa > )"
+...

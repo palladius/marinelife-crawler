@@ -1,0 +1,102 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Lutra
+  Species: L. sumatrana[1]
+fish_local_url_name: en.wikipedia.org/rubycrawl//Hairy-nosed_otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Lutra
+  - L. sumatrana[1]
+  title_name: Hairy-nosed otter
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_11:
+  - 11
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_11:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_12:
+  - 12
+  - Genus
+  - Lutra
+  - <tr><td>Genus:</td><td><a href="/wiki/Lutra" title="Lutra"><i>Lutra</i></a></td></tr>
+  taxo_byindex_12:
+  - Genus
+  - Lutra
+  taxo_byindex_verbose_13:
+  - 13
+  - Species
+  - L. sumatrana[1]
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>L. sumatrana<sup
+    id="cite_ref-msw3_1-0" class="reference"><a href="#cite_note-msw3-1">[1]</a></sup></b></i></div></td></tr>
+  taxo_byindex_13:
+  - Species
+  - L. sumatrana[1]
+wiki: https://en.wikipedia.org/wiki/Hairy-nosed_otter
+latin_name: Lutra sumatrana
+proper-description: "The hairy-nosed otter (Lutra sumatrana) is a semiaquatic mammal
+  endemic to Southeast Asia and one of the rarest and least known otter species. It
+  is threatened by loss of natural resources and poaching.[2][3]\n\n"
+name: Hairy-nosed otter
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otter_from_Cambodia.jpg/220px-Otter_from_Cambodia.jpg
+binomial_name: Lutra sumatrana[1]
+simple_description_p4: The hairy-nosed otter (Lutra sumatrana) is a semiaquatic mammal
+  endemic to Southeast Asia and one of the rarest and least known otter species. It
+  is threatened by loss of natural resources and poaching.[2][3]
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Lutra > L. sumatrana[1]
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Hairy-nosed otter (Animalia > Chordata > Mammalia >
+  Carnivora > Mustelidae > Lutra > L. sumatrana[1])"

@@ -1,0 +1,104 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: ''
+  Species: A. capensis[1]
+fish_local_url_name: en.wikipedia.org/rubycrawl//African_clawless_otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - ''
+  - A. capensis[1]
+  title_name: African clawless otter
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_11:
+  - 11
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_11:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_12:
+  - 12
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a href="/wiki/Aonyx" title="Aonyx"><i>Aonyx</i></a><br><small><a
+    href="/wiki/Rene_Lesson" class="mw-redirect" title="Rene Lesson">Lesson</a>, 1827</small></td></tr>
+  taxo_byindex_12:
+  - Genus
+  - ''
+  taxo_byindex_verbose_13:
+  - 13
+  - Species
+  - A. capensis[1]
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>A. capensis<sup
+    id="cite_ref-msw3_1-0" class="reference"><a href="#cite_note-msw3-1">[1]</a></sup></b></i></div></td></tr>
+  taxo_byindex_13:
+  - Species
+  - A. capensis[1]
+wiki: https://en.wikipedia.org/wiki/African_clawless_otter
+latin_name: Aonyx capensis
+proper-description: "The African clawless otter (Aonyx capensis), also known as the
+  Cape clawless otter or groot otter, is the second-largest freshwater otter species.
+  It inhabits permanent water bodies in savannah and lowland forest areas through
+  most of sub-Saharan Africa.[2] It is characterised by partly webbed and clawless
+  feet, from which their name is derived. The word 'aonyx' means clawless, derived
+  from the prefix a- (\"without\") and onyx (\"claw/hoof\").\n\n"
+name: African clawless otter
+picture_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+binomial_name: Aonyx capensis[1]
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae >  > A. capensis[1]
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] African clawless otter (Animalia > Chordata > Mammalia
+  > Carnivora > Mustelidae >  > A. capensis[1])"

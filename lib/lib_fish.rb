@@ -46,7 +46,7 @@ module LibFish
     opts_debug = opts.fetch :debug, false
 
     files_to_iterate_upon = Dir.glob("#{path}/**/*[!.yaml]").first(opts_max_imports)
-    puts "🤟 iterate_through_files_in_directory(path='#{path.colorize(:cyan)}', write_to='#{target_yaml.colorize(:cyan)}', max=#{opts_max_imports})"
+    puts "🤟 iterate_through_files_in_directory(path='#{path.colorize(:cyan)}', write_to='#{target_yaml.colorize(:cyan)}', max=#{opts_max_imports}): #{files_to_iterate_upon.size} files found"
 
     if opts_verbose
       puts "== Iterate upon #{files_to_iterate_upon.count} files (max #{opts_max_imports}) ==".colorize(

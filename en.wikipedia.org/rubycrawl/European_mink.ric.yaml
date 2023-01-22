@@ -1,0 +1,105 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Mustela
+  Species: M. lutreola
+fish_local_url_name: en.wikipedia.org/rubycrawl//European_mink
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Mustela
+  - M. lutreola
+  title_name: European mink
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Mustela
+  - <tr><td>Genus:</td><td><a href="/wiki/Weasel" title="Weasel"><i>Mustela</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Mustela
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - M. lutreola
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>M. lutreola</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - M. lutreola
+wiki: https://en.wikipedia.org/wiki/European_mink
+latin_name: Mustela lutreola
+proper-description: |+
+  The European mink (Mustela lutreola), also known as the Russian mink and Eurasian mink, is a semiaquatic species of mustelid native to Europe.
+
+  It is similar in colour to the American mink, but is slightly smaller and has a less specialized skull.[2] Despite having a similar name, build and behaviour, the European mink is not closely related to the American mink, being much closer to the European polecat and Siberian weasel (kolonok).[3][4] The European mink occurs primarily by forest streams unlikely to freeze in winter.[5] It primarily feeds on voles, frogs, fish, crustaceans and insects.[6]
+
+  The European mink is listed by the IUCN as Critically Endangered due to an ongoing reduction in numbers, having been calculated as declining more than 50% over the past three generations and expected to decline at a rate exceeding 80% over the next three generations.[1] European mink numbers began to shrink during the 19th century, with the species rapidly becoming extinct in some parts of Central Europe. During the 20th century, mink numbers declined all throughout their range, the reasons for which having been hypothesised to be due to a combination of factors, including climate change, competition with (as well as diseases spread by) the introduced American mink, habitat destruction, declines in crayfish numbers and hybridisation with the European polecat. In Central Europe and Finland, the decline preceded the introduction of the American mink, having likely been due to the destruction of river ecosystems, while in Estonia, the decline seems to coincide with the spread of the American mink.[7]
+
+name: European mink
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Europ%C3%A4ischer_Nerz.jpg/220px-Europ%C3%A4ischer_Nerz.jpg
+binomial_name: Mustela lutreola
+simple_description_p4: The European mink (Mustela lutreola), also known as the Russian
+  mink and Eurasian mink, is a semiaquatic species of mustelid native to Europe.
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Mustela > M. lutreola
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] European mink (Animalia > Chordata > Mammalia > Carnivora
+  > Mustelidae > Mustela > M. lutreola)"
+...

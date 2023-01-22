@@ -1,0 +1,103 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Chondrichthyes
+  Order: Squatiniformes
+  Family: Squatinidae
+  Genus: Squatina
+  Species: S. tergocellatoides
+fish_local_url_name: en.wikipedia.org/rubycrawl//Ocellated_angelshark
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Chondrichthyes
+  - Squatiniformes
+  - Squatinidae
+  - Squatina
+  - S. tergocellatoides
+  title_name: Ocellated angelshark
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Chondrichthyes
+  - <tr><td>Class:</td><td><a href="/wiki/Chondrichthyes" title="Chondrichthyes">Chondrichthyes</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Chondrichthyes
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Squatiniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Angelshark" title="Angelshark">Squatiniformes</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Squatiniformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Squatinidae
+  - <tr><td>Family:</td><td><a href="/wiki/Angelshark" title="Angelshark">Squatinidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Squatinidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Squatina
+  - <tr><td>Genus:</td><td><a href="/wiki/Angelshark" title="Angelshark"><i>Squatina</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Squatina
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - S. tergocellatoides
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>S. tergocellatoides</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - S. tergocellatoides
+wiki: https://en.wikipedia.org/wiki/Ocellated_angelshark
+latin_name: ''
+proper-description: |+
+  The ocellated angelshark (Squatina tergocellatoides) is an angelshark of the family Squatinidae found only from the Taiwan Straits in the western Pacific between latitudes 28 and 22°N and in northern Malaysia.   Its length is up to 63 cm.
+
+  Reproduction is ovoviviparous.
+
+name: Ocellated angelshark
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Squatina_tergocellatoides_distmap.png/220px-Squatina_tergocellatoides_distmap.png
+binomial_name: Squatina tergocellatoides
+simple_description_p4: no P4 description
+short_taxo: Animalia > Chordata > Chondrichthyes > Squatiniformes > Squatinidae >
+  Squatina > S. tergocellatoides
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Ocellated angelshark (Animalia > Chordata > Chondrichthyes
+  > Squatiniformes > Squatinidae > Squatina > S. tergocellatoides)"
+...

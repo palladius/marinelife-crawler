@@ -1,0 +1,104 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Lagomorpha
+  Family: Leporidae
+  Genus: Oryctolagus
+  Species: O. cuniculus[1]
+fish_local_url_name: en.wikipedia.org/rubycrawl//European_rabbit
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Lagomorpha
+  - Leporidae
+  - Oryctolagus
+  - O. cuniculus[1]
+  title_name: European rabbit
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Lagomorpha
+  - <tr><td>Order:</td><td><a href="/wiki/Lagomorpha" title="Lagomorpha">Lagomorpha</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Lagomorpha
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Leporidae
+  - <tr><td>Family:</td><td><a href="/wiki/Leporidae" title="Leporidae">Leporidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Leporidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Oryctolagus
+  - <tr><td>Genus:</td><td><a href="/wiki/Oryctolagus" title="Oryctolagus"><i>Oryctolagus</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Oryctolagus
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - O. cuniculus[1]
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>O. cuniculus<sup
+    id="cite_ref-MSW3_1-0" class="reference"><a href="#cite_note-MSW3-1">[1]</a></sup></b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - O. cuniculus[1]
+wiki: https://en.wikipedia.org/wiki/European_rabbit
+latin_name: Oryctolagus cuniculus
+proper-description: |+
+  The European rabbit (Oryctolagus cuniculus) or coney[4] is a species of rabbit native to the Iberian Peninsula (including Spain, Portugal, and southwestern France), western France, and the northern Atlas Mountains in northwest Africa.[5] It has been widely introduced elsewhere, often with devastating effects on local biodiversity. Its decline in its native range due to myxomatosis, rabbit calicivirus, overhunting and habitat loss has caused the decline of the Iberian lynx (Lynx pardinus) and Spanish imperial eagle (Aquila adalberti). It is known as an invasive species because it has been introduced to countries on all continents with the exception of Antarctica, and has caused many problems within the environment and ecosystems; in particular, European rabbits in Australia have had a devastating impact, due in part to the lack of natural predators there.
+
+  The European rabbit is well known for digging networks of burrows, called warrens, where it spends most of its time when not feeding. Unlike the related hares (Lepus spp.), rabbits are altricial, the young being born blind and furless, in a fur-lined nest in the warren, and they are totally dependent upon their mothers. Much of the modern research into wild rabbit behaviour was carried out in the 1960s by two research centres. One was the naturalist Ronald Lockley, who maintained a number of large enclosures for wild rabbit colonies, with observation facilities, in Orielton, Pembrokeshire. Apart from publishing a number of scientific papers, he popularised his findings in a book The Private Life of the Rabbit, which is credited by Richard Adams as having played a key role in his gaining "a knowledge of rabbits and their ways" that informed his novel Watership Down. The other group was the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Australia, where numerous studies of the social behavior of wild rabbits were performed. Since the onset of myxomatosis, and the decline of the significance of the rabbit as an agricultural pest, few large-scale studies have been performed and many aspects of rabbit behaviour are still poorly understood.
+
+name: European rabbit
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg/220px-Oryctolagus_cuniculus_Tasmania_2.jpg
+binomial_name: Oryctolagus cuniculus[1]
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Mammalia > Lagomorpha > Leporidae > Oryctolagus
+  > O. cuniculus[1]
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] European rabbit (Animalia > Chordata > Mammalia > Lagomorpha
+  > Leporidae > Oryctolagus > O. cuniculus[1])"
+...

@@ -1,0 +1,109 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Salmoniformes
+  Family: Salmonidae
+  Genus: Oncorhynchus
+  Species: O. masou
+fish_local_url_name: en.wikipedia.org/rubycrawl//Oncorhynchus_masou
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Salmoniformes
+  - Salmonidae
+  - Oncorhynchus
+  - O. masou
+  title_name: Oncorhynchus masou
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Salmoniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmoniformes</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Salmoniformes
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Salmonidae
+  - <tr><td>Family:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmonidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Salmonidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Oncorhynchus
+  - <tr><td>Genus:</td><td><a href="/wiki/Oncorhynchus" title="Oncorhynchus"><i>Oncorhynchus</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Oncorhynchus
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - O. masou
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>O. masou</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - O. masou
+wiki: https://en.wikipedia.org/wiki/Oncorhynchus_masou
+latin_name: ''
+proper-description: |+
+  The masu salmon (Oncorhynchus masou), also known as masu (Japanese: マス, lit. 'trout') or cherry trout (桜鱒 サクラマス, sakura masu) in Japan,[1][2] is a species of salmon belonging to the genus Oncorhynchus, found in the North Pacific along Northeast/East Asian coasts from the Russian Far East (Primorsky, Kamchatka Peninsula, Sakhalin and Kuril Islands) to south through Korea, Japan and Taiwan.
+
+  A number of subspecies are known, including the widespread nominate subspecies yamame (O. m. masou), the critically endangered Formosan salmon (O. m. formosanus) found in certain landlocked freshwater systems of Taiwan, the Biwa trout (O. m. rhodurus) endemic of Lake Biwa, and the anadromous or stream-dwelling amago (O. m. macrostomus) restricted to western Japan.
+
+  On average, this salmon prefers a temperate climate around the latitude of 65-58°N, and in the sea, it prefers a depth of 0–200 m (0–656 ft).
+
+name: Oncorhynchus masou
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Yamame.jpg/260px-Yamame.jpg
+binomial_name: Oncorhynchus masou
+simple_description_p4: 'The masu salmon (Oncorhynchus masou), also known as masu (Japanese:
+  マス, lit. ''trout'') or cherry trout (桜鱒 サクラマス, sakura masu) in Japan,[1][2] is a
+  species of salmon belonging to the genus Oncorhynchus, found in the North Pacific
+  along Northeast/East Asian coasts from the Russian Far East (Primorsky, Kamchatka
+  Peninsula, Sakhalin and Kuril Islands) to south through Korea, Japan and Taiwan.'
+short_taxo: Animalia > Chordata > Actinopterygii > Salmoniformes > Salmonidae > Oncorhynchus
+  > O. masou
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Oncorhynchus masou (Animalia > Chordata > Actinopterygii
+  > Salmoniformes > Salmonidae > Oncorhynchus > O. masou)"
+...

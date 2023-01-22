@@ -1,0 +1,105 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Chondrichthyes
+  Order: Squatiniformes
+  Family: Squatinidae
+  Genus: Squatina
+  Species: S. tergocellata
+fish_local_url_name: en.wikipedia.org/rubycrawl//Ornate_angelshark
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Chondrichthyes
+  - Squatiniformes
+  - Squatinidae
+  - Squatina
+  - S. tergocellata
+  title_name: Ornate angelshark
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Chondrichthyes
+  - <tr><td>Class:</td><td><a href="/wiki/Chondrichthyes" title="Chondrichthyes">Chondrichthyes</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Chondrichthyes
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Squatiniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Angelshark" title="Angelshark">Squatiniformes</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Squatiniformes
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Squatinidae
+  - <tr><td>Family:</td><td><a href="/wiki/Angelshark" title="Angelshark">Squatinidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Squatinidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Squatina
+  - <tr><td>Genus:</td><td><a href="/wiki/Angelshark" title="Angelshark"><i>Squatina</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Squatina
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - S. tergocellata
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>S. tergocellata</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - S. tergocellata
+wiki: https://en.wikipedia.org/wiki/Ornate_angelshark
+latin_name: ''
+proper-description: |+
+  The ornate angelshark (Squatina tergocellata) is an angelshark of the family Squatinidae endemic to southern Australia between latitudes 30°S and 35°S, at depths of 130–400 m (430–1,310 ft). It can reach lengths of up to 1.4 m (4.6 ft). Females tend to have a TL (total length) at 1150–1250 mm, while males range from a TL of 810–910 mm at sexual maturity. Reproduction is ovoviviparous, with two to nine pups per litter.[2]
+
+  It appears that S. tergocellatahas a minimum gestation period of 6–12 months and parturition may occur biennially. Female ornate angelsharks have two ovaries, the right one contains less ovarian follicles than the left. During the spring season, the ovarian follicle was usually at its smallest point, after ovulation. However, the largest follicle was seen during autumn, right before ovulation. The follicle size could range anywhere from 1–68 mm.
+
+  The most common stomach contents were squid (Nototodarus gouldi) and fish (mainly Monacanthidae).
+
+name: Ornate angelshark
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Squatina_tergocellata.jpg/220px-Squatina_tergocellata.jpg
+binomial_name: Squatina tergocellata
+simple_description_p4: no P4 description
+short_taxo: Animalia > Chordata > Chondrichthyes > Squatiniformes > Squatinidae >
+  Squatina > S. tergocellata
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Ornate angelshark (Animalia > Chordata > Chondrichthyes
+  > Squatiniformes > Squatinidae > Squatina > S. tergocellata)"
+...

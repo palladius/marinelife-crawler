@@ -1,0 +1,106 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Procyonidae
+  Genus: Procyon
+  Species: P. lotor
+fish_local_url_name: en.wikipedia.org/rubycrawl//Raccoon
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Procyonidae
+  - Procyon
+  - P. lotor
+  title_name: Raccoon
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Procyonidae
+  - <tr><td>Family:</td><td><a href="/wiki/Procyonidae" title="Procyonidae">Procyonidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Procyonidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Procyon
+  - <tr><td>Genus:</td><td><a href="/wiki/Procyon_(genus)" title="Procyon (genus)"><i>Procyon</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Procyon
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - P. lotor
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>P. lotor</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - P. lotor
+wiki: https://en.wikipedia.org/wiki/Raccoon
+latin_name: Procyon lotor
+proper-description: |+
+  The raccoon (/rəˈkuːn/ or US: /ræˈkuːn/ (listen), Procyon lotor), sometimes called the common raccoon to distinguish it from other species, is a mammal native to North America. It is the largest of the procyonid family, having a body length of 40 to 70 cm (16 to 28 in), and a body weight of 5 to 26 kg (11 to 57 lb). Its grayish coat mostly consists of dense underfur, which insulates it against cold weather. Three of the raccoon's most distinctive features are its extremely dexterous front paws, its facial mask, and its ringed tail, which are themes in the mythologies of the indigenous peoples of the Americas relating to the animal. The raccoon is noted for its intelligence, as studies show that it is able to remember the solution to tasks for at least three years. It is usually nocturnal and omnivorous, eating about 40% invertebrates, 33% plants, and 27% vertebrates.
+
+  The original habitats of the raccoon are deciduous and mixed forests, but due to their adaptability, they have extended their range to mountainous areas, coastal marshes, and urban areas, where some homeowners consider them to be pests. As a result of escapes and deliberate introductions in the mid-20th century, raccoons are now also distributed across central Europe, the Caucasus, and Japan.
+
+  In Europe, the raccoon is included since 2016 in the list of Invasive Alien Species of Union concern (the Union list).[3] This implies that this species cannot be imported, bred, transported, commercialized, or intentionally released into the environment in the whole of the European Union.[4]
+
+  Though previously thought to be generally solitary, there is now evidence that raccoons engage in sex-specific social behavior. Related females often share a common area, while unrelated males live together in groups of up to four raccoons in order to maintain their positions against foreign males during the mating season and against other potential invaders. Home range sizes vary anywhere from 3 hectares (7 acres) for females in cities, to 5,000 hectares (12,000 acres) for males in prairies. After a gestation period of about 65 days, two to five young known as "kits" are born in spring. The kits are subsequently raised by their mother until dispersal in late fall. Although captive raccoons have been known to live over 20 years, their life expectancy in the wild is only 1.8 to 3.1 years. In many areas, hunting and vehicular injury are the two most common causes of death.
+
+name: Raccoon
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg/220px-Raccoon_in_Central_Park_%2835264%29.jpg
+binomial_name: Procyon lotor
+simple_description_p4: no P4 description
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Procyonidae > Procyon > P. lotor
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Raccoon (Animalia > Chordata > Mammalia > Carnivora
+  > Procyonidae > Procyon > P. lotor)"
+...

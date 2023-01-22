@@ -13,6 +13,10 @@ module Fishness
     true
   end
 
+  def fishness_words
+    %w{ maritime marine ocean pelagic sea water }
+  end
+  # Words which match fishness
   def is_fish_by_wikipedia_content?(content)
     content =~ /Scientific classification/ and
       content =~ /Animalia/ and # and Chordata but can be Mollusc and so on

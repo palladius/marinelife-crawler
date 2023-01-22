@@ -1,0 +1,101 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Reptilia
+  Order: Testudines
+  Family: ''
+  See text.: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Cheloniidae
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - See text.
+  arrvals:
+  - Animalia
+  - Chordata
+  - Reptilia
+  - Testudines
+  - ''
+  - ''
+  title_name: Cheloniidae
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Reptilia
+  - <tr><td>Class:</td><td><a href="/wiki/Reptile" title="Reptile">Reptilia</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Reptilia
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Testudines
+  - <tr><td>Order:</td><td><a href="/wiki/Turtle" title="Turtle">Testudines</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Testudines
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - ''
+  - <tr><td>Family:</td><td><a class="mw-selflink selflink">Cheloniidae</a><br><small><a
+    href="/wiki/Nicolaus_Michael_Oppel" title="Nicolaus Michael Oppel">Oppel</a>,
+    1811<sup id="cite_ref-Rhodin11_1-0" class="reference"><a href="#cite_note-Rhodin11-1">[1]</a></sup></small></td></tr>
+  taxo_byindex_10:
+  - Family
+  - ''
+  taxo_byindex_verbose_14:
+  - 14
+  - See text.
+  - ''
+  - '<tr><td colspan="2" style="text-align: left"><p><a href="#Classification">See
+    text</a>.</p></td></tr>'
+  taxo_byindex_14:
+  - See text.
+  - ''
+wiki: https://en.wikipedia.org/wiki/Cheloniidae
+latin_name: ''
+proper-description: "Cheloniidae is a family of typically large marine turtles that
+  are characterised by their common traits such as, having a flat streamlined wide
+  and rounded shell and almost paddle-like flippers for their forelimbs. They are
+  the only sea turtles to have stronger front limbs than back limbs.[2] The six species
+  that make up this family are: the green sea turtle, loggerhead sea turtle, olive
+  ridley sea turtle, hawksbill sea turtle, flatback sea turtle and the Kemp's ridley
+  sea turtle.[3]\n\n"
+name: Cheloniidae
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Green_turtle_swimming_over_coral_reefs_in_Kona.jpg/220px-Green_turtle_swimming_over_coral_reefs_in_Kona.jpg
+binomial_name: "-"
+simple_description_p4: 'Cheloniidae is a family of typically large marine turtles
+  that are characterised by their common traits such as, having a flat streamlined
+  wide and rounded shell and almost paddle-like flippers for their forelimbs. They
+  are the only sea turtles to have stronger front limbs than back limbs.[2] The six
+  species that make up this family are: the green sea turtle, loggerhead sea turtle,
+  olive ridley sea turtle, hawksbill sea turtle, flatback sea turtle and the Kemp''s
+  ridley sea turtle.[3]'
+short_taxo: 'Animalia > Chordata > Reptilia > Testudines >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Cheloniidae (Animalia > Chordata > Reptilia > Testudines
+  >  > )"

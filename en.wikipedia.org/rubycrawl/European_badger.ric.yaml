@@ -1,0 +1,110 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Meles
+  Species: M. meles
+fish_local_url_name: en.wikipedia.org/rubycrawl//European_badger
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Meles
+  - M. meles
+  title_name: European badger
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Meles
+  - <tr><td>Genus:</td><td><a href="/wiki/Meles_(genus)" title="Meles (genus)"><i>Meles</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Meles
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - M. meles
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>M. meles</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - M. meles
+wiki: https://en.wikipedia.org/wiki/European_badger
+latin_name: Meles meles
+proper-description: |+
+  The European badger (Meles meles), also known as the Eurasian badger, is a badger species in the family Mustelidae native to almost all of Europe. It is classified as least concern on the IUCN Red List as it has a wide range and a large stable population size, and is thought to be increasing in some regions. Several subspecies are recognized with the nominate subspecies (M. m. meles) predominating in most of Europe.[1] In Europe, where no other badger species commonly occurs, it is generally just called the "badger".
+
+  The European badger is a powerfully built, black, white, brown, and grey animal with a small head, a stocky body, small, black eyes, and short tail. Its weight varies, being 7–13 kg (15–29 lb) in spring, but building up to 15–17 kg (33–37 lb) in autumn before the winter sleep period. It is nocturnal and is a social, burrowing animal that sleeps during the day in one of several setts in its territorial range. These burrows have multiple chambers and entrances, and are extensive systems of underground passages of 35–81 m (115–266 ft) length. They house several badger families that use these setts for decades. Badgers are fussy over the cleanliness of their burrow, carrying in fresh bedding and removing soiled material, and they defecate in latrines strategically situated outside their setts or en route to other setts.[2]
+
+  Although classified as a carnivore, the European badger feeds on a wide variety of plant and animal foods, feeding on earthworms, large insects, small mammals, carrion, cereals, and tubers.  Litters of up to five cubs are produced in spring. The young are weaned a few months later, but usually remain within the family group. The European badger has been known to share its burrow with other species such as rabbits, red foxes, and raccoon dogs, but it can be ferocious when provoked, a trait which has been exploited in the now-illegal blood sport of badger-baiting. Badgers can be carriers of bovine tuberculosis, which also affects cattle. In England, culling of badger populations is used to attempt to reduce the incidence of bovine tuberculosis in cattle,[3] although the efficacy of this practice is highly disputed,[4] and badger culls are widely considered cruel and inhumane.[5][6]
+
+name: European badger
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M%C3%A4yr%C3%A4_%C3%84ht%C3%A4ri_4.jpg/220px-M%C3%A4yr%C3%A4_%C3%84ht%C3%A4ri_4.jpg
+binomial_name: Meles meles
+simple_description_p4: The European badger (Meles meles), also known as the Eurasian
+  badger, is a badger species in the family Mustelidae native to almost all of Europe.
+  It is classified as least concern on the IUCN Red List as it has a wide range and
+  a large stable population size, and is thought to be increasing in some regions.
+  Several subspecies are recognized with the nominate subspecies (M. m. meles) predominating
+  in most of Europe.[1] In Europe, where no other badger species commonly occurs,
+  it is generally just called the "badger".
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Meles > M. meles
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] European badger (Animalia > Chordata > Mammalia > Carnivora
+  > Mustelidae > Meles > M. meles)"
+...

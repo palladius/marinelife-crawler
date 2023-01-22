@@ -1,0 +1,109 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Lontra
+  Species: L. longicaudis
+fish_local_url_name: en.wikipedia.org/rubycrawl//Neotropical_otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Lontra
+  - L. longicaudis
+  title_name: Neotropical otter
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Lontra
+  - <tr><td>Genus:</td><td><a href="/wiki/Lontra" title="Lontra"><i>Lontra</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Lontra
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - L. longicaudis
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>L. longicaudis</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - L. longicaudis
+wiki: https://en.wikipedia.org/wiki/Neotropical_otter
+latin_name: Lontra longicaudis
+proper-description: |+
+  The Neotropical otter or Neotropical river otter (Lontra longicaudis) is an otter species found in Mexico, Central America, South America, and the island of Trinidad. It is physically similar to the northern and southern river otter, which occur directly north and south of this species' range. The length of the Neotropical otter can range from 36–66 centimetres (14–26 in), plus a tail of 37–84 centimetres (15–33 in). Body weight ranges from 5–15 kilograms (11–33 lb).[3] Otters are members of the family Mustelidae, the most species-rich (and therefore diverse) family in the order Carnivora.
+
+  This otter is found in many different riverine habitats, including deciduous and evergreen forests, savannas, llanos and pantanal. It prefers to live in clear fast-flowing rivers and streams. It is a relatively solitary animal and feeds mostly on fish and crustaceans.
+
+name: Neotropical otter
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lontra_longicaudis_4.jpeg/220px-Lontra_longicaudis_4.jpeg
+binomial_name: Lontra longicaudis
+simple_description_p4: The Neotropical otter or Neotropical river otter (Lontra longicaudis)
+  is an otter species found in Mexico, Central America, South America, and the island
+  of Trinidad. It is physically similar to the northern and southern river otter,
+  which occur directly north and south of this species' range. The length of the Neotropical
+  otter can range from 36–66 centimetres (14–26 in), plus a tail of 37–84 centimetres
+  (15–33 in). Body weight ranges from 5–15 kilograms (11–33 lb).[3] Otters are members
+  of the family Mustelidae, the most species-rich (and therefore diverse) family in
+  the order Carnivora.
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Lontra > L. longicaudis
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Neotropical otter (Animalia > Chordata > Mammalia >
+  Carnivora > Mustelidae > Lontra > L. longicaudis)"
+...

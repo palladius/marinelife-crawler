@@ -1,0 +1,93 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Aonyx
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - ''
+  title_name: Aonyx
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_8:
+  - 8
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_8:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Aonyx</i></a><br><small><a
+    href="/wiki/Rene_Lesson" class="mw-redirect" title="Rene Lesson">Lesson</a>, 1827<sup
+    id="cite_ref-Lesson,_1827_2-0" class="reference"><a href="#cite_note-Lesson,_1827-2">[2]</a></sup></small></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - ''
+wiki: https://en.wikipedia.org/wiki/Aonyx
+latin_name: Aonyx
+proper-description: "Aonyx is a genus of otters, containing three species, the African
+  clawless otter, the Congo clawless otter, and the Asian small-clawed otter. \nThe
+  word aonyx means \"clawless\", derived from the prefix a- (\"without\") and onyx
+  (\"claw/hoof\").\n\n"
+name: Aonyx
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Zagreb_Zoo_small-clawed_otter_01.jpg/220px-Zagreb_Zoo_small-clawed_otter_01.jpg
+binomial_name: "-"
+simple_description_p4: Aonyx is a genus of otters, containing three species, the African
+  clawless otter, the Congo clawless otter, and the Asian small-clawed otter. The
+  word aonyx means "clawless", derived from the prefix a- ("without") and onyx ("claw/hoof").
+short_taxo: 'Animalia > Chordata > Mammalia > Carnivora > Mustelidae > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Aonyx (Animalia > Chordata > Mammalia > Carnivora >
+  Mustelidae > )"

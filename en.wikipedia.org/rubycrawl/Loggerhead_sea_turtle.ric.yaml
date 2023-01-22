@@ -1,0 +1,445 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Reptilia
+  Order: Testudines
+  Family: Cheloniidae
+  Genus: ''
+  Species: C. caretta
+  ? |-
+    Loggerhead sea turtle range according to the Food and Agriculture Organization
+    Species synonymy
+    Testudo carettaLinnaeus, 1758
+    Testudo cephaloSchneider, 1783
+    Testudo nasicornisLacépède, 1788
+    Testudo caouanaLacépède, 1788
+    Chelone caretta— Brongniart, 1805
+    Chelonia caouannaSchweigger, 1812
+    Caretta nasutaRafinesque, 1814
+    Chelonia cavannaOken, 1816
+    Caretta atraMerrem, 1820
+    Caretta cephalo— Merrem, 1820
+    Caretta nasicornis— Merrem, 1820
+    Chelonia caretta— Bory de Saint-Vincent, 1828
+    Testudo coriannaGray, 1831
+    Chelonia pelasgorumValenciennes in Bory de Saint-Vincent, 1833
+    Chelonia cephalo— Gray, 1829
+    Chelonia (Caretta) cephalo— Lesson in Bélanger, 1834
+    Chelonia caouanna— A.M.C. Duméril & Bibron, 1835
+    Chelonia (Thalassochelys) caouana— Fitzinger, 1836
+    Chelonia (Thalassochelys) atra— Fitzinger, 1836
+    Thalassochelys caretta — Bonaparte, 1838
+    Chelonia (Caouanna) cephalo— Cocteau in Cocteau & Bibron in de la Sagra, 1838
+    Halichelys atra— Fitzinger, 1843
+    Caounana caretta— Gray, 1844
+    Caouana elongata Gray, 1844
+    Thalassochelys caouana— Agassiz, 1857
+    Thalassochelys corticataGirard, 1858
+    Chelonia corticata — Strauch, 1862
+    Thalassochelys elongataStrauch, 1862
+    Thalassochelys caouana Nardo, 1864
+    Eremonia elongata — Gray, 1873
+    Caretta caretta— Stejneger, 1873
+    Thalassochelys cephalo — Barbour & Cole, 1906
+    Caretta caretta caretta — Mertens & L. Müller, 1928
+    Caretta gigasDeraniyagala, 1933
+    Caretta caretta gigas— Deraniyagala, 1939
+    Caretta caretta tarapacanaCaldwell, 1962
+    Chelonia cahuano— Tamayo, 1962
+    Caretta careta [sic]Tamayo, 1962 (ex errore)[4]
+    Genus synonymy
+    Caretta Rafinesque, 1814
+    Caretta (Thalassochelys) Fitzinger, 1835
+    Thalassochelys Bonaparte, 1838
+    Caouana Cocteau in de la Sagra, 1838
+    Halichelys Fitzinger, 1843
+    Eremonia Gray, 1873
+     ?Pliochelys Portis, 1890
+     ?Proganosaurus Portis, 1890[5]
+  : ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Loggerhead_sea_turtle
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  - |-
+    Loggerhead sea turtle range according to the Food and Agriculture Organization
+    Species synonymy
+    Testudo carettaLinnaeus, 1758
+    Testudo cephaloSchneider, 1783
+    Testudo nasicornisLacépède, 1788
+    Testudo caouanaLacépède, 1788
+    Chelone caretta— Brongniart, 1805
+    Chelonia caouannaSchweigger, 1812
+    Caretta nasutaRafinesque, 1814
+    Chelonia cavannaOken, 1816
+    Caretta atraMerrem, 1820
+    Caretta cephalo— Merrem, 1820
+    Caretta nasicornis— Merrem, 1820
+    Chelonia caretta— Bory de Saint-Vincent, 1828
+    Testudo coriannaGray, 1831
+    Chelonia pelasgorumValenciennes in Bory de Saint-Vincent, 1833
+    Chelonia cephalo— Gray, 1829
+    Chelonia (Caretta) cephalo— Lesson in Bélanger, 1834
+    Chelonia caouanna— A.M.C. Duméril & Bibron, 1835
+    Chelonia (Thalassochelys) caouana— Fitzinger, 1836
+    Chelonia (Thalassochelys) atra— Fitzinger, 1836
+    Thalassochelys caretta — Bonaparte, 1838
+    Chelonia (Caouanna) cephalo— Cocteau in Cocteau & Bibron in de la Sagra, 1838
+    Halichelys atra— Fitzinger, 1843
+    Caounana caretta— Gray, 1844
+    Caouana elongata Gray, 1844
+    Thalassochelys caouana— Agassiz, 1857
+    Thalassochelys corticataGirard, 1858
+    Chelonia corticata — Strauch, 1862
+    Thalassochelys elongataStrauch, 1862
+    Thalassochelys caouana Nardo, 1864
+    Eremonia elongata — Gray, 1873
+    Caretta caretta— Stejneger, 1873
+    Thalassochelys cephalo — Barbour & Cole, 1906
+    Caretta caretta caretta — Mertens & L. Müller, 1928
+    Caretta gigasDeraniyagala, 1933
+    Caretta caretta gigas— Deraniyagala, 1939
+    Caretta caretta tarapacanaCaldwell, 1962
+    Chelonia cahuano— Tamayo, 1962
+    Caretta careta [sic]Tamayo, 1962 (ex errore)[4]
+    Genus synonymy
+    Caretta Rafinesque, 1814
+    Caretta (Thalassochelys) Fitzinger, 1835
+    Thalassochelys Bonaparte, 1838
+    Caouana Cocteau in de la Sagra, 1838
+    Halichelys Fitzinger, 1843
+    Eremonia Gray, 1873
+     ?Pliochelys Portis, 1890
+     ?Proganosaurus Portis, 1890[5]
+  arrvals:
+  - Animalia
+  - Chordata
+  - Reptilia
+  - Testudines
+  - Cheloniidae
+  - ''
+  - C. caretta
+  - ''
+  title_name: Loggerhead sea turtle
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Reptilia
+  - <tr><td>Class:</td><td><a href="/wiki/Reptile" title="Reptile">Reptilia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Reptilia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Testudines
+  - <tr><td>Order:</td><td><a href="/wiki/Turtle" title="Turtle">Testudines</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Testudines
+  taxo_byindex_verbose_12:
+  - 12
+  - Family
+  - Cheloniidae
+  - <tr><td>Family:</td><td><a href="/wiki/Cheloniidae" title="Cheloniidae">Cheloniidae</a></td></tr>
+  taxo_byindex_12:
+  - Family
+  - Cheloniidae
+  taxo_byindex_verbose_14:
+  - 14
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Caretta</i></a><br><small><a
+    href="/wiki/Constantine_Samuel_Rafinesque" title="Constantine Samuel Rafinesque">Rafinesque</a>,
+    1814</small></td></tr>
+  taxo_byindex_14:
+  - Genus
+  - ''
+  taxo_byindex_verbose_15:
+  - 15
+  - Species
+  - C. caretta
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>C. caretta</b></i></div></td></tr>
+  taxo_byindex_15:
+  - Species
+  - C. caretta
+  taxo_byindex_verbose_19:
+  - 19
+  - |-
+    Loggerhead sea turtle range according to the Food and Agriculture Organization
+    Species synonymy
+    Testudo carettaLinnaeus, 1758
+    Testudo cephaloSchneider, 1783
+    Testudo nasicornisLacépède, 1788
+    Testudo caouanaLacépède, 1788
+    Chelone caretta— Brongniart, 1805
+    Chelonia caouannaSchweigger, 1812
+    Caretta nasutaRafinesque, 1814
+    Chelonia cavannaOken, 1816
+    Caretta atraMerrem, 1820
+    Caretta cephalo— Merrem, 1820
+    Caretta nasicornis— Merrem, 1820
+    Chelonia caretta— Bory de Saint-Vincent, 1828
+    Testudo coriannaGray, 1831
+    Chelonia pelasgorumValenciennes in Bory de Saint-Vincent, 1833
+    Chelonia cephalo— Gray, 1829
+    Chelonia (Caretta) cephalo— Lesson in Bélanger, 1834
+    Chelonia caouanna— A.M.C. Duméril & Bibron, 1835
+    Chelonia (Thalassochelys) caouana— Fitzinger, 1836
+    Chelonia (Thalassochelys) atra— Fitzinger, 1836
+    Thalassochelys caretta — Bonaparte, 1838
+    Chelonia (Caouanna) cephalo— Cocteau in Cocteau & Bibron in de la Sagra, 1838
+    Halichelys atra— Fitzinger, 1843
+    Caounana caretta— Gray, 1844
+    Caouana elongata Gray, 1844
+    Thalassochelys caouana— Agassiz, 1857
+    Thalassochelys corticataGirard, 1858
+    Chelonia corticata — Strauch, 1862
+    Thalassochelys elongataStrauch, 1862
+    Thalassochelys caouana Nardo, 1864
+    Eremonia elongata — Gray, 1873
+    Caretta caretta— Stejneger, 1873
+    Thalassochelys cephalo — Barbour & Cole, 1906
+    Caretta caretta caretta — Mertens & L. Müller, 1928
+    Caretta gigasDeraniyagala, 1933
+    Caretta caretta gigas— Deraniyagala, 1939
+    Caretta caretta tarapacanaCaldwell, 1962
+    Chelonia cahuano— Tamayo, 1962
+    Caretta careta [sic]Tamayo, 1962 (ex errore)[4]
+    Genus synonymy
+    Caretta Rafinesque, 1814
+    Caretta (Thalassochelys) Fitzinger, 1835
+    Thalassochelys Bonaparte, 1838
+    Caouana Cocteau in de la Sagra, 1838
+    Halichelys Fitzinger, 1843
+    Eremonia Gray, 1873
+     ?Pliochelys Portis, 1890
+     ?Proganosaurus Portis, 1890[5]
+  - ''
+  - '<tr><td colspan="2" style="text-align: center; font-size: 88%">Loggerhead sea
+    turtle range according to the <a href="/wiki/Food_and_Agriculture_Organization"
+    title="Food and Agriculture Organization">Food and Agriculture Organization</a><div
+    class="collapsible-list mw-collapsible mw-collapsed" style="text-align: left;"><div
+    style="line-height: 1.6em; font-weight: bold;"><div><small>Species synonymy</small></div></div><ul
+    class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height:
+    inherit;"><li style="line-height: inherit; margin: 0"> <i>Testudo caretta</i><br><small>Linnaeus,
+    1758</small> </li><li style="line-height: inherit; margin: 0"> <i>Testudo cephalo</i><br><small><a
+    href="/wiki/Johann_Gottlob_Theaenus_Schneider" title="Johann Gottlob Theaenus
+    Schneider">Schneider</a>, 1783</small> </li><li style="line-height: inherit; margin:
+    0"> <i>Testudo nasicornis</i><br><small><a href="/wiki/Bernard_Germain_de_Lac%C3%A9p%C3%A8de"
+    title="Bernard Germain de Lacépède">Lacépède</a>, 1788</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Testudo caouana</i><br><small>Lacépède, 1788</small> </li><li
+    style="line-height: inherit; margin: 0"> <i>Chelone caretta</i><br><small>— <a
+    href="/wiki/Alexandre_Brongniart" title="Alexandre Brongniart">Brongniart</a>,
+    1805</small> </li><li style="line-height: inherit; margin: 0"> <i>Chelonia caouanna</i><br><small><a
+    href="/wiki/August_Friedrich_Schweigger" title="August Friedrich Schweigger">Schweigger</a>,
+    1812</small> </li><li style="line-height: inherit; margin: 0"> <i>Caretta nasuta</i><br><small><a
+    href="/wiki/Constantine_Samuel_Rafinesque" title="Constantine Samuel Rafinesque">Rafinesque</a>,
+    1814</small> </li><li style="line-height: inherit; margin: 0"> <i>Chelonia cavanna</i><br><small><a
+    href="/wiki/Lorenz_Oken" title="Lorenz Oken">Oken</a>, 1816</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Caretta atra</i><br><small><a href="/wiki/Blasius_Merrem"
+    title="Blasius Merrem">Merrem</a>, 1820</small> </li><li style="line-height: inherit;
+    margin: 0"> <i>Caretta cephalo</i><br><small>— Merrem, 1820</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Caretta nasicornis</i><br><small>— Merrem, 1820</small>
+    </li><li style="line-height: inherit; margin: 0"> <i>Chelonia caretta</i><br><small>—
+    <a href="/wiki/Jean_Baptiste_Bory_de_Saint-Vincent" class="mw-redirect" title="Jean
+    Baptiste Bory de Saint-Vincent">Bory de Saint-Vincent</a>, 1828</small> </li><li
+    style="line-height: inherit; margin: 0"> <i>Testudo corianna</i><br><small><a
+    href="/wiki/John_Edward_Gray" title="John Edward Gray">Gray</a>, 1831</small>
+    </li><li style="line-height: inherit; margin: 0"> <i>Chelonia pelasgorum</i><br><small><a
+    href="/wiki/Achille_Valenciennes" title="Achille Valenciennes">Valenciennes</a>
+    <i>in</i> Bory de Saint-Vincent, 1833</small> </li><li style="line-height: inherit;
+    margin: 0"> <i>Chelonia cephalo</i><br><small>— Gray, 1829</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Chelonia</i> (<i>Caretta</i>) <i>cephalo</i><br><small>—
+    <a href="/wiki/Ren%C3%A9_Primev%C3%A8re_Lesson" class="mw-redirect" title="René
+    Primevère Lesson">Lesson</a> <i>in</i> Bélanger, 1834</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Chelonia caouanna</i><br><small>— <a href="/wiki/Andr%C3%A9_Marie_Constant_Dum%C3%A9ril"
+    title="André Marie Constant Duméril">A.M.C. Duméril</a> &amp; <a href="/wiki/Gabriel_Bibron"
+    title="Gabriel Bibron">Bibron</a>, 1835</small> </li><li style="line-height: inherit;
+    margin: 0"> <i>Chelonia</i> (<i>Thalassochelys</i>) <i>caouana</i><br><small>—
+    <a href="/wiki/Leopold_Fitzinger" title="Leopold Fitzinger">Fitzinger</a>, 1836</small>
+    </li><li style="line-height: inherit; margin: 0"> <i>Chelonia</i> (<i>Thalassochelys</i>)
+    <i>atra</i><br><small>— Fitzinger, 1836</small> </li><li style="line-height: inherit;
+    margin: 0"> <i>Thalassochelys caretta</i> <br><small>— <a href="/wiki/Charles_Lucien_Bonaparte"
+    title="Charles Lucien Bonaparte">Bonaparte</a>, 1838</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Chelonia</i> (<i>Caouanna</i>) <i>cephalo</i><br><small>—
+    <a href="/wiki/Jean_Th%C3%A9odore_Cocteau" class="mw-redirect" title="Jean Théodore
+    Cocteau">Cocteau</a> <i>in</i> Cocteau &amp; Bibron <i>in</i> <a href="/wiki/Ram%C3%B3n_de_la_Sagra"
+    title="Ramón de la Sagra">de la Sagra</a>, 1838</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Halichelys atra</i><br><small>— Fitzinger, 1843</small>
+    </li><li style="line-height: inherit; margin: 0"> <i>Caounana caretta</i><br><small>—
+    Gray, 1844</small> </li><li style="line-height: inherit; margin: 0"> <i>Caouana
+    elongata</i> <br><small>Gray, 1844</small> </li><li style="line-height: inherit;
+    margin: 0"> <i>Thalassochelys caouana</i><br><small>— <a href="/wiki/Louis_Agassiz"
+    title="Louis Agassiz">Agassiz</a>, 1857</small> </li><li style="line-height: inherit;
+    margin: 0"> <i>Thalassochelys corticata</i><br><small><a href="/wiki/Charles_Fr%C3%A9d%C3%A9ric_Girard"
+    title="Charles Frédéric Girard">Girard</a>, 1858</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Chelonia corticata</i> <br><small>— <a href="/wiki/Alexander_Strauch_(naturalist)"
+    class="mw-redirect" title="Alexander Strauch (naturalist)">Strauch</a>, 1862</small>
+    </li><li style="line-height: inherit; margin: 0"> <i>Thalassochelys elongata</i><br><small>Strauch,
+    1862</small> </li><li style="line-height: inherit; margin: 0"> <i>Thalassochelys
+    caouana</i> <br><small><a href="/wiki/Giovanni_Domenico_Nardo" title="Giovanni
+    Domenico Nardo">Nardo</a>, 1864</small> </li><li style="line-height: inherit;
+    margin: 0"> <i>Eremonia elongata</i> <br><small>— Gray, 1873</small> </li><li
+    style="line-height: inherit; margin: 0"> <i>Caretta caretta</i><br><small>— <a
+    href="/wiki/Leonhard_Stejneger" title="Leonhard Stejneger">Stejneger</a>, 1873</small>
+    </li><li style="line-height: inherit; margin: 0"> <i>Thalassochelys cephalo</i>
+    <br><small>— <a href="/wiki/Thomas_Barbour" title="Thomas Barbour">Barbour</a>
+    &amp; <a href="/wiki/Leon_J._Cole" class="mw-redirect" title="Leon J. Cole">Cole</a>,
+    1906</small> </li><li style="line-height: inherit; margin: 0"> <i>Caretta caretta
+    caretta</i> <br><small>— <a href="/wiki/Robert_Mertens" title="Robert Mertens">Mertens</a>
+    &amp; <a href="/wiki/Lorenz_M%C3%BCller" title="Lorenz Müller">L. Müller</a>,
+    1928</small> </li><li style="line-height: inherit; margin: 0"> <i>Caretta gigas</i><br><small><a
+    href="/wiki/Paulus_Edward_Pieris_Deraniyagala" title="Paulus Edward Pieris Deraniyagala">Deraniyagala</a>,
+    1933</small> </li><li style="line-height: inherit; margin: 0"> <i>Caretta caretta
+    gigas</i><br><small>— Deraniyagala, 1939</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Caretta caretta tarapacana</i><br><small>Caldwell, 1962</small>
+    </li><li style="line-height: inherit; margin: 0"> <i>Chelonia cahuano</i><br><small>—
+    Tamayo, 1962</small> </li><li style="line-height: inherit; margin: 0"> <i>Caretta
+    careta</i> [sic]<br><small>Tamayo, 1962</small> (<i><a href="/wiki/Ex_errore"
+    class="mw-redirect" title="Ex errore">ex errore</a></i>)<sup id="cite_ref-dodd1_4-0"
+    class="reference"><a href="#cite_note-dodd1-4">[4]</a></sup></li></ul></div><div
+    class="collapsible-list mw-collapsible mw-collapsed" style="text-align: left;"><div
+    style="line-height: 1.6em; font-weight: bold;"><div><small>Genus synonymy</small></div></div><ul
+    class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height:
+    inherit;"><li style="line-height: inherit; margin: 0"> <i>Caretta</i> <br><small><a
+    href="/wiki/Constantine_Samuel_Rafinesque" title="Constantine Samuel Rafinesque">Rafinesque</a>,
+    1814</small> </li><li style="line-height: inherit; margin: 0"> <i>Caretta</i>
+    (<i>Thalassochelys</i>) <br><small><a href="/wiki/Leopold_Fitzinger" title="Leopold
+    Fitzinger">Fitzinger</a>, 1835</small> </li><li style="line-height: inherit; margin:
+    0"> <i>Thalassochelys</i> <br><small><a href="/wiki/Charles_Lucien_Bonaparte"
+    title="Charles Lucien Bonaparte">Bonaparte</a>, 1838</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Caouana</i> <br><small><a href="/wiki/Jean_Th%C3%A9odore_Cocteau"
+    class="mw-redirect" title="Jean Théodore Cocteau">Cocteau</a> <i>in</i> <a href="/wiki/Ram%C3%B3n_de_la_Sagra"
+    title="Ramón de la Sagra">de la Sagra</a>, 1838</small> </li><li style="line-height:
+    inherit; margin: 0"> <i>Halichelys</i> <br><small>Fitzinger, 1843</small> </li><li
+    style="line-height: inherit; margin: 0"> <i>Eremonia</i> <br><small><a href="/wiki/John_Edward_Gray"
+    title="John Edward Gray">Gray</a>, 1873</small> </li><li style="line-height: inherit;
+    margin: 0"> ?<i>Pliochelys</i> <br><small><a href="https://it.wikipedia.org/wiki/Alessandro_Portis"
+    class="extiw" title="it:Alessandro Portis">Portis</a>, 1890</small> </li><li style="line-height:
+    inherit; margin: 0"> ?<i>Proganosaurus</i> <br><small>Portis, 1890</small><sup
+    id="cite_ref-dodd2_5-0" class="reference"><a href="#cite_note-dodd2-5">[5]</a></sup>
+    </li></ul></div></td></tr>'
+  taxo_byindex_19:
+  - |-
+    Loggerhead sea turtle range according to the Food and Agriculture Organization
+    Species synonymy
+    Testudo carettaLinnaeus, 1758
+    Testudo cephaloSchneider, 1783
+    Testudo nasicornisLacépède, 1788
+    Testudo caouanaLacépède, 1788
+    Chelone caretta— Brongniart, 1805
+    Chelonia caouannaSchweigger, 1812
+    Caretta nasutaRafinesque, 1814
+    Chelonia cavannaOken, 1816
+    Caretta atraMerrem, 1820
+    Caretta cephalo— Merrem, 1820
+    Caretta nasicornis— Merrem, 1820
+    Chelonia caretta— Bory de Saint-Vincent, 1828
+    Testudo coriannaGray, 1831
+    Chelonia pelasgorumValenciennes in Bory de Saint-Vincent, 1833
+    Chelonia cephalo— Gray, 1829
+    Chelonia (Caretta) cephalo— Lesson in Bélanger, 1834
+    Chelonia caouanna— A.M.C. Duméril & Bibron, 1835
+    Chelonia (Thalassochelys) caouana— Fitzinger, 1836
+    Chelonia (Thalassochelys) atra— Fitzinger, 1836
+    Thalassochelys caretta — Bonaparte, 1838
+    Chelonia (Caouanna) cephalo— Cocteau in Cocteau & Bibron in de la Sagra, 1838
+    Halichelys atra— Fitzinger, 1843
+    Caounana caretta— Gray, 1844
+    Caouana elongata Gray, 1844
+    Thalassochelys caouana— Agassiz, 1857
+    Thalassochelys corticataGirard, 1858
+    Chelonia corticata — Strauch, 1862
+    Thalassochelys elongataStrauch, 1862
+    Thalassochelys caouana Nardo, 1864
+    Eremonia elongata — Gray, 1873
+    Caretta caretta— Stejneger, 1873
+    Thalassochelys cephalo — Barbour & Cole, 1906
+    Caretta caretta caretta — Mertens & L. Müller, 1928
+    Caretta gigasDeraniyagala, 1933
+    Caretta caretta gigas— Deraniyagala, 1939
+    Caretta caretta tarapacanaCaldwell, 1962
+    Chelonia cahuano— Tamayo, 1962
+    Caretta careta [sic]Tamayo, 1962 (ex errore)[4]
+    Genus synonymy
+    Caretta Rafinesque, 1814
+    Caretta (Thalassochelys) Fitzinger, 1835
+    Thalassochelys Bonaparte, 1838
+    Caouana Cocteau in de la Sagra, 1838
+    Halichelys Fitzinger, 1843
+    Eremonia Gray, 1873
+     ?Pliochelys Portis, 1890
+     ?Proganosaurus Portis, 1890[5]
+  - ''
+wiki: https://en.wikipedia.org/wiki/Loggerhead_sea_turtle
+latin_name: Caretta caretta
+proper-description: "The loggerhead sea turtle (Caretta caretta) is a species of oceanic
+  turtle distributed throughout the world. It is a marine reptile, belonging to the
+  family Cheloniidae. The average loggerhead measures around 90 cm (35 in) in carapace
+  length when fully grown.  The adult loggerhead sea turtle weighs approximately 135 kg
+  (298 lb), with the largest specimens weighing in at more than 450 kg (1,000 lb).
+  The skin ranges from yellow to brown in color, and the shell is typically reddish
+  brown. No external differences in sex are seen until the turtle becomes an adult,
+  the most obvious difference being the adult males have thicker tails and shorter
+  plastrons (lower shells) than the females.\n\nThe loggerhead sea turtle is found
+  in the Atlantic, Pacific, and Indian Oceans, as well as the Mediterranean Sea. It
+  spends most of its life in saltwater and estuarine habitats, with females briefly
+  coming ashore to lay eggs. The loggerhead sea turtle has a low reproductive rate;
+  females lay an average of four egg clutches and then become quiescent, producing
+  no eggs for two to three years. The loggerhead reaches sexual maturity within 17–33
+  years and has a lifespan of 47–67 years.\n\nThe loggerhead sea turtle is omnivorous,
+  feeding mainly on bottom-dwelling invertebrates. Its large and powerful jaws serve
+  as an effective tool for dismantling its prey. Young loggerheads are exploited by
+  numerous predators; the eggs are especially vulnerable to terrestrial organisms.
+  Once the turtles reach adulthood, their formidable size limits predation to large
+  marine animals, such as large sharks.\n\nThe loggerhead sea turtle is considered
+  a vulnerable species by the International Union for Conservation of Nature. \nIn
+  total, 9 distinct population segments are under the protection of the Endangered
+  Species Act of 1973, with 4 population segments classified as \"threatened\" and
+  5 classified as \"endangered\"[6]\nCommercial international trade of loggerheads
+  or derived products is prohibited by CITES Appendix I.\nUntended fishing gear is
+  responsible for many loggerhead deaths. The greatest threat is loss of nesting habitat
+  due to coastal development, predation of nests, and human disturbances (such as
+  coastal lighting and housing developments) that cause disorientations during the
+  emergence of hatchlings.[7] Turtles may also suffocate if they are trapped in fishing
+  trawls. Turtle excluder devices have been implemented in efforts to reduce mortality
+  by providing an escape route for the turtles. Loss of suitable nesting beaches and
+  the introduction of exotic predators have also taken a toll on loggerhead populations.
+  Efforts to restore their numbers will require international cooperation, since the
+  turtles roam vast areas of ocean and critical nesting beaches are scattered across
+  several countries.\n\n"
+name: Loggerhead sea turtle
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/220px-Loggerhead_sea_turtle.jpg
+binomial_name: Caretta caretta
+simple_description_p4: no P4 description
+short_taxo: 'Animalia > Chordata > Reptilia > Testudines > Cheloniidae >  > C. caretta
+  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Loggerhead sea turtle (Animalia > Chordata > Reptilia
+  > Testudines > Cheloniidae >  > C. caretta > )"

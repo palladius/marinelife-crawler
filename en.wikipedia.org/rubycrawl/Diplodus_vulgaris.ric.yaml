@@ -1,0 +1,160 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Perciformes
+  Family: Sparidae
+  Genus: Diplodus
+  Species: D. vulgaris
+fish_local_url_name: en.wikipedia.org/rubycrawl//Diplodus_vulgaris
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Perciformes
+  - Sparidae
+  - Diplodus
+  - D. vulgaris
+  title_name: Diplodus vulgaris
+  taxo_byindex_verbose_3:
+  - 3
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_3:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_4:
+  - 4
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_4:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_5:
+  - 5
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_5:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_6:
+  - 6
+  - Order
+  - Perciformes
+  - <tr><td>Order:</td><td><a href="/wiki/Perciformes" title="Perciformes">Perciformes</a></td></tr>
+  taxo_byindex_6:
+  - Order
+  - Perciformes
+  taxo_byindex_verbose_7:
+  - 7
+  - Family
+  - Sparidae
+  - <tr><td>Family:</td><td><a href="/wiki/Sparidae" title="Sparidae">Sparidae</a></td></tr>
+  taxo_byindex_7:
+  - Family
+  - Sparidae
+  taxo_byindex_verbose_8:
+  - 8
+  - Genus
+  - Diplodus
+  - <tr><td>Genus:</td><td><a href="/wiki/Diplodus" title="Diplodus"><i>Diplodus</i></a></td></tr>
+  taxo_byindex_8:
+  - Genus
+  - Diplodus
+  taxo_byindex_verbose_9:
+  - 9
+  - Species
+  - D. vulgaris
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>D. vulgaris</b></i></div></td></tr>
+  taxo_byindex_9:
+  - Species
+  - D. vulgaris
+wiki: https://en.wikipedia.org/wiki/Diplodus_vulgaris
+latin_name: Diplodus vulgaris
+proper-description: "Diplodus vulgaris, the common two-banded sea bream, is a species
+  of seabream belonging to the family Sparidae.\n\n"
+name: Diplodus vulgaris
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mojarra_%28Diplodus_vulgaris%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-31%2C_DD_20.jpg/220px-Mojarra_%28Diplodus_vulgaris%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-31%2C_DD_20.jpg
+binomial_name: Diplodus vulgaris
+simple_description_p4: Diplodus vulgaris, the common two-banded sea bream, is a species
+  of seabream belonging to the family Sparidae.
+short_taxo: Animalia > Chordata > Actinopterygii > Perciformes > Sparidae > Diplodus
+  > D. vulgaris
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q232284
+    text: Q232284
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Diplodus_vulgaris
+    text: Diplodus vulgaris
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Diplodus_vulgaris/
+    text: Diplodus_vulgaris
+    title: Animal Diversity Web
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=12832
+    text: '12832'
+    title: Barcode of Life Data System
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/6CY2M
+    text: 6CY2M
+    title: Catalogue of Life
+  European Nature Information System:
+    link: https://eunis.eea.europa.eu/species/124235
+    text: '124235'
+    title: European Nature Information System
+  FishBase:
+    link: https://www.fishbase.ca/summary/1754
+    text: '1754'
+    title: FishBase
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/5210979
+    text: '5210979'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/118667
+    text: '118667'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=10153231
+    text: '10153231'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=182919
+    text: '182919'
+    title: Integrated Taxonomic Information System
+  IUCN Red List:
+    link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/170261
+    text: '170261'
+    title: IUCN Red List
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=87756
+    text: '87756'
+    title: National Center for Biotechnology Information
+  Plazi:
+    link: https://treatment.plazi.org/id/AC00FE25-3653-9383-8392-D0D2C899BE39
+    text: AC00FE25-3653-9383-8392-D0D2C899BE39
+    title: Plazi
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=127054
+    text: '127054'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Diplodus vulgaris (Animalia > Chordata > Actinopterygii
+  > Perciformes > Sparidae > Diplodus > D. vulgaris)"

@@ -1,0 +1,85 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Mustelidae
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - ''
+  title_name: Mustelidae
+  taxo_byindex_verbose_3:
+  - 3
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_3:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_4:
+  - 4
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_4:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_5:
+  - 5
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_5:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_6:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_8:
+  - 8
+  - Family
+  - ''
+  - <tr><td>Family:</td><td><a class="mw-selflink selflink">Mustelidae</a><br><small><a
+    href="/wiki/Johann_Fischer_von_Waldheim" class="mw-redirect" title="Johann Fischer
+    von Waldheim">G. Fischer de Waldheim</a>, 1817</small></td></tr>
+  taxo_byindex_8:
+  - Family
+  - ''
+wiki: https://en.wikipedia.org/wiki/Mustelidae
+latin_name: ''
+proper-description: "The Mustelidae (/mʌˈstɛlɪdiː/;[2] from Latin mustela, weasel)
+  are a family of carnivorous mammals, including weasels, badgers, otters, ferrets,
+  martens, minks and wolverines, among others. Mustelids (/ˈmʌstɪlɪdz/[3]) are a diverse
+  group and form the largest family in the suborder Caniformia of the order Carnivora.
+  They comprise about 66 to 70 species in nine subfamilies.[4]\n\n"
+name: Mustelidae
+picture_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+binomial_name: "-"
+simple_description_p4: The Mustelidae (/mʌˈstɛlɪdiː/;[2] from Latin mustela, weasel)
+  are a family of carnivorous mammals, including weasels, badgers, otters, ferrets,
+  martens, minks and wolverines, among others. Mustelids (/ˈmʌstɪlɪdz/[3]) are a diverse
+  group and form the largest family in the suborder Caniformia of the order Carnivora.
+  They comprise about 66 to 70 species in nine subfamilies.[4]
+short_taxo: 'Animalia > Chordata > Mammalia > Carnivora > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Mustelidae (Animalia > Chordata > Mammalia > Carnivora
+  > )"

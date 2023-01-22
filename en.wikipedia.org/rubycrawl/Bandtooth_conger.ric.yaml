@@ -1,0 +1,168 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Anguilliformes
+  Family: Congridae
+  Genus: Ariosoma
+  Species: A. balearicum
+fish_local_url_name: en.wikipedia.org/rubycrawl//Bandtooth_conger
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Anguilliformes
+  - Congridae
+  - Ariosoma
+  - A. balearicum
+  title_name: Bandtooth conger
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Anguilliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Eel" title="Eel">Anguilliformes</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Anguilliformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Congridae
+  - <tr><td>Family:</td><td><a href="/wiki/Congridae" title="Congridae">Congridae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Congridae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Ariosoma
+  - <tr><td>Genus:</td><td><a href="/wiki/Ariosoma" title="Ariosoma"><i>Ariosoma</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Ariosoma
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - A. balearicum
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>A. balearicum</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - A. balearicum
+wiki: https://en.wikipedia.org/wiki/Bandtooth_conger
+latin_name: ''
+proper-description: |+
+  The bandtooth conger (Ariosoma balearicum), also known as the Baleares conger or the Balearic conger,[3] is an eel in the family Congridae (conger/garden eels).[4] It was described by François Étienne Delaroche in 1809, originally under the genus Muraena.[5] It is a subtropical, marine eel which is known from the western and eastern Atlantic and the western Indian Ocean, including North Carolina, USA; the northern Gulf of Mexico, northern South America, Canada, Portugal, Angola, the Mediterranean, and the Red Sea. It inhabits reefs and littoral shelves, and burrows into sand and mud. It dwells at a depth range of 1–732 meters, but most frequently between 20–100 m. Males can reach a maximum total length of 35 centimetres (1 ft 2 in), but more commonly reach a TL of 25 centimetres (9.8 in)[4]
+
+  The bandtooth conger is of minor interest to fisheries.[4]
+
+name: Bandtooth conger
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Congrio_balear_%28Ariosoma_balearicum%29%2C_bah%C3%ADa_de_San_Telmo%2C_Valeta%2C_Malta%2C_2021-08-24%2C_DD_64.jpg/220px-Congrio_balear_%28Ariosoma_balearicum%29%2C_bah%C3%ADa_de_San_Telmo%2C_Valeta%2C_Malta%2C_2021-08-24%2C_DD_64.jpg
+binomial_name: Ariosoma balearicum
+simple_description_p4: The bandtooth conger (Ariosoma balearicum), also known as the
+  Baleares conger or the Balearic conger,[3] is an eel in the family Congridae (conger/garden
+  eels).[4] It was described by François Étienne Delaroche in 1809, originally under
+  the genus Muraena.[5] It is a subtropical, marine eel which is known from the western
+  and eastern Atlantic and the western Indian Ocean, including North Carolina, USA;
+  the northern Gulf of Mexico, northern South America, Canada, Portugal, Angola, the
+  Mediterranean, and the Red Sea. It inhabits reefs and littoral shelves, and burrows
+  into sand and mud. It dwells at a depth range of 1–732 meters, but most frequently
+  between 20–100 m. Males can reach a maximum total length of 35 centimetres (1 ft
+  2 in), but more commonly reach a TL of 25 centimetres (9.8 in)[4]
+short_taxo: Animalia > Chordata > Actinopterygii > Anguilliformes > Congridae > Ariosoma
+  > A. balearicum
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q1216203
+    text: Q1216203
+    title: Wikidata
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=72143
+    text: '72143'
+    title: Barcode of Life Data System
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/GMXZ
+    text: GMXZ
+    title: Catalogue of Life
+  European Nature Information System:
+    link: https://eunis.eea.europa.eu/species/124208
+    text: '124208'
+    title: European Nature Information System
+  FishBase:
+    link: https://www.fishbase.ca/summary/1744
+    text: '1744'
+    title: FishBase
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=246463
+    text: '246463'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/2403180
+    text: '2403180'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/120641
+    text: '120641'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=10818552
+    text: '10818552'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161344
+    text: '161344'
+    title: Integrated Taxonomic Information System
+  IUCN Red List:
+    link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/194968
+    text: '194968'
+    title: IUCN Red List
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=182421
+    text: '182421'
+    title: National Center for Biotechnology Information
+  Plazi:
+    link: https://treatment.plazi.org/id/04BA4CF5-E837-0FEA-75FB-EF2203EB6A86
+    text: 04BA4CF5-E837-0FEA-75FB-EF2203EB6A86
+    title: Plazi
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=126283
+    text: '126283'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Bandtooth conger (Animalia > Chordata > Actinopterygii
+  > Anguilliformes > Congridae > Ariosoma > A. balearicum)"
+...

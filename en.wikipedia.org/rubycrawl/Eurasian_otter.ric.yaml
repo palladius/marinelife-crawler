@@ -1,0 +1,109 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Lutra
+  Species: L. lutra
+fish_local_url_name: en.wikipedia.org/rubycrawl//Eurasian_otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Lutra
+  - L. lutra
+  title_name: Eurasian otter
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_12:
+  - 12
+  - Genus
+  - Lutra
+  - <tr><td>Genus:</td><td><a href="/wiki/Lutra" title="Lutra"><i>Lutra</i></a></td></tr>
+  taxo_byindex_12:
+  - Genus
+  - Lutra
+  taxo_byindex_verbose_13:
+  - 13
+  - Species
+  - L. lutra
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>L. lutra</b></i></div></td></tr>
+  taxo_byindex_13:
+  - Species
+  - L. lutra
+wiki: https://en.wikipedia.org/wiki/Eurasian_otter
+latin_name: Lutra lutra
+proper-description: "The Eurasian otter (Lutra lutra), also known as the European
+  otter, Eurasian river otter, common otter, and Old World otter, is a semiaquatic
+  mammal native to Eurasia. The most widely distributed member of the otter subfamily
+  (Lutrinae) of the weasel family (Mustelidae), it is found in the waterways and coasts
+  of Europe, many parts of Asia, and parts of northern Africa. The Eurasian otter
+  has a diet mainly of fish, and is strongly territorial. It is endangered in some
+  parts of its range, but is recovering in others.\n\n"
+name: Eurasian otter
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fischotter%2C_Lutra_Lutra.JPG/220px-Fischotter%2C_Lutra_Lutra.JPG
+binomial_name: Lutra lutra
+simple_description_p4: The Eurasian otter (Lutra lutra), also known as the European
+  otter, Eurasian river otter, common otter, and Old World otter, is a semiaquatic
+  mammal native to Eurasia. The most widely distributed member of the otter subfamily
+  (Lutrinae) of the weasel family (Mustelidae), it is found in the waterways and coasts
+  of Europe, many parts of Asia, and parts of northern Africa. The Eurasian otter
+  has a diet mainly of fish, and is strongly territorial. It is endangered in some
+  parts of its range, but is recovering in others.
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Lutra > L. lutra
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Eurasian otter (Animalia > Chordata > Mammalia > Carnivora
+  > Mustelidae > Lutra > L. lutra)"

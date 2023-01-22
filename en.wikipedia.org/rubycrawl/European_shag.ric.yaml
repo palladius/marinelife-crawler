@@ -1,0 +1,111 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Aves
+  Order: Suliformes
+  Family: Phalacrocoracidae
+  Genus: ''
+  Species: G. aristotelis
+fish_local_url_name: en.wikipedia.org/rubycrawl//European_shag
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Aves
+  - Suliformes
+  - Phalacrocoracidae
+  - ''
+  - G. aristotelis
+  title_name: European shag
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Aves
+  - <tr><td>Class:</td><td><a href="/wiki/Bird" title="Bird">Aves</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Aves
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Suliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Suliformes" title="Suliformes">Suliformes</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Suliformes
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Phalacrocoracidae
+  - <tr><td>Family:</td><td><a href="/wiki/Cormorant" title="Cormorant">Phalacrocoracidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Phalacrocoracidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Gulosus</i></a><br><small><a
+    href="/wiki/George_Montagu_(naturalist)" title="George Montagu (naturalist)">Montagu</a>,
+    1813</small></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - ''
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - G. aristotelis
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>G. aristotelis</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - G. aristotelis
+wiki: https://en.wikipedia.org/wiki/European_shag
+latin_name: Gulosus aristotelisGulosus
+proper-description: "The European shag or common shag (Gulosus aristotelis) is a species
+  of cormorant. It is the only member of the monotypic genus Gulosus.[2] It breeds
+  around the rocky coasts of western and southern Europe, southwest Asia and north
+  Africa, mainly wintering in its breeding range except for the northernmost birds.
+  In Britain this seabird is usually referred to as simply the shag.[3] The scientific
+  genus name derives from the Latin for glutton. The species name aristotelis commemorates
+  the Greek philosopher Aristotle.[4] \n\n"
+name: European shag
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Shag_Phalacrocorax_aristotelis.jpg/220px-Shag_Phalacrocorax_aristotelis.jpg
+binomial_name: Gulosus aristotelis
+simple_description_p4: 'The European shag or common shag (Gulosus aristotelis) is
+  a species of cormorant. It is the only member of the monotypic genus Gulosus.[2]
+  It breeds around the rocky coasts of western and southern Europe, southwest Asia
+  and north Africa, mainly wintering in its breeding range except for the northernmost
+  birds. In Britain this seabird is usually referred to as simply the shag.[3] The
+  scientific genus name derives from the Latin for glutton. The species name aristotelis
+  commemorates the Greek philosopher Aristotle.[4] '
+short_taxo: Animalia > Chordata > Aves > Suliformes > Phalacrocoracidae >  > G. aristotelis
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] European shag (Animalia > Chordata > Aves > Suliformes
+  > Phalacrocoracidae >  > G. aristotelis)"

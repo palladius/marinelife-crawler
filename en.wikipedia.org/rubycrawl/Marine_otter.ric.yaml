@@ -1,0 +1,104 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Lontra
+  Species: L. felina
+fish_local_url_name: en.wikipedia.org/rubycrawl//Marine_otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Lontra
+  - L. felina
+  title_name: Marine otter
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Lontra
+  - <tr><td>Genus:</td><td><a href="/wiki/Lontra" title="Lontra"><i>Lontra</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Lontra
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - L. felina
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>L. felina</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - L. felina
+wiki: https://en.wikipedia.org/wiki/Marine_otter
+latin_name: Lontra felina
+proper-description: "The marine otter (Lontra felina) is a rare and relatively unknown
+  South American mammal of the weasel family (Mustelidae).  The scientific name means
+  \"otter cat\", and in Spanish, the marine otter is also often referred to as gato
+  marino: \"marine cat\".  The marine otter (while spending much of its time out of
+  the water) only lives in saltwater, coastal environments and rarely ventures into
+  freshwater or estuarine habitats. This saltwater exclusivity is unlike most other
+  otter species, except for the almost fully aquatic sea otter (Enhydra lutris) of
+  the North Pacific.\n\n"
+name: Marine otter
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lfelina.jpg/220px-Lfelina.jpg
+binomial_name: Lontra felina
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Lontra > L. felina
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Marine otter (Animalia > Chordata > Mammalia > Carnivora
+  > Mustelidae > Lontra > L. felina)"

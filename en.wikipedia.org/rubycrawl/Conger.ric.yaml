@@ -1,0 +1,170 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Anguilliformes
+  Family: Congridae
+  Genus: ''
+  '': ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Conger
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - ''
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Anguilliformes
+  - Congridae
+  - ''
+  - ''
+  title_name: Conger
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Anguilliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Eel" title="Eel">Anguilliformes</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Anguilliformes
+  taxo_byindex_verbose_8:
+  - 8
+  - Family
+  - Congridae
+  - <tr><td>Family:</td><td><a href="/wiki/Congridae" title="Congridae">Congridae</a></td></tr>
+  taxo_byindex_8:
+  - Family
+  - Congridae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Conger</i></a><br><small><a
+    href="/wiki/Lorenz_Oken" title="Lorenz Oken">Oken</a>, 1817</small></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - ''
+  taxo_byindex_verbose_11:
+  - 11
+  - ''
+  - ''
+  - '<tr><th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a
+    href="/wiki/Species" title="Species">Species</a></th></tr>'
+  taxo_byindex_11:
+  - ''
+  - ''
+wiki: https://en.wikipedia.org/wiki/Conger
+latin_name: Conger
+proper-description: |+
+  Conger (/ˈkɒŋɡər/ KONG-gər) is a genus of marine congrid eels.[2]  It includes some of the largest types of eels, ranging up to 2 m (6 ft) or more in length,[3] in the case of the European conger. Large congers have often been observed by divers during the day in parts of the Mediterranean Sea, and both European and American congers are sometimes caught by fishermen along the European and North American Atlantic coasts.
+
+  The life histories of most conger eels are poorly known. Based on collections of their small leptocephalus larvae, the American conger eel has been found to spawn in the southwestern Sargasso Sea, close to the spawning areas of the Atlantic freshwater eels.
+
+  "Conger" or "conger eel" is sometimes included in the common names of species of the family Congridae, including members of this genus.
+
+name: Conger
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Conger_oceanicus.jpg/220px-Conger_oceanicus.jpg
+binomial_name: "-"
+simple_description_p4: ''
+short_taxo: 'Animalia > Chordata > Actinopterygii > Anguilliformes > Congridae >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q137144
+    text: Q137144
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Conger
+    text: Conger
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Conger/
+    text: Conger
+    title: Animal Diversity Web
+  Australian Faunal Directory:
+    link: https://biodiversity.org.au/afd/taxa/Conger
+    text: Conger
+    title: Australian Faunal Directory
+  ! '':
+    link: https://www.nzor.org.nz/names/f46917d3-bc7c-46ca-859f-6ca32125df75
+    text: f46917d3-bc7c-46ca-859f-6ca32125df75
+    title:
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=7200
+    text: '7200'
+    title: Barcode of Life Data System
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/3T4M
+    text: 3T4M
+    title: Catalogue of Life
+  EPPO Code:
+    link: https://gd.eppo.int/taxon/1CNGRG
+    text: 1CNGRG
+    title: EPPO Code
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=35353
+    text: '35353'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/2345836
+    text: '2345836'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/87587
+    text: '87587'
+    title: INaturalist
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161325
+    text: '161325'
+    title: Integrated Taxonomic Information System
+  National Biodiversity Network:
+    link: https://data.nbn.org.uk/Taxa/NHMSYS0021053294
+    text: NHMSYS0021053294
+    title: National Biodiversity Network
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=7942
+    text: '7942'
+    title: National Center for Biotechnology Information
+  Plazi:
+    link: https://treatment.plazi.org/id/FA3CF68F-4141-C268-E591-54DBEB716DFD
+    text: FA3CF68F-4141-C268-E591-54DBEB716DFD
+    title: Plazi
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=125624
+    text: '125624'
+    title: World Register of Marine Species
+valid: false
+name_with_short_taxo: "[false] Conger (Animalia > Chordata > Actinopterygii > Anguilliformes
+  > Congridae >  > )"
+...

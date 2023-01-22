@@ -1,0 +1,105 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Salmoniformes
+  Family: Salmonidae
+  Genus: Salmo
+  Species: S. salar
+fish_local_url_name: en.wikipedia.org/rubycrawl//Atlantic_salmon
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Salmoniformes
+  - Salmonidae
+  - Salmo
+  - S. salar
+  title_name: Atlantic salmon
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Salmoniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmoniformes</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Salmoniformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Salmonidae
+  - <tr><td>Family:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmonidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Salmonidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Salmo
+  - <tr><td>Genus:</td><td><a href="/wiki/Salmo" title="Salmo"><i>Salmo</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Salmo
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - S. salar
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>S. salar</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - S. salar
+wiki: https://en.wikipedia.org/wiki/Atlantic_salmon
+latin_name: Salmo salar
+proper-description: |+
+  The Atlantic salmon (Salmo salar) is a species of ray-finned fish in the family Salmonidae. It is the third largest of the Salmonidae, behind Siberian taimen and Pacific Chinook salmon, growing up to a meter in length. Atlantic salmon are found in the northern Atlantic Ocean and in rivers that flow into it. Most populations are anadromous, hatching in streams and rivers but moving out to sea as they grow where they mature, after which the adults seasonally move upstream again to spawn.[2]
+
+  When the mature fish re-enter rivers to spawn, they change in colour and appearance. Some populations of this fish only migrate to large lakes, and are "landlocked", spending their entire lives in freshwater. Such populations are found throughout the range of the species. Unlike Pacific species of salmon, S. salar is iteroparous, which means it can survive spawning and return to sea to repeat the process again in another year. Such individuals can grow to extremely large sizes, although they are rare. The different life stages of the fish are known by many different names in English: alevin, fry, parr and smolt.
+
+  Atlantic salmon is considered a very healthy food and one of the fish with a more refined taste in many cultures. As such it features in numerous popular traditional cuisines and can fetch a higher price than some other fish. It has thus long been the target of recreational and commercial fishing, and this, as well as habitat destruction, has impacted the population in some areas. As a result, the species is the subject of conservation efforts in several countries, which appear to have been somewhat successful since the 2000s. Techniques to farm this species using aquacultural methods have also been developed, and at present it is farmed in great numbers in many places around the world.[where?] Although this is now a viable alternative to wild-caught fish, farming methods have attracted criticism from environmentalists[citation needed].
+
+name: Atlantic salmon
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Salmo_salar.jpg/220px-Salmo_salar.jpg
+binomial_name: Salmo salar
+simple_description_p4: no P4 description
+short_taxo: Animalia > Chordata > Actinopterygii > Salmoniformes > Salmonidae > Salmo
+  > S. salar
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Atlantic salmon (Animalia > Chordata > Actinopterygii
+  > Salmoniformes > Salmonidae > Salmo > S. salar)"
+...

@@ -1,0 +1,106 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Canidae
+  Genus: Vulpes
+  Species: V. vulpes
+fish_local_url_name: en.wikipedia.org/rubycrawl//Red_fox
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Canidae
+  - Vulpes
+  - V. vulpes
+  title_name: Red fox
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Canidae
+  - <tr><td>Family:</td><td><a href="/wiki/Canidae" title="Canidae">Canidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Canidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Vulpes
+  - <tr><td>Genus:</td><td><a href="/wiki/Vulpes" title="Vulpes"><i>Vulpes</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Vulpes
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - V. vulpes
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>V. vulpes</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - V. vulpes
+wiki: https://en.wikipedia.org/wiki/Red_fox
+latin_name: Vulpes vulpes
+proper-description: |+
+  The red fox (Vulpes vulpes) is the largest of the true foxes and one of the most widely distributed members of the order Carnivora, being present across the entire Northern Hemisphere including most of North America, Europe and Asia, plus parts of North Africa. It is listed as least concern by the IUCN.[1] Its range has increased alongside human expansion, having been introduced to Australia, where it is considered harmful to native mammals and bird populations. Due to its presence in Australia, it is included on the list of the "world's 100 worst invasive species".[3]
+
+  The red fox originated from smaller-sized ancestors from Eurasia during the Middle Villafranchian period,[4] and colonised North America shortly after the Wisconsin glaciation.[5] Among the true foxes, the red fox represents a more progressive form in the direction of carnivory.[6] Apart from its large size, the red fox is distinguished from other fox species by its ability to adapt quickly to new environments. Despite its name, the species often produces individuals with other colourings, including leucistic and melanistic individuals.[6] Forty-five subspecies are currently recognised,[7] which are divided into two categories: the large northern foxes and the small, basal southern grey desert foxes of Asia and North Africa.[6]
+
+  Red foxes are usually found in pairs or small groups consisting of families, such as a mated pair and their young, or a male with several females having kinship ties. The young of the mated pair remain with their parents to assist in caring for new kits.[8] The species primarily feeds on small rodents, though it may also target rabbits, squirrels, game birds, reptiles, invertebrates[6] and young ungulates.[6] Fruit and vegetable matter is also eaten sometimes.[9] Although the red fox tends to kill smaller predators, including other fox species, it is vulnerable to attack from larger predators, such as wolves, coyotes, golden jackals, large predatory birds such as golden eagles and Eurasian eagle owls,[10] and medium- and large-sized felines.[11]
+
+  The species has a long history of association with humans, having been extensively hunted as a pest and furbearer for many centuries, as well as being represented in human folklore and mythology. Because of its widespread distribution and large population, the red fox is one of the most important furbearing animals harvested for the fur trade.[12]: 229–230  Too small to pose a threat to humans, it has extensively benefited from the presence of human habitation, and has successfully colonised many suburban and urban areas. Domestication of the red fox is also underway in Russia, and has resulted in the domesticated red fox.
+
+name: Red fox
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fox_-_British_Wildlife_Centre_%2817429406401%29.jpg/220px-Fox_-_British_Wildlife_Centre_%2817429406401%29.jpg
+binomial_name: Vulpes vulpes
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Canidae > Vulpes > V. vulpes
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Red fox (Animalia > Chordata > Mammalia > Carnivora
+  > Canidae > Vulpes > V. vulpes)"
+...

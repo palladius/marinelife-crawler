@@ -1,0 +1,156 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Aves
+  Order: Suliformes
+  Family: Phalacrocoracidae
+  Genus: Leucocarbo
+  Species: L. onslowi
+fish_local_url_name: en.wikipedia.org/rubycrawl//Chatham_shag
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Aves
+  - Suliformes
+  - Phalacrocoracidae
+  - Leucocarbo
+  - L. onslowi
+  title_name: Chatham shag
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Aves
+  - <tr><td>Class:</td><td><a href="/wiki/Bird" title="Bird">Aves</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Aves
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Suliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Suliformes" title="Suliformes">Suliformes</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Suliformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Phalacrocoracidae
+  - <tr><td>Family:</td><td><a href="/wiki/Cormorant" title="Cormorant">Phalacrocoracidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Phalacrocoracidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Leucocarbo
+  - <tr><td>Genus:</td><td><a href="/wiki/Blue-eyed_shag" title="Blue-eyed shag"><i>Leucocarbo</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Leucocarbo
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - L. onslowi
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>L. onslowi</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - L. onslowi
+wiki: https://en.wikipedia.org/wiki/Chatham_shag
+latin_name: Leucocarbo onslowi
+proper-description: |+
+  The Chatham shag (Leucocarbo onslowi), also known as the Chatham Island shag, is a species of bird in the cormorant and shag family, Phalacrocoracidae. It is endemic to the Chatham Islands of New Zealand. For a long time the species was placed in the genus Phalacrocorax; today it is mostly placed with the other blue-eyed shags of New Zealand and Antarctica in the genus Leucocarbo. Its closest relative is the Otago shag of South Island.
+
+  This is a large, pied shag with a long crest. It is highly coastal, rarely foraging far from shore, although sometimes feeds in the large and brackish Te Whanga Lagoon. It forages for fish and cephalopods and roosts on rocky shores. The species is colonial, breeding in small colonies around the Chatham Islands. Little is known about its breeding behaviour. The species is threatened by introduced predators, disturbance at its breeding colonies and habitat loss.
+
+name: Chatham shag
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/20181001_ChathamsA9D3_444_DxO.jpg/220px-20181001_ChathamsA9D3_444_DxO.jpg
+binomial_name: Leucocarbo onslowi
+simple_description_p4: The Chatham shag (Leucocarbo onslowi), also known as the Chatham
+  Island shag, is a species of bird in the cormorant and shag family, Phalacrocoracidae.
+  It is endemic to the Chatham Islands of New Zealand. For a long time the species
+  was placed in the genus Phalacrocorax; today it is mostly placed with the other
+  blue-eyed shags of New Zealand and Antarctica in the genus Leucocarbo. Its closest
+  relative is the Otago shag of South Island.
+short_taxo: Animalia > Chordata > Aves > Suliformes > Phalacrocoracidae > Leucocarbo
+  > L. onslowi
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q1068243
+    text: Q1068243
+    title: Wikidata
+  ARKive:
+    link: https://web.archive.org/web/*/www.arkive.org/wd/phalacrocorax-onslowi/
+    text: phalacrocorax-onslowi
+    title: ARKive
+  ! '':
+    link: https://www.nzor.org.nz/names/08a4bec5-6ae3-4a36-9f97-9bd5d4393b5b
+    text: '08a4bec5-6ae3-4a36-9f97-9bd5d4393b5b'
+    title:
+  BirdLife International:
+    link: http://datazone.birdlife.org/species/factsheet/22696861
+    text: '22696861'
+    title: BirdLife International
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/4FQQW
+    text: 4FQQW
+    title: Catalogue of Life
+  EBird:
+    link: https://ebird.org/species/chisha1
+    text: chisha1
+    title: EBird
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/2481866
+    text: '2481866'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/4276
+    text: '4276'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=11432240
+    text: '11432240'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=561970
+    text: '561970'
+    title: Integrated Taxonomic Information System
+  SeaLifeBase:
+    link: https://www.sealifebase.ca/Summary/SpeciesSummary.php?id=84077
+    text: '84077'
+    title: SeaLifeBase
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=343949
+    text: '343949'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Chatham shag (Animalia > Chordata > Aves > Suliformes
+  > Phalacrocoracidae > Leucocarbo > L. onslowi)"
+...

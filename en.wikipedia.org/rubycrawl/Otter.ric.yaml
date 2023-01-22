@@ -1,0 +1,89 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  '': ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - ''
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - ''
+  title_name: Otter
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_8:
+  - 8
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_8:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_14:
+  - 14
+  - ''
+  - ''
+  - "<tr><th>Image</th><th>Genus</th><th>Species</th></tr>"
+  taxo_byindex_14:
+  - ''
+  - ''
+wiki: https://en.wikipedia.org/wiki/Otter
+latin_name: ''
+proper-description: "Otters are carnivorous mammals in the subfamily Lutrinae. The
+  13 extant otter species are all semiaquatic, aquatic, or marine, with diets based
+  on fish and invertebrates. Lutrinae is a branch of the Mustelidae family, which
+  also includes weasels, badgers, mink, and wolverines, among other animals.\n\n"
+name: Otter
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fischotter%2C_Lutra_Lutra.JPG/220px-Fischotter%2C_Lutra_Lutra.JPG
+binomial_name: "-"
+simple_description_p4: ''
+short_taxo: 'Animalia > Chordata > Mammalia > Carnivora > Mustelidae > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Otter (Animalia > Chordata > Mammalia > Carnivora >
+  Mustelidae > )"

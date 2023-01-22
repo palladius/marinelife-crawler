@@ -1,0 +1,215 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Aves
+  Order: Gruiformes
+  Family: Rallidae
+  Genus: Fulica
+  Species: F. atra
+fish_local_url_name: en.wikipedia.org/rubycrawl//Eurasian_coot
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Aves
+  - Gruiformes
+  - Rallidae
+  - Fulica
+  - F. atra
+  title_name: Eurasian coot
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Aves
+  - <tr><td>Class:</td><td><a href="/wiki/Bird" title="Bird">Aves</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Aves
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Gruiformes
+  - <tr><td>Order:</td><td><a href="/wiki/Gruiformes" title="Gruiformes">Gruiformes</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Gruiformes
+  taxo_byindex_verbose_11:
+  - 11
+  - Family
+  - Rallidae
+  - <tr><td>Family:</td><td><a href="/wiki/Rail_(bird)" title="Rail (bird)">Rallidae</a></td></tr>
+  taxo_byindex_11:
+  - Family
+  - Rallidae
+  taxo_byindex_verbose_12:
+  - 12
+  - Genus
+  - Fulica
+  - <tr><td>Genus:</td><td><a href="/wiki/Coot" title="Coot"><i>Fulica</i></a></td></tr>
+  taxo_byindex_12:
+  - Genus
+  - Fulica
+  taxo_byindex_verbose_13:
+  - 13
+  - Species
+  - F. atra
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>F. atra</b></i></div></td></tr>
+  taxo_byindex_13:
+  - Species
+  - F. atra
+wiki: https://en.wikipedia.org/wiki/Eurasian_coot
+latin_name: Fulica atra
+proper-description: "The Eurasian coot (Fulica atra), also known as the common coot,
+  or Australian coot, is a member of the rail and crake bird family, the Rallidae.
+  It is found in Europe, Asia, Australia, New Zealand and parts of North Africa.[3]
+  It has a slaty-black body, a glossy black head and a white bill with a white frontal
+  shield. The sexes are similar. Similar looking coot species are found throughout
+  the world, with the largest variety of coot species living in South America.\n\n"
+name: Eurasian coot
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasian_coot_%28Fulica_atra%29_Georges-Valbon_01.jpg/220px-Eurasian_coot_%28Fulica_atra%29_Georges-Valbon_01.jpg
+binomial_name: Fulica atra
+simple_description_p4: The Eurasian coot (Fulica atra), also known as the common coot,
+  or Australian coot, is a member of the rail and crake bird family, the Rallidae.
+  It is found in Europe, Asia, Australia, New Zealand and parts of North Africa.[3]
+  It has a slaty-black body, a glossy black head and a white bill with a white frontal
+  shield. The sexes are similar. Similar looking coot species are found throughout
+  the world, with the largest variety of coot species living in South America.
+short_taxo: Animalia > Chordata > Aves > Gruiformes > Rallidae > Fulica > F. atra
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q25376
+    text: Q25376
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Fulica_atra
+    text: Fulica atra
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Fulica_atra/
+    text: Fulica_atra
+    title: Animal Diversity Web
+  Australian Faunal Directory:
+    link: https://biodiversity.org.au/afd/taxa/Fulica_atra
+    text: Fulica_atra
+    title: Australian Faunal Directory
+  ! '':
+    link: https://www.nzor.org.nz/names/afd3e6d3-8424-4ae1-bc7a-5881c3453eac
+    text: afd3e6d3-8424-4ae1-bc7a-5881c3453eac
+    title:
+  BirdLife International:
+    link: http://datazone.birdlife.org/species/factsheet/22692913
+    text: '22692913'
+    title: BirdLife International
+  BirdLife Australia:
+    link: http://birdlife.org.au/bird-profile/eurasian-coot
+    text: eurasian-coot
+    title: BirdLife Australia
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=52508
+    text: '52508'
+    title: Barcode of Life Data System
+  British Trust for Ornithology:
+    link: https://app.bto.org/birdfacts/results/bob4290.htm
+    text: bob4290
+    title: British Trust for Ornithology
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/6K3W6
+    text: 6K3W6
+    title: Catalogue of Life
+  EBird:
+    link: https://ebird.org/species/eurcoo
+    text: eurcoo
+    title: EBird
+  EPPO Code:
+    link: https://gd.eppo.int/taxon/FULCAT
+    text: FULCAT
+    title: EPPO Code
+  European Nature Information System:
+    link: https://eunis.eea.europa.eu/species/1052
+    text: '1052'
+    title: European Nature Information System
+  Fauna Europaea:
+    link: https://fauna-eu.org/cdm_dataportal/taxon/10330907-5861-42ec-a4eb-c8c533ac780b
+    text: 10330907-5861-42ec-a4eb-c8c533ac780b
+    title: Fauna Europaea
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=369360
+    text: '369360'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/2474377
+    text: '2474377'
+    title: Global Biodiversity Information Facility
+  Handbook of the Birds of the World:
+    link: https://www.hbw.com/species/common-coot-fulica-atra
+    text: common-coot-fulica-atra
+    title: Handbook of the Birds of the World
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/482
+    text: '482'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=10197441
+    text: '10197441'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=176290
+    text: '176290'
+    title: Integrated Taxonomic Information System
+  IUCN Red List:
+    link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/22692913
+    text: '22692913'
+    title: IUCN Red List
+  National Biodiversity Network:
+    link: https://data.nbn.org.uk/Taxa/NBNSYS0000000025
+    text: NBNSYS0000000025
+    title: National Biodiversity Network
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9121
+    text: '9121'
+    title: National Center for Biotechnology Information
+  de:Tierstimmenarchiv:
+    link: http://www.tierstimmen.org/en/database?field_spec_species_target_id_selective=7098
+    text: '7098'
+    title: de:Tierstimmenarchiv
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=232054
+    text: '232054'
+    title: World Register of Marine Species
+  Xeno-canto:
+    link: https://www.xeno-canto.org/species/Fulica-atra
+    text: Fulica-atra
+    title: Xeno-canto
+  ZooBank:
+    link: https://zoobank.org/NomenclaturalActs/11CC0A69-71F8-424E-8CCA-74E849034FB6
+    text: 11CC0A69-71F8-424E-8CCA-74E849034FB6
+    title: ZooBank
+valid: true
+name_with_short_taxo: "[true] Eurasian coot (Animalia > Chordata > Aves > Gruiformes
+  > Rallidae > Fulica > F. atra)"

@@ -1,0 +1,148 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Scorpaeniformes
+  Family: Platycephalidae
+  Genus: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Platycephalus
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Scorpaeniformes
+  - Platycephalidae
+  - ''
+  title_name: Platycephalus
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Scorpaeniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Scorpaeniformes" title="Scorpaeniformes">Scorpaeniformes</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Scorpaeniformes
+  taxo_byindex_verbose_8:
+  - 8
+  - Family
+  - Platycephalidae
+  - <tr><td>Family:</td><td><a href="/wiki/Platycephalidae" title="Platycephalidae">Platycephalidae</a></td></tr>
+  taxo_byindex_8:
+  - Family
+  - Platycephalidae
+  taxo_byindex_verbose_9:
+  - 9
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Platycephalus</i></a><br><small><a
+    href="/wiki/Marcus_Elieser_Bloch" title="Marcus Elieser Bloch">Bloch</a>, 1795</small></td></tr>
+  taxo_byindex_9:
+  - Genus
+  - ''
+wiki: https://en.wikipedia.org/wiki/Platycephalus
+latin_name: Platycephalus
+proper-description: "Platycephalus is a genus of mostly marine, demersal ray-finned
+  fish belonging to the family Platycephalidae. They are found in the eastern Mediterranean,
+  the Indian Ocean and western Pacific Ocean.\n\n"
+name: Platycephalus
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Platycephalus_fuscus_1.jpg/220px-Platycephalus_fuscus_1.jpg
+binomial_name: "-"
+simple_description_p4: Platycephalus is a genus of mostly marine, demersal ray-finned
+  fish belonging to the family Platycephalidae. They are found in the eastern Mediterranean,
+  the Indian Ocean and western Pacific Ocean.
+short_taxo: 'Animalia > Chordata > Actinopterygii > Scorpaeniformes > Platycephalidae
+  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q2445813
+    text: Q2445813
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Platycephalus
+    text: Platycephalus
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Platycephalus/
+    text: Platycephalus
+    title: Animal Diversity Web
+  Australian Faunal Directory:
+    link: https://biodiversity.org.au/afd/taxa/Platycephalus
+    text: Platycephalus
+    title: Australian Faunal Directory
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=2688
+    text: '2688'
+    title: Barcode of Life Data System
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/6RPQ
+    text: 6RPQ
+    title: Catalogue of Life
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=35909
+    text: '35909'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/2335846
+    text: '2335846'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/68630
+    text: '68630'
+    title: INaturalist
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167149
+    text: '167149'
+    title: Integrated Taxonomic Information System
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=270567
+    text: '270567'
+    title: National Center for Biotechnology Information
+  Plazi:
+    link: https://treatment.plazi.org/id/A64287E7-027A-FFF1-FF74-FED9FC21FE9B
+    text: A64287E7-027A-FFF1-FF74-FED9FC21FE9B
+    title: Plazi
+  ! '':
+    link: http://www.ubio.org/browser/details.php?namebankID=4300306
+    text: '4300306'
+    title:
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=126166
+    text: '126166'
+    title: World Register of Marine Species
+valid: false
+name_with_short_taxo: "[false] Platycephalus (Animalia > Chordata > Actinopterygii
+  > Scorpaeniformes > Platycephalidae > )"

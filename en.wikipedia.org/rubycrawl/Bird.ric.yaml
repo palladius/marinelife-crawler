@@ -1,0 +1,119 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Clade: Ornithurae
+  Class: ''
+  '': ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Bird
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Clade
+  - Clade
+  - Clade
+  - Class
+  - ''
+  - ''
+  arrvals:
+  - Animalia
+  - Chordata
+  - Sauropsida
+  - Avemetatarsalia
+  - Ornithurae
+  - ''
+  - ''
+  - ''
+  title_name: Bird
+  taxo_byindex_verbose_3:
+  - 3
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_3:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_4:
+  - 4
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_4:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_5:
+  - 5
+  - Clade
+  - Sauropsida
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Sauropsida" title="Sauropsida">Sauropsida</a></td></tr>
+  taxo_byindex_5:
+  - Clade
+  - Sauropsida
+  taxo_byindex_verbose_6:
+  - 6
+  - Clade
+  - Avemetatarsalia
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Avemetatarsalia" title="Avemetatarsalia">Avemetatarsalia</a></td></tr>
+  taxo_byindex_6:
+  - Clade
+  - Avemetatarsalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Clade
+  - Ornithurae
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Ornithurae" title="Ornithurae">Ornithurae</a></td></tr>
+  taxo_byindex_7:
+  - Clade
+  - Ornithurae
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - ''
+  - <tr><td>Class:</td><td><a class="mw-selflink selflink">Aves</a><br><small><a href="/wiki/Carl_Linnaeus"
+    title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae"
+    title="10th edition of Systema Naturae">1758</a><sup id="cite_ref-6" class="reference"><a
+    href="#cite_note-6">[6]</a></sup></small></td></tr>
+  taxo_byindex_8:
+  - Class
+  - ''
+  taxo_byindex_verbose_9:
+  - 9
+  - ''
+  - ''
+  - '<tr><th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Extant
+    <a href="/wiki/Clade" title="Clade">clades</a></th></tr>'
+  taxo_byindex_9:
+  - ''
+  - ''
+  taxo_byindex_verbose_27:
+  - 27
+  - ''
+  - ''
+  - "<tr><th>Species</th><th>Adult weight<br>(grams)</th><th>Incubation<br>(days)</th><th>Clutches<br>(per
+    year)</th><th>Clutch size</th></tr>"
+  taxo_byindex_27:
+  - ''
+  - ''
+wiki: https://en.wikipedia.org/wiki/Bird
+latin_name: ''
+proper-description: |+
+  Birds are a group of warm-blooded vertebrates constituting the class Aves (/ˈeɪviːz/), characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live worldwide and range in size from the 5.5 cm (2.2 in) bee hummingbird to the 2.8 m (9 ft 2 in) common ostrich. There are about ten thousand living species, more than half of which are passerine, or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which are modified forelimbs, gave birds the ability to fly, although further evolution has led to the loss of flight in some birds, including ratites, penguins, and diverse endemic island species. The digestive and respiratory systems of birds are also uniquely adapted for flight. Some bird species of aquatic environments, particularly seabirds and some waterbirds, have further evolved for swimming.
+
+  Birds are feathered theropod dinosaurs and constitute the only known living dinosaurs. Likewise, birds are considered reptiles in the modern cladistic sense of the term, and their closest living relatives are the crocodilians. Birds are descendants of the primitive avialans (whose members include Archaeopteryx) which first appeared about 160 million years ago (mya) in China. According to DNA evidence, modern birds (Neornithes) evolved in the Middle to Late Cretaceous, and diversified dramatically around the time of the Cretaceous–Paleogene extinction event 66 mya, which killed off the pterosaurs and all non-avian dinosaurs.[5]
+
+  Many social species pass on knowledge across generations, which is considered a form of culture. Birds are social, communicating with visual signals, calls, and songs, and participating in such behaviours as cooperative breeding and hunting, flocking, and mobbing of predators. The vast majority of bird species are socially (but not necessarily sexually) monogamous, usually for one breeding season at a time, sometimes for years, and rarely for life. Other species have breeding systems that are polygynous (one male with many females) or, rarely, polyandrous (one female with many males). Birds produce offspring by laying eggs which are fertilised through sexual reproduction. They are usually laid in a nest and incubated by the parents. Most birds have an extended period of parental care after hatching.
+
+  Many species of birds are economically important as food for human consumption and raw material in manufacturing, with domesticated and undomesticated birds being important sources of eggs, meat, and feathers. Songbirds, parrots, and other species are popular as pets. Guano (bird excrement) is harvested for use as a fertiliser. Birds figure throughout human culture. About 120 to 130 species have become extinct due to human activity since the 17th century, and hundreds more before then. Human activity threatens about 1,200 bird species with extinction, though efforts are underway to protect them. Recreational birdwatching is an important part of the ecotourism industry.
+
+name: Bird
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg/220px-Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg
+binomial_name: "-"
+simple_description_p4: ''
+short_taxo: 'Animalia > Chordata > Sauropsida > Avemetatarsalia > Ornithurae >  >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Bird (Animalia > Chordata > Sauropsida > Avemetatarsalia
+  > Ornithurae >  >  > )"
+...

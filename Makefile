@@ -22,6 +22,9 @@ fish-crawl-buggysamples:
 fish-crawl-super-duper:
 	OUTPUT_YAML=out/fish-from-wiki-crawl.yaml MAX_IMPORTS=1215  FISH_FOLDER=en.wikipedia.org/wiki/ ./crawl-wikipedia.rb
 
+############
+# version1: fast but ignorant (cant discriminate against a fish or not)
+# WGET crawiling
 
 wget-crawl-holothuria:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Holothuria'
@@ -41,17 +44,32 @@ wget-crawl-bluedragon: # Glaucus_atlanticus
 wget-crawl-dolphin: wget-crawl-oceanic-dolphin
 wget-crawl-oceanic-dolphin:
 	$(WGET_COMMAND) 'https://en.wikipedia.org/wiki/Oceanic_dolphin'
-
 wget-crawl-Scombrops_boops:
-	$(WGET_COMMAND) https://en.wikipedia.org/wiki/Scombrops_boops 
-	
+	$(WGET_COMMAND) https://en.wikipedia.org/wiki/Scombrops_boops
+
 single-wgets:
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Whale
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Dolphin
 	$(SIMPLE_WGET_COMMAND_THERE) https://en.wikipedia.org/wiki/Manta_Ray
 
-.PHONY: test 
+##########
+# Ruby crawiling
+ruby-crawl-TigerShark:
+	bin/crawl-wikipeda-for-fish.rb Tiger_shark
+ruby-crawl-Nudibranch:
+	bin/crawl-wikipeda-for-fish.rb Nudibranch
+ruby-crawl-Nudibranch-mini:
+	MAX_STACK_SIZE="800" bin/crawl-wikipeda-for-fish.rb Nudibranch
+ruby-crawl-Nudibranch-HUGE:
+	MAX_STACK_SIZE="500000" bin/crawl-wikipeda-for-fish.rb Nudibranch
 
+
+.PHONY: test
 test:
 #	FISH_FOLDER=buggy-samples/ VERBOSE=true DEBUG=true MAX_IMPORTS=1 RUN_TESTS=true ./crawl-wikipedia.rb
 	ruby wiki_fish_test.rb
+
+
+crawl:
+	echo "This is thr default, state of the art, crawl."
+	make ruby-crawl-Nudibranch-HUGE

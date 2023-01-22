@@ -1,0 +1,137 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Aves
+  Order: Suliformes
+  Family: Phalacrocoracidae
+  Genus: Leucocarbo
+  Species: L. bransfieldensis
+fish_local_url_name: en.wikipedia.org/rubycrawl//Antarctic_shag
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Aves
+  - Suliformes
+  - Phalacrocoracidae
+  - Leucocarbo
+  - L. bransfieldensis
+  title_name: Antarctic shag
+  taxo_byindex_verbose_3:
+  - 3
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_3:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_4:
+  - 4
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_4:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_5:
+  - 5
+  - Class
+  - Aves
+  - <tr><td>Class:</td><td><a href="/wiki/Bird" title="Bird">Aves</a></td></tr>
+  taxo_byindex_5:
+  - Class
+  - Aves
+  taxo_byindex_verbose_6:
+  - 6
+  - Order
+  - Suliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Suliformes" title="Suliformes">Suliformes</a></td></tr>
+  taxo_byindex_6:
+  - Order
+  - Suliformes
+  taxo_byindex_verbose_7:
+  - 7
+  - Family
+  - Phalacrocoracidae
+  - <tr><td>Family:</td><td><a href="/wiki/Cormorant" title="Cormorant">Phalacrocoracidae</a></td></tr>
+  taxo_byindex_7:
+  - Family
+  - Phalacrocoracidae
+  taxo_byindex_verbose_8:
+  - 8
+  - Genus
+  - Leucocarbo
+  - <tr><td>Genus:</td><td><a href="/wiki/Blue-eyed_shag" title="Blue-eyed shag"><i>Leucocarbo</i></a></td></tr>
+  taxo_byindex_8:
+  - Genus
+  - Leucocarbo
+  taxo_byindex_verbose_9:
+  - 9
+  - Species
+  - L. bransfieldensis
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>L. bransfieldensis</b></i></div></td></tr>
+  taxo_byindex_9:
+  - Species
+  - L. bransfieldensis
+wiki: https://en.wikipedia.org/wiki/Antarctic_shag
+latin_name: Leucocarbo bransfieldensis
+proper-description: "The Antarctic shag (Leucocarbo bransfieldensis), sometimes referred
+  to as the imperial cormorant, king cormorant, imperial shag, blue-eyed shag or Antarctic
+  cormorant, is the only species of the cormorant family found in the Antarctic.[1]
+  It is sometimes considered conspecific with the Imperial shag (Leucocarbo atriceps).[2]\n\n"
+name: Antarctic shag
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Antarctic_Shag_with_chick_at_Jougla_Point%2C_Antarctica_%286063675696%29.jpg/220px-Antarctic_Shag_with_chick_at_Jougla_Point%2C_Antarctica_%286063675696%29.jpg
+binomial_name: Leucocarbo bransfieldensis
+simple_description_p4: The Antarctic shag (Leucocarbo bransfieldensis), sometimes
+  referred to as the imperial cormorant, king cormorant, imperial shag, blue-eyed
+  shag or Antarctic cormorant, is the only species of the cormorant family found in
+  the Antarctic.[1] It is sometimes considered conspecific with the Imperial shag
+  (Leucocarbo atriceps).[2]
+short_taxo: Animalia > Chordata > Aves > Suliformes > Phalacrocoracidae > Leucocarbo
+  > L. bransfieldensis
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q1264549
+    text: Q1264549
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Leucocarbo_bransfieldensis
+    text: Leucocarbo bransfieldensis
+    title: Wikispecies
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/6Q5KG
+    text: 6Q5KG
+    title: Catalogue of Life
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/6066510
+    text: '6066510'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/144447
+    text: '144447'
+    title: INaturalist
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=824173
+    text: '824173'
+    title: Integrated Taxonomic Information System
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=732181
+    text: '732181'
+    title: National Center for Biotechnology Information
+  Xeno-canto:
+    link: https://www.xeno-canto.org/species/Leucocarbo-bransfieldensis
+    text: Leucocarbo-bransfieldensis
+    title: Xeno-canto
+valid: true
+name_with_short_taxo: "[true] Antarctic shag (Animalia > Chordata > Aves > Suliformes
+  > Phalacrocoracidae > Leucocarbo > L. bransfieldensis)"

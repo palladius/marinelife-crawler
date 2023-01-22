@@ -1,0 +1,102 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Ursidae
+  Genus: Ursus
+  Species: U. maritimus
+fish_local_url_name: en.wikipedia.org/rubycrawl//Polar_bear
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Ursidae
+  - Ursus
+  - U. maritimus
+  title_name: Polar bear
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_11:
+  - 11
+  - Family
+  - Ursidae
+  - <tr><td>Family:</td><td><a href="/wiki/Bear" title="Bear">Ursidae</a></td></tr>
+  taxo_byindex_11:
+  - Family
+  - Ursidae
+  taxo_byindex_verbose_12:
+  - 12
+  - Genus
+  - Ursus
+  - <tr><td>Genus:</td><td><a href="/wiki/Ursus_(mammal)" title="Ursus (mammal)"><i>Ursus</i></a></td></tr>
+  taxo_byindex_12:
+  - Genus
+  - Ursus
+  taxo_byindex_verbose_13:
+  - 13
+  - Species
+  - U. maritimus
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>U. maritimus</b></i></div></td></tr>
+  taxo_byindex_13:
+  - Species
+  - U. maritimus
+wiki: https://en.wikipedia.org/wiki/Polar_bear
+latin_name: Ursus maritimus
+proper-description: |+
+  The polar bear (Ursus maritimus) is a hypercarnivorous bear whose native range lies largely within the Arctic Circle, encompassing the Arctic Ocean, its surrounding seas and surrounding land masses. It is the largest extant bear species, as well as the largest extant land carnivore.[6][7] A boar (adult male) weighs around 350–700 kg (770–1,540 lb),[8] while a sow (adult female) is about half that size. Although it is the sister species of the brown bear,[9] it has evolved to occupy a narrower ecological niche, with many body characteristics adapted for cold temperatures, for moving across snow, ice and open water, and for hunting seals, which make up most of its diet.[10] Although most polar bears are born on land, they spend most of their time on the sea ice. Their scientific name means "maritime bear" and derives from this fact. Polar bears hunt their preferred food of seals from the edge of sea ice, often living off fat reserves when no sea ice is present. Because of their dependence on the sea ice, polar bears are classified as marine mammals.[11]
+
+  Because of expected habitat loss caused by climate change, the polar bear is classified as a vulnerable species. For decades, large-scale hunting raised international concern for the future of the species, but populations rebounded after controls and quotas began to take effect.[12] For thousands of years, the polar bear has been a key figure in the material, spiritual, and cultural life of circumpolar peoples, and polar bears remain important in their cultures. Historically, the polar bear has also been known as the "white bear".[13] It is sometimes referred to as the "nanook", based on the Inuit term nanuq.[14]
+
+name: Polar bear
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg/220px-Polar_Bear_-_Alaska_%28cropped%29.jpg
+binomial_name: Ursus maritimus
+simple_description_p4: no P4 description
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Ursidae > Ursus > U. maritimus
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Polar bear (Animalia > Chordata > Mammalia > Carnivora
+  > Ursidae > Ursus > U. maritimus)"
+...

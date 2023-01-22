@@ -1,0 +1,106 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Reptilia
+  Order: Testudines
+  Family: Cheloniidae
+  Genus: ''
+  Species: E. imbricata
+fish_local_url_name: en.wikipedia.org/rubycrawl//Hawksbill_sea_turtle
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Reptilia
+  - Testudines
+  - Cheloniidae
+  - ''
+  - E. imbricata
+  title_name: Hawksbill sea turtle
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Reptilia
+  - <tr><td>Class:</td><td><a href="/wiki/Reptile" title="Reptile">Reptilia</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Reptilia
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Testudines
+  - <tr><td>Order:</td><td><a href="/wiki/Turtle" title="Turtle">Testudines</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Testudines
+  taxo_byindex_verbose_13:
+  - 13
+  - Family
+  - Cheloniidae
+  - <tr><td>Family:</td><td><a href="/wiki/Cheloniidae" title="Cheloniidae">Cheloniidae</a></td></tr>
+  taxo_byindex_13:
+  - Family
+  - Cheloniidae
+  taxo_byindex_verbose_15:
+  - 15
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Eretmochelys</i></a><br><small><a
+    href="/wiki/Leopold_Fitzinger" title="Leopold Fitzinger">Fitzinger</a>, 1843</small></td></tr>
+  taxo_byindex_15:
+  - Genus
+  - ''
+  taxo_byindex_verbose_16:
+  - 16
+  - Species
+  - E. imbricata
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>E. imbricata</b></i></div></td></tr>
+  taxo_byindex_16:
+  - Species
+  - E. imbricata
+wiki: https://en.wikipedia.org/wiki/Hawksbill_sea_turtle
+latin_name: Eretmochelys imbricataEretmochelys
+proper-description: |+
+  The hawksbill sea turtle (Eretmochelys imbricata) is a critically endangered sea turtle belonging to the family Cheloniidae. It is the only extant species in the genus Eretmochelys. The species has a global distribution, that is largely limited to tropical and subtropical marine and estuary ecosystems.
+
+  The hawksbill's appearance is similar to that of other marine turtles. In general, it has a flattened body shape, a protective carapace, and flipper-like limbs, adapted for swimming in the open ocean. E. imbricata is easily distinguished from other sea turtles by its sharp, curving beak with prominent tomium, and the saw-like appearance of its shell margins. Hawksbill shells slightly change colors, depending on water temperature. While this turtle lives part of its life in the open ocean, it spends more time in shallow lagoons and coral reefs. The World Conservation Union, primarily as a result of human fishing practices, classifies E. imbricata as critically endangered.[3] Hawksbill shells were the primary source of tortoiseshell material used for decorative purposes. The Convention on International Trade in Endangered Species (CITES) regulates the international trade of hawksbill sea turtles and products derived from them.[4]
+
+name: Hawksbill sea turtle
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eretmochelys-imbricata-K%C3%A9lonia-2.JPG/220px-Eretmochelys-imbricata-K%C3%A9lonia-2.JPG
+binomial_name: Eretmochelys imbricata
+simple_description_p4: The hawksbill sea turtle (Eretmochelys imbricata) is a critically
+  endangered sea turtle belonging to the family Cheloniidae. It is the only extant
+  species in the genus Eretmochelys. The species has a global distribution, that is
+  largely limited to tropical and subtropical marine and estuary ecosystems.
+short_taxo: Animalia > Chordata > Reptilia > Testudines > Cheloniidae >  > E. imbricata
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Hawksbill sea turtle (Animalia > Chordata > Reptilia
+  > Testudines > Cheloniidae >  > E. imbricata)"
+...

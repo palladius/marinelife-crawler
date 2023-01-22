@@ -24,11 +24,14 @@ def main()
 
   #die('give me some nice Fish pages to start from, like: ') if ARGV == 0
 
-  fish_to_be_crawled = ARGV.size > 0 ?
-    "https://en.wikipedia.org/wiki/#{ ARGV[0] }" :
-    "https://en.wikipedia.org/wiki/#{default_value}"
+  fish_to_be_crawled = "https://en.wikipedia.org/wiki/#{ ARGV.size > 0 ? ARGV[0] : default_value }"
 
-  crawl_with_condition(fish_to_be_crawled, true)
+  max_stack_size = ENV.fetch( 'MAX_STACK_SIZE', 9999).to_i
+
+  crawl_with_condition(fish_to_be_crawled, true,
+    max_stack_size: max_stack_size,
+    overwrite_files: false,
+  )
 end
 
 main()

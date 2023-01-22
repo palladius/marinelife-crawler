@@ -1,0 +1,145 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Scorpaeniformes
+  Family: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Platycephalidae
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Scorpaeniformes
+  - ''
+  title_name: Platycephalidae
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Scorpaeniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Scorpaeniformes" title="Scorpaeniformes">Scorpaeniformes</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Scorpaeniformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - ''
+  - <tr><td>Family:</td><td><a class="mw-selflink selflink">Platycephalidae</a><br><small><a
+    href="/wiki/William_John_Swainson" title="William John Swainson">Swainson</a>,
+    1839<sup id="cite_ref-VDLEF_1-0" class="reference"><a href="#cite_note-VDLEF-1">[1]</a></sup></small></td></tr>
+  taxo_byindex_9:
+  - Family
+  - ''
+wiki: https://en.wikipedia.org/wiki/Platycephalidae
+latin_name: ''
+proper-description: "The Platycephalidae are a family of marine fish, most commonly
+  referred to as flatheads. They are relatives of the popular lionfish, belonging
+  to the order Scorpaeniformes.\n\n"
+name: Platycephalidae
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fringe-Lipped_Flathead.jpg/220px-Fringe-Lipped_Flathead.jpg
+binomial_name: "-"
+simple_description_p4: The Platycephalidae are a family of marine fish, most commonly
+  referred to as flatheads. They are relatives of the popular lionfish, belonging
+  to the order Scorpaeniformes.
+short_taxo: 'Animalia > Chordata > Actinopterygii > Scorpaeniformes > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q1072599
+    text: Q1072599
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Platycephalidae
+    text: Platycephalidae
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Platycephalidae/
+    text: Platycephalidae
+    title: Animal Diversity Web
+  Australian Faunal Directory:
+    link: https://biodiversity.org.au/afd/taxa/Platycephalidae
+    text: Platycephalidae
+    title: Australian Faunal Directory
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=1274
+    text: '1274'
+    title: Barcode of Life Data System
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/62633
+    text: '62633'
+    title: Catalogue of Life
+  Encyclopedia of Life:
+    link: https://eol.org/pages/5130
+    text: '5130'
+    title: Encyclopedia of Life
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=266355
+    text: '266355'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/5101
+    text: '5101'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/51480
+    text: '51480'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=114853
+    text: '114853'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167131
+    text: '167131'
+    title: Integrated Taxonomic Information System
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=30987
+    text: '30987'
+    title: National Center for Biotechnology Information
+  Plazi:
+    link: https://treatment.plazi.org/id/865687AC-8E5E-4432-FF0F-0C8AFC307ACD
+    text: 865687AC-8E5E-4432-FF0F-0C8AFC307ACD
+    title: Plazi
+  ! '':
+    link: http://www.ubio.org/browser/details.php?namebankID=114308
+    text: '114308'
+    title:
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=125593
+    text: '125593'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Platycephalidae (Animalia > Chordata > Actinopterygii
+  > Scorpaeniformes > )"

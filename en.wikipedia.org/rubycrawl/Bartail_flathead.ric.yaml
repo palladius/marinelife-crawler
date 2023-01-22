@@ -1,0 +1,154 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Scorpaeniformes
+  Family: Platycephalidae
+  Genus: Platycephalus
+  Species: P. indicus
+fish_local_url_name: en.wikipedia.org/rubycrawl//Bartail_flathead
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Scorpaeniformes
+  - Platycephalidae
+  - Platycephalus
+  - P. indicus
+  title_name: Bartail flathead
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Scorpaeniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Scorpaeniformes" title="Scorpaeniformes">Scorpaeniformes</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Scorpaeniformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Platycephalidae
+  - <tr><td>Family:</td><td><a href="/wiki/Platycephalidae" title="Platycephalidae">Platycephalidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Platycephalidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Platycephalus
+  - <tr><td>Genus:</td><td><a href="/wiki/Platycephalus" title="Platycephalus"><i>Platycephalus</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Platycephalus
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - P. indicus
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>P. indicus</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - P. indicus
+wiki: https://en.wikipedia.org/wiki/Bartail_flathead
+latin_name: Platycephalus indicus
+proper-description: "The bartail flathead (Platycephalus indicus), also known as the
+  Indian flathead, gobi or Indo-Pacific flathead, is a species of largely marine ray-finned
+  fish belonging to the family Platycephalidae, the flatheads. This species is found
+  in the Indian Ocean and the Western Pacific Ocean, and has invaded the eastern Mediterranean
+  Sea.\n\n"
+name: Bartail flathead
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Platycephalus_indicusFB.png/220px-Platycephalus_indicusFB.png
+binomial_name: Platycephalus indicus
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Actinopterygii > Scorpaeniformes > Platycephalidae
+  > Platycephalus > P. indicus
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q1020669
+    text: Q1020669
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Platycephalus_indicus
+    text: Platycephalus indicus
+    title: Wikispecies
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=10750
+    text: '10750'
+    title: Barcode of Life Data System
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/4JP4M
+    text: 4JP4M
+    title: Catalogue of Life
+  European Nature Information System:
+    link: https://eunis.eea.europa.eu/species/47234
+    text: '47234'
+    title: European Nature Information System
+  FishBase:
+    link: https://www.fishbase.ca/summary/950
+    text: '950'
+    title: FishBase
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/5201390
+    text: '5201390'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/109634
+    text: '109634'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=10836260
+    text: '10836260'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167159
+    text: '167159'
+    title: Integrated Taxonomic Information System
+  IUCN Red List:
+    link: https://apiv3.iucnredlist.org/api/v3/taxonredirect/155105
+    text: '155105'
+    title: IUCN Red List
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=270568
+    text: '270568'
+    title: National Center for Biotechnology Information
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=127234
+    text: '127234'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Bartail flathead (Animalia > Chordata > Actinopterygii
+  > Scorpaeniformes > Platycephalidae > Platycephalus > P. indicus)"

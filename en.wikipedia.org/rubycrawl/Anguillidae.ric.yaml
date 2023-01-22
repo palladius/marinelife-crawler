@@ -1,0 +1,117 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Anguilliformes
+  Family: ''
+  Genus: ''
+  '': ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Anguillidae
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - ''
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Anguilliformes
+  - ''
+  - ''
+  - ''
+  title_name: Anguillidae
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Anguilliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Eel" title="Eel">Anguilliformes</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Anguilliformes
+  taxo_byindex_verbose_8:
+  - 8
+  - Family
+  - ''
+  - <tr><td>Family:</td><td><a class="mw-selflink selflink">Anguillidae</a><br><small><a
+    href="/wiki/Constantine_Samuel_Rafinesque" title="Constantine Samuel Rafinesque">Rafinesque</a>,
+    1810</small></td></tr>
+  taxo_byindex_8:
+  - Family
+  - ''
+  taxo_byindex_verbose_9:
+  - 9
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Anguilla</i></a><br><small><a
+    href="/wiki/Fran%C3%A7ois_Alexandre_Pierre_de_Garsault" title="François Alexandre
+    Pierre de Garsault">Garsault</a>, 1764<sup id="cite_ref-2" class="reference"><a
+    href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup
+    id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></small></td></tr>
+  taxo_byindex_9:
+  - Genus
+  - ''
+  taxo_byindex_verbose_12:
+  - 12
+  - ''
+  - ''
+  - '<tr><th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Species</th></tr>'
+  taxo_byindex_12:
+  - ''
+  - ''
+wiki: https://en.wikipedia.org/wiki/Anguillidae
+latin_name: Anguilla
+proper-description: "The Anguillidae are a family of ray-finned fish that contains
+  the freshwater eels. Eighteen of the 19 extant species and six subspecies in this
+  family are in the genus Anguilla. They are elongated fish with snake-like bodies,
+  their long dorsal,  caudal and anal fins forming a continuous fringe. They are catadromous
+  fish, spending their adult lives in freshwater,  but migrating to the ocean to spawn.
+  Eels are an important food fish and some species are now farm-raised, but not bred
+  in captivity. Many populations in the wild are now threatened, and Seafood Watch
+  recommend consumers avoid eating anguillid eels.\n\n"
+name: Anguillidae
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anguillarostratakils.jpg/260px-Anguillarostratakils.jpg
+binomial_name: "-"
+simple_description_p4: The Anguillidae are a family of ray-finned fish that contains
+  the freshwater eels. Eighteen of the 19 extant species and six subspecies in this
+  family are in the genus Anguilla. They are elongated fish with snake-like bodies,
+  their long dorsal,  caudal and anal fins forming a continuous fringe. They are catadromous
+  fish, spending their adult lives in freshwater,  but migrating to the ocean to spawn.
+  Eels are an important food fish and some species are now farm-raised, but not bred
+  in captivity. Many populations in the wild are now threatened, and Seafood Watch
+  recommend consumers avoid eating anguillid eels.
+short_taxo: 'Animalia > Chordata > Actinopterygii > Anguilliformes >  >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Anguillidae (Animalia > Chordata > Actinopterygii >
+  Anguilliformes >  >  > )"

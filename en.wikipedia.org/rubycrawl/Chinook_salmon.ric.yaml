@@ -1,0 +1,103 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Salmoniformes
+  Family: Salmonidae
+  Genus: Oncorhynchus
+  Species: O. tshawytscha
+fish_local_url_name: en.wikipedia.org/rubycrawl//Chinook_salmon
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Salmoniformes
+  - Salmonidae
+  - Oncorhynchus
+  - O. tshawytscha
+  title_name: Chinook salmon
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Salmoniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmoniformes</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Salmoniformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Salmonidae
+  - <tr><td>Family:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmonidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Salmonidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - Oncorhynchus
+  - <tr><td>Genus:</td><td><a href="/wiki/Oncorhynchus" title="Oncorhynchus"><i>Oncorhynchus</i></a></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - Oncorhynchus
+  taxo_byindex_verbose_11:
+  - 11
+  - Species
+  - O. tshawytscha
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>O. tshawytscha</b></i></div></td></tr>
+  taxo_byindex_11:
+  - Species
+  - O. tshawytscha
+wiki: https://en.wikipedia.org/wiki/Chinook_salmon
+latin_name: Oncorhynchus tshawytscha
+proper-description: |+
+  The Chinook salmon /ʃɪˈnʊk/ (Oncorhynchus tshawytscha) is the largest and most valuable species of Pacific salmon in North America, as well as the largest in the genus Oncorhynchus.[2] Its common name is derived from the Chinookan peoples. Other vernacular names for the species include king salmon, Quinnat salmon, Tsumen, spring salmon, chrome hog, Blackmouth, and Tyee salmon. The scientific species name is based on the Russian common name chavycha (чавыча).
+
+  Chinook are anadromous fish native to the North Pacific Ocean and the river systems of western North America, ranging from California to Alaska, as well as Asian rivers ranging from northern Japan to the Palyavaam River in the Arctic northeast Siberia. They have been introduced to other parts of the world, including New Zealand, thriving in Lake Michigan Great Lakes of North America and Michigan's western rivers, and Patagonia. A large Chinook is a prized and sought-after catch for a sporting angler. The flesh of the salmon is also highly valued for its dietary nutritional content, which includes high levels of important omega-3 fatty acids. Some populations are endangered; however, many are healthy. The Chinook salmon has not been assessed for the IUCN Red List. According to NOAA, the Chinook salmon population along the California coast is declining from factors such as overfishing, loss of freshwater and estuarine habitat, hydropower development, poor ocean conditions, and hatchery practices.[3]
+
+name: Chinook salmon
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Chinook_Salmon_Adult_Male.jpg/220px-Chinook_Salmon_Adult_Male.jpg
+binomial_name: Oncorhynchus tshawytscha
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Actinopterygii > Salmoniformes > Salmonidae > Oncorhynchus
+  > O. tshawytscha
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Chinook salmon (Animalia > Chordata > Actinopterygii
+  > Salmoniformes > Salmonidae > Oncorhynchus > O. tshawytscha)"
+...

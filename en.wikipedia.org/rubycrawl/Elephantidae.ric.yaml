@@ -1,0 +1,149 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Proboscidea
+  Family: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Elephantidae
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Proboscidea
+  - ''
+  title_name: Elephantidae
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Proboscidea
+  - <tr><td>Order:</td><td><a href="/wiki/Proboscidea" title="Proboscidea">Proboscidea</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Proboscidea
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - ''
+  - <tr><td>Family:</td><td><a class="mw-selflink selflink">Elephantidae</a><br><small><a
+    href="/wiki/John_Edward_Gray" title="John Edward Gray">Gray</a>, 1821</small></td></tr>
+  taxo_byindex_9:
+  - Family
+  - ''
+wiki: https://en.wikipedia.org/wiki/Elephantidae
+latin_name: ''
+proper-description: |+
+  Elephantidae is a family of large, herbivorous proboscidean mammals collectively called elephants and mammoths. These are terrestrial large mammals with a snout modified into a trunk and teeth modified into tusks. Most genera and species in the family are extinct. Only two genera, Loxodonta (African elephants) and Elephas (Asiatic elephants), are living.
+
+  The family was first described by John Edward Gray in 1821,[4] and later assigned to taxonomic ranks within the order Proboscidea. Elephantidae has been revised by various authors to include or exclude other extinct proboscidean genera.
+
+name: Elephantidae
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/220px-Elephas_maximus_%28Bandipur%29.jpg
+binomial_name: "-"
+simple_description_p4: Elephantidae is a family of large, herbivorous proboscidean
+  mammals collectively called elephants and mammoths. These are terrestrial large
+  mammals with a snout modified into a trunk and teeth modified into tusks. Most genera
+  and species in the family are extinct. Only two genera, Loxodonta (African elephants)
+  and Elephas (Asiatic elephants), are living.
+short_taxo: 'Animalia > Chordata > Mammalia > Proboscidea > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q2372824
+    text: Q2372824
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Elephantidae
+    text: Elephantidae
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Elephantidae/
+    text: Elephantidae
+    title: Animal Diversity Web
+  ! '':
+    link: http://www.ubio.org/browser/details.php?namebankID=109169
+    text: '109169'
+    title:
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=1054
+    text: '1054'
+    title: Barcode of Life Data System
+  Catalogue of Life:
+    link: https://www.catalogueoflife.org/data/taxon/9M4
+    text: 9M4
+    title: Catalogue of Life
+  Encyclopedia of Life:
+    link: https://eol.org/pages/1644
+    text: '1644'
+    title: Encyclopedia of Life
+  EPPO Code:
+    link: https://gd.eppo.int/taxon/1ELEPF
+    text: 1ELEPF
+    title: EPPO Code
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=43263
+    text: '43263'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/9427
+    text: '9427'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/43692
+    text: '43692'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=105769
+    text: '105769'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=584935
+    text: '584935'
+    title: Integrated Taxonomic Information System
+  Mammal Species of the World:
+    link: https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?s=y&id=11500002
+    text: '11500002'
+    title: Mammal Species of the World
+  National Biodiversity Network:
+    link: https://data.nbn.org.uk/Taxa/NHMSYS0000376614
+    text: NHMSYS0000376614
+    title: National Biodiversity Network
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9780
+    text: '9780'
+    title: National Center for Biotechnology Information
+valid: true
+name_with_short_taxo: "[true] Elephantidae (Animalia > Chordata > Mammalia > Proboscidea
+  > )"
+...

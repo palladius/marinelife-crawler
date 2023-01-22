@@ -1,0 +1,108 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Reptilia
+  Order: Testudines
+  Family: Emydidae
+  Genus: ''
+  Species: M. terrapin
+fish_local_url_name: en.wikipedia.org/rubycrawl//Diamondback_terrapin
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Reptilia
+  - Testudines
+  - Emydidae
+  - ''
+  - M. terrapin
+  title_name: Diamondback terrapin
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Reptilia
+  - <tr><td>Class:</td><td><a href="/wiki/Reptile" title="Reptile">Reptilia</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Reptilia
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Testudines
+  - <tr><td>Order:</td><td><a href="/wiki/Turtle" title="Turtle">Testudines</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Testudines
+  taxo_byindex_verbose_13:
+  - 13
+  - Family
+  - Emydidae
+  - <tr><td>Family:</td><td><a href="/wiki/Emydidae" title="Emydidae">Emydidae</a></td></tr>
+  taxo_byindex_13:
+  - Family
+  - Emydidae
+  taxo_byindex_verbose_14:
+  - 14
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Malaclemys</i></a><br><small><a
+    href="/wiki/John_Edward_Gray" title="John Edward Gray">Gray</a>, 1844 <sup id="cite_ref-Rhodin1_3-1"
+    class="reference"><a href="#cite_note-Rhodin1-3">[3]</a></sup></small></td></tr>
+  taxo_byindex_14:
+  - Genus
+  - ''
+  taxo_byindex_verbose_15:
+  - 15
+  - Species
+  - M. terrapin
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>M. terrapin</b></i></div></td></tr>
+  taxo_byindex_15:
+  - Species
+  - M. terrapin
+wiki: https://en.wikipedia.org/wiki/Diamondback_terrapin
+latin_name: Malaclemys terrapin
+proper-description: |+
+  The diamondback terrapin or simply terrapin (Malaclemys terrapin) is a species of turtle native to the brackish coastal tidal marshes of the Northeastern and southern United States, and in Bermuda.[6] It belongs to the monotypic genus Malaclemys.  It has one of the largest ranges of all turtles in North America, stretching as far south as the Florida Keys and as far north as Cape Cod.[7]
+
+  The name "terrapin" is derived from the Algonquian word torope.[8] It applies to Malaclemys terrapin in both British English and American English. The name originally was used by early European settlers in North America to describe these brackish-water turtles that inhabited neither freshwater habitats nor the sea. It retains this primary meaning in American English.[8] In British English, however, other semi-aquatic turtle species, such as the red-eared slider, might also be called terrapins.[citation needed]
+
+name: Diamondback terrapin
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Diamond_terrapin_turtle_reptile_malaclemys_terrapin.jpg/220px-Diamond_terrapin_turtle_reptile_malaclemys_terrapin.jpg
+binomial_name: Malaclemys terrapin
+simple_description_p4: The diamondback terrapin or simply terrapin (Malaclemys terrapin)
+  is a species of turtle native to the brackish coastal tidal marshes of the Northeastern
+  and southern United States, and in Bermuda.[6] It belongs to the monotypic genus
+  Malaclemys.  It has one of the largest ranges of all turtles in North America, stretching
+  as far south as the Florida Keys and as far north as Cape Cod.[7]
+short_taxo: Animalia > Chordata > Reptilia > Testudines > Emydidae >  > M. terrapin
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Diamondback terrapin (Animalia > Chordata > Reptilia
+  > Testudines > Emydidae >  > M. terrapin)"
+...

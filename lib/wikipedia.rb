@@ -66,7 +66,10 @@ module Wikipedia
     end
   end
 
-  def process_found_page(page)
+  def process_found_page(page, opts={})
+    opts_overwrite_files = opts.fetch :overwrite_files, false
+    opts_verbose = opts.fetch :verbose, true
+
     uri = page.uri.to_s
     content = page.content
 
@@ -74,6 +77,17 @@ module Wikipedia
     cleanedup_uri = uri.split('/').last.split('#').first
     uri_filename = "en.wikipedia.org/rubycrawl/#{cleanedup_uri }"
     puts "😎 Processing '#{uri}' [size=#{content.size}] => #{uri_filename}"
+    unless opts_overwrite_files
+      # checks for overwrtiing if FALSE, not true :)
+      if File.exist?(uri_filename)
+        puts "💾 File exists, skipping: #{uri_filename}" # if opts_verbose
+        return nil
+      else
+        puts "💾 File DOESNT exist, proceeding by creating: #{uri_filename}" if opts_verbose
+      end
+    else
+      #puts "opts_overwrite_files disabled: WRITING"
+    end
     File.write(uri_filename, content)
   end
 
@@ -83,6 +97,7 @@ module Wikipedia
   def crawl_with_condition(initial_page_url, boolean_method, opts={})
     opts_verbose = opts.fetch :verbose, false
     opts_max_stack_size = opts.fetch :max_stack_size, 42_000
+
 
     fish_set = Set[] # eg, => #<Set: {1, 2}>
 
@@ -122,7 +137,7 @@ module Wikipedia
             puts "🍱 StackSize: #{stack.size}. FishSetSize: #{fish_set.size}. Habemus novum piscem: #{page.uri.to_s.colorize :cyan}"
             fish_set.add(page.uri.to_s)
             # do soemthing with this
-            process_found_page(page)
+            process_found_page(page, opts)
           end
         else
           puts "😭 No, woman no fish... " if opts_verbose

@@ -1,0 +1,108 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Aonyx
+  Species: A. cinereus
+fish_local_url_name: en.wikipedia.org/rubycrawl//Asian_small-clawed_otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Aonyx
+  - A. cinereus
+  title_name: Asian small-clawed otter
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_12:
+  - 12
+  - Genus
+  - Aonyx
+  - <tr><td>Genus:</td><td><a href="/wiki/Aonyx" title="Aonyx"><i>Aonyx</i></a></td></tr>
+  taxo_byindex_12:
+  - Genus
+  - Aonyx
+  taxo_byindex_verbose_13:
+  - 13
+  - Species
+  - A. cinereus
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>A. cinereus</b></i></div></td></tr>
+  taxo_byindex_13:
+  - Species
+  - A. cinereus
+wiki: https://en.wikipedia.org/wiki/Asian_small-clawed_otter
+latin_name: Aonyx cinereus
+proper-description: |+
+  The Asian small-clawed otter (Aonyx cinereus), also known as the oriental small-clawed otter and the small-clawed otter, is an otter species native to South and Southeast Asia. It has short claws that do not extend beyond the pads of its webbed digits. With a total body length of 730 to 960 mm (28.6 to 37.6 in), it is the smallest otter species in the world.
+
+  The Asian small-clawed otter lives in riverine habitats, freshwater wetlands and mangrove swamps. It feeds on molluscs, crabs and other small aquatic animals. It lives in pairs, but was also observed in family groups with up to 12 individuals.
+
+  It is listed as Vulnerable on the IUCN Red List, and is threatened by habitat loss, pollution, and in some areas also by hunting.
+
+name: Asian small-clawed otter
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zwergotter-Portr%C3%A4t.jpg/220px-Zwergotter-Portr%C3%A4t.jpg
+binomial_name: Aonyx cinereus
+simple_description_p4: The Asian small-clawed otter (Aonyx cinereus), also known as
+  the oriental small-clawed otter and the small-clawed otter, is an otter species
+  native to South and Southeast Asia. It has short claws that do not extend beyond
+  the pads of its webbed digits. With a total body length of 730 to 960 mm (28.6 to
+  37.6 in), it is the smallest otter species in the world.
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Aonyx > A. cinereus
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Asian small-clawed otter (Animalia > Chordata > Mammalia
+  > Carnivora > Mustelidae > Aonyx > A. cinereus)"
+...

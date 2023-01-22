@@ -1,0 +1,106 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Mustela
+  Species: M. putorius
+fish_local_url_name: en.wikipedia.org/rubycrawl//European_polecat
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Mustela
+  - M. putorius
+  title_name: European polecat
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_10:
+  - 10
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_10:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - Mustela
+  - <tr><td>Genus:</td><td><a href="/wiki/Weasel" title="Weasel"><i>Mustela</i></a></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - Mustela
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - M. putorius
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>M. putorius</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - M. putorius
+wiki: https://en.wikipedia.org/wiki/European_polecat
+latin_name: Mustela putorius
+proper-description: |+
+  The European polecat (Mustela putorius), also known as the common polecat, black polecat, or forest polecat, is a species of mustelid native to western Eurasia and North Africa. It is of a generally dark brown colour, with a pale underbelly and a dark mask across the face. Occasionally, colour mutations including albinos, leucists, isabellinists, xanthochromists, amelanists and erythrists occur.[2] It has a shorter, more compact body than other Mustela species,[3] a more powerfully built skull and dentition,[4] is less agile,[5] and is well known for having the characteristic ability to secrete a particularly foul-smelling liquid to mark its territory.
+
+  It is much less territorial than other mustelids, with animals of the same sex frequently sharing home ranges.[6] Like other mustelids, the European polecat is polygamous, with pregnancy occurring after mating, with no induced ovulation.[7] It usually gives birth in early summer to litters consisting of five to 10 kits, which become independent at the age of two to three months. The European polecat feeds on small rodents, birds, amphibians and reptiles.[8] It occasionally cripples its prey by piercing its brain with its teeth and stores it, still living, in its burrow for future consumption.[7][9]
+
+  The European polecat originated in Western Europe during the Middle Pleistocene, with its closest living relatives being the steppe polecat, the black-footed ferret and the European mink. With the two former species, it can produce fertile offspring,[10] though hybrids between it and the latter species tend to be sterile, and are distinguished from their parent species by their larger size and more valuable pelts.[11]
+
+  The European polecat is the sole ancestor of the ferret, which was domesticated more than 2,000 years ago for the purpose of hunting vermin.[12] The species has otherwise been historically viewed negatively by humans. In Britain especially, the polecat was persecuted by gamekeepers, and became synonymous with promiscuity in early English literature. During modern times, the polecat is still scantly represented in popular culture when compared to other rare British mammals, and misunderstandings of its behaviour still persist in some rural areas.[13] Since 2008, it has been classified as Least Concern on the IUCN Red List due to its wide range and large numbers.[1]
+
+name: European polecat
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Storm_the_polecat.jpg/220px-Storm_the_polecat.jpg
+binomial_name: Mustela putorius
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Mustela > M. putorius
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] European polecat (Animalia > Chordata > Mammalia > Carnivora
+  > Mustelidae > Mustela > M. putorius)"
+...

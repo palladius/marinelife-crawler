@@ -1,0 +1,82 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Anguilliformes
+  Family: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Muraenidae
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Anguilliformes
+  - ''
+  title_name: Moray eel
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Anguilliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Eel" title="Eel">Anguilliformes</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Anguilliformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - ''
+  - <tr><td>Family:</td><td><a class="mw-selflink selflink">Muraenidae</a><br><small><a
+    href="/wiki/Rafinesque" class="mw-redirect" title="Rafinesque">Rafinesque</a>,
+    1810</small></td></tr>
+  taxo_byindex_9:
+  - Family
+  - ''
+wiki: https://en.wikipedia.org/wiki/Moray_eel
+latin_name: ''
+proper-description: |+
+  Moray eels, or Muraenidae (/ˈmɒreɪ, məˈreɪ/), are a family of eels whose members are found worldwide. There are approximately 200 species in 15 genera which are almost exclusively marine, but several species are regularly seen in brackish water, and a few are found in fresh water.[2]
+
+  The English name, from the early 17th century, derives from Portuguese moréia, which itself derives from Latin mūrēna, in turn from Greek μύραιναcode: ell promoted to code: el , muraina; these are the Latin and Greek names of the Mediterranean moray.[3][4]
+
+name: Moray eel
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Moray_eel.jpg/220px-Moray_eel.jpg
+binomial_name: "-"
+simple_description_p4: no P4 description
+short_taxo: 'Animalia > Chordata > Actinopterygii > Anguilliformes > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Moray eel (Animalia > Chordata > Actinopterygii > Anguilliformes
+  > )"
+...

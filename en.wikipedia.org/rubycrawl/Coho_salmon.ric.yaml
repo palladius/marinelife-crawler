@@ -1,0 +1,101 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Salmoniformes
+  Family: Salmonidae
+  Genus: Oncorhynchus
+  Species: O. kisutch
+fish_local_url_name: en.wikipedia.org/rubycrawl//Coho_salmon
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Salmoniformes
+  - Salmonidae
+  - Oncorhynchus
+  - O. kisutch
+  title_name: Coho salmon
+  taxo_byindex_verbose_3:
+  - 3
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_3:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_4:
+  - 4
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_4:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_5:
+  - 5
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_5:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_6:
+  - 6
+  - Order
+  - Salmoniformes
+  - <tr><td>Order:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmoniformes</a></td></tr>
+  taxo_byindex_6:
+  - Order
+  - Salmoniformes
+  taxo_byindex_verbose_7:
+  - 7
+  - Family
+  - Salmonidae
+  - <tr><td>Family:</td><td><a href="/wiki/Salmonidae" title="Salmonidae">Salmonidae</a></td></tr>
+  taxo_byindex_7:
+  - Family
+  - Salmonidae
+  taxo_byindex_verbose_8:
+  - 8
+  - Genus
+  - Oncorhynchus
+  - <tr><td>Genus:</td><td><a href="/wiki/Oncorhynchus" title="Oncorhynchus"><i>Oncorhynchus</i></a></td></tr>
+  taxo_byindex_8:
+  - Genus
+  - Oncorhynchus
+  taxo_byindex_verbose_9:
+  - 9
+  - Species
+  - O. kisutch
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>O. kisutch</b></i></div></td></tr>
+  taxo_byindex_9:
+  - Species
+  - O. kisutch
+wiki: https://en.wikipedia.org/wiki/Coho_salmon
+latin_name: Oncorhynchus kisutch
+proper-description: "The coho salmon (Oncorhynchus kisutch; Karuk: achvuun[1])  is
+  a species of anadromous fish in the salmon family and one of the five Pacific salmon
+  species. Coho salmon are also known as silver salmon or \"silvers\". The scientific
+  species name is based on the Russian common name kizhuch (кижуч).\n\n"
+name: Coho salmon
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Oncorhynchus_keta.jpeg/220px-Oncorhynchus_keta.jpeg
+binomial_name: Oncorhynchus kisutch
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Actinopterygii > Salmoniformes > Salmonidae > Oncorhynchus
+  > O. kisutch
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Coho salmon (Animalia > Chordata > Actinopterygii >
+  Salmoniformes > Salmonidae > Oncorhynchus > O. kisutch)"

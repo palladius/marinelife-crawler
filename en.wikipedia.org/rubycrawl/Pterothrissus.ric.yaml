@@ -1,0 +1,153 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: Albuliformes
+  Family: Albulidae
+  Genus: ''
+  Species: P. gissu
+  ? |-
+    Genus
+    Bathythrissa Günther 1877
+    Species
+    Istieus gissu (Hilgendorf 1877)
+    Bathythrissa dorsalis Günther 1877 [1]
+  : ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Pterothrissus
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  - |-
+    Genus
+    Bathythrissa Günther 1877
+    Species
+    Istieus gissu (Hilgendorf 1877)
+    Bathythrissa dorsalis Günther 1877 [1]
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - Albuliformes
+  - Albulidae
+  - ''
+  - P. gissu
+  - ''
+  title_name: Japanese gissu
+  taxo_byindex_verbose_5:
+  - 5
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_5:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_6:
+  - 6
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_6:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_7:
+  - 7
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_7:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - Albuliformes
+  - <tr><td>Order:</td><td><a href="/wiki/Bonefishes" title="Bonefishes">Albuliformes</a></td></tr>
+  taxo_byindex_8:
+  - Order
+  - Albuliformes
+  taxo_byindex_verbose_9:
+  - 9
+  - Family
+  - Albulidae
+  - <tr><td>Family:</td><td><a href="/wiki/Bonefishes" title="Bonefishes">Albulidae</a></td></tr>
+  taxo_byindex_9:
+  - Family
+  - Albulidae
+  taxo_byindex_verbose_11:
+  - 11
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Pterothrissus</i></a><br><small><a
+    href="/wiki/Franz_Martin_Hilgendorf" title="Franz Martin Hilgendorf">Hilgendorf</a>,
+    1877</small></td></tr>
+  taxo_byindex_11:
+  - Genus
+  - ''
+  taxo_byindex_verbose_12:
+  - 12
+  - Species
+  - P. gissu
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>P. gissu</b></i></div></td></tr>
+  taxo_byindex_12:
+  - Species
+  - P. gissu
+  taxo_byindex_verbose_16:
+  - 16
+  - |-
+    Genus
+    Bathythrissa Günther 1877
+    Species
+    Istieus gissu (Hilgendorf 1877)
+    Bathythrissa dorsalis Günther 1877 [1]
+  - ''
+  - '<tr><td colspan="2" style="text-align: left"><div class="collapsible-list mw-collapsible
+    mw-collapsed" style="text-align: left;"><div style="line-height: 1.6em; font-weight:
+    bold;"><div><small>Genus</small></div></div><ul class="mw-collapsible-content"
+    style="margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height:
+    inherit; margin: 0"> <i>Bathythrissa</i> <small>Günther 1877</small></li></ul></div><div
+    class="collapsible-list mw-collapsible mw-collapsed" style="text-align: left;"><div
+    style="line-height: 1.6em; font-weight: bold;"><div><small>Species</small></div></div><ul
+    class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height:
+    inherit;"><li style="line-height: inherit; margin: 0"> <i>Istieus gissu</i> <small>(Hilgendorf
+    1877)</small></li><li style="line-height: inherit; margin: 0"> <i>Bathythrissa
+    dorsalis</i> <small>Günther 1877</small> <sup id="cite_ref-Hidaka2016_1-0" class="reference"><a
+    href="#cite_note-Hidaka2016-1">[1]</a></sup></li></ul></div></td></tr>'
+  taxo_byindex_16:
+  - |-
+    Genus
+    Bathythrissa Günther 1877
+    Species
+    Istieus gissu (Hilgendorf 1877)
+    Bathythrissa dorsalis Günther 1877 [1]
+  - ''
+wiki: https://en.wikipedia.org/wiki/Japanese_gissu
+latin_name: Pterothrissus gissu
+proper-description: "Pterothrissus gissu, also known as the Japanese gissu, is a species
+  of ray-finned fish in the family Albulidae.[3] The Japanese gissu is a rare fish
+  that is distributed in deep water off northwest Pacific Ocean. This fish is known
+  to pass through a leptocephalus larval stage, but only metamorphosed (after reaching
+  the fully grown stage) specimens have been available.[4] This species is the only
+  member of its genus.[1]\n\n"
+name: Japanese gissu
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pterothrissus_gissu1.jpg/220px-Pterothrissus_gissu1.jpg
+binomial_name: Pterothrissus gissu
+simple_description_p4: Pterothrissus gissu, also known as the Japanese gissu, is a
+  species of ray-finned fish in the family Albulidae.[3] The Japanese gissu is a rare
+  fish that is distributed in deep water off northwest Pacific Ocean. This fish is
+  known to pass through a leptocephalus larval stage, but only metamorphosed (after
+  reaching the fully grown stage) specimens have been available.[4] This species is
+  the only member of its genus.[1]
+short_taxo: 'Animalia > Chordata > Actinopterygii > Albuliformes > Albulidae >  >
+  P. gissu > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Japanese gissu (Animalia > Chordata > Actinopterygii
+  > Albuliformes > Albulidae >  > P. gissu > )"

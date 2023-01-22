@@ -1,0 +1,206 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: ''
+  ? |-
+    billfish
+    bonito
+    mackerel
+    salmon
+    shark
+    tuna
+  : ''
+  ? |-
+    anchovy
+    herring
+    menhaden
+    sardine
+    shad
+    sprat
+  : ''
+  ? |-
+    cod
+    eel
+    flatfish
+    pollock
+    ray
+  : ''
+  ? |-
+    carp
+    tilapia
+  : ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Anguilliformes
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - |-
+    billfish
+    bonito
+    mackerel
+    salmon
+    shark
+    tuna
+  - |-
+    anchovy
+    herring
+    menhaden
+    sardine
+    shad
+    sprat
+  - |-
+    cod
+    eel
+    flatfish
+    pollock
+    ray
+  - |-
+    carp
+    tilapia
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  title_name: Eel
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - ''
+  - <tr><td>Order:</td><td><a class="mw-selflink selflink">Anguilliformes</a><br><small><a
+    href="/wiki/Lev_Berg" title="Lev Berg">L. S. Berg</a>, 1943</small></td></tr>
+  taxo_byindex_8:
+  - Order
+  - ''
+  taxo_byindex_verbose_19:
+  - 19
+  - |-
+    billfish
+    bonito
+    mackerel
+    salmon
+    shark
+    tuna
+  - ''
+  - <tr><td class="sidebar-content"><ul><li><a href="/wiki/Billfish#Species" title="Billfish">billfish</a></li><li><a
+    href="/wiki/Bonito#Species" title="Bonito">bonito</a></li><li><a href="/wiki/Mackerel#Species"
+    title="Mackerel">mackerel</a></li><li><a href="/wiki/Salmon#Species" title="Salmon">salmon</a></li><li><a
+    href="/wiki/Shark" title="Shark">shark</a></li><li><a href="/wiki/Tuna#Etymology"
+    title="Tuna">tuna</a></li></ul></td></tr>
+  taxo_byindex_19:
+  - |-
+    billfish
+    bonito
+    mackerel
+    salmon
+    shark
+    tuna
+  - ''
+  taxo_byindex_verbose_21:
+  - 21
+  - |-
+    anchovy
+    herring
+    menhaden
+    sardine
+    shad
+    sprat
+  - ''
+  - <tr><td class="sidebar-content"><ul><li><a href="/wiki/Anchovy#Commercial_species"
+    title="Anchovy">anchovy</a></li><li><a href="/wiki/Herring#Species" title="Herring">herring</a></li><li><a
+    href="/wiki/Menhaden#Taxonomy" title="Menhaden">menhaden</a></li><li><a href="/wiki/Sardine#Species"
+    title="Sardine">sardine</a></li><li><a href="/wiki/Shad#Systematics" class="mw-redirect"
+    title="Shad">shad</a></li><li><a href="/wiki/Sprat#Species" title="Sprat">sprat</a></li></ul></td></tr>
+  taxo_byindex_21:
+  - |-
+    anchovy
+    herring
+    menhaden
+    sardine
+    shad
+    sprat
+  - ''
+  taxo_byindex_verbose_23:
+  - 23
+  - |-
+    cod
+    eel
+    flatfish
+    pollock
+    ray
+  - ''
+  - <tr><td class="sidebar-content"><ul><li><a href="/wiki/Cod#Species" title="Cod">cod</a></li><li><a
+    class="mw-selflink-fragment" href="#Commercial%20species">eel</a></li><li><a href="/wiki/Flatfish#Species_and_species_groups"
+    title="Flatfish">flatfish</a></li><li><a href="/wiki/Pollock#Species" title="Pollock">pollock</a></li><li><a
+    href="/wiki/Batoidea" title="Batoidea">ray</a></li></ul></td></tr>
+  taxo_byindex_23:
+  - |-
+    cod
+    eel
+    flatfish
+    pollock
+    ray
+  - ''
+  taxo_byindex_verbose_25:
+  - 25
+  - |-
+    carp
+    tilapia
+  - ''
+  - <tr><td class="sidebar-content"><ul><li><a href="/wiki/Carp#Species" title="Carp">carp</a></li><li><a
+    href="/wiki/Tilapia#Species" title="Tilapia">tilapia</a></li></ul></td></tr>
+  taxo_byindex_25:
+  - |-
+    carp
+    tilapia
+  - ''
+wiki: https://en.wikipedia.org/wiki/Eel
+latin_name: ''
+proper-description: |+
+  Eels are ray-finned fish belonging to the order Anguilliformes (/æŋˈɡwɪlɪfɔːrmiːz/), which consists of eight suborders, 19 families, 111 genera, and about 800 species. Eels undergo considerable development from the early larval stage to the eventual adult stage and are usually predators.
+
+  The term "eel" is also used for some other eel-shaped fish, such as electric eels (genus Electrophorus), spiny eels (family Mastacembelidae), swamp eels (family Synbranchidae), and deep-sea spiny eels (family Notacanthidae). However, these other clades evolved their eel-like shapes independently from the true eels. Eels live both in salt and fresh water, and some species are catadromous.
+
+name: Eel
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anguilla_japonica_1856.jpg/240px-Anguilla_japonica_1856.jpg
+binomial_name: "-"
+simple_description_p4: no P4 description
+short_taxo: 'Animalia > Chordata > Actinopterygii >  >  >  >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Eel (Animalia > Chordata > Actinopterygii >  >  >  >
+  \ > )"
+...

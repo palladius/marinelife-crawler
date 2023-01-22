@@ -1,0 +1,114 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Artiodactyla
+  Family: Antilocapridae
+  Genus: Antilocapra
+  Species: A. americana[1]
+fish_local_url_name: en.wikipedia.org/rubycrawl//Pronghorn
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Artiodactyla
+  - Antilocapridae
+  - Antilocapra
+  - A. americana[1]
+  title_name: Pronghorn
+  taxo_byindex_verbose_9:
+  - 9
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_9:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_10:
+  - 10
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_10:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_11:
+  - 11
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_11:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_12:
+  - 12
+  - Order
+  - Artiodactyla
+  - <tr><td>Order:</td><td><a href="/wiki/Even-toed_ungulate" title="Even-toed ungulate">Artiodactyla</a></td></tr>
+  taxo_byindex_12:
+  - Order
+  - Artiodactyla
+  taxo_byindex_verbose_13:
+  - 13
+  - Family
+  - Antilocapridae
+  - <tr><td>Family:</td><td><a href="/wiki/Antilocapridae" title="Antilocapridae">Antilocapridae</a></td></tr>
+  taxo_byindex_13:
+  - Family
+  - Antilocapridae
+  taxo_byindex_verbose_16:
+  - 16
+  - Genus
+  - Antilocapra
+  - <tr><td>Genus:</td><td><a href="/wiki/Antilocapra" title="Antilocapra"><i>Antilocapra</i></a></td></tr>
+  taxo_byindex_16:
+  - Genus
+  - Antilocapra
+  taxo_byindex_verbose_17:
+  - 17
+  - Species
+  - A. americana[1]
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>A. americana<sup
+    id="cite_ref-MSW3_1-0" class="reference"><a href="#cite_note-MSW3-1">[1]</a></sup></b></i></div></td></tr>
+  taxo_byindex_17:
+  - Species
+  - A. americana[1]
+wiki: https://en.wikipedia.org/wiki/Pronghorn
+latin_name: Antilocapra americana
+proper-description: |+
+  The pronghorn (UK: /ˈprɒŋhɔːrn/, US: /ˈprɔːŋ-/)[4] (Antilocapra americana) is a species of artiodactyl (even-toed, hoofed) mammal indigenous to interior western and central North America. Though not an antelope, it is known colloquially in North America as the American antelope, prong buck, pronghorn antelope and prairie antelope,[5] because it closely resembles the antelopes of the Old World and fills a similar ecological niche due to parallel evolution.[6] It is the only surviving member of the family Antilocapridae.[7]
+
+  During the Pleistocene epoch, about 11 other antilocaprid species existed in North America.[8] Three other genera  (Capromeryx,[9][10] Stockoceros[11][12] and Tetrameryx[13]) existed when humans entered North America but are now extinct.
+
+  As a member of the superfamily Giraffoidea, the pronghorn's closest living relatives are the giraffe and okapi.[14] The Giraffoidea are in turn members of the infraorder Pecora, making pronghorns more distant relatives of the Cervidae (deer) and Bovidae (cattle, goats, sheep, antelopes, and gazelles), among others.
+
+  The pronghorn is the fastest land mammal in the Western Hemisphere, with running speeds of up to 88.5 km/h (55 mph). It is the symbol of the American Society of Mammalogists.[15]
+
+name: Pronghorn
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Antilocapra_americana.jpg/220px-Antilocapra_americana.jpg
+binomial_name: Antilocapra americana[1]
+simple_description_p4: 'The pronghorn (UK: /ˈprɒŋhɔːrn/, US: /ˈprɔːŋ-/)[4] (Antilocapra
+  americana) is a species of artiodactyl (even-toed, hoofed) mammal indigenous to
+  interior western and central North America. Though not an antelope, it is known
+  colloquially in North America as the American antelope, prong buck, pronghorn antelope
+  and prairie antelope,[5] because it closely resembles the antelopes of the Old World
+  and fills a similar ecological niche due to parallel evolution.[6] It is the only
+  surviving member of the family Antilocapridae.[7]'
+short_taxo: Animalia > Chordata > Mammalia > Artiodactyla > Antilocapridae > Antilocapra
+  > A. americana[1]
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Pronghorn (Animalia > Chordata > Mammalia > Artiodactyla
+  > Antilocapridae > Antilocapra > A. americana[1])"
+...

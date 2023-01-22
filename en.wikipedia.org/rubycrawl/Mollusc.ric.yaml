@@ -1,0 +1,225 @@
+---
+taxo:
+  Kingdom: Animalia
+  Subkingdom: Eumetazoa
+  Clade: Nephrozoa
+  Superphylum: Lophotrochozoa
+  Phylum: ''
+  '': ''
+  See text.: ''
+  " ": Whether characteristic is found in these classes of Molluscs
+fish_local_url_name: en.wikipedia.org/rubycrawl//Mollusc
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Subkingdom
+  - Clade
+  - Clade
+  - Clade
+  - Superphylum
+  - Phylum
+  - ''
+  - See text.
+  - " "
+  - ''
+  arrvals:
+  - Animalia
+  - Eumetazoa
+  - ParaHoxozoa
+  - Bilateria
+  - Nephrozoa
+  - Lophotrochozoa
+  - ''
+  - ''
+  - ''
+  - Whether characteristic is found in these classes of Molluscs
+  - ''
+  title_name: Mollusca
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Subkingdom
+  - Eumetazoa
+  - <tr><td>Subkingdom:</td><td><a href="/wiki/Eumetazoa" title="Eumetazoa">Eumetazoa</a></td></tr>
+  taxo_byindex_5:
+  - Subkingdom
+  - Eumetazoa
+  taxo_byindex_verbose_6:
+  - 6
+  - Clade
+  - ParaHoxozoa
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/ParaHoxozoa" title="ParaHoxozoa">ParaHoxozoa</a></td></tr>
+  taxo_byindex_6:
+  - Clade
+  - ParaHoxozoa
+  taxo_byindex_verbose_7:
+  - 7
+  - Clade
+  - Bilateria
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Bilateria" title="Bilateria">Bilateria</a></td></tr>
+  taxo_byindex_7:
+  - Clade
+  - Bilateria
+  taxo_byindex_verbose_8:
+  - 8
+  - Clade
+  - Nephrozoa
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Nephrozoa" title="Nephrozoa">Nephrozoa</a></td></tr>
+  taxo_byindex_8:
+  - Clade
+  - Nephrozoa
+  taxo_byindex_verbose_11:
+  - 11
+  - Superphylum
+  - Lophotrochozoa
+  - <tr><td>Superphylum:</td><td><a href="/wiki/Lophotrochozoa" title="Lophotrochozoa">Lophotrochozoa</a></td></tr>
+  taxo_byindex_11:
+  - Superphylum
+  - Lophotrochozoa
+  taxo_byindex_verbose_12:
+  - 12
+  - Phylum
+  - ''
+  - <tr><td>Phylum:</td><td><a class="mw-selflink selflink">Mollusca</a><br><small><a
+    href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae"
+    title="10th edition of Systema Naturae">1758</a></small></td></tr>
+  taxo_byindex_12:
+  - Phylum
+  - ''
+  taxo_byindex_verbose_13:
+  - 13
+  - ''
+  - ''
+  - '<tr><th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Classes</th></tr>'
+  taxo_byindex_13:
+  - ''
+  - ''
+  taxo_byindex_verbose_14:
+  - 14
+  - See text.
+  - ''
+  - '<tr><td colspan="2" style="text-align: left"><p><a href="#Classification">See
+    text</a>.</p></td></tr>'
+  taxo_byindex_14:
+  - See text.
+  - ''
+  taxo_byindex_verbose_17:
+  - 17
+  - " "
+  - Whether characteristic is found in these classes of Molluscs
+  - <tr><td> </td><td colspan="7" style="text-align:center;"><b>Whether characteristic
+    is found in these <a href="/wiki/Class_(biology)" title="Class (biology)">classes</a>
+    of Molluscs</b></td></tr>
+  taxo_byindex_17:
+  - " "
+  - Whether characteristic is found in these classes of Molluscs
+  taxo_byindex_verbose_26:
+  - 26
+  - ''
+  - ''
+  - <tr><th style="width:120px;">Class</th><th style="width:340px;">Major organisms</th><th
+    style="width:110px;">Described living species<sup id="cite_ref-Haszprunar2001MolluscsInEncOfLifeSci_20-2"
+    class="reference"><a href="#cite_note-Haszprunar2001MolluscsInEncOfLifeSci-20">[19]</a></sup></th><th>Distribution</th></tr>
+  taxo_byindex_26:
+  - ''
+  - ''
+wiki: https://en.wikipedia.org/wiki/Mollusca
+latin_name: ''
+proper-description: |+
+  Mollusca is the second-largest phylum of invertebrate animals after the Arthropoda, the members of which are known as molluscs or mollusks[a] (/ˈmɒləsk/). Around 85,000 extant species of molluscs are recognized.[3] The number of fossil species is estimated between 60,000 and 100,000 additional species.[4] The proportion of undescribed species is very high. Many taxa remain poorly studied.[5]
+
+  Molluscs are the largest marine phylum, comprising about 23% of all the named marine organisms. Numerous molluscs also live in freshwater and terrestrial habitats. They are highly diverse, not just in size and  anatomical structure, but also in behaviour and  habitat. The phylum is typically divided into 7 or 8[6] taxonomic classes, of which two are entirely extinct. Cephalopod molluscs, such as squid, cuttlefish, and octopuses, are among the most neurologically advanced of all invertebrates—and either the giant squid or the colossal squid is the largest known invertebrate species. The gastropods (snails and slugs) are by far the most numerous molluscs and account for 80% of the total classified species.
+
+  The three most universal features defining modern molluscs are a mantle with a significant cavity used for breathing and excretion, the presence of a radula (except for bivalves), and the structure of the nervous system. Other than these common elements, molluscs express great morphological diversity, so many textbooks base their descriptions on a "hypothetical ancestral mollusc" (see image below). This has a single, "limpet-like" shell on top, which is made of proteins and chitin reinforced with calcium carbonate, and is secreted by a mantle covering the whole upper surface. The underside of the animal consists of a single muscular "foot". Although molluscs are coelomates, the coelom tends to be small.
+  The main body cavity is a hemocoel through which blood circulates; as such, their circulatory systems are mainly open. The "generalized" mollusc's feeding system consists of a rasping "tongue", the radula, and a complex digestive system in which exuded mucus and microscopic, muscle-powered "hairs" called cilia play various important roles. The generalized mollusc has two paired nerve cords, or three in bivalves. The brain, in species that have one, encircles the esophagus. Most molluscs have eyes, and all have sensors to detect chemicals, vibrations, and touch. The simplest type of molluscan reproductive system relies on external fertilization, but more complex variations occur. Nearly all produce eggs, from which may emerge trochophore larvae, more complex veliger larvae, or miniature adults. The coelomic  cavity is reduced. They have an open circulatory system and kidney-like organs for excretion.
+
+  Good evidence exists for the appearance of gastropods, cephalopods, and bivalves in the Cambrian period, 541–485.4 million years ago. However, the evolutionary history both of molluscs' emergence from the ancestral Lophotrochozoa and of their diversification into the well-known living and fossil forms are still subjects of vigorous debate among scientists.
+
+  Molluscs have been and still are an important food source for anatomically modern humans. Toxins that can accumulate in certain molluscs under specific conditions create a risk of food poisoning, and many jurisdictions have regulations to reduce this risk. Molluscs have, for centuries, also been the source of important luxury goods, notably pearls, mother of pearl, Tyrian purple dye, and sea silk. Their shells have also been used as money in some preindustrial societies.
+
+  A handful of mollusc species are sometimes considered hazards or pests for human activities. The bite of the blue-ringed octopus is often fatal, and that of Octopus apollyon causes inflammation that can last over a month. Stings from a few species of large tropical cone shells can also kill, but their sophisticated, though easily produced, venoms have become important tools in neurological research. Schistosomiasis (also known as bilharzia, bilharziosis, or snail fever) is transmitted to humans by water snail hosts, and affects about 200 million people. Snails and slugs can also be serious agricultural pests, and accidental or deliberate introduction of some snail species into new environments has seriously damaged some ecosystems.
+
+name: Mollusca
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mollusk_collage.jpg/260px-Mollusk_collage.jpg
+binomial_name: "-"
+simple_description_p4: ''
+short_taxo: 'Animalia > Eumetazoa > ParaHoxozoa > Bilateria > Nephrozoa > Lophotrochozoa
+  >  >  >  > Whether characteristic is found in these classes of Molluscs > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+  Wikidata:
+    link: https://www.wikidata.org/wiki/Q25326
+    text: Q25326
+    title: Wikidata
+  Wikispecies:
+    link: https://species.wikimedia.org/wiki/Mollusca
+    text: Mollusca
+    title: Wikispecies
+  Animal Diversity Web:
+    link: https://animaldiversity.org/accounts/Mollusca/
+    text: Mollusca
+    title: Animal Diversity Web
+  Australian Faunal Directory:
+    link: https://biodiversity.org.au/afd/taxa/Mollusca
+    text: Mollusca
+    title: Australian Faunal Directory
+  Barcode of Life Data System:
+    link: http://www.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=23
+    text: '23'
+    title: Barcode of Life Data System
+  Encyclopedia of Life:
+    link: https://eol.org/pages/2195
+    text: '2195'
+    title: Encyclopedia of Life
+  EPPO Code:
+    link: https://gd.eppo.int/taxon/1MOLLP
+    text: 1MOLLP
+    title: EPPO Code
+  Fauna Europaea:
+    link: https://fauna-eu.org/cdm_dataportal/taxon/064ca66d-38c4-4454-8d16-64c5e8fa0292
+    text: 064ca66d-38c4-4454-8d16-64c5e8fa0292
+    title: Fauna Europaea
+  Fossilworks:
+    link: http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=7805
+    text: '7805'
+    title: Fossilworks
+  Global Biodiversity Information Facility:
+    link: https://www.gbif.org/species/52
+    text: '52'
+    title: Global Biodiversity Information Facility
+  INaturalist:
+    link: https://www.inaturalist.org/taxa/47115
+    text: '47115'
+    title: INaturalist
+  Interim Register of Marine and Nonmarine Genera:
+    link: https://www.irmng.org/aphia.php?p=taxdetails&id=175
+    text: '175'
+    title: Interim Register of Marine and Nonmarine Genera
+  Integrated Taxonomic Information System:
+    link: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69458
+    text: '69458'
+    title: Integrated Taxonomic Information System
+  National Center for Biotechnology Information:
+    link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=6447
+    text: '6447'
+    title: National Center for Biotechnology Information
+  ! '':
+    link: http://www.ubio.org/browser/details.php?namebankID=230454
+    text: '230454'
+    title:
+  World Register of Marine Species:
+    link: https://www.marinespecies.org/aphia.php?p=taxdetails&id=51
+    text: '51'
+    title: World Register of Marine Species
+valid: true
+name_with_short_taxo: "[true] Mollusca (Animalia > Eumetazoa > ParaHoxozoa > Bilateria
+  > Nephrozoa > Lophotrochozoa >  >  >  > Whether characteristic is found in these
+  classes of Molluscs > )"
+...

@@ -1,0 +1,86 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Actinopterygii
+  Order: ''
+  Family: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Albuliformes
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  arrvals:
+  - Animalia
+  - Chordata
+  - Actinopterygii
+  - ''
+  - ''
+  title_name: Bonefishes
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Actinopterygii
+  - <tr><td>Class:</td><td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Actinopterygii
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - ''
+  - <tr><td>Order:</td><td><a class="mw-selflink selflink">Albuliformes</a><br><small><a
+    href="/wiki/Peter_Humphry_Greenwood" class="mw-redirect" title="Peter Humphry
+    Greenwood">Greenwood</a>, 1977</small></td></tr>
+  taxo_byindex_10:
+  - Order
+  - ''
+  taxo_byindex_verbose_11:
+  - 11
+  - Family
+  - ''
+  - <tr><td>Family:</td><td><a class="mw-selflink selflink">Albulidae</a><br><small><a
+    href="/wiki/Pieter_Bleeker" title="Pieter Bleeker">Bleeker</a>, 1859</small></td></tr>
+  taxo_byindex_11:
+  - Family
+  - ''
+wiki: https://en.wikipedia.org/wiki/Bonefishes
+latin_name: ''
+proper-description: "Albulidae is a family of fish, commonly known as the bonefishes,
+  that are popular as game fish in Florida, select locations in the South Pacific
+  and the Bahamas (where two bonefish are featured on the 10-cent coin) and elsewhere.
+  The family is small, with 11 species in 3 genera.[2] Presently, the bonefishes are
+  in their own order: Albuliformes /ˈælbjəlɪfɔːrmiːz/. The families Halosauridae and
+  Notacanthidae were previously classified in this order,[5] but are now, according
+  to FishBase, given their own order Notacanthiformes.[6] The largest bonefish caught
+  in the Western Hemisphere is a 16-pound, 3 ounce example caught off Islamorada,
+  Florida, on March 19, 2007.[7]\n\n"
+name: Bonefishes
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bonefish_Albula_vulpes.jpg/220px-Bonefish_Albula_vulpes.jpg
+binomial_name: "-"
+simple_description_p4: ''
+short_taxo: 'Animalia > Chordata > Actinopterygii >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Bonefishes (Animalia > Chordata > Actinopterygii >  >
+  )"

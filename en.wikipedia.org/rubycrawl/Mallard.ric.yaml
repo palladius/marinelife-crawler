@@ -1,0 +1,104 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Aves
+  Order: Anseriformes
+  Family: Anatidae
+  Genus: Anas
+  Species: A. platyrhynchos
+fish_local_url_name: en.wikipedia.org/rubycrawl//Mallard
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Aves
+  - Anseriformes
+  - Anatidae
+  - Anas
+  - A. platyrhynchos
+  title_name: Mallard
+  taxo_byindex_verbose_8:
+  - 8
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_8:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_9:
+  - 9
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_9:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_10:
+  - 10
+  - Class
+  - Aves
+  - <tr><td>Class:</td><td><a href="/wiki/Bird" title="Bird">Aves</a></td></tr>
+  taxo_byindex_10:
+  - Class
+  - Aves
+  taxo_byindex_verbose_11:
+  - 11
+  - Order
+  - Anseriformes
+  - <tr><td>Order:</td><td><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></td></tr>
+  taxo_byindex_11:
+  - Order
+  - Anseriformes
+  taxo_byindex_verbose_12:
+  - 12
+  - Family
+  - Anatidae
+  - <tr><td>Family:</td><td><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></td></tr>
+  taxo_byindex_12:
+  - Family
+  - Anatidae
+  taxo_byindex_verbose_13:
+  - 13
+  - Genus
+  - Anas
+  - <tr><td>Genus:</td><td><a href="/wiki/Anas" title="Anas"><i>Anas</i></a></td></tr>
+  taxo_byindex_13:
+  - Genus
+  - Anas
+  taxo_byindex_verbose_14:
+  - 14
+  - Species
+  - A. platyrhynchos
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>A. platyrhynchos</b></i></div></td></tr>
+  taxo_byindex_14:
+  - Species
+  - A. platyrhynchos
+wiki: https://en.wikipedia.org/wiki/Mallard
+latin_name: Anas platyrhynchos
+proper-description: |+
+  The mallard (/ˈmælɑːrd, ˈmælərd/) or wild duck (Anas platyrhynchos) is a dabbling duck that breeds throughout the temperate and subtropical Americas, Eurasia, and North Africa, and has been introduced to New Zealand, Australia, Peru, Brazil, Uruguay, Argentina, Chile, Colombia, the Falkland Islands, and South Africa. This duck belongs to the subfamily Anatinae of the waterfowl family Anatidae. Males have purple patches on their wings, while the females (hens or ducks) have mainly brown-speckled plumage. Both sexes have an area of white-bordered black or iridescent blue feathers called a speculum on their wings; males especially tend to have blue speculum feathers. The mallard is 50–65 cm (20–26 in) long, of which the body makes up around two-thirds the length. The wingspan is 81–98 cm (32–39 in) and the bill is 4.4 to 6.1 cm (1.7 to 2.4 in) long. It is often slightly heavier than most other dabbling ducks, weighing 0.7–1.6 kg (1.5–3.5 lb). Mallards live in wetlands, eat water plants and small animals, and are social animals preferring to congregate in groups or flocks of varying sizes.
+
+  The female lays 8 to 13 creamy white to greenish-buff spotless eggs, on alternate days. Incubation takes 27 to 28 days and fledging takes 50 to 60 days. The ducklings are precocial and fully capable of swimming as soon as they hatch.
+
+  The mallard is considered to be a species of least concern by the International Union for Conservation of Nature (IUCN). Unlike many waterfowl, mallards are considered an invasive species in some regions. It is a very adaptable species, being able to live and even thrive in urban areas which may have supported more localised, sensitive species of waterfowl before development. The non-migratory mallard interbreeds with indigenous wild ducks of closely related species through genetic pollution by producing fertile offspring. Complete hybridisation of various species of wild duck gene pools could result in the extinction of many indigenous waterfowl. This species is the main ancestor of most breeds of domestic duck, and its naturally evolved wild gene pool has been genetically polluted by the domestic and feral mallard populations.
+
+name: Mallard
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/220px-Anas_platyrhynchos_male_female_quadrat.jpg
+binomial_name: Anas platyrhynchos
+simple_description_p4: ''
+short_taxo: Animalia > Chordata > Aves > Anseriformes > Anatidae > Anas > A. platyrhynchos
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Mallard (Animalia > Chordata > Aves > Anseriformes >
+  Anatidae > Anas > A. platyrhynchos)"
+...

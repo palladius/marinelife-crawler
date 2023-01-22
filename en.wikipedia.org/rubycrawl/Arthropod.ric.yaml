@@ -1,0 +1,433 @@
+---
+taxo:
+  Kingdom: Animalia
+  Subkingdom: Eumetazoa
+  Clade: Nephrozoa
+  Superphylum: Ecdysozoa
+  Phylum: ''
+  ? |-
+    †Dinocaridida
+    †Kerygmachela (Sometimes treated as lobopodian)
+    †Pambdelurion (Sometimes treated as lobopodian)
+    †Opabiniidae
+    †Radiodonta (e.g. Anomalocaris)
+    †Isoxys (Isoxyida)[2]
+    †Erratus[3]
+    †Fengzhengia[4]
+    †Kylinxia[2]
+    Class †Megacheira (possibly paraphyletic)
+    †Kiisortoqia
+    †Fuxianhuiida
+    †Bradoriida
+    Class †Artiopoda
+    †Trilobita – trilobites
+    †Nektaspida
+    †Aglaspidida
+    †Cheloniellida
+    Subphylum Chelicerata
+    Pycnogonida – sea spiders
+    †Eurypterida – sea scorpions
+    Xiphosura – horseshoe crabs
+    Arachnida – mites, scorpions, spiders, etc.
+    †Phosphatocopina (stem mandibulate?)[5]
+    Clade Mandibulata
+    †Hymenocarina
+    †Euthycarcinoidea
+    †Thylacocephala?[6]
+    Subphylum Myriapoda
+    Symphyla – pseudocentipedes
+    Pauropoda – pauropods
+    Diplopoda – millipedes
+    Chilopoda – centipedes
+    Subphylum Pancrustacea
+    Superclass Oligostraca
+    Ostracoda – seed shrimp
+    Mystacocarida
+    Branchiura – fish lice
+    Pentastomida – tongue worms
+    Superclass Multicrustacea
+    Thecostraca – barnacles
+    Hexanauplia  – copepods
+    Malacostraca – isopods, amphipods, decapods, krill, etc.
+    Clade Allotriocarida
+    Cephalocarida – horseshoe shrimp
+    Branchiopoda – brine shrimp, tadpole shrimp, water fleas, etc.
+    Remipedia – remipedes
+    Hexapoda – insects, etc.
+    Incertae sedis
+    †Camptophyllia[7]
+    †Parioscorpio[8]
+    †Sarotrocercus[9]
+    †Wingertshellicus[10]
+    †Marrellomorpha
+  : ''
+  '': ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Arthropod
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Subkingdom
+  - Clade
+  - Clade
+  - Clade
+  - Superphylum
+  - Phylum
+  - |-
+    †Dinocaridida
+    †Kerygmachela (Sometimes treated as lobopodian)
+    †Pambdelurion (Sometimes treated as lobopodian)
+    †Opabiniidae
+    †Radiodonta (e.g. Anomalocaris)
+    †Isoxys (Isoxyida)[2]
+    †Erratus[3]
+    †Fengzhengia[4]
+    †Kylinxia[2]
+    Class †Megacheira (possibly paraphyletic)
+    †Kiisortoqia
+    †Fuxianhuiida
+    †Bradoriida
+    Class †Artiopoda
+    †Trilobita – trilobites
+    †Nektaspida
+    †Aglaspidida
+    †Cheloniellida
+    Subphylum Chelicerata
+    Pycnogonida – sea spiders
+    †Eurypterida – sea scorpions
+    Xiphosura – horseshoe crabs
+    Arachnida – mites, scorpions, spiders, etc.
+    †Phosphatocopina (stem mandibulate?)[5]
+    Clade Mandibulata
+    †Hymenocarina
+    †Euthycarcinoidea
+    †Thylacocephala?[6]
+    Subphylum Myriapoda
+    Symphyla – pseudocentipedes
+    Pauropoda – pauropods
+    Diplopoda – millipedes
+    Chilopoda – centipedes
+    Subphylum Pancrustacea
+    Superclass Oligostraca
+    Ostracoda – seed shrimp
+    Mystacocarida
+    Branchiura – fish lice
+    Pentastomida – tongue worms
+    Superclass Multicrustacea
+    Thecostraca – barnacles
+    Hexanauplia  – copepods
+    Malacostraca – isopods, amphipods, decapods, krill, etc.
+    Clade Allotriocarida
+    Cephalocarida – horseshoe shrimp
+    Branchiopoda – brine shrimp, tadpole shrimp, water fleas, etc.
+    Remipedia – remipedes
+    Hexapoda – insects, etc.
+    Incertae sedis
+    †Camptophyllia[7]
+    †Parioscorpio[8]
+    †Sarotrocercus[9]
+    †Wingertshellicus[10]
+    †Marrellomorpha
+  - ''
+  arrvals:
+  - Animalia
+  - Eumetazoa
+  - ParaHoxozoa
+  - Bilateria
+  - Nephrozoa
+  - Ecdysozoa
+  - ''
+  - ''
+  - ''
+  title_name: Arthropod
+  taxo_byindex_verbose_3:
+  - 3
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_3:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_4:
+  - 4
+  - Subkingdom
+  - Eumetazoa
+  - <tr><td>Subkingdom:</td><td><a href="/wiki/Eumetazoa" title="Eumetazoa">Eumetazoa</a></td></tr>
+  taxo_byindex_4:
+  - Subkingdom
+  - Eumetazoa
+  taxo_byindex_verbose_5:
+  - 5
+  - Clade
+  - ParaHoxozoa
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/ParaHoxozoa" title="ParaHoxozoa">ParaHoxozoa</a></td></tr>
+  taxo_byindex_5:
+  - Clade
+  - ParaHoxozoa
+  taxo_byindex_verbose_6:
+  - 6
+  - Clade
+  - Bilateria
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Bilateria" title="Bilateria">Bilateria</a></td></tr>
+  taxo_byindex_6:
+  - Clade
+  - Bilateria
+  taxo_byindex_verbose_7:
+  - 7
+  - Clade
+  - Nephrozoa
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Nephrozoa" title="Nephrozoa">Nephrozoa</a></td></tr>
+  taxo_byindex_7:
+  - Clade
+  - Nephrozoa
+  taxo_byindex_verbose_9:
+  - 9
+  - Superphylum
+  - Ecdysozoa
+  - <tr><td>Superphylum:</td><td><a href="/wiki/Ecdysozoa" title="Ecdysozoa">Ecdysozoa</a></td></tr>
+  taxo_byindex_9:
+  - Superphylum
+  - Ecdysozoa
+  taxo_byindex_verbose_12:
+  - 12
+  - Phylum
+  - ''
+  - <tr><td>Phylum:</td><td><a class="mw-selflink selflink">Arthropoda</a><br><small>von
+    Siebold, 1848<sup id="cite_ref-Ortega-Hernández_1-0" class="reference"><a href="#cite_note-Ortega-Hern%C3%A1ndez-1">[1]</a></sup></small></td></tr>
+  taxo_byindex_12:
+  - Phylum
+  - ''
+  taxo_byindex_verbose_14:
+  - 14
+  - |-
+    †Dinocaridida
+    †Kerygmachela (Sometimes treated as lobopodian)
+    †Pambdelurion (Sometimes treated as lobopodian)
+    †Opabiniidae
+    †Radiodonta (e.g. Anomalocaris)
+    †Isoxys (Isoxyida)[2]
+    †Erratus[3]
+    †Fengzhengia[4]
+    †Kylinxia[2]
+    Class †Megacheira (possibly paraphyletic)
+    †Kiisortoqia
+    †Fuxianhuiida
+    †Bradoriida
+    Class †Artiopoda
+    †Trilobita – trilobites
+    †Nektaspida
+    †Aglaspidida
+    †Cheloniellida
+    Subphylum Chelicerata
+    Pycnogonida – sea spiders
+    †Eurypterida – sea scorpions
+    Xiphosura – horseshoe crabs
+    Arachnida – mites, scorpions, spiders, etc.
+    †Phosphatocopina (stem mandibulate?)[5]
+    Clade Mandibulata
+    †Hymenocarina
+    †Euthycarcinoidea
+    †Thylacocephala?[6]
+    Subphylum Myriapoda
+    Symphyla – pseudocentipedes
+    Pauropoda – pauropods
+    Diplopoda – millipedes
+    Chilopoda – centipedes
+    Subphylum Pancrustacea
+    Superclass Oligostraca
+    Ostracoda – seed shrimp
+    Mystacocarida
+    Branchiura – fish lice
+    Pentastomida – tongue worms
+    Superclass Multicrustacea
+    Thecostraca – barnacles
+    Hexanauplia  – copepods
+    Malacostraca – isopods, amphipods, decapods, krill, etc.
+    Clade Allotriocarida
+    Cephalocarida – horseshoe shrimp
+    Branchiopoda – brine shrimp, tadpole shrimp, water fleas, etc.
+    Remipedia – remipedes
+    Hexapoda – insects, etc.
+    Incertae sedis
+    †Camptophyllia[7]
+    †Parioscorpio[8]
+    †Sarotrocercus[9]
+    †Wingertshellicus[10]
+    †Marrellomorpha
+  - ''
+  - '<tr><td colspan="2" style="text-align: left"><ul><li>†<b><a href="/wiki/Dinocaridida"
+    title="Dinocaridida">Dinocaridida</a></b><ul><li>†<i><a href="/wiki/Kerygmachela"
+    title="Kerygmachela">Kerygmachela</a></i> (Sometimes treated as <a href="/wiki/Lobopodia"
+    title="Lobopodia">lobopodian</a>)</li><li>†<i><a href="/wiki/Pambdelurion" title="Pambdelurion">Pambdelurion</a></i>
+    (Sometimes treated as lobopodian)</li><li>†<a href="/wiki/Opabiniidae" title="Opabiniidae">Opabiniidae</a></li><li>†<a
+    href="/wiki/Radiodonta" title="Radiodonta">Radiodonta</a> (e.g. <i><a href="/wiki/Anomalocaris"
+    title="Anomalocaris">Anomalocaris</a></i>)</li></ul></li><li>†<i><a href="/wiki/Isoxys"
+    title="Isoxys">Isoxys</a></i> (<a href="/w/index.php?title=Isoxyida&amp;action=edit&amp;redlink=1"
+    class="new" title="Isoxyida (page does not exist)">Isoxyida</a>)<sup id="cite_ref-Kylinxia_2-0"
+    class="reference"><a href="#cite_note-Kylinxia-2">[2]</a></sup></li><li>†<i><a
+    href="/wiki/Erratus" title="Erratus">Erratus</a></i><sup id="cite_ref-3" class="reference"><a
+    href="#cite_note-3">[3]</a></sup></li><li>†<i><a href="/wiki/Fengzhengia" title="Fengzhengia">Fengzhengia</a></i><sup
+    id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li><li>†<i><a
+    href="/wiki/Kylinxia" title="Kylinxia">Kylinxia</a></i><sup id="cite_ref-Kylinxia_2-1"
+    class="reference"><a href="#cite_note-Kylinxia-2">[2]</a></sup></li><li><b>Class
+    †<a href="/wiki/Megacheira" title="Megacheira">Megacheira</a></b> (possibly paraphyletic)</li><li>†<i><a
+    href="/wiki/Kiisortoqia" title="Kiisortoqia">Kiisortoqia</a></i></li><li>†<a href="/wiki/Fuxianhuiida"
+    title="Fuxianhuiida">Fuxianhuiida</a></li><li>†<a href="/wiki/Bradoriida" title="Bradoriida">Bradoriida</a></li><li><b>Class
+    †<a href="/wiki/Artiopoda" title="Artiopoda">Artiopoda</a></b><ul><li>†<a href="/wiki/Trilobita"
+    class="mw-redirect" title="Trilobita">Trilobita</a> – <a href="/wiki/Trilobite"
+    title="Trilobite">trilobites</a></li><li>†<a href="/wiki/Nektaspida" title="Nektaspida">Nektaspida</a></li><li>†<a
+    href="/wiki/Aglaspidida" title="Aglaspidida">Aglaspidida</a></li><li>†<a href="/wiki/Cheloniellida"
+    title="Cheloniellida">Cheloniellida</a></li></ul></li><li><b>Subphylum <a href="/wiki/Chelicerata"
+    title="Chelicerata">Chelicerata</a></b><ul><li><a href="/wiki/Pycnogonida" class="mw-redirect"
+    title="Pycnogonida">Pycnogonida</a> – <a href="/wiki/Sea_spider" title="Sea spider">sea
+    spiders</a></li><li>†<a href="/wiki/Eurypterida" class="mw-redirect" title="Eurypterida">Eurypterida</a> –
+    <a href="/wiki/Eurypterida" class="mw-redirect" title="Eurypterida">sea scorpions</a></li><li><a
+    href="/wiki/Xiphosura" title="Xiphosura">Xiphosura</a> – <a href="/wiki/Horseshoe_crab"
+    title="Horseshoe crab">horseshoe crabs</a></li><li><a href="/wiki/Arachnida" class="mw-redirect"
+    title="Arachnida">Arachnida</a> – <a href="/wiki/Mite" title="Mite">mites</a>,
+    <a href="/wiki/Scorpion" title="Scorpion">scorpions</a>, <a href="/wiki/Spider"
+    title="Spider">spiders</a>, etc.</li></ul></li><li>†<a href="/wiki/Phosphatocopina"
+    title="Phosphatocopina">Phosphatocopina</a> (stem mandibulate?)<sup id="cite_ref-5"
+    class="reference"><a href="#cite_note-5">[5]</a></sup></li><li><b>Clade <a href="/wiki/Mandibulata"
+    title="Mandibulata">Mandibulata</a></b><ul><li>†<a href="/wiki/Hymenocarina" title="Hymenocarina">Hymenocarina</a></li><li>†<a
+    href="/wiki/Euthycarcinoidea" title="Euthycarcinoidea">Euthycarcinoidea</a></li><li>†<a
+    href="/wiki/Thylacocephala" title="Thylacocephala">Thylacocephala</a>?<sup id="cite_ref-:pulsipher2022_6-0"
+    class="reference"><a href="#cite_note-:pulsipher2022-6">[6]</a></sup></li><li><b>Subphylum
+    <a href="/wiki/Myriapoda" title="Myriapoda">Myriapoda</a></b><ul><li><a href="/wiki/Symphyla"
+    title="Symphyla">Symphyla</a> – <a href="/wiki/Pseudocentipede" class="mw-redirect"
+    title="Pseudocentipede">pseudocentipedes</a></li><li><a href="/wiki/Pauropoda"
+    title="Pauropoda">Pauropoda</a> – <a href="/wiki/Pauropod" class="mw-redirect"
+    title="Pauropod">pauropods</a></li><li><a href="/wiki/Diplopoda" class="mw-redirect"
+    title="Diplopoda">Diplopoda</a> – <a href="/wiki/Millipede" title="Millipede">millipedes</a></li><li><a
+    href="/wiki/Chilopoda" class="mw-redirect" title="Chilopoda">Chilopoda</a> – <a
+    href="/wiki/Centipede" title="Centipede">centipedes</a></li></ul></li><li><b>Subphylum
+    <a href="/wiki/Pancrustacea" title="Pancrustacea">Pancrustacea</a></b><ul><li><b>Superclass
+    <a href="/wiki/Oligostraca" title="Oligostraca">Oligostraca</a></b><ul><li><a
+    href="/wiki/Ostracoda" class="mw-redirect" title="Ostracoda">Ostracoda</a> – <a
+    href="/wiki/Seed_shrimp" class="mw-redirect" title="Seed shrimp">seed shrimp</a></li><li><a
+    href="/wiki/Mystacocarida" class="mw-redirect" title="Mystacocarida">Mystacocarida</a></li><li><a
+    href="/wiki/Branchiura" class="mw-redirect" title="Branchiura">Branchiura</a> –
+    <a href="/wiki/Fish_lice" class="mw-redirect" title="Fish lice">fish lice</a></li><li><a
+    href="/wiki/Pentastomida" title="Pentastomida">Pentastomida</a> – <a href="/wiki/Tongue_worm"
+    class="mw-redirect" title="Tongue worm">tongue worms</a></li></ul></li><li><b>Superclass
+    <a href="/wiki/Multicrustacea" title="Multicrustacea">Multicrustacea</a></b><ul><li><a
+    href="/wiki/Thecostraca" title="Thecostraca">Thecostraca</a> – <a href="/wiki/Barnacle"
+    title="Barnacle">barnacles</a></li><li><a href="/wiki/Hexanauplia" title="Hexanauplia">Hexanauplia</a>
+     – <a href="/wiki/Copepod" title="Copepod">copepods</a></li><li><a href="/wiki/Malacostraca"
+    title="Malacostraca">Malacostraca</a> – <a href="/wiki/Isopod" class="mw-redirect"
+    title="Isopod">isopods</a>, <a href="/wiki/Amphipod" class="mw-redirect" title="Amphipod">amphipods</a>,
+    <a href="/wiki/Decapoda" title="Decapoda">decapods</a>, <a href="/wiki/Krill"
+    title="Krill">krill</a>, etc.</li></ul></li><li><b>Clade Allotriocarida</b><ul><li><a
+    href="/wiki/Cephalocarida" title="Cephalocarida">Cephalocarida</a> – <a href="/wiki/Horseshoe_shrimp"
+    class="mw-redirect" title="Horseshoe shrimp">horseshoe shrimp</a></li><li><a href="/wiki/Branchiopoda"
+    title="Branchiopoda">Branchiopoda</a> – <a href="/wiki/Brine_shrimp" title="Brine
+    shrimp">brine shrimp</a>, <a href="/wiki/Tadpole_shrimp" class="mw-redirect" title="Tadpole
+    shrimp">tadpole shrimp</a>, <a href="/wiki/Water_flea" class="mw-redirect" title="Water
+    flea">water fleas</a>, etc.</li><li><a href="/wiki/Remipedia" title="Remipedia">Remipedia</a> –
+    <a href="/wiki/Remipede" class="mw-redirect" title="Remipede">remipedes</a></li><li><a
+    href="/wiki/Hexapoda" title="Hexapoda">Hexapoda</a> – <a href="/wiki/Insect" title="Insect">insects</a>,
+    etc.</li></ul></li></ul></li></ul></li><li><i><a href="/wiki/Incertae_sedis" title="Incertae
+    sedis">Incertae sedis</a></i><ul><li>†<i><a href="/wiki/Camptophyllia" title="Camptophyllia">Camptophyllia</a></i><sup
+    id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li><li>†<i><a
+    href="/wiki/Parioscorpio" title="Parioscorpio">Parioscorpio</a></i><sup id="cite_ref-8"
+    class="reference"><a href="#cite_note-8">[8]</a></sup></li><li>†<i><a href="/wiki/Sarotrocercus"
+    title="Sarotrocercus">Sarotrocercus</a></i><sup id="cite_ref-9" class="reference"><a
+    href="#cite_note-9">[9]</a></sup></li><li>†<i><a href="/wiki/Wingertshellicus"
+    title="Wingertshellicus">Wingertshellicus</a></i><sup id="cite_ref-10" class="reference"><a
+    href="#cite_note-10">[10]</a></sup></li><li>†<a href="/wiki/Marrellomorpha" title="Marrellomorpha">Marrellomorpha</a></li></ul></li></ul></td></tr>'
+  taxo_byindex_14:
+  - |-
+    †Dinocaridida
+    †Kerygmachela (Sometimes treated as lobopodian)
+    †Pambdelurion (Sometimes treated as lobopodian)
+    †Opabiniidae
+    †Radiodonta (e.g. Anomalocaris)
+    †Isoxys (Isoxyida)[2]
+    †Erratus[3]
+    †Fengzhengia[4]
+    †Kylinxia[2]
+    Class †Megacheira (possibly paraphyletic)
+    †Kiisortoqia
+    †Fuxianhuiida
+    †Bradoriida
+    Class †Artiopoda
+    †Trilobita – trilobites
+    †Nektaspida
+    †Aglaspidida
+    †Cheloniellida
+    Subphylum Chelicerata
+    Pycnogonida – sea spiders
+    †Eurypterida – sea scorpions
+    Xiphosura – horseshoe crabs
+    Arachnida – mites, scorpions, spiders, etc.
+    †Phosphatocopina (stem mandibulate?)[5]
+    Clade Mandibulata
+    †Hymenocarina
+    †Euthycarcinoidea
+    †Thylacocephala?[6]
+    Subphylum Myriapoda
+    Symphyla – pseudocentipedes
+    Pauropoda – pauropods
+    Diplopoda – millipedes
+    Chilopoda – centipedes
+    Subphylum Pancrustacea
+    Superclass Oligostraca
+    Ostracoda – seed shrimp
+    Mystacocarida
+    Branchiura – fish lice
+    Pentastomida – tongue worms
+    Superclass Multicrustacea
+    Thecostraca – barnacles
+    Hexanauplia  – copepods
+    Malacostraca – isopods, amphipods, decapods, krill, etc.
+    Clade Allotriocarida
+    Cephalocarida – horseshoe shrimp
+    Branchiopoda – brine shrimp, tadpole shrimp, water fleas, etc.
+    Remipedia – remipedes
+    Hexapoda – insects, etc.
+    Incertae sedis
+    †Camptophyllia[7]
+    †Parioscorpio[8]
+    †Sarotrocercus[9]
+    †Wingertshellicus[10]
+    †Marrellomorpha
+  - ''
+  taxo_byindex_verbose_23:
+  - 23
+  - ''
+  - ''
+  - "<tr><th>Subphyla</th><th>Classes</th><th>Members</th><th>Example species</th></tr>"
+  taxo_byindex_23:
+  - ''
+  - ''
+wiki: https://en.wikipedia.org/wiki/Arthropod
+latin_name: ''
+proper-description: |+
+  Arthropods (/ˈɑːrθrəpɒd/, from Ancient Greek  ἄρθρον (arthron) 'joint', and  πούς (pous) 'foot' (gen. ποδός)) are invertebrate animals with an exoskeleton, a segmented body, and paired jointed appendages. Arthropods form the phylum Arthropoda. They are distinguished by their jointed limbs and cuticle made of chitin, often mineralised with calcium carbonate. The arthropod body plan consists of segments, each with a pair of appendages. Arthropods are bilaterally symmetrical and their body possesses an external skeleton. In order to keep growing, they must go through stages of moulting, a process by which they shed their exoskeleton to reveal a new one. Some species have wings. They are an extremely diverse group, with up to 10 million species.
+
+  The haemocoel, an arthropod's internal cavity, through which its haemolymph – analogue of blood – circulates, accommodates its interior organs; it has an open circulatory system. Like their exteriors, the internal organs of arthropods are generally built of repeated segments. Their nervous system is "ladder-like", with paired ventral nerve cords running through all segments and forming paired ganglia in each segment. Their heads are formed by fusion of varying numbers of segments, and their brains are formed by fusion of the ganglia of these segments and encircle the esophagus. The respiratory and excretory systems of arthropods vary, depending as much on their environment as on the subphylum to which they belong.
+
+  Arthropods use combinations of compound eyes and pigment-pit ocelli for vision. In most species, the ocelli can only detect the direction from which light is coming, and the compound eyes are the main source of information, but the main eyes of spiders are ocelli that can form images and, in a few cases, can swivel to track prey. Arthropods also have a wide range of chemical and mechanical sensors, mostly based on modifications of the many bristles known as setae that project through their cuticles. Similarly, their reproduction and development are varied; all terrestrial species use internal fertilization, but this is sometimes by indirect transfer of the sperm via an appendage or the ground, rather than by direct injection. Aquatic species use either internal or external fertilization. Almost all arthropods lay eggs, but many species give birth to live young after the eggs have hatched inside the mother, and a few are genuinely viviparous, such as aphids. Arthropod hatchlings vary from miniature adults to grubs and caterpillars that lack jointed limbs and eventually undergo a total metamorphosis to produce the adult form. The level of maternal care for hatchlings varies from nonexistent to the prolonged care provided by social insects.
+
+  The evolutionary ancestry of arthropods dates back to the Cambrian period. The group is generally regarded as monophyletic, and many analyses support the placement of arthropods with cycloneuralians (or their constituent clades) in a superphylum Ecdysozoa. Overall, however, the basal relationships of animals are not yet well resolved. Likewise, the relationships between various arthropod groups are still actively debated. Today, Arthropods contribute to the human food supply both directly as food, and more importantly, indirectly as pollinators of crops. Some species are known to spread severe disease to humans, livestock, and crops.
+
+name: Arthropod
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HemimerusHanseni.jpg/80px-HemimerusHanseni.jpg
+binomial_name: "-"
+simple_description_p4: Arthropods (/ˈɑːrθrəpɒd/, from Ancient Greek  ἄρθρον (arthron) 'joint',
+  and  πούς (pous) 'foot' (gen. ποδός)) are invertebrate animals with an exoskeleton,
+  a segmented body, and paired jointed appendages. Arthropods form the phylum Arthropoda.
+  They are distinguished by their jointed limbs and cuticle made of chitin, often
+  mineralised with calcium carbonate. The arthropod body plan consists of segments,
+  each with a pair of appendages. Arthropods are bilaterally symmetrical and their
+  body possesses an external skeleton. In order to keep growing, they must go through
+  stages of moulting, a process by which they shed their exoskeleton to reveal a new
+  one. Some species have wings. They are an extremely diverse group, with up to 10
+  million species.
+short_taxo: 'Animalia > Eumetazoa > ParaHoxozoa > Bilateria > Nephrozoa > Ecdysozoa
+  >  >  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Arthropod (Animalia > Eumetazoa > ParaHoxozoa > Bilateria
+  > Nephrozoa > Ecdysozoa >  >  > )"
+...

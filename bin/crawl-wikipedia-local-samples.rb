@@ -50,7 +50,7 @@ require "yaml"
 require "pp"
 require "pry" # for debuggging
 require "colorize"
-require_relative "lib/lib_fish"
+require_relative "../lib/lib_fish"
 #require_relative "lib/strings_on_steroids"
 #require_relative './wiki_fish'
 
@@ -98,8 +98,9 @@ BaseOfflinePages = [
 ]
 
 def online?
-  #false
-  true
+  # trying false since this script doesnt rteally need to connect to the interneche.
+  false
+  #true
 end
 
 # et voila!
@@ -491,7 +492,6 @@ def dump_fish_info_into_yaml_file(
     return false
   end
 
-  #end
   indented_object = {
     "WikiCrawler v#{Version} - #{fish_hash[:autofish]["name"]}" =>
       fish_hash[:autofish].except(:taxo_removeme_debug)
@@ -531,6 +531,15 @@ def main()
 
   iterate_through_files_in_directory(
     ENV_FISH_FOLDER, # "samples/",
+    ENV_OUTPUT_YAML,
+    true,
+    # opts:
+      verbose: ENV_VERBOSE,
+      max_imports: ENV_MAX_IMPORTS,
+      debug: ENV_DEBUG
+  )
+  iterate_through_files_in_directory(
+    "en.wikipedia.org/rubycrawl/",
     ENV_OUTPUT_YAML,
     true,
     # opts:

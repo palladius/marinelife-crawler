@@ -66,3 +66,15 @@ After detail.
 # Awesome
 
 * i've just learnt I can use Ruby vscode to get to method definition :) See [stackoverflow](https://stackoverflow.com/questions/60658665/navigate-to-ruby-function-definition-in-vs-code).
+* Next steps: dockerize and make it slurp the whole internet and feed data into some DB, the rails way :)
+
+# TODOs
+
+* Dockerize, execute indefinitely until it fills the disk :)
+* One worker crawls the internet, another parses the info and puts somewhere (possibly a DB with some kind of parsing versioning so same page can have more sophisticated ways of making it thru taxo to the DB: currently taxo is half broken).
+
+# Thanks
+
+I would like to thank and quote:
+
+* **Wikipedia** for doing an amazing job.

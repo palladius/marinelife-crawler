@@ -1,0 +1,94 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Lutrogale
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - ''
+  title_name: Lutrogale
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_6:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_7:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_8:
+  - 8
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_8:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_10:
+  - 10
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Lutrogale</i></a><br><small>(<a
+    href="/wiki/John_Edward_Gray" title="John Edward Gray">Gray</a>, 1865)</small></td></tr>
+  taxo_byindex_10:
+  - Genus
+  - ''
+wiki: https://en.wikipedia.org/wiki/Lutrogale
+latin_name: Lutrogale
+proper-description: |+
+  Lutrogale was proposed as generic name by John Edward Gray in 1865 for otters with a convex forehead and nose, using the smooth-coated otter  L. perspicillata as type species.[1]
+
+  The genus also contains the following extinct and fossil species:
+
+name: Lutrogale
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2006-kabini-otter.jpg/220px-2006-kabini-otter.jpg
+binomial_name: "-"
+simple_description_p4: Lutrogale was proposed as generic name by John Edward Gray
+  in 1865 for otters with a convex forehead and nose, using the smooth-coated otter  L.
+  perspicillata as type species.[1]
+short_taxo: 'Animalia > Chordata > Mammalia > Carnivora > Mustelidae > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Lutrogale (Animalia > Chordata > Mammalia > Carnivora
+  > Mustelidae > )"
+...

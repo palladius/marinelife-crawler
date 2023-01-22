@@ -1,0 +1,110 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Mammalia
+  Order: Carnivora
+  Family: Mustelidae
+  Genus: Lontra
+  Species: L. canadensis
+fish_local_url_name: en.wikipedia.org/rubycrawl//North_American_river_otter
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Mammalia
+  - Carnivora
+  - Mustelidae
+  - Lontra
+  - L. canadensis
+  title_name: North American river otter
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Mammalia
+  - <tr><td>Class:</td><td><a href="/wiki/Mammal" title="Mammal">Mammalia</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Mammalia
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Carnivora
+  - <tr><td>Order:</td><td><a href="/wiki/Carnivora" title="Carnivora">Carnivora</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Carnivora
+  taxo_byindex_verbose_11:
+  - 11
+  - Family
+  - Mustelidae
+  - <tr><td>Family:</td><td><a href="/wiki/Mustelidae" title="Mustelidae">Mustelidae</a></td></tr>
+  taxo_byindex_11:
+  - Family
+  - Mustelidae
+  taxo_byindex_verbose_12:
+  - 12
+  - Genus
+  - Lontra
+  - <tr><td>Genus:</td><td><a href="/wiki/Lontra" title="Lontra"><i>Lontra</i></a></td></tr>
+  taxo_byindex_12:
+  - Genus
+  - Lontra
+  taxo_byindex_verbose_13:
+  - 13
+  - Species
+  - L. canadensis
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>L. canadensis</b></i></div></td></tr>
+  taxo_byindex_13:
+  - Species
+  - L. canadensis
+wiki: https://en.wikipedia.org/wiki/North_American_river_otter
+latin_name: Lontra canadensis
+proper-description: |+
+  The North American river otter (Lontra canadensis), also known as the northern river otter and river otter, is a semiaquatic mammal that only lives on the North American continent, along its waterways and coasts. An adult North American river otter can weigh between 5.0 and 14 kg (11.0 and 30.9 lb). The river otter is protected and insulated by a thick, water-repellent coat of fur.
+
+  The North American river otter, a member of the subfamily Lutrinae in the weasel family (Mustelidae), is equally versatile in the water and on land. It establishes a burrow close to the water's edge in river, lake, swamp, coastal shoreline, tidal flat, or estuary ecosystems. The den typically has many tunnel openings, one of which generally allows the otter to enter and exit the body of water. Female North American river otters give birth in these burrows, producing litters of one to six young.[2]
+
+  North American river otters, like most predators, prey upon the most readily accessible species. Fish is a favored food among the otters, but they also consume various amphibians (such as salamanders and frogs[3]), freshwater clams, mussels, snails, small turtles and crayfish. The most common fish consumed are perch, suckers, and catfish.[4] Occasional reports also show the river otter eating other small animals, such as mice, squirrels, birds, and even dogs that they've attacked and drowned.[5][6][7]
+
+  The range of the North American river otter has been significantly reduced by habitat loss, beginning with the European colonization of the Americas. In some regions, though, their population is controlled to allow the trapping and harvesting of otters for their fur. North American river otters are very susceptible to the effects of environmental pollution, which is a likely factor in the continued decline of their numbers. A number of reintroduction projects have been initiated to help halt the reduction in the overall population.[8]
+
+name: North American river otter
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LutraCanadensis_fullres.jpg/220px-LutraCanadensis_fullres.jpg
+binomial_name: Lontra canadensis
+simple_description_p4: The North American river otter (Lontra canadensis), also known
+  as the northern river otter and river otter, is a semiaquatic mammal that only lives
+  on the North American continent, along its waterways and coasts. An adult North
+  American river otter can weigh between 5.0 and 14 kg (11.0 and 30.9 lb). The river
+  otter is protected and insulated by a thick, water-repellent coat of fur.
+short_taxo: Animalia > Chordata > Mammalia > Carnivora > Mustelidae > Lontra > L. canadensis
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] North American river otter (Animalia > Chordata > Mammalia
+  > Carnivora > Mustelidae > Lontra > L. canadensis)"
+...

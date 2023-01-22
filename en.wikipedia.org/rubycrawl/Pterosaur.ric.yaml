@@ -1,0 +1,88 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Clade: "†Pterosauromorpha"
+  Order: ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Pterosaur
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Clade
+  - Clade
+  - Order
+  arrvals:
+  - Animalia
+  - Chordata
+  - Ornithodira
+  - "†Pterosauromorpha"
+  - ''
+  title_name: Pterosaur
+  taxo_byindex_verbose_4:
+  - 4
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_4:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_5:
+  - 5
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_5:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_6:
+  - 6
+  - Clade
+  - Ornithodira
+  - <tr><td><i>Clade</i>:</td><td><a href="/wiki/Avemetatarsalia" title="Avemetatarsalia">Ornithodira</a></td></tr>
+  taxo_byindex_6:
+  - Clade
+  - Ornithodira
+  taxo_byindex_verbose_7:
+  - 7
+  - Clade
+  - "†Pterosauromorpha"
+  - <tr><td><i>Clade</i>:</td><td><span style="font-style:normal;font-weight:normal;">†</span><a
+    href="/wiki/Pterosauromorpha" title="Pterosauromorpha">Pterosauromorpha</a></td></tr>
+  taxo_byindex_7:
+  - Clade
+  - "†Pterosauromorpha"
+  taxo_byindex_verbose_8:
+  - 8
+  - Order
+  - ''
+  - <tr><td>Order:</td><td><span style="font-style:normal;font-weight:normal;">†</span><a
+    class="mw-selflink selflink">Pterosauria</a><br><small><a href="/wiki/Johann_Jakob_Kaup"
+    title="Johann Jakob Kaup">Kaup</a>, 1834</small></td></tr>
+  taxo_byindex_8:
+  - Order
+  - ''
+wiki: https://en.wikipedia.org/wiki/Pterosaur
+latin_name: ''
+proper-description: |+
+  Pterosaurs (/ˈtɛrəsɔːr, ˈtɛroʊ-/;[5][6] from Greek pteron and sauros, meaning "wing lizard") is an extinct clade of flying reptiles in the order Pterosauria. They existed during most of the Mesozoic: from the Late Triassic to the end of the Cretaceous (228 to 66 million years ago[7]). Pterosaurs are the earliest vertebrates known to have evolved powered flight. Their wings were formed by a membrane of skin, muscle, and other tissues stretching from the ankles to a dramatically lengthened fourth finger.[8]
+
+  There were two major types of pterosaurs. Basal pterosaurs (also called 'non-pterodactyloid pterosaurs' or 'rhamphorhynchoids') were smaller animals with fully toothed jaws and, typically, long tails. Their wide wing membranes probably included and connected the hind legs. On the ground, they would have had an awkward sprawling posture, but the anatomy of their joints and strong claws would have made them effective climbers, and some may have even lived in trees. Basal pterosaurs were insectivores or predators of small vertebrates. Later pterosaurs (pterodactyloids) evolved many sizes, shapes, and lifestyles. Pterodactyloids had narrower wings with free hind limbs, highly reduced tails, and long necks with large heads. On the ground, pterodactyloids walked well on all four limbs with an upright posture, standing plantigrade on the hind feet and folding the wing finger upward to walk on the three-fingered "hand". They could take off from the ground, and fossil trackways show at least some species were able to run and wade or swim.[9] Their jaws had horny beaks, and some groups lacked teeth. Some groups developed elaborate head crests with sexual dimorphism.
+
+  Pterosaurs sported coats of hair-like filaments known as pycnofibers, which covered their bodies and parts of their wings. Pycnofibers grew in several forms, from simple filaments to branching down feathers. These may be homologous to the down feathers found on both avian and some non-avian dinosaurs, suggesting that early feathers evolved in the common ancestor of pterosaurs and dinosaurs, possibly as insulation.[10] In life, pterosaurs would have had smooth or fluffy coats that did not resemble bird feathers. They were warm-blooded (endothermic), active animals. The respiratory system had efficient unidirectional "flow-through" breathing using air sacs, which hollowed out their bones to an extreme extent. Pterosaurs spanned a wide range of adult sizes, from the very small anurognathids to the largest known flying creatures, including Quetzalcoatlus and Hatzegopteryx,[11][12][13] which reached wingspans of at least nine metres. The combination of endothermy, a good oxygen supply and strong muscles made pterosaurs powerful and capable flyers.
+
+  Pterosaurs are often referred to by popular media or the general public as "flying dinosaurs", but dinosaurs are defined as the descendants of the last common ancestor of the Saurischia and Ornithischia, which excludes the pterosaurs.[14] Pterosaurs are nonetheless more closely related to birds and other dinosaurs than to crocodiles or any other living reptile, though they are not bird ancestors. Pterosaurs are also colloquially referred to as pterodactyls, particularly in fiction and journalism.[15] However, technically, pterodactyl may  refer to members of the genus Pterodactylus, and more broadly to members of the suborder Pterodactyloidea of the pterosaurs.[16]
+
+  Pterosaurs had a variety of lifestyles. Traditionally seen as fish-eaters, the group is now understood to have also included hunters of land animals, insectivores, fruit eaters and even predators of other pterosaurs. They reproduced by eggs, some fossils of which have been discovered.
+
+name: Pterosaur
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pterosauria-collage-01.jpg/220px-Pterosauria-collage-01.jpg
+binomial_name: "-"
+simple_description_p4: ''
+short_taxo: 'Animalia > Chordata > Ornithodira > †Pterosauromorpha > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: true
+name_with_short_taxo: "[true] Pterosaur (Animalia > Chordata > Ornithodira > †Pterosauromorpha
+  > )"
+...

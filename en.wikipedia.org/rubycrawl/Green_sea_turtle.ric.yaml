@@ -1,0 +1,518 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Reptilia
+  Order: Testudines
+  Family: Cheloniidae
+  Genus: ''
+  Species: C. mydas
+  ? |-
+    Species synonymy
+    Testudo mydas Linnaeus, 1758
+    Testudo macropus Walbaum, 1782 (nomen illegitimum)
+    Testudo viridis Schneider, 1783
+    Testudo japonica Thunberg, 1787
+    Testudo marina vulgaris Lacépède, 1788
+    Testudo viridisquamosa Lacépède, 1788
+    Testudo mydas macropus Suckow, 1798
+    Chelonia mydas — Brongniart, 1800
+    Testudo chloronotos Bechstein, 1800
+    Testudo cepediana Daudin, 1801
+    Testudo rugosa Daudin, 1801
+    Chelone mydas — Brongniart, 1805
+    Chelonia japonica — Schweigger, 1812
+    Chelonia virgata Schweigger, 1812
+    Caretta cepedii Merrem, 1820
+    Caretta esculenta Merrem, 1820
+    Caretta thunbergii Merrem, 1820
+    Caretta mydas — Fitzinger, 1826
+    Caretta virgata — Fitzinger, 1826
+    Chelonia lachrymata Cuvier, 1829
+    Chelonia maculosa Cuvier, 1829
+    Chelonia midas [sic] Wagler, 1830 (ex errore)
+    Chelonia mydas var. japonica — Gray, 1831
+    Chelonia esculenta — Wiegmann & Ruthe, 1832
+    Chelonia bicarinata Lesson, 1834
+    Chelonia marmorata A.M.C. Duméril & Bibron, 1835
+    Chelonia (Chelonia) cepedeana [sic] Fitzinger, 1835 (ex errore)
+    Chelonia viridis — Temminck & Schlegel, 1835
+    Mydas mydas — Cocteau, 1838
+    Mydasea mydas — Gervais, 1843
+    Euchelonia mydas — Tschudi, 1846
+    Megemys mydas — Gistel, 1848
+    Chelonia lacrymata [sic] Agassiz, 1857 (ex errore)
+    Chelonia formosa Girard, 1858
+    Chelonia tenuis Girard, 1858
+    Euchelys macropus — Girard, 1858
+    Chelone macropus — Strauch, 1862
+    Chelone maculosa — Strauch, 1862
+    Chelone marmorata — Strauch, 1862
+    Chelone virgata — Strauch, 1862
+    Chelone viridis — Strauch, 1862
+    Chelonia albiventer Nardo, 1864
+    Thalassiochelys albiventer — Günther, 1865
+    Chelonia agassizii Bocourt, 1868
+    Mydas viridis — Gray, 1870
+    Chelone midas — Cope, 1871
+    Chelonia lata Philippi, 1887
+    Chelone mydas — Boulenger, 1889
+    Chelonia mydas mydas — Mertens & L. Müller, 1928
+    Caretta thunbergi [sic] H.M. Smith, 1931 (ex errore)
+    Chelonia mydas agassizii — Carr, 1952
+    Chelonia mydas agassizi [sic] Schmidt, 1953 (ex errore)
+    Chelonia mydas carrinegra Caldwell, 1962
+    Chelonia agazisii [sic] Tamayo, 1962 (ex errore)
+    Testudo nigrita Tamayo, 1962
+    Chelonia agassizi — Carr, 1967
+    Chelonia mydus [sic] Nutaphand, 1979 (ex errore)
+    Chelonia mydas carinegra [sic] Nutaphand, 1979 (ex errore)
+    Testudo chloronotus [sic] H.M. Smith & R.B. Smith, 1980 (ex errore)
+    Chelone albiventer — Márquez, 1990
+    Caretta thumbergii [sic] Sharma, 1998 (ex errore)
+    Chelonia mydas viridis — Karl & Bowen, 1999
+  : ''
+fish_local_url_name: en.wikipedia.org/rubycrawl//Green_sea_turtle
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  - |-
+    Species synonymy
+    Testudo mydas Linnaeus, 1758
+    Testudo macropus Walbaum, 1782 (nomen illegitimum)
+    Testudo viridis Schneider, 1783
+    Testudo japonica Thunberg, 1787
+    Testudo marina vulgaris Lacépède, 1788
+    Testudo viridisquamosa Lacépède, 1788
+    Testudo mydas macropus Suckow, 1798
+    Chelonia mydas — Brongniart, 1800
+    Testudo chloronotos Bechstein, 1800
+    Testudo cepediana Daudin, 1801
+    Testudo rugosa Daudin, 1801
+    Chelone mydas — Brongniart, 1805
+    Chelonia japonica — Schweigger, 1812
+    Chelonia virgata Schweigger, 1812
+    Caretta cepedii Merrem, 1820
+    Caretta esculenta Merrem, 1820
+    Caretta thunbergii Merrem, 1820
+    Caretta mydas — Fitzinger, 1826
+    Caretta virgata — Fitzinger, 1826
+    Chelonia lachrymata Cuvier, 1829
+    Chelonia maculosa Cuvier, 1829
+    Chelonia midas [sic] Wagler, 1830 (ex errore)
+    Chelonia mydas var. japonica — Gray, 1831
+    Chelonia esculenta — Wiegmann & Ruthe, 1832
+    Chelonia bicarinata Lesson, 1834
+    Chelonia marmorata A.M.C. Duméril & Bibron, 1835
+    Chelonia (Chelonia) cepedeana [sic] Fitzinger, 1835 (ex errore)
+    Chelonia viridis — Temminck & Schlegel, 1835
+    Mydas mydas — Cocteau, 1838
+    Mydasea mydas — Gervais, 1843
+    Euchelonia mydas — Tschudi, 1846
+    Megemys mydas — Gistel, 1848
+    Chelonia lacrymata [sic] Agassiz, 1857 (ex errore)
+    Chelonia formosa Girard, 1858
+    Chelonia tenuis Girard, 1858
+    Euchelys macropus — Girard, 1858
+    Chelone macropus — Strauch, 1862
+    Chelone maculosa — Strauch, 1862
+    Chelone marmorata — Strauch, 1862
+    Chelone virgata — Strauch, 1862
+    Chelone viridis — Strauch, 1862
+    Chelonia albiventer Nardo, 1864
+    Thalassiochelys albiventer — Günther, 1865
+    Chelonia agassizii Bocourt, 1868
+    Mydas viridis — Gray, 1870
+    Chelone midas — Cope, 1871
+    Chelonia lata Philippi, 1887
+    Chelone mydas — Boulenger, 1889
+    Chelonia mydas mydas — Mertens & L. Müller, 1928
+    Caretta thunbergi [sic] H.M. Smith, 1931 (ex errore)
+    Chelonia mydas agassizii — Carr, 1952
+    Chelonia mydas agassizi [sic] Schmidt, 1953 (ex errore)
+    Chelonia mydas carrinegra Caldwell, 1962
+    Chelonia agazisii [sic] Tamayo, 1962 (ex errore)
+    Testudo nigrita Tamayo, 1962
+    Chelonia agassizi — Carr, 1967
+    Chelonia mydus [sic] Nutaphand, 1979 (ex errore)
+    Chelonia mydas carinegra [sic] Nutaphand, 1979 (ex errore)
+    Testudo chloronotus [sic] H.M. Smith & R.B. Smith, 1980 (ex errore)
+    Chelone albiventer — Márquez, 1990
+    Caretta thumbergii [sic] Sharma, 1998 (ex errore)
+    Chelonia mydas viridis — Karl & Bowen, 1999
+  arrvals:
+  - Animalia
+  - Chordata
+  - Reptilia
+  - Testudines
+  - Cheloniidae
+  - ''
+  - C. mydas
+  - ''
+  title_name: Green sea turtle
+  taxo_byindex_verbose_7:
+  - 7
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_7:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_8:
+  - 8
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_8:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_9:
+  - 9
+  - Class
+  - Reptilia
+  - <tr><td>Class:</td><td><a href="/wiki/Reptile" title="Reptile">Reptilia</a></td></tr>
+  taxo_byindex_9:
+  - Class
+  - Reptilia
+  taxo_byindex_verbose_10:
+  - 10
+  - Order
+  - Testudines
+  - <tr><td>Order:</td><td><a href="/wiki/Turtle" title="Turtle">Testudines</a></td></tr>
+  taxo_byindex_10:
+  - Order
+  - Testudines
+  taxo_byindex_verbose_13:
+  - 13
+  - Family
+  - Cheloniidae
+  - <tr><td>Family:</td><td><a href="/wiki/Cheloniidae" title="Cheloniidae">Cheloniidae</a></td></tr>
+  taxo_byindex_13:
+  - Family
+  - Cheloniidae
+  taxo_byindex_verbose_15:
+  - 15
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Chelonia</i></a><br><small><a
+    href="/wiki/Alexandre_Brongniart" title="Alexandre Brongniart">Brongniart</a>,
+    1800</small></td></tr>
+  taxo_byindex_15:
+  - Genus
+  - ''
+  taxo_byindex_verbose_16:
+  - 16
+  - Species
+  - C. mydas
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>C. mydas</b></i></div></td></tr>
+  taxo_byindex_16:
+  - Species
+  - C. mydas
+  taxo_byindex_verbose_20:
+  - 20
+  - |-
+    Species synonymy
+    Testudo mydas Linnaeus, 1758
+    Testudo macropus Walbaum, 1782 (nomen illegitimum)
+    Testudo viridis Schneider, 1783
+    Testudo japonica Thunberg, 1787
+    Testudo marina vulgaris Lacépède, 1788
+    Testudo viridisquamosa Lacépède, 1788
+    Testudo mydas macropus Suckow, 1798
+    Chelonia mydas — Brongniart, 1800
+    Testudo chloronotos Bechstein, 1800
+    Testudo cepediana Daudin, 1801
+    Testudo rugosa Daudin, 1801
+    Chelone mydas — Brongniart, 1805
+    Chelonia japonica — Schweigger, 1812
+    Chelonia virgata Schweigger, 1812
+    Caretta cepedii Merrem, 1820
+    Caretta esculenta Merrem, 1820
+    Caretta thunbergii Merrem, 1820
+    Caretta mydas — Fitzinger, 1826
+    Caretta virgata — Fitzinger, 1826
+    Chelonia lachrymata Cuvier, 1829
+    Chelonia maculosa Cuvier, 1829
+    Chelonia midas [sic] Wagler, 1830 (ex errore)
+    Chelonia mydas var. japonica — Gray, 1831
+    Chelonia esculenta — Wiegmann & Ruthe, 1832
+    Chelonia bicarinata Lesson, 1834
+    Chelonia marmorata A.M.C. Duméril & Bibron, 1835
+    Chelonia (Chelonia) cepedeana [sic] Fitzinger, 1835 (ex errore)
+    Chelonia viridis — Temminck & Schlegel, 1835
+    Mydas mydas — Cocteau, 1838
+    Mydasea mydas — Gervais, 1843
+    Euchelonia mydas — Tschudi, 1846
+    Megemys mydas — Gistel, 1848
+    Chelonia lacrymata [sic] Agassiz, 1857 (ex errore)
+    Chelonia formosa Girard, 1858
+    Chelonia tenuis Girard, 1858
+    Euchelys macropus — Girard, 1858
+    Chelone macropus — Strauch, 1862
+    Chelone maculosa — Strauch, 1862
+    Chelone marmorata — Strauch, 1862
+    Chelone virgata — Strauch, 1862
+    Chelone viridis — Strauch, 1862
+    Chelonia albiventer Nardo, 1864
+    Thalassiochelys albiventer — Günther, 1865
+    Chelonia agassizii Bocourt, 1868
+    Mydas viridis — Gray, 1870
+    Chelone midas — Cope, 1871
+    Chelonia lata Philippi, 1887
+    Chelone mydas — Boulenger, 1889
+    Chelonia mydas mydas — Mertens & L. Müller, 1928
+    Caretta thunbergi [sic] H.M. Smith, 1931 (ex errore)
+    Chelonia mydas agassizii — Carr, 1952
+    Chelonia mydas agassizi [sic] Schmidt, 1953 (ex errore)
+    Chelonia mydas carrinegra Caldwell, 1962
+    Chelonia agazisii [sic] Tamayo, 1962 (ex errore)
+    Testudo nigrita Tamayo, 1962
+    Chelonia agassizi — Carr, 1967
+    Chelonia mydus [sic] Nutaphand, 1979 (ex errore)
+    Chelonia mydas carinegra [sic] Nutaphand, 1979 (ex errore)
+    Testudo chloronotus [sic] H.M. Smith & R.B. Smith, 1980 (ex errore)
+    Chelone albiventer — Márquez, 1990
+    Caretta thumbergii [sic] Sharma, 1998 (ex errore)
+    Chelonia mydas viridis — Karl & Bowen, 1999
+  - ''
+  - '<tr><td colspan="2" style="text-align: left"><div class="collapsible-list mw-collapsible
+    mw-collapsed" style="text-align: left;"><div style="line-height: 1.6em; font-weight:
+    bold;"><div><small>Species synonymy</small></div></div><ul class="mw-collapsible-content"
+    style="margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height:
+    inherit; margin: 0"><i>Testudo mydas</i> <br><span style="font-size:85%;">Linnaeus,
+    1758</span> </li><li style="line-height: inherit; margin: 0"><i>Testudo macropus</i>
+    <br><span style="font-size:85%;"><a href="/wiki/Johann_Julius_Walbaum" title="Johann
+    Julius Walbaum">Walbaum</a>, 1782</span> <br>(<i><a href="/wiki/Nomen_illegitimum"
+    title="Nomen illegitimum">nomen illegitimum</a></i>) </li><li style="line-height:
+    inherit; margin: 0"><i>Testudo viridis</i> <br><span style="font-size:85%;"><a
+    href="/wiki/Johann_Gottlob_Theaenus_Schneider" title="Johann Gottlob Theaenus
+    Schneider">Schneider</a>, 1783</span> </li><li style="line-height: inherit; margin:
+    0"><i>Testudo japonica</i> <br><span style="font-size:85%;"><a href="/wiki/Carl_Peter_Thunberg"
+    title="Carl Peter Thunberg">Thunberg</a>, 1787</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Testudo marina vulgaris</i> <br><span style="font-size:85%;"><a
+    href="/wiki/Bernard_Germain_de_Lac%C3%A9p%C3%A8de" title="Bernard Germain de Lacépède">Lacépède</a>,
+    1788</span> </li><li style="line-height: inherit; margin: 0"><i>Testudo viridisquamosa</i>
+    <br><span style="font-size:85%;">Lacépède, 1788</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Testudo mydas macropus</i> <br><span style="font-size:85%;"><a
+    href="/wiki/Georg_Adolf_Suckow" title="Georg Adolf Suckow">Suckow</a>, 1798</span>
+    </li><li style="line-height: inherit; margin: 0"><i>Chelonia mydas</i> <br><span
+    style="font-size:85%;">— <a href="/wiki/Alexandre_Brongniart" title="Alexandre
+    Brongniart">Brongniart</a>, 1800</span> </li><li style="line-height: inherit;
+    margin: 0"><i>Testudo chloronotos</i> <br><span style="font-size:85%;"><a href="/wiki/Johann_Matth%C3%A4us_Bechstein"
+    title="Johann Matthäus Bechstein">Bechstein</a>, 1800</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Testudo cepediana</i> <br><span style="font-size:85%;"><a
+    href="/wiki/Fran%C3%A7ois_Marie_Daudin" title="François Marie Daudin">Daudin</a>,
+    1801</span> </li><li style="line-height: inherit; margin: 0"><i>Testudo rugosa</i>
+    <br><span style="font-size:85%;">Daudin, 1801</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Chelone mydas</i> <br><span style="font-size:85%;">— Brongniart,
+    1805</span> </li><li style="line-height: inherit; margin: 0"><i>Chelonia japonica</i>
+    <br><span style="font-size:85%;">— <a href="/wiki/August_Friedrich_Schweigger"
+    title="August Friedrich Schweigger">Schweigger</a>, 1812</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Chelonia virgata</i> <br><span style="font-size:85%;">Schweigger,
+    1812</span> </li><li style="line-height: inherit; margin: 0"><i>Caretta cepedii</i>
+    <br><span style="font-size:85%;"><a href="/wiki/Blasius_Merrem" title="Blasius
+    Merrem">Merrem</a>, 1820</span> </li><li style="line-height: inherit; margin:
+    0"><i>Caretta esculenta</i> <br><span style="font-size:85%;">Merrem, 1820</span>
+    </li><li style="line-height: inherit; margin: 0"><i>Caretta thunbergii</i> <br><span
+    style="font-size:85%;">Merrem, 1820</span> </li><li style="line-height: inherit;
+    margin: 0"><i>Caretta mydas</i> <br><span style="font-size:85%;">— <a href="/wiki/Leopold_Fitzinger"
+    title="Leopold Fitzinger">Fitzinger</a>, 1826</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Caretta virgata</i> <br><span style="font-size:85%;">—
+    Fitzinger, 1826</span> </li><li style="line-height: inherit; margin: 0"><i>Chelonia
+    lachrymata</i> <br><span style="font-size:85%;"><a href="/wiki/Georges_Cuvier"
+    title="Georges Cuvier">Cuvier</a>, 1829</span> </li><li style="line-height: inherit;
+    margin: 0"><i>Chelonia maculosa</i> <br><span style="font-size:85%;">Cuvier, 1829</span>
+    </li><li style="line-height: inherit; margin: 0"><i>Chelonia midas</i> [sic] <br><span
+    style="font-size:85%;"><a href="/wiki/Johann_Georg_Wagler" title="Johann Georg
+    Wagler">Wagler</a>, 1830</span> <br>(<i><a href="/wiki/Ex_errore" class="mw-redirect"
+    title="Ex errore">ex errore</a></i>) </li><li style="line-height: inherit; margin:
+    0"><i>Chelonia mydas </i>var<i>. japonica</i> <br><span style="font-size:85%;">—
+    <a href="/wiki/John_Edward_Gray" title="John Edward Gray">Gray</a>, 1831</span>
+    </li><li style="line-height: inherit; margin: 0"><i>Chelonia esculenta</i> <br><span
+    style="font-size:85%;">— <a href="/wiki/Arend_Friedrich_August_Wiegmann" title="Arend
+    Friedrich August Wiegmann">Wiegmann</a> &amp; <a href="/w/index.php?title=Johann_Fiedrich_Ruthe&amp;action=edit&amp;redlink=1"
+    class="new" title="Johann Fiedrich Ruthe (page does not exist)">Ruthe</a>, 1832</span>
+    </li><li style="line-height: inherit; margin: 0"><i>Chelonia bicarinata</i> <br><span
+    style="font-size:85%;"><a href="/wiki/Ren%C3%A9_Primev%C3%A8re_Lesson" class="mw-redirect"
+    title="René Primevère Lesson">Lesson</a>, 1834</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Chelonia marmorata</i> <br><span style="font-size:85%;"><a
+    href="/wiki/Andr%C3%A9_Marie_Constant_Dum%C3%A9ril" title="André Marie Constant
+    Duméril">A.M.C. Duméril</a> &amp; <a href="/wiki/Gabriel_Bibron" title="Gabriel
+    Bibron">Bibron</a>, 1835</span> </li><li style="line-height: inherit; margin:
+    0"><i>Chelonia</i> (<i>Chelonia</i>) <br><i>cepedeana</i> [sic] <br><span style="font-size:85%;">Fitzinger,
+    1835</span> <br>(<i>ex errore</i>) </li><li style="line-height: inherit; margin:
+    0"><i>Chelonia viridis</i> <br><span style="font-size:85%;">— <a href="/wiki/Coenraad_Jacob_Temminck"
+    title="Coenraad Jacob Temminck">Temminck</a> &amp; <a href="/wiki/Hermann_Schlegel"
+    title="Hermann Schlegel">Schlegel</a>, 1835</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Mydas mydas</i> <br><span style="font-size:85%;">— <a href="/wiki/Jean_Th%C3%A9odore_Cocteau"
+    class="mw-redirect" title="Jean Théodore Cocteau">Cocteau</a>, 1838</span> </li><li
+    style="line-height: inherit; margin: 0"><i>Mydasea mydas</i> <br><span style="font-size:85%;">—
+    <a href="/wiki/Paul_Gervais" title="Paul Gervais">Gervais</a>, 1843</span> </li><li
+    style="line-height: inherit; margin: 0"><i>Euchelonia mydas</i> <br><span style="font-size:85%;">—
+    <a href="/wiki/Johann_Jakob_von_Tschudi" title="Johann Jakob von Tschudi">Tschudi</a>,
+    1846</span> </li><li style="line-height: inherit; margin: 0"><i>Megemys mydas</i>
+    <br><span style="font-size:85%;">— <a href="/wiki/Johannes_von_Nepomuk_Franz_Xaver_Gistel"
+    title="Johannes von Nepomuk Franz Xaver Gistel">Gistel</a>, 1848</span> </li><li
+    style="line-height: inherit; margin: 0"><i>Chelonia lacrymata</i> [sic] <br><span
+    style="font-size:85%;">Agassiz, 1857</span> <br>(<i>ex errore</i>) </li><li style="line-height:
+    inherit; margin: 0"><i>Chelonia formosa</i> <br><span style="font-size:85%;"><a
+    href="/wiki/Charles_Fr%C3%A9d%C3%A9ric_Girard" title="Charles Frédéric Girard">Girard</a>,
+    1858</span> </li><li style="line-height: inherit; margin: 0"><i>Chelonia tenuis</i>
+    <br><span style="font-size:85%;">Girard, 1858</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Euchelys macropus</i> <br><span style="font-size:85%;">—
+    Girard, 1858</span> </li><li style="line-height: inherit; margin: 0"><i>Chelone
+    macropus</i> <br><span style="font-size:85%;">— <a href="/wiki/Alexander_Strauch"
+    title="Alexander Strauch">Strauch</a>, 1862</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Chelone maculosa</i> <br><span style="font-size:85%;">—
+    Strauch, 1862</span> </li><li style="line-height: inherit; margin: 0"><i>Chelone
+    marmorata</i> <br><span style="font-size:85%;">— Strauch, 1862</span> </li><li
+    style="line-height: inherit; margin: 0"><i>Chelone virgata</i> <br><span style="font-size:85%;">—
+    Strauch, 1862</span> </li><li style="line-height: inherit; margin: 0"><i>Chelone
+    viridis</i> <br><span style="font-size:85%;">— Strauch, 1862</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Chelonia albiventer</i> <br><span style="font-size:85%;"><a
+    href="/wiki/Giovanni_Domenico_Nardo" title="Giovanni Domenico Nardo">Nardo</a>,
+    1864</span> </li><li style="line-height: inherit; margin: 0"><i>Thalassiochelys
+    albiventer</i> <br><span style="font-size:85%;">— <a href="/wiki/Albert_G%C3%BCnther"
+    title="Albert Günther">Günther</a>, 1865</span> </li><li style="line-height: inherit;
+    margin: 0"><i>Chelonia agassizii</i> <br><span style="font-size:85%;"><a href="/wiki/Marie_Firmin_Bocourt"
+    title="Marie Firmin Bocourt">Bocourt</a>, 1868</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Mydas viridis</i> <br><span style="font-size:85%;">— Gray,
+    1870</span> </li><li style="line-height: inherit; margin: 0"><i>Chelone midas</i>
+    <br><span style="font-size:85%;">— <a href="/wiki/Edward_Drinker_Cope" title="Edward
+    Drinker Cope">Cope</a>, 1871</span> </li><li style="line-height: inherit; margin:
+    0"><i>Chelonia lata</i> <br><span style="font-size:85%;"><a href="/wiki/Rodolfo_Amando_Philippi"
+    title="Rodolfo Amando Philippi">Philippi</a>, 1887</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Chelone mydas</i> <br><span style="font-size:85%;">— <a
+    href="/wiki/George_Albert_Boulenger" title="George Albert Boulenger">Boulenger</a>,
+    1889</span> </li><li style="line-height: inherit; margin: 0"><i>Chelonia mydas
+    mydas</i> <br><span style="font-size:85%;">— <a href="/wiki/Robert_Mertens" title="Robert
+    Mertens">Mertens</a> &amp; <a href="/wiki/Lorenz_M%C3%BCller" title="Lorenz Müller">L.
+    Müller</a>, 1928</span> </li><li style="line-height: inherit; margin: 0"><i>Caretta
+    thunbergi</i> [sic] <br><span style="font-size:85%;"><a href="/wiki/Hobart_Muir_Smith"
+    title="Hobart Muir Smith">H.M. Smith</a>, 1931</span> <br>(<i>ex errore</i>) </li><li
+    style="line-height: inherit; margin: 0"><i>Chelonia mydas agassizii</i> <br><span
+    style="font-size:85%;">— <a href="/wiki/Archie_Carr" title="Archie Carr">Carr</a>,
+    1952</span> </li><li style="line-height: inherit; margin: 0"><i>Chelonia mydas
+    agassizi</i> [sic] <br><span style="font-size:85%;"><a href="/wiki/Karl_Patterson_Schmidt"
+    title="Karl Patterson Schmidt">Schmidt</a>, 1953</span> <br>(<i>ex errore</i>)
+    </li><li style="line-height: inherit; margin: 0"><i>Chelonia mydas carrinegra</i>
+    <br><span style="font-size:85%;"><a href="/w/index.php?title=David_K._Caldwell&amp;action=edit&amp;redlink=1"
+    class="new" title="David K. Caldwell (page does not exist)">Caldwell</a>, 1962</span>
+    </li><li style="line-height: inherit; margin: 0"><i>Chelonia agazisii</i> [sic]
+    <br><span style="font-size:85%;"><a href="/w/index.php?title=Jorge_L._Tamayo&amp;action=edit&amp;redlink=1"
+    class="new" title="Jorge L. Tamayo (page does not exist)">Tamayo</a>, 1962</span>
+    <br>(<i>ex errore</i>) </li><li style="line-height: inherit; margin: 0"><i>Testudo
+    nigrita</i> <br><span style="font-size:85%;">Tamayo, 1962</span> </li><li style="line-height:
+    inherit; margin: 0"><i>Chelonia agassizi</i> <br><span style="font-size:85%;">—
+    Carr, 1967</span> </li><li style="line-height: inherit; margin: 0"><i>Chelonia
+    mydus</i> [sic] <br><span style="font-size:85%;"><a href="/w/index.php?title=Wirot_Nutaphand&amp;action=edit&amp;redlink=1"
+    class="new" title="Wirot Nutaphand (page does not exist)">Nutaphand</a>, 1979</span>
+    <br>(<i>ex errore</i>) </li><li style="line-height: inherit; margin: 0"><i>Chelonia
+    mydas carinegra</i> [sic] <br><span style="font-size:85%;">Nutaphand, 1979</span>
+    <br>(<i>ex errore</i>) </li><li style="line-height: inherit; margin: 0"><i>Testudo
+    chloronotus</i> [sic] <br><span style="font-size:85%;">H.M. Smith &amp; <a href="/w/index.php?title=Rozella_Pearl_Beverly_Blood_Smith&amp;action=edit&amp;redlink=1"
+    class="new" title="Rozella Pearl Beverly Blood Smith (page does not exist)">R.B.
+    Smith</a>, 1980</span> <br>(<i>ex errore</i>) </li><li style="line-height: inherit;
+    margin: 0"><i>Chelone albiventer</i> <br><span style="font-size:85%;">— Márquez,
+    1990</span> </li><li style="line-height: inherit; margin: 0"><i>Caretta thumbergii</i>
+    [sic] <br><span style="font-size:85%;"><a href="/w/index.php?title=Ramesh_Chandra_Sharma&amp;action=edit&amp;redlink=1"
+    class="new" title="Ramesh Chandra Sharma (page does not exist)">Sharma</a>, 1998</span>
+    <br>(<i>ex errore</i>) </li><li style="line-height: inherit; margin: 0"><i>Chelonia
+    mydas viridis</i> <br><span style="font-size:85%;">— <a href="/w/index.php?title=S.A._Karl&amp;action=edit&amp;redlink=1"
+    class="new" title="S.A. Karl (page does not exist)">Karl</a> &amp; <a href="/w/index.php?title=B.W._Bowen&amp;action=edit&amp;redlink=1"
+    class="new" title="B.W. Bowen (page does not exist)">Bowen</a>, 1999</span> </li></ul></div></td></tr>'
+  taxo_byindex_20:
+  - |-
+    Species synonymy
+    Testudo mydas Linnaeus, 1758
+    Testudo macropus Walbaum, 1782 (nomen illegitimum)
+    Testudo viridis Schneider, 1783
+    Testudo japonica Thunberg, 1787
+    Testudo marina vulgaris Lacépède, 1788
+    Testudo viridisquamosa Lacépède, 1788
+    Testudo mydas macropus Suckow, 1798
+    Chelonia mydas — Brongniart, 1800
+    Testudo chloronotos Bechstein, 1800
+    Testudo cepediana Daudin, 1801
+    Testudo rugosa Daudin, 1801
+    Chelone mydas — Brongniart, 1805
+    Chelonia japonica — Schweigger, 1812
+    Chelonia virgata Schweigger, 1812
+    Caretta cepedii Merrem, 1820
+    Caretta esculenta Merrem, 1820
+    Caretta thunbergii Merrem, 1820
+    Caretta mydas — Fitzinger, 1826
+    Caretta virgata — Fitzinger, 1826
+    Chelonia lachrymata Cuvier, 1829
+    Chelonia maculosa Cuvier, 1829
+    Chelonia midas [sic] Wagler, 1830 (ex errore)
+    Chelonia mydas var. japonica — Gray, 1831
+    Chelonia esculenta — Wiegmann & Ruthe, 1832
+    Chelonia bicarinata Lesson, 1834
+    Chelonia marmorata A.M.C. Duméril & Bibron, 1835
+    Chelonia (Chelonia) cepedeana [sic] Fitzinger, 1835 (ex errore)
+    Chelonia viridis — Temminck & Schlegel, 1835
+    Mydas mydas — Cocteau, 1838
+    Mydasea mydas — Gervais, 1843
+    Euchelonia mydas — Tschudi, 1846
+    Megemys mydas — Gistel, 1848
+    Chelonia lacrymata [sic] Agassiz, 1857 (ex errore)
+    Chelonia formosa Girard, 1858
+    Chelonia tenuis Girard, 1858
+    Euchelys macropus — Girard, 1858
+    Chelone macropus — Strauch, 1862
+    Chelone maculosa — Strauch, 1862
+    Chelone marmorata — Strauch, 1862
+    Chelone virgata — Strauch, 1862
+    Chelone viridis — Strauch, 1862
+    Chelonia albiventer Nardo, 1864
+    Thalassiochelys albiventer — Günther, 1865
+    Chelonia agassizii Bocourt, 1868
+    Mydas viridis — Gray, 1870
+    Chelone midas — Cope, 1871
+    Chelonia lata Philippi, 1887
+    Chelone mydas — Boulenger, 1889
+    Chelonia mydas mydas — Mertens & L. Müller, 1928
+    Caretta thunbergi [sic] H.M. Smith, 1931 (ex errore)
+    Chelonia mydas agassizii — Carr, 1952
+    Chelonia mydas agassizi [sic] Schmidt, 1953 (ex errore)
+    Chelonia mydas carrinegra Caldwell, 1962
+    Chelonia agazisii [sic] Tamayo, 1962 (ex errore)
+    Testudo nigrita Tamayo, 1962
+    Chelonia agassizi — Carr, 1967
+    Chelonia mydus [sic] Nutaphand, 1979 (ex errore)
+    Chelonia mydas carinegra [sic] Nutaphand, 1979 (ex errore)
+    Testudo chloronotus [sic] H.M. Smith & R.B. Smith, 1980 (ex errore)
+    Chelone albiventer — Márquez, 1990
+    Caretta thumbergii [sic] Sharma, 1998 (ex errore)
+    Chelonia mydas viridis — Karl & Bowen, 1999
+  - ''
+wiki: https://en.wikipedia.org/wiki/Green_sea_turtle
+latin_name: Chelonia mydasChelonia
+proper-description: |+
+  The green sea turtle (Chelonia mydas), also known as the green turtle, black (sea) turtle or Pacific green turtle,[4] is a species of large sea turtle of the family Cheloniidae. It is the only species in the genus Chelonia.[5] Its range extends throughout tropical and subtropical seas around the world, with two distinct populations in the Atlantic and Pacific Oceans, but it is also found in the Indian Ocean.[6][7] The common name refers to the usually green fat found beneath its carapace, not to the color of its carapace, which is olive to black.
+
+  The dorsoventrally flattened body of C. mydas is covered by a large, teardrop-shaped carapace; it has a pair of large, paddle-like flippers. It is usually lightly colored, although in the eastern Pacific populations, parts of the carapace can be almost black. Unlike other members of its family, such as the hawksbill sea turtle, C. mydas is mostly herbivorous. The adults usually inhabit shallow lagoons, feeding mostly on various species of seagrasses.[8] The turtles bite off the tips of the blades of seagrass, which keeps the grass healthy.
+
+  Like other sea turtles, green sea turtles migrate long distances between feeding grounds and hatching beaches. Many islands worldwide are known as Turtle Island due to green sea turtles nesting on their beaches. Females crawl out on beaches, dig nests, and lay eggs during the night. Later, hatchlings emerge, and scramble into the water. Those that reach maturity may live to 90 years in the wild.[6]
+
+  C. mydas is listed as endangered by the IUCN and CITES and is protected from exploitation in most countries.[9] It is illegal to collect, harm, or kill them. In addition, many countries have laws and ordinances to protect nesting areas. However, turtles are still in danger due to human activity. In some countries, turtles and their eggs are still hunted for food. Pollution indirectly harms turtles at both population and individual scales. Many turtles die after being caught in fishing nets. In addition, real estate development often causes habitat loss by eliminating nesting beaches.
+
+name: Green sea turtle
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Green_turtle_swimming_over_coral_reefs_in_Kona.jpg/220px-Green_turtle_swimming_over_coral_reefs_in_Kona.jpg
+binomial_name: Chelonia mydas
+simple_description_p4: no P4 description
+short_taxo: 'Animalia > Chordata > Reptilia > Testudines > Cheloniidae >  > C. mydas
+  > '
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Green sea turtle (Animalia > Chordata > Reptilia >
+  Testudines > Cheloniidae >  > C. mydas > )"
+...

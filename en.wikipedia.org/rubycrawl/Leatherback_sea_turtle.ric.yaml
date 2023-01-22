@@ -1,0 +1,114 @@
+---
+taxo:
+  Kingdom: Animalia
+  Phylum: Chordata
+  Class: Reptilia
+  Order: Testudines
+  Family: Dermochelyidae
+  Genus: ''
+  Species: D. coriacea
+fish_local_url_name: en.wikipedia.org/rubycrawl//Leatherback_sea_turtle
+taxo_removeme_debug:
+  arrkeys:
+  - Kingdom
+  - Phylum
+  - Class
+  - Order
+  - Family
+  - Genus
+  - Species
+  arrvals:
+  - Animalia
+  - Chordata
+  - Reptilia
+  - Testudines
+  - Dermochelyidae
+  - ''
+  - D. coriacea
+  title_name: Leatherback sea turtle
+  taxo_byindex_verbose_6:
+  - 6
+  - Kingdom
+  - Animalia
+  - <tr><td>Kingdom:</td><td><a href="/wiki/Animal" title="Animal">Animalia</a></td></tr>
+  taxo_byindex_6:
+  - Kingdom
+  - Animalia
+  taxo_byindex_verbose_7:
+  - 7
+  - Phylum
+  - Chordata
+  - <tr><td>Phylum:</td><td><a href="/wiki/Chordate" title="Chordate">Chordata</a></td></tr>
+  taxo_byindex_7:
+  - Phylum
+  - Chordata
+  taxo_byindex_verbose_8:
+  - 8
+  - Class
+  - Reptilia
+  - <tr><td>Class:</td><td><a href="/wiki/Reptile" title="Reptile">Reptilia</a></td></tr>
+  taxo_byindex_8:
+  - Class
+  - Reptilia
+  taxo_byindex_verbose_9:
+  - 9
+  - Order
+  - Testudines
+  - <tr><td>Order:</td><td><a href="/wiki/Turtle" title="Turtle">Testudines</a></td></tr>
+  taxo_byindex_9:
+  - Order
+  - Testudines
+  taxo_byindex_verbose_12:
+  - 12
+  - Family
+  - Dermochelyidae
+  - <tr><td>Family:</td><td><a href="/wiki/Dermochelyidae" title="Dermochelyidae">Dermochelyidae</a></td></tr>
+  taxo_byindex_12:
+  - Family
+  - Dermochelyidae
+  taxo_byindex_verbose_14:
+  - 14
+  - Genus
+  - ''
+  - <tr><td>Genus:</td><td><a class="mw-selflink selflink"><i>Dermochelys</i></a><br><small><a
+    href="/wiki/Henri_Marie_Ducrotay_de_Blainville" title="Henri Marie Ducrotay de
+    Blainville">Blainville</a>, 1816<sup id="cite_ref-Rhodin_3-1" class="reference"><a
+    href="#cite_note-Rhodin-3">[3]</a></sup></small></td></tr>
+  taxo_byindex_14:
+  - Genus
+  - ''
+  taxo_byindex_verbose_15:
+  - 15
+  - Species
+  - D. coriacea
+  - <tr><td>Species:</td><td><div style="display:inline" class="species"><i><b>D. coriacea</b></i></div></td></tr>
+  taxo_byindex_15:
+  - Species
+  - D. coriacea
+wiki: https://en.wikipedia.org/wiki/Leatherback_sea_turtle
+latin_name: Dermochelys coriaceaDermochelys
+proper-description: "The leatherback sea turtle (Dermochelys coriacea), sometimes
+  called the lute turtle or leathery turtle or simply the luth, is the largest of
+  all living turtles and the heaviest non-crocodilian reptile, reaching lengths of
+  up to 1.8 metres (5 ft 11 in) and weights of 500 kilograms (1,100 lb).[5][6] It
+  is the only living species in the genus Dermochelys and family Dermochelyidae. It
+  can easily be differentiated from other modern sea turtles by its lack of a bony
+  shell; instead, its carapace is covered by oily flesh and flexible, leather-like
+  skin, for which it is named.[7]\n\n"
+name: Leatherback sea turtle
+picture_url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg/220px-Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg
+binomial_name: Dermochelys coriacea
+simple_description_p4: The leatherback sea turtle (Dermochelys coriacea), sometimes
+  called the lute turtle or leathery turtle or simply the luth, is the largest of
+  all living turtles and the heaviest non-crocodilian reptile, reaching lengths of
+  up to 1.8 metres (5 ft 11 in) and weights of 500 kilograms (1,100 lb).[5][6] It
+  is the only living species in the genus Dermochelys and family Dermochelyidae. It
+  can easily be differentiated from other modern sea turtles by its lack of a bony
+  shell; instead, its carapace is covered by oily flesh and flexible, leather-like
+  skin, for which it is named.[7]
+short_taxo: Animalia > Chordata > Reptilia > Testudines > Dermochelyidae >  > D. coriacea
+taxon_identifiers:
+  todo: See https://en.wikipedia.org/wiki/Bluethroat_triggerfish
+valid: false
+name_with_short_taxo: "[false] Leatherback sea turtle (Animalia > Chordata > Reptilia
+  > Testudines > Dermochelyidae >  > D. coriacea)"
