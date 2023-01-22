@@ -16,9 +16,13 @@ def main()
 
   #BROKEN google_links('Riccardo Carlesso')
 
-  default_value = 'Category:Fish_taxonomy'
+  #default_value = 'Category:Fish_taxonomy'
+  default_value = 'Tiger_shark'
+
   # https://en.wikipedia.org/wiki/Category:Fish_taxonomy
   # This seems the best
+
+  #die('give me some nice Fish pages to start from, like: ') if ARGV == 0
 
   fish_to_be_crawled = ARGV.size > 0 ?
     "https://en.wikipedia.org/wiki/#{ ARGV[0] }" :

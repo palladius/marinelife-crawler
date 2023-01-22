@@ -66,13 +66,25 @@ module Wikipedia
     end
   end
 
+  def process_found_page(page)
+    uri = page.uri.to_s
+    content = page.content
+
+    # /path/to/Lion#wings => Lion
+    cleanedup_uri = uri.split('/').last.split('#').first
+    uri_filename = "en.wikipedia.org/rubycrawl/#{cleanedup_uri }"
+    puts "😎 Processing '#{uri}' [size=#{content.size}] => #{uri_filename}"
+    File.write(uri_filename, content)
+  end
+
   # Takes an initial page and a `bool lambda(page_content)` crawls all pages
   # my_lambda.call
   # inspired by https://github.com/sparklemotion/mechanize/blob/main/examples/spider.rb
   def crawl_with_condition(initial_page_url, boolean_method, opts={})
     opts_verbose = opts.fetch :verbose, false
+    opts_max_stack_size = opts.fetch :max_stack_size, 42_000
 
-    fish_set = Set['Cielcio']                        #=> #<Set: {1, 2}>
+    fish_set = Set[] # eg, => #<Set: {1, 2}>
 
     puts "WELCOME TO CRAWLER OF PAGE: #{initial_page_url.to_s.colorize :green}"
 
@@ -88,8 +100,8 @@ module Wikipedia
       #return if @seen = @agent.visited?(link)
       next if agent.visited? l.href
 
-      #puts "🕷️ Examining: '#{l.uri}'"
-
+      # condition of exiting
+      break if stack.size > opts_max_stack_size # 9_000
 
       # EXMAINING PURE TITLE
       if crawled_url_looks_like_a_fish(l.uri.to_s) # or stringified_uri.match?(/^\#/)
@@ -102,13 +114,15 @@ module Wikipedia
       begin
         page = l.click
         if is_fish_by_wikipedia_content?(page.content)
-          puts "🍱 Habemus piscem: #{page.uri} . Stack size: #{stack.size}. fish_setSize: #{fish_set.size}"
           # if already has it, lets do next so we skip recursion which is eating me... :/
           if fish_set.member?(page.uri.to_s)
-            puts "🐚 Existing fish - bresaking the recustion with NEXT" if opts_verbose
+            puts "🐚 Existing fish - breaking the recustion with NEXT" if opts_verbose
             next
           else
+            puts "🍱 StackSize: #{stack.size}. FishSetSize: #{fish_set.size}. Habemus novum piscem: #{page.uri.to_s.colorize :cyan}"
             fish_set.add(page.uri.to_s)
+            # do soemthing with this
+            process_found_page(page)
           end
         else
           puts "😭 No, woman no fish... " if opts_verbose
@@ -124,6 +138,8 @@ module Wikipedia
     end
 
     puts "🕷️🕷️🕷️ The crawl has ended, go in peace. 🕷️🕷️🕷️"
+    puts "Fish found so far: "
+    pp fish_set
   end
 
 end

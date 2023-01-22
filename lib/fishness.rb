@@ -14,7 +14,16 @@ module Fishness
   end
 
   def is_fish_by_wikipedia_content?(content)
-    content =~ /Scientific classification/ and content =~ /Animalia/ # and Chordata
+    content =~ /Scientific classification/ and
+      content =~ /Animalia/ and # and Chordata but can be Mollusc and so on
+      content =~ /Phylum/ and # needs a Phylum of some sort
+      #content =~ /fish/i
+      #content =~ /www.marinespecies.org/
+      content =~ /WoRMS/ and #  https://www.marinespecies.org/ WoRMS # eg https://www.marinespecies.org/aphia.php?p=taxdetails&id=105799
+      content =~ /ocean/i and
+      content =~ /marine\s/i # "marine " but not "marine.com"
+      # aquatic/marine
+      # AND NOT terrestrial
   end
 
 end
