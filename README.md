@@ -19,17 +19,21 @@ $ ./crawl-wikipedia.rb
 🍣 Lagoon triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Rhinecanthus > R. aculeatus)
 🍣 Canthidermis (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > CanthidermisSwainson, 1839)
 🍣 Orange-lined triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > BalistapusTilesius, 1820 > B. undulatus)
-🍣 Balistes vetula (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Balistes > B. vetula)
-🍣 Redtoothed triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > OdonusGistel, 1848 > O. niger)
-🍣 Reef triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Rhinecanthus > R. rectangulus)
-🍣 Xanthichthys ringens (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Xanthichthys > X. ringens)
 🍣 Shark (Animalia > Chordata > Chondrichthyes > )
 🍣 Starfish (Animalia > Echinodermata > Asterozoa > AsteroideaBlainville, 1830 > )
 🍣 Stone triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Pseudobalistes > P. naufragium)
 🍣 Titan triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > Balistidae > Balistoides > B. viridescens)
 🍣 Triggerfish (Animalia > Chordata > Actinopterygii > Tetraodontiformes > BalistidaeA. Risso, 1810 > )
 ```
-==> I've created
+==> I've created a rails app to see the results. Also if impatient you can:
+
+```bash
+bin/status.sh
+STATUS : Lets see how many fish in the Sea
+1: 🎣 682 Fish in the bucket (just fished fish).
+2: 🍤 283 Crunched fish in the pond (crunched fish).
+3: 🍣 428 Fish in Ruby app.
+```
 
 ## RailsApp
 

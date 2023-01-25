@@ -76,3 +76,6 @@ crawl:
 
 mega-crawl-ruby:
 	MAX_IMPORTS=9000 bin/crawl-wikipedia-local-samples.rb
+
+status:
+	bin/status.sh
