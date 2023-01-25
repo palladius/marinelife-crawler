@@ -54,13 +54,18 @@ If I'm doing something wrong, please open an issue and suggest a solution and I'
 Before details...
 
 <details>
-  <summary>This is a fake thing Im using in another repo</summary>
+  <summary>This is how the whole process works</summary>
 
-  ## blah blah
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  ## My first meaningful ETL Pipeline 'PipeFish' 🎏
+  1. Crawl wikipedia for new fish: `MAX_STACK_SIZE="500000" bin/crawl-wikipeda-for-fish.rb Nudibranch` (needs a starting fish, like Nudibranch)
+  2. Now that you have plenty of local files in `en.wikipedia.org/rubycrawl/`. These are bare dumps from Wikpiedia.
+     * this function `smart_wiki_parse_fish()` called by `iterate_through_files_in_directory()` will then populate the .ric.yaml files with extracted info. Note that this is algorithm-dependant and currently very buggy - so make sense to regenerate every now and then :)
+     * Still dont know how to trigger this, probably its automatic but if so why do i have 250 yaml and 900 files?!? Probably this:
+     * `MAX_IMPORTS=1000 bin//crawl-wikipedia-local-samples.rb`. Increase it to 1000! Bingo! it works!
+  3. Enter the RoR app and
+     *  `cd cd rails7-marinelife-app/`
+     *  `MAX_FILES_PER_DIR=1000 rake db:seed `
+     *  This creates a number of Model entries based on this folder:
 
 
   ### Some Code

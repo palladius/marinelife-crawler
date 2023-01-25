@@ -49,6 +49,7 @@ InterestingTaxoFields = %w{
   title_name
   name_with_short_taxo
   valid
+  taxo_removeme_debug
 }
 
 def extract_from_yaml_file_relevant_fields(file, interesting_fields=nil, opts={})
@@ -64,9 +65,10 @@ def extract_from_yaml_file_relevant_fields(file, interesting_fields=nil, opts={}
     wiki_url: h['wiki'],
     title: h['title_name'],
     wiki_description: h['simple_description_p4'],
-    internal_description: h['proper-description'],
+    #internal_description: h['proper-description'],
+    internal_description: h['taxo_removeme_debug'],
     picture_url: h['picture_url'],
-    parse_version: "1.0_230122", # manhouse here, hsould be above.
+    parse_version: "1.1_230125", # manhouse here, hsould be above.
   )
   puts ret
   file_content.slice(*interesting_fields) # OH WOW! this works: .slice("taxo", "wiki", 'latin'), you need to unpack the array as list of function args :)
@@ -97,6 +99,9 @@ def main
       puts ret.to_s
     end
   end
+
+  puts "🎏 Total animals: #{WikiAnimal.all.count.to_s.colorize :blue}"
+
 end
 
 

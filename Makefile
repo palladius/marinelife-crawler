@@ -73,3 +73,6 @@ test:
 crawl:
 	echo "This is thr default, state of the art, crawl."
 	make ruby-crawl-Nudibranch-HUGE
+
+mega-crawl-ruby:
+	MAX_IMPORTS=9000 bin/crawl-wikipedia-local-samples.rb
