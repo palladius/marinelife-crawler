@@ -64,7 +64,7 @@ Before details...
      * `MAX_IMPORTS=1000 bin//crawl-wikipedia-local-samples.rb`. Increase it to 1000! Bingo! it works!
   3. Enter the RoR app and
      *  `cd cd rails7-marinelife-app/`
-     *  `MAX_FILES_PER_DIR=1000 rake db:seed `
+     *  `MAX_FILES_PER_DIR=1000 rake db:seed`
      *  This creates a number of Model entries based on this folder:
 
 
