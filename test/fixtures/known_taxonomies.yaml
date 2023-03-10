@@ -10,13 +10,13 @@ KnownTaxonomisFromWikipedia:
     #Gill, 1862[3]
     Genus:	Scombrops
     #Temminck & Schlegel, 1845 [2]
-  # Scombrops_boops:
-  #   Kingdom:	Animalia
-  #   Phylum:	Chordata
-  #   Class:	Actinopterygii
-  #   Order:	Perciformes
-  #   Family:	Scombropidae
-  #   Genus:	Scombrops
+  Scombrops_boops:
+    Kingdom:	Animalia
+    Phylum:	Chordata
+    Class:	Actinopterygii
+    Order:	Perciformes
+    Family:	Scombropidae
+    Genus:	Scombrops
     Species:	S. boops
   # Manta Ray:
   #   Kingdom:	Animalia

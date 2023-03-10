@@ -1,10 +1,16 @@
-# marinelife-crawler
+# MarinelifeCrawler
 
 Crawls websites for Marine life (fancy for "fish") and collects latin name and taxonomy to create a DB of 🐠 fish.
 
 It's implemented in Ruby and currently cralws Wikipedia for fish info.
 
 I'm investigating alternative tools like Ruby crawlers.
+
+## TODO
+
+* Use https://github.com/vcr/vcr VCR gem to speed up the crawler tests (also you can crawl offline!): from  googlien VCR tutorial:
+    * 1. https://www.learnhowtoprogram.com/ruby-and-rails/authentication-and-authorization/testing-api-calls-with-vcr 
+    * 2. https://www.rubyguides.com/2018/12/ruby-vcr-gem/
 
 ## Result
 
