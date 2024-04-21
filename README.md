@@ -1,6 +1,7 @@
 # MarinelifeCrawler
 
-Crawls websites for Marine life (fancy for "fish") and collects latin name and taxonomy to create a DB of 🐠 fish.
+Crawls websites for Marine life (fancy for "fish and something else") and collects latin name and taxonomy to create a
+DB of 🐠 fish.
 
 It's implemented in Ruby and currently cralws Wikipedia for fish info.
 
@@ -97,6 +98,7 @@ After detail.
 
 * Dockerize, execute indefinitely until it fills the disk :)
 * One worker crawls the internet, another parses the info and puts somewhere (possibly a DB with some kind of parsing versioning so same page can have more sophisticated ways of making it thru taxo to the DB: currently taxo is half broken).
+* use with VCR.
 
 # Rails
 
