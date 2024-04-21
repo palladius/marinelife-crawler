@@ -9,7 +9,7 @@ It's implemented in Ruby and currently cralws Wikipedia for fish info.
 
 I'm investigating alternative tools like Ruby crawlers and `LLM` help not to get out of it.
 
-**Note**. Not to be confused with my Scoobie/Scuba app.
+**Note**. Not to be confused with my Scoobie/Scuba app `ror7-scubatracker-ng` (in bitbucket).
 
 ## TODO
 
